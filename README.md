@@ -23,7 +23,7 @@ git checkout 2013.06.29.0004.0000
 git checkout 2013.06.29.0004.0000
 
 
-3. **Access the CSV Files**:
+3. **Access the CSV sheets**:
    Navigate to the `sheets` directory to find the CSV files for the selected game version.
 
 

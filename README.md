@@ -1,4 +1,4 @@
-# FFXIV CSV Game Version Sheets
+# FFXIV CSV Game Version Excel Sheets
 
 This repository is dedicated to preserving older versions of Final Fantasy XIV (FFXIV) game data in the form of CSV files. Each branch in this repository corresponds to a specific game version, containing the relevant CSV files for that version.
 

@@ -1,0 +1,31 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CHOCOBOTAXI_00000_LOW_LEVEL","If you came looking to hire a chocobo porter, I'm afraid I must disappoint you. Our birds are very fickle creatures, and tend to become agitated around those with a certain lack of demeanor. Return once you have proven you can handle yourself, and I will personally see that you are assigned our best bird."
+1,"TEXT_CHOCOBOTAXI_00000_SYSTEM_000_1","Chocobo porters are available for hire upon attaining level 10."
+2,"TEXT_CHOCOBOTAXI_00000_CHOCOBOTAXI_UNLOCK_01","Welcome, welcome! Might you be looking to hire a chocobo porter?"
+3,"TEXT_CHOCOBOTAXI_00000_CHOCOBOTAXI_UNLOCK_02","Ah, if I am not mistaken, this is your first visit to this stop. Allow me to update my register with your name, so that you may access this location in the future."
+4,"TEXT_CHOCOBOTAXI_00000_CHOCOBOTAXI_01","Welcome, welcome! Might you be looking to hire a chocobo porter?"
+5,"TEXT_CHOCOBOTAXI_00000_Q1_000_1","Select an option."
+6,"TEXT_CHOCOBOTAXI_00000_A1_000_1","Hire a chocobo porter."
+7,"TEXT_CHOCOBOTAXI_00000_A1_000_2","Learn about chocobo porters."
+8,"TEXT_CHOCOBOTAXI_00000_A1_000_3","Leave."
+9,"TEXT_CHOCOBOTAXI_00000_HELP1","Not enough gil to pay that ridiculous aetheryte teleportation fee? Or perhaps you simply want to ride in peace, not having to worry about fumbling through your maps or dodging bloodthirsty beasts."
+10,"TEXT_CHOCOBOTAXI_00000_HELP2","Then a chocobo porter is exactly what you need! Our birds will carry you quickly and safely to one of many convenient destinations for merely a small handful of coin. We only ask that you observe two simple rules:"
+11,"TEXT_CHOCOBOTAXI_00000_HELP3","Firstly, should you dismount while en route, you will not be allowed to remount. The chocobo will continue on to his destination, leaving you to fend for yourself."
+12,"TEXT_CHOCOBOTAXI_00000_HELP4","Secondly, though each stop has a full list of accessible destinations, we will only authorize travel to those which you have visited at least once before."
+13,"TEXT_CHOCOBOTAXI_00000_HELP5","This is to ensure that, on the off chance that one of our birds becomes disoriented and loses his way, you will be able to guide him back on course."
+14,"TEXT_CHOCOBOTAXI_00000_HELP6","Rest assured, however, this has never happened once in our many years of service."
+15,"TEXT_CHOCOBOTAXI_00000_HELP7","Our birds are trained to travel only specific courses, and never deviate from them. They have also been bred for speed, and will avoid outside threats to the best of their ability."
+16,"TEXT_CHOCOBOTAXI_00000_HELP8","In fact, we are so certain of their capacity to deliver you unharmed to your final destination that, should you be attacked while riding a chocobo porter, we will refund your rental fee in full."
+17,"TEXT_CHOCOBOTAXI_00000_HELP9","Now, shall I show you to your bird?"
+18,"TEXT_CHOCOBOTAXI_00000_TAXI_IMPOSSIBLE_1","I am sorry, but I cannot allow you to hire a chocobo porter at this time. To ensure the safety of our birds, we only allow travel to locations that you are familiar with."
+19,"TEXT_CHOCOBOTAXI_00000_SYSTEM_IMPOSSIBLE_2","Each chocobo stop offers several different routes; however, you may only select routes leading to destinations to which you have previously traveled."
+20,"TEXT_CHOCOBOTAXI_00000_SYSTEM_IMPOSSIBLE_3","If you have not visited any of the locations accessible from this one, the service will be unavailable."
+21,"TEXT_CHOCOBOTAXI_00000_CONFIRM_Q_1","Commence the following trip?
+Destination: <Sheet(ChocoboTaxiStand,IntegerParameter(1),8)/>
+Fee: <Value>IntegerParameter(2)</Value> gil
+Length: <Value>IntegerParameter(3)</Value> <If(Equal(IntegerParameter(3),1))>minute<Else/>minutes</If>"
+22,"TEXT_CHOCOBOTAXI_00000_CONFIRM_YES","Yes"
+23,"TEXT_CHOCOBOTAXI_00000_CONFIRM_NO","No"
+24,"TEXT_CHOCOBOTAXI_00000_SHORT_OF_GIL","Not enough gil? How truly unfortunate. You need not worry, though. I shall be waiting here should you happen across a few coins."

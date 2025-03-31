@@ -1,0 +1,19 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGWILGLAGUILD_00063_TALK_ACTOR","Not in use."
+1,"TEXT_REGWILGLAGUILD_00063_MYLLA_000","Hm? You've something to ask about the guild, is that it?"
+2,"TEXT_REGWILGLAGUILD_00063_Q1_000_1","What will you ask?"
+3,"TEXT_REGWILGLAGUILD_00063_A1_000_1","What do you do here?"
+4,"TEXT_REGWILGLAGUILD_00063_A1_000_2","What is a gladiator?"
+5,"TEXT_REGWILGLAGUILD_00063_A1_000_3","Nothing."
+6,"TEXT_REGWILGLAGUILD_00063_MYLLA_010","Well, I don't just stand around gawping, if that's what you're asking. I am Mylla, guildmaster here."
+7,"TEXT_REGWILGLAGUILD_00063_MYLLA_011","I instruct these would-be warriors on the finer points of swordsmanship. If you like, I could teach you a thing or two as well, though I can't promise to be gentle."
+8,"TEXT_REGWILGLAGUILD_00063_MYLLA_012","You'll be bruised and bloody by the time we're finished, but I guarantee you'll be stronger for it. Observe our training and see for yourself."
+9,"TEXT_REGWILGLAGUILD_00063_MYLLA_020","Gladiators aspire to become masters of the sword, the most ubiquitous weapon in all of Eorzea."
+10,"TEXT_REGWILGLAGUILD_00063_MYLLA_021","The sword is a deceptively simple weapon, which is why many take it up to achieve their goals. Wealth, power, love─all seem within reach when duly armed."
+11,"TEXT_REGWILGLAGUILD_00063_MYLLA_022","A gladiator, however, understands that to live by the sword is not a decision to be taken lightly. To walk upon the bloodsands is to court death, and we must ever be prepared to enter Thal's realm."
+12,"TEXT_REGWILGLAGUILD_00063_MYLLA_023","But when you stand triumphant in the Coliseum and hear the crowd chanting your name, you feel...immortal."
+13,"TEXT_REGWILGLAGUILD_00063_MYLLA_024","Of course, victory goes only to those willing to work for it. A gladiator must rigorously train not only to deliver fierce attacks, but also to weather them. Indeed, learning the shield is just as important as learning the sword."
+14,"TEXT_REGWILGLAGUILD_00063_MYLLA_025","These defensive skills are especially important when fighting alongside allies. In battle, a gladiator is often relied upon to draw the enemy's attention while his weaker allies seize the opportunity to attack."
+15,"TEXT_REGWILGLAGUILD_00063_MYLLA_026","It is for this reason that gladiators are often considered indispensible in battle, for none are more skilled in the arts of war than we."

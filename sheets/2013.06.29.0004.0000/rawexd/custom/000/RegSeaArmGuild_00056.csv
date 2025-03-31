@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_1","Are you just seeking to pass the time, or do you have an honest interest in shaping metal plate?"
+1,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_2","Me? Hah! You must be new in Limsa. I'm H'naanza, the head of Naldiq & Vymelli's, forgemaster and shipwright."
+2,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_3","I spend a good portion of my time here in the Armorers' Guild, trying to hammer my novices into something resembling true artisans."
+3,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_4","We lost too many of our skilled veterans to that damn Calamity. Too many..."
+4,"TEXT_REGSEAARMGUILD_00056_HNAANZA_100_4","I see it as my Builder-given duty to not only pass on the techniques of the armorer to the next generation of artisans, but to improve on those processes as well."
+5,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_5","At a glance, working a sheet of plate seems simple. You take your chosen metal, then heat, hammer, and bend until you achieve the desired shape and thickness."
+6,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_6","There is, however, much more to the process. An armorer needs to learn how to work materials of varying hardness, such as bronze and iron. And shaping them into gauntlets, shields, and helmets is no easy task."
+7,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_7","You must direct your blows with strength and surety as would a smitty, but an armorer needs something a smitty doesn't: delicacy. Without that, it wouldn't be long before tiny flaws crept in to compromise the defensive strength of the plate."
+8,"TEXT_REGSEAARMGUILD_00056_HNAANZA_000_8","We make works of art with flame and steel, and there's never a day that I'm not damn proud to be an armorer."
+9,"TEXT_REGSEAARMGUILD_00056_Q1_000_1","What would you like to know?"
+10,"TEXT_REGSEAARMGUILD_00056_A1_000_1","What do you do here?"
+11,"TEXT_REGSEAARMGUILD_00056_A1_000_2","Tell me about shaping metal plate."
+12,"TEXT_REGSEAARMGUILD_00056_A1_000_3","Nothing."

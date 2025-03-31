@@ -1,0 +1,598 @@
+﻿key,0,1,2,3,4,5,6,7
+#,,,,,,,,
+int32,byte,str,str,byte,uint16,uint32,uint16,byte
+0,0,"","",0,0,0,0,0
+1,13,"To Crush Your Enemies I","Defeat 100 enemies.",5,0,0,0,3
+2,13,"To Crush Your Enemies II","Defeat 500 enemies.",5,0,0,0,3
+3,13,"To Crush Your Enemies III","Defeat 1,000 enemies.",10,0,0,0,3
+4,13,"To Crush Your Enemies IV","Defeat 5,000 enemies.",10,0,0,0,3
+5,13,"To Crush Your Enemies V","Defeat 10,000 enemies.",10,0,0,0,3
+6,13,"To Crush Your Enemies VI","Defeat 50,000 enemies.",10,9,0,0,3
+7,13,"Let the Bodies Hit the Floor","Defeat 100,000 enemies.",30,0,2907,0,3
+8,13,"La Noscea Big Game Hunter","Defeat the notorious monsters Barometz, Slippery Sykes, Gluttonous Gertrude, Bomb Baron, Unknown Soldier, great buffalo, and Old Six–arms.",10,0,0,0,2
+9,13,"Black Shroud Big Game Hunter","Defeat the notorious monsters Queen Bolete, alux, jackanapes, Sirocco, Phaia, Haughtpox Bloatbelly, and the Prince of Pestilence.",10,0,0,0,2
+10,13,"Thanalan Big Game Hunter","Defeat the notorious monsters Cactuar Jack, elder mosshorn, Daddy Longlegs, Kokoroon Quickfingers, nest commander, Bardi, and Pyrausta.",10,0,0,0,2
+11,13,"Coerthas Big Game Hunter","Defeat the notorious monsters Uraeus, Spitfire, and Downy Dunstan.",10,0,0,0,2
+12,13,"Mor Dhona Big Game Hunter","Defeat the notorious monster Dodore.",10,0,0,0,2
+13,13,"Shposhae Big Game Hunter","Defeat the notorious monsters Shearing Sheridan, giant remora, and the lone coeurl.",10,0,0,0,2
+14,13,"Bane of the Tribes","Defeat the notorious beastmen Lozol Totoloq the Decapitator, Flamefist Ahlygg Roh, and Third Order Patriarch Zu Ga.",10,0,0,0,2
+15,13,"Notorious Monster Hunting","Defeat 25 different notorious monsters.",30,10,0,0,2
+16,13,"Had Me Some Fun","Defeat Ifrit in the Bowl of Embers (hard).",5,0,0,0,2
+17,13,"Most Adorable Death Ever","Defeat Good King Moggle Mog XII in Thornmarch.",5,0,0,0,2
+18,13,"Where the Wind Blows","Defeat Garuda in the Howling Eye (hard).",5,0,0,0,2
+19,14,"Stick Them with the Pointy End I","Achieve gladiator level 10.",5,0,0,0,4
+20,14,"Stick Them with the Pointy End II","Achieve gladiator level 20.",5,0,0,0,4
+21,14,"Stick Them with the Pointy End III","Achieve gladiator level 30.",5,0,0,0,4
+22,14,"Stick Them with the Pointy End IV","Achieve gladiator level 40.",5,0,0,0,4
+23,14,"Stick Them with the Pointy End V","Achieve gladiator level 50.",5,0,0,0,4
+24,14,"The Sweet Science I","Achieve pugilist level 10.",5,0,0,0,4
+25,14,"The Sweet Science II","Achieve pugilist level 20.",5,0,0,0,4
+26,14,"The Sweet Science III","Achieve pugilist level 30.",5,0,0,0,4
+27,14,"The Sweet Science IV","Achieve pugilist level 40.",5,0,0,0,4
+28,14,"The Sweet Science V","Achieve pugilist level 50.",5,0,0,0,4
+29,14,"An Axe to Grind I","Achieve marauder level 10.",5,0,0,0,4
+30,14,"An Axe to Grind II","Achieve marauder level 20.",5,0,0,0,4
+31,14,"An Axe to Grind III","Achieve marauder level 30.",5,0,0,0,4
+32,14,"An Axe to Grind IV","Achieve marauder level 40.",5,0,0,0,4
+33,14,"An Axe to Grind V","Achieve marauder level 50.",5,0,0,0,4
+34,14,"Strong Lance Arm I","Achieve lancer level 10.",5,0,0,0,4
+35,14,"Strong Lance Arm II","Achieve lancer level 20.",5,0,0,0,4
+36,14,"Strong Lance Arm III","Achieve lancer level 30.",5,0,0,0,4
+37,14,"Strong Lance Arm IV","Achieve lancer level 40.",5,0,0,0,4
+38,14,"Strong Lance Arm V","Achieve lancer level 50.",5,0,0,0,4
+39,14,"Just Talkin' 'Bout Shafts I","Achieve archer level 10.",5,0,0,0,4
+40,14,"Just Talkin' 'Bout Shafts II","Achieve archer level 20.",5,0,0,0,4
+41,14,"Just Talkin' 'Bout Shafts III","Achieve archer level 30.",5,0,0,0,4
+42,14,"Just Talkin' 'Bout Shafts IV","Achieve archer level 40.",5,0,0,0,4
+43,14,"Just Talkin' 'Bout Shafts V","Achieve archer level 50.",5,0,0,0,4
+44,14,"Mastering War","Achieve level 50 as a gladiator, pugilist, marauder, archer, and lancer.",20,13,0,0,4
+45,14,"I Got the Magic Stick I","Achieve conjurer level 10.",5,0,0,0,4
+46,14,"I Got the Magic Stick II","Achieve conjurer level 20.",5,0,0,0,4
+47,14,"I Got the Magic Stick III","Achieve conjurer level 30.",5,0,0,0,4
+48,14,"I Got the Magic Stick IV","Achieve conjurer level 40.",5,0,0,0,4
+49,14,"I Got the Magic Stick V","Achieve conjurer level 50.",5,0,0,0,4
+50,14,"Bring Out Your Dead I","Achieve thaumaturge level 10.",5,0,0,0,4
+51,14,"Bring Out Your Dead II","Achieve thaumaturge level 20.",5,0,0,0,4
+52,14,"Bring Out Your Dead III","Achieve thaumaturge level 30.",5,0,0,0,4
+53,14,"Bring Out Your Dead IV","Achieve thaumaturge level 40.",5,0,0,0,4
+54,14,"Bring Out Your Dead V","Achieve thaumaturge level 50.",5,0,0,0,4
+55,14,"Mastering Magic","Achieve level 50 as a conjurer and a thaumaturge.",20,14,0,0,4
+56,14,"A Life of Adventure","Achieve level 50 in all disciplines of War and Magic.",30,0,2909,0,4
+57,14,"Knock on Wood I","Achieve carpenter level 10.",5,0,0,0,4
+58,14,"Knock on Wood II","Achieve carpenter level 20.",5,0,0,0,4
+59,14,"Knock on Wood III","Achieve carpenter level 30.",5,0,0,0,4
+60,14,"Knock on Wood IV","Achieve carpenter level 40.",5,0,0,0,4
+61,14,"Knock on Wood V","Achieve carpenter level 50.",5,0,0,0,4
+62,14,"Temper, Temper I","Achieve blacksmith level 10.",5,0,0,0,4
+63,14,"Temper, Temper II","Achieve blacksmith level 20.",5,0,0,0,4
+64,14,"Temper, Temper III","Achieve blacksmith level 30.",5,0,0,0,4
+65,14,"Temper, Temper IV","Achieve blacksmith level 40.",5,0,0,0,4
+66,14,"Temper, Temper V","Achieve blacksmith level 50.",5,0,0,0,4
+67,14,"The Riddle of Steel I","Achieve armorer level 10.",5,0,0,0,4
+68,14,"The Riddle of Steel II","Achieve armorer level 20.",5,0,0,0,4
+69,14,"The Riddle of Steel III","Achieve armorer level 30.",5,0,0,0,4
+70,14,"The Riddle of Steel IV","Achieve armorer level 40.",5,0,0,0,4
+71,14,"The Riddle of Steel V","Achieve armorer level 50.",5,0,0,0,4
+72,14,"Heart of Gold I","Achieve goldsmith level 10.",5,0,0,0,4
+73,14,"Heart of Gold II","Achieve goldsmith level 20.",5,0,0,0,4
+74,14,"Heart of Gold III","Achieve goldsmith level 30.",5,0,0,0,4
+75,14,"Heart of Gold IV","Achieve goldsmith level 40.",5,0,0,0,4
+76,14,"Heart of Gold V","Achieve goldsmith level 50.",5,0,0,0,4
+77,14,"Tougher Than Leather I","Achieve leatherworker level 10.",5,0,0,0,4
+78,14,"Tougher Than Leather II","Achieve leatherworker level 20.",5,0,0,0,4
+79,14,"Tougher Than Leather III","Achieve leatherworker level 30.",5,0,0,0,4
+80,14,"Tougher Than Leather IV","Achieve leatherworker level 40.",5,0,0,0,4
+81,14,"Tougher Than Leather V","Achieve leatherworker level 50.",5,0,0,0,4
+82,14,"Smiling, Styling, and Textiling I","Achieve weaver level 10.",5,0,0,0,4
+83,14,"Smiling, Styling, and Textiling II","Achieve weaver level 20.",5,0,0,0,4
+84,14,"Smiling, Styling, and Textiling III","Achieve weaver level 30.",5,0,0,0,4
+85,14,"Smiling, Styling, and Textiling IV","Achieve weaver level 40.",5,0,0,0,4
+86,14,"Smiling, Styling, and Textiling V","Achieve weaver level 50.",5,0,0,0,4
+87,14,"Tis True Without Lying I","Achieve alchemist level 10.",5,0,0,0,4
+88,14,"Tis True Without Lying II","Achieve alchemist level 20.",5,0,0,0,4
+89,14,"Tis True Without Lying III","Achieve alchemist level 30.",5,0,0,0,4
+90,14,"Tis True Without Lying IV","Achieve alchemist level 40.",5,0,0,0,4
+91,14,"Tis True Without Lying V","Achieve alchemist level 50.",5,0,0,0,4
+92,14,"All in Good Taste I","Achieve culinarian level 10.",5,0,0,0,4
+93,14,"All in Good Taste II","Achieve culinarian level 20.",5,0,0,0,4
+94,14,"All in Good Taste III","Achieve culinarian level 30.",5,0,0,0,4
+95,14,"All in Good Taste IV","Achieve culinarian level 40.",5,0,0,0,4
+96,14,"All in Good Taste V","Achieve culinarian level 50.",5,0,0,0,4
+97,14,"Mastering the Hand","Achieve level 50 as a carpenter, blacksmith, armorer, goldsmith, leatherworker, weaver, alchemist, and culinarian.",20,15,0,0,4
+98,14,"Breaking Rocks in the Hot Sun I","Achieve miner level 10.",5,0,0,0,4
+99,14,"Breaking Rocks in the Hot Sun II","Achieve miner level 20.",5,0,0,0,4
+100,14,"Breaking Rocks in the Hot Sun III","Achieve miner level 30.",5,0,0,0,4
+101,14,"Breaking Rocks in the Hot Sun IV","Achieve miner level 40.",5,0,0,0,4
+102,14,"Breaking Rocks in the Hot Sun V","Achieve miner level 50.",5,0,0,0,4
+103,14,"Fear the Reaper I","Achieve botanist level 10.",5,0,0,0,4
+104,14,"Fear the Reaper II","Achieve botanist level 20.",5,0,0,0,4
+105,14,"Fear the Reaper III","Achieve botanist level 30.",5,0,0,0,4
+106,14,"Fear the Reaper IV","Achieve botanist level 40.",5,0,0,0,4
+107,14,"Fear the Reaper V","Achieve botanist level 50.",5,0,0,0,4
+108,14,"Gone Fishin' I","Achieve fisher level 10.",5,0,0,0,4
+109,14,"Gone Fishin' II","Achieve fisher level 20.",5,0,0,0,4
+110,14,"Gone Fishin' III","Achieve fisher level 30.",5,0,0,0,4
+111,14,"Gone Fishin' IV","Achieve fisher level 40.",5,0,0,0,4
+112,14,"Gone Fishin' V","Achieve fisher level 50.",5,0,0,0,4
+113,14,"Mastering the Land","Achieve level 50 as a miner, botanist, and a fisher.",20,16,0,0,4
+114,15,"On the Payroll I","Earn a cumulative total of 1,000 gil from levequests.",5,0,0,0,3
+115,15,"On the Payroll II","Earn a cumulative total of 10,000 gil from levequests.",5,0,0,0,3
+116,15,"On the Payroll III","Earn a cumulative total of 100,000 gil from levequests.",5,0,0,0,3
+117,15,"On the Payroll IV","Earn a cumulative total of 1,000,000 gil from levequests.",5,0,0,0,3
+118,15,"On the Payroll V","Earn a cumulative total of 10,000,000 gil from levequests.",5,0,0,0,3
+119,15,"Who Wants to Be a Gillionaire?","Earn a cumulative total of 100,000,000 gil from levequests.",10,11,0,0,3
+120,15,"You Can't Take It With You I","Earn a cumulative total of 1,000 gil from defeating enemies.",5,0,0,0,3
+121,15,"You Can't Take It With You II","Earn a cumulative total of 10,000 gil from defeating enemies.",5,0,0,0,3
+122,15,"You Can't Take It With You III","Earn a cumulative total of 100,000 gil from defeating enemies.",5,0,0,0,3
+123,15,"You Can't Take It With You IV","Earn a cumulative total of 1,000,000 gil from defeating enemies.",5,0,0,0,3
+124,15,"You Can't Take It With You V","Earn a cumulative total of 10,000,000 gil from defeating enemies.",5,0,0,0,3
+125,15,"Never Met a Corpse I Couldn't Rifle","Earn a cumulative total of 100,000,000 gil from defeating enemies.",10,12,0,0,3
+126,16,"My Body is a Temple","Obtain a complete set of templar armor consisting of a templar's chain coif, a templar's haubergeon, a pair of templar's sollerets, and a set of templar's tassets.
+* Speak to Terremiaux with all four items equipped.",5,0,0,0,4
+127,16,"Dress Like a Pirate Day","Obtain a complete set of buccaneer armor consisting of a buccaneer's tricorne, a buccaneer's shirt, a pair of buccaneer's boots, and a buccaneer's sash.
+* Speak to Terremiaux with all four items equipped.",5,0,0,0,4
+128,16,"A Mummer in Motley","Obtain a complete set of harlequin armor consisting of a harlequin's cap, a harlequin's acton, a pair of harlequin's tights, and a harlequin's belt.
+* Speak to Terremiaux with all four items equipped.",5,0,0,0,4
+129,16,"Raising the Curtana","Obtain a Curtana and a Holy Shield in the quest “A Relic Reborn.”",10,2,0,0,4
+130,16,"Enter the Coeurl","Obtain a pair of Sphairai in the quest “A Relic Reborn.”",10,3,0,0,4
+131,16,"Cleaving to Tradition","Obtain a Bravura in the quest “A Relic Reborn.”",10,4,0,0,4
+132,16,"Having a Gae Old Time","Obtain a Gae Bolg in the quest “A Relic Reborn.”",10,5,0,0,4
+133,16,"Hard to Miss","Obtain an Artemis Bow in the quest “A Relic Reborn.”",10,6,0,0,4
+134,16,"Dressed to Heal","Obtain a Thyrus in the quest “A Relic Reborn.”",10,7,0,0,4
+135,16,"Ohohohohoho!","Obtain a Stardust Rod in the quest “A Relic Reborn.”",10,8,0,0,4
+136,16,"Armed to the Teeth","Obtain a Curtana, a Holy Shield, a pair of Sphairai, a Bravura, a Gae Bolg, an Artemis Bow, a Thyrus, and a Stardust Rod in the quest “A Relic Reborn.”",30,1,0,0,4
+137,17,"Going with the Grain: Amateur","Successfully synthesize 50 times for level 1-10 woodworking recipes.",5,0,0,0,3
+138,17,"Going with the Grain: Initiate","Successfully synthesize 300 times for level 11-20 woodworking recipes.",5,0,0,0,3
+139,17,"Going with the Grain: Apprentice","Successfully synthesize 750 times for level 21-30 woodworking recipes.",5,0,0,0,3
+140,17,"Going with the Grain: Journeyman","Successfully synthesize 1,500 times for level 31-40 woodworking recipes.",5,0,0,0,3
+141,17,"Going with the Grain: Artisan","Successfully synthesize 3,000 times for level 41-50 woodworking recipes.",10,17,0,0,3
+142,17,"A Carpenter's Life for Me","Obtain all five  “Going with the Grain” achievements.",30,0,2326,0,3
+143,17,"Working the Bellows: Amateur","Successfully synthesize 50 times for level 1-10 smithing recipes.",5,0,0,0,3
+144,17,"Working the Bellows: Initiate","Successfully synthesize 300 times for level 11-20 smithing recipes.",5,0,0,0,3
+145,17,"Working the Bellows: Apprentice","Successfully synthesize 750 times for level 21-30 smithing recipes.",5,0,0,0,3
+146,17,"Working the Bellows: Journeyman","Successfully synthesize 1,500 times for level 31-40 smithing recipes.",5,0,0,0,3
+147,17,"Working the Bellows: Artisan","Successfully synthesize 3,000 times for level 41-50 smithing recipes.",10,18,0,0,3
+148,17,"A Blacksmith's Life for Me","Obtain all five “Working the Bellows” achievements.",30,0,2353,0,3
+149,17,"Pounding Out the Dents: Amateur","Successfully synthesize 50 times for level 1-10 armorcraft recipes.",5,0,0,0,3
+150,17,"Pounding Out the Dents: Initiate","Successfully synthesize 300 times for level 11-20 armorcraft recipes.",5,0,0,0,3
+151,17,"Pounding Out the Dents: Apprentice","Successfully synthesize 750 times for level 21-30 armorcraft recipes.",5,0,0,0,3
+152,17,"Pounding Out the Dents: Journeyman","Successfully synthesize 1,500 times for level 31-40 armorcraft recipes.",5,0,0,0,3
+153,17,"Pounding Out the Dents: Artisan","Successfully synthesize 3,000 times for level 41-50 armorcraft recipes.",10,19,0,0,3
+154,17,"An Armorer's Life for Me","Obtain all five “Pounding Out the Dents” achievements.",30,0,2378,0,3
+155,17,"Cutting the Carats: Amateur","Successfully synthesize 50 times for level 1-10 goldsmithing recipes.",5,0,0,0,3
+156,17,"Cutting the Carats: Initiate","Successfully synthesize 300 times for level 11-20 goldsmithing recipes.",5,0,0,0,3
+157,17,"Cutting the Carats: Apprentice","Successfully synthesize 750 times for level 21-30 goldsmithing recipes.",5,0,0,0,3
+158,17,"Cutting the Carats: Journeyman","Successfully synthesize 1,500 times for level 31-40 goldsmithing recipes.",5,0,0,0,3
+159,17,"Cutting the Carats: Artisan","Successfully synthesize 3,000 times for level 41-50 goldsmithing recipes.",10,20,0,0,3
+160,17,"A Goldsmith's Life for Me","Obtain all five “Cutting the Carats” achievements.",30,0,2403,0,3
+161,17,"Hiding in Plain Sight: Amateur","Successfully synthesize 50 times for level 1-10 leatherworking recipes.",5,0,0,0,3
+162,17,"Hiding in Plain Sight: Initiate","Successfully synthesize 300 times for level 11-20 leatherworking recipes.",5,0,0,0,3
+163,17,"Hiding in Plain Sight: Apprentice","Successfully synthesize 750 times for level 21-30 leatherworking recipes.",5,0,0,0,3
+164,17,"Hiding in Plain Sight: Journeyman","Successfully synthesize 1,500 times for level 31-40 leatherworking recipes.",5,0,0,0,3
+165,17,"Hiding in Plain Sight: Artisan","Successfully synthesize 3,000 times for level 41-50 leatherworking recipes.",10,21,0,0,3
+166,17,"A Leatherworker's Life for Me","Obtain all five “Hiding in Plain Sight” achievements.",30,0,2428,0,3
+167,17,"Threading the Needle: Amateur","Successfully synthesize 50 times for level 1-10 clothcraft recipes.",5,0,0,0,3
+168,17,"Threading the Needle: Initiate","Successfully synthesize 300 times for level 11-20 clothcraft recipes.",5,0,0,0,3
+169,17,"Threading the Needle: Apprentice","Successfully synthesize 750 times for level 21-30 clothcraft recipes.",5,0,0,0,3
+170,17,"Threading the Needle: Journeyman","Successfully synthesize 1,500 times for level 31-40 clothcraft recipes.",5,0,0,0,3
+171,17,"Threading the Needle: Artisan","Successfully synthesize 3,000 times for level 41-50 clothcraft recipes.",10,22,0,0,3
+172,17,"A Weaver's Life for Me","Obtain all five “Threading the Needle” achievements.",30,0,2454,0,3
+173,17,"Mixing It Up: Amateur","Successfully synthesize 50 times for level 1-10 alchemy recipes.",5,0,0,0,3
+174,17,"Mixing It Up: Initiate","Successfully synthesize 300 times for level 11-20 alchemy recipes.",5,0,0,0,3
+175,17,"Mixing It Up: Apprentice","Successfully synthesize 750 times for level 21-30 alchemy recipes.",5,0,0,0,3
+176,17,"Mixing It Up: Journeyman","Successfully synthesize 1,500 times for level 31-40 alchemy recipes.",5,0,0,0,3
+177,17,"Mixing It Up: Artisan","Successfully synthesize 3,000 times for level 41-50 alchemy recipes.",10,23,0,0,3
+178,17,"An Alchemist's Life for Me","Obtain all five “Mixing it Up” achievements.",30,0,2479,0,3
+179,17,"Savoring the Realm: Amateur","Successfully synthesize 50 times for level 1-10 cooking recipes.",5,0,0,0,3
+180,17,"Savoring the Realm: Initiate","Successfully synthesize 300 times for level 11-20 cooking recipes.",5,0,0,0,3
+181,17,"Savoring the Realm: Apprentice","Successfully synthesize 750 times for level 21-30 cooking recipes.",5,0,0,0,3
+182,17,"Savoring the Realm: Journeyman","Successfully synthesize 1,500 times for level 31-40 cooking recipes.",5,0,0,0,3
+183,17,"Savoring the Realm: Artisan","Successfully synthesize 3,000 times for level 41-50 cooking recipes.",10,24,0,0,3
+184,17,"A Life of Cooking","Obtain all five “Savoring the Realm” achievements.",30,0,2505,0,3
+185,18,"Mining Your Own Business: La Noscea I","Mine 20 times at grade 1 mineral deposits in La Noscea.",5,0,0,0,3
+186,18,"Mining Your Own Business: La Noscea II","Mine 300 times at grade 2 mineral deposits in La Noscea.",5,0,0,0,3
+187,18,"Mining Your Own Business: La Noscea III","Mine 1,000 times at grade 3 mineral deposits in La Noscea.",5,0,0,0,3
+188,18,"Mining Your Own Business: La Noscea IV","Mine 2,000 times at grade 4 mineral deposits in La Noscea.",5,0,0,0,3
+189,18,"Mining Your Own Business: La Noscea V","Mine 4,000 times at grade 5 mineral deposits in La Noscea.",5,0,0,0,3
+190,18,"A Miner's Life for Me: La Noscea","Obtain all five “Mining Your Own Business: La Noscea” achievements.",10,25,0,0,3
+191,18,"Mining Your Own Business: Black Shroud I","Mine 20 times at grade 1 mineral deposits in the Black Shroud.",5,0,0,0,3
+192,18,"Mining Your Own Business: Black Shroud II","Mine 300 times at grade 2 mineral deposits in the Black Shroud.",5,0,0,0,3
+193,18,"Mining Your Own Business: Black Shroud III","Mine 1,000 times at grade 3 mineral deposits in the Black Shroud.",5,0,0,0,3
+194,18,"Mining Your Own Business: Black Shroud IV","Mine 2,000 times at grade 4 mineral deposits in the Black Shroud.",5,0,0,0,3
+195,18,"Mining Your Own Business: Black Shroud V","Mine 4,000 times at grade 5 mineral deposits in the Black Shroud.",5,0,0,0,3
+196,18,"A Miner's Life for Me: Black Shroud","Obtain all five “Mining Your Own Business: Black Shroud” achievements.",10,26,0,0,3
+197,18,"Mining Your Own Business: Thanalan I","Mine 20 times at grade 1 mineral deposits in Thanalan.",5,0,0,0,3
+198,18,"Mining Your Own Business: Thanalan II","Mine 300 times at grade 2 mineral deposits in Thanalan.",5,0,0,0,3
+199,18,"Mining Your Own Business: Thanalan III","Mine 1,000 times at grade 3 mineral deposits in Thanalan.",5,0,0,0,3
+200,18,"Mining Your Own Business: Thanalan IV","Mine 2,000 times at grade 4 mineral deposits in Thanalan.",5,0,0,0,3
+201,18,"Mining Your Own Business: Thanalan V","Mine 4,000 times at grade 5 mineral deposits in Thanalan.",5,0,0,0,3
+202,18,"A Miner's Life for Me: Thanalan","Obtain all five “Mining Your Own Business: Thanalan” achievements.",10,27,0,0,3
+203,18,"A Miner's Life for Me: Eorzea","Obtain the “A Miner's Life for Me” achievements for La Noscea, the Black Shroud, and Thanalan.",30,0,2531,0,3
+204,18,"Rocking Around the Clock: La Noscea I","Quarry 10 times at grade 1 rocky outcrops in La Noscea.",5,0,0,0,3
+205,18,"Rocking Around the Clock: La Noscea II","Quarry 30 times at grade 2 rocky outcrops in La Noscea.",5,0,0,0,3
+206,18,"Rocking Around the Clock: La Noscea III","Quarry 100 times at grade 3 rocky outcrops in La Noscea.",5,0,0,0,3
+207,18,"Rocking Around the Clock: La Noscea IV","Quarry 200 times at grade 4 rocky outcrops in La Noscea.",5,0,0,0,3
+208,18,"Rocking Around the Clock: La Noscea V","Quarry 500 times at grade 5 rocky outcrops in La Noscea.",5,0,0,0,3
+209,18,"I'd Rather Be Quarrying: La Noscea","Obtain all five “Rocking Around the Clock: La Noscea” achievements.",10,28,0,0,3
+210,18,"Rocking Around the Clock: Black Shroud I","Quarry 10 times at grade 1 rocky outcrops in the Black Shroud.",5,0,0,0,3
+211,18,"Rocking Around the Clock: Black Shroud II","Quarry 30 times at grade 2 rocky outcrops in the Black Shroud.",5,0,0,0,3
+212,18,"Rocking Around the Clock: Black Shroud III","Quarry 100 times at grade 3 rocky outcrops in the Black Shroud.",5,0,0,0,3
+213,18,"Rocking Around the Clock: Black Shroud IV","Quarry 200 times at grade 4 rocky outcrops in the Black Shroud.",5,0,0,0,3
+214,18,"Rocking Around the Clock: Black Shroud V","Quarry 500 times at grade 5 rocky outcrops in the Black Shroud.",5,0,0,0,3
+215,18,"I'd Rather Be Quarrying: Black Shroud","Obtain all five “Rocking Around the Clock: Black Shroud” achievements.",10,29,0,0,3
+216,18,"Rocking Around the Clock: Thanalan I","Quarry 10 times at grade 1 rocky outcrops in Thanalan.",5,0,0,0,3
+217,18,"Rocking Around the Clock: Thanalan II","Quarry 30 times at grade 2 rocky outcrops in Thanalan.",5,0,0,0,3
+218,18,"Rocking Around the Clock: Thanalan III","Quarry 100 times at grade 3 rocky outcrops in Thanalan.",5,0,0,0,3
+219,18,"Rocking Around the Clock: Thanalan IV","Quarry 200 times at grade 4 rocky outcrops in Thanalan.",5,0,0,0,3
+220,18,"Rocking Around the Clock: Thanalan V","Quarry 500 times at grade 5 rocky outcrops in Thanalan.",5,0,0,0,3
+221,18,"I'd Rather Be Quarrying: Thanalan","Obtain all five “Rocking Around the Clock: Thanalan” achievements.",10,30,0,0,3
+222,18,"Logging the Hours: La Noscea I","Log 20 times from grade 1 mature trees in La Noscea.",5,0,0,0,3
+223,18,"Logging the Hours: La Noscea II","Log 300 times from grade 2 mature trees in La Noscea.",5,0,0,0,3
+224,18,"Logging the Hours: La Noscea III","Log 1,000 times from grade 3 mature trees in La Noscea.",5,0,0,0,3
+225,18,"Logging the Hours: La Noscea IV","Log 2,000 times from grade 4 mature trees in La Noscea.",5,0,0,0,3
+226,18,"Logging the Hours: La Noscea V","Log 4,000 times from grade 5 mature trees in La Noscea.",5,0,0,0,3
+227,18,"A Botanist's Life for Me: La Noscea","Obtain all five “Logging the Hours: La Noscea” achievements.",10,31,0,0,3
+228,18,"Logging the Hours: Black Shroud I","Log 20 times from grade 1 mature trees in the Black Shroud.",5,0,0,0,3
+229,18,"Logging the Hours: Black Shroud II","Log 300 times from grade 2 mature trees in the Black Shroud.",5,0,0,0,3
+230,18,"Logging the Hours: Black Shroud III","Log 1,000 times from grade 3 mature trees in the Black Shroud.",5,0,0,0,3
+231,18,"Logging the Hours: Black Shroud IV","Log 2,000 times from grade 4 mature trees in the Black Shroud.",5,0,0,0,3
+232,18,"Logging the Hours: Black Shroud V","Log 4,000 times from grade 5 mature trees in the Black Shroud.",5,0,0,0,3
+233,18,"A Botanist's Life for Me: Black Shroud","Obtain all five “Logging the Hours: Black Shroud” achievements.",10,32,0,0,3
+234,18,"Logging the Hours: Thanalan I","Log 20 times from grade 1 mature trees in Thanalan.",5,0,0,0,3
+235,18,"Logging the Hours: Thanalan II","Log 300 times from grade 2 mature trees in Thanalan.",5,0,0,0,3
+236,18,"Logging the Hours: Thanalan III","Log 1,000 times from grade 3 mature trees in Thanalan.",5,0,0,0,3
+237,18,"Logging the Hours: Thanalan IV","Log 2,000 times from grade 4 mature trees in Thanalan.",5,0,0,0,3
+238,18,"Logging the Hours: Thanalan V","Log 4,000 times from grade 5 mature trees in Thanalan.",5,0,0,0,3
+239,18,"A Botanist's Life for Me: Thanalan","Obtain all five “Logging the Hours: Thanalan” achievements.",10,33,0,0,3
+240,18,"A Botanist's Life for Me: Eorzea","Obtain the “A Botanist's Life for Me” achievements for La Noscea, the Black Shroud, and Thanalan.",30,0,2557,0,3
+241,18,"Reaping What You Sow: La Noscea I","Harvest 10 times from grade 1 lush vegetation in La Noscea.",5,0,0,0,3
+242,18,"Reaping What You Sow: La Noscea II","Harvest 30 times from grade 2 lush vegetation in La Noscea.",5,0,0,0,3
+243,18,"Reaping What You Sow: La Noscea III","Harvest 100 times from grade 3 lush vegetation in La Noscea.",5,0,0,0,3
+244,18,"Reaping What You Sow: La Noscea IV","Harvest 200 times from grade 4 lush vegetation in La Noscea.",5,0,0,0,3
+245,18,"Reaping What You Sow: La Noscea V","Harvest 500 times from grade 5 lush vegetation in La Noscea.",5,0,0,0,3
+246,18,"I'd Rather Be Harvesting: La Noscea","Obtain all five “Reaping What You Sow: La Noscea” achievements.",10,34,0,0,3
+247,18,"Reaping What You Sow: Black Shroud I","Harvest 10 times from grade 1 lush vegetation in the Black Shroud.",5,0,0,0,3
+248,18,"Reaping What You Sow: Black Shroud II","Harvest 30 times from grade 2 lush vegetation in the Black Shroud.",5,0,0,0,3
+249,18,"Reaping What You Sow: Black Shroud III","Harvest 100 times from grade 3 lush vegetation in the Black Shroud.",5,0,0,0,3
+250,18,"Reaping What You Sow: Black Shroud IV","Harvest 200 times from grade 4 lush vegetation in the Black Shroud.",5,0,0,0,3
+251,18,"Reaping What You Sow: Black Shroud V","Harvest 500 times from grade 5 lush vegetation in the Black Shroud.",5,0,0,0,3
+252,18,"I'd Rather Be Harvesting: Black Shroud","Obtain all five “Reaping What You Sow: Black Shroud” achievements.",10,35,0,0,3
+253,18,"Reaping What You Sow: Thanalan I","Harvest 10 times from grade 1 lush vegetation in Thanalan.",5,0,0,0,3
+254,18,"Reaping What You Sow: Thanalan II","Harvest 30 times from grade 2 lush vegetation in Thanalan.",5,0,0,0,3
+255,18,"Reaping What You Sow: Thanalan III","Harvest 100 times from grade 3 lush vegetation in Thanalan.",5,0,0,0,3
+256,18,"Reaping What You Sow: Thanalan IV","Harvest 200 times from grade 4 lush vegetation in Thanalan.",5,0,0,0,3
+257,18,"Reaping What You Sow: Thanalan V","Harvest 500 times from grade 5 lush vegetation in Thanalan.",5,0,0,0,3
+258,18,"I'd Rather Be Harvesting: Thanalan","Obtain all five “Reaping What You Sow: Thanalan” achievements.",10,36,0,0,3
+259,18,"Good Things Come to Those Who Bait: La Noscea I","Fish 20 times from grade 1 waters in La Noscea.",5,0,0,0,3
+260,18,"Good Things Come to Those Who Bait: La Noscea II","Fish 300 times from grade 2 waters in La Noscea.",5,0,0,0,3
+261,18,"Good Things Come to Those Who Bait: La Noscea III","Fish 1,000 times from grade 3 waters in La Noscea.",5,0,0,0,3
+262,18,"Good Things Come to Those Who Bait: La Noscea IV","Fish 2,000 times from grade 4 waters in La Noscea.",5,0,0,0,3
+263,18,"Good Things Come to Those Who Bait: La Noscea V","Fish 4,000 times from grade 5 waters in La Noscea.",5,0,0,0,3
+264,18,"A Fisher's Life for Me: La Noscea","Obtain all five “Good Things Come to Those Who Bait: La Noscea” achievements.",10,37,0,0,3
+265,18,"Good Things Come to Those Who Bait: Black Shroud I","Fish 20 times from grade 1 waters in the Black Shroud.",5,0,0,0,3
+266,18,"Good Things Come to Those Who Bait: Black Shroud II","Fish 300 times from grade 2 waters in the Black Shroud.",5,0,0,0,3
+267,18,"Good Things Come to Those Who Bait: Black Shroud III","Fish 1,000 times from grade 3 waters in the Black Shroud.",5,0,0,0,3
+268,18,"Good Things Come to Those Who Bait: Black Shroud IV","Fish 2,000 times from grade 4 waters in the Black Shroud.",5,0,0,0,3
+269,18,"Good Things Come to Those Who Bait: Black Shroud V","Fish 4,000 times from grade 5 waters in the Black Shroud.",5,0,0,0,3
+270,18,"A Fisher's Life for Me: Black Shroud","Obtain all five “Good Things Come to Those Who Bait: Black Shroud” achievements.",10,38,0,0,3
+271,18,"Good Things Come to Those Who Bait: Thanalan I","Fish 20 times from grade 1 waters in Thanalan.",5,0,0,0,3
+272,18,"Good Things Come to Those Who Bait: Thanalan II","Fish 300 times from grade 2 waters in Thanalan.",5,0,0,0,3
+273,18,"Good Things Come to Those Who Bait: Thanalan III","Fish 1,000 times from grade 3 waters in Thanalan.",5,0,0,0,3
+274,18,"Good Things Come to Those Who Bait: Thanalan IV","Fish 2,000 times from grade 4 waters in Thanalan.",5,0,0,0,3
+275,18,"Good Things Come to Those Who Bait: Thanalan V","Fish 4,000 times from grade 5 waters in Thanalan.",5,0,0,0,3
+276,18,"A Fisher's Life for Me: Thanalan","Obtain all five “Good Things Come to Those Who Bait: Thanalan” achievements.",10,39,0,0,3
+277,18,"A Fisher's Life for Me: Eorzea","Obtain the “A Fisher's Life for Me” achievements for La Noscea, the Black Shroud, and Thanalan.",30,0,2583,0,3
+278,18,"Getting Giggy with It: La Noscea I","Spearfish 10 times at grade 1 shallow pools in La Noscea.",5,0,0,0,1
+279,18,"Getting Giggy with It: La Noscea II","Spearfish 30 times at grade 2 shallow pools in La Noscea.",5,0,0,0,1
+280,18,"Getting Giggy with It: La Noscea III","Spearfish 100 times at grade 3 shallow pools in La Noscea.",5,0,0,0,1
+281,18,"Getting Giggy with It: La Noscea IV","Spearfish 200 times at grade 4 shallow pools in La Noscea.",5,0,0,0,1
+282,18,"Getting Giggy with It: La Noscea V","Spearfish 500 times at grade 5 shallow pools in La Noscea.",5,0,0,0,1
+283,18,"I'd Rather Be Spearfishing: La Noscea","Obtain all five “Getting Giggy with It: La Noscea” achievements",10,40,0,0,1
+284,18,"Getting Giggy with It: Black Shroud I","Spearfish 10 times at grade 1 shallow pools in the Black Shroud.",5,0,0,0,1
+285,18,"Getting Giggy with It: Black Shroud II","Spearfish 30 times at grade 2 shallow pools in the Black Shroud.",5,0,0,0,1
+286,18,"Getting Giggy with It: Black Shroud III","Spearfish 100 times at grade 3 shallow pools in the Black Shroud.",5,0,0,0,1
+287,18,"Getting Giggy with It: Black Shroud IV","Spearfish 200 times at grade 4 shallow pools in the Black Shroud.",5,0,0,0,1
+288,18,"Getting Giggy with It: Black Shroud V","Spearfish 500 times at grade 5 shallow pools in the Black Shroud.",5,0,0,0,1
+289,18,"I'd Rather Be Spearfishing: Black Shroud","Obtain all five “Getting Giggy with It: Black Shroud” achievements",10,41,0,0,1
+290,18,"Getting Giggy with It: Thanalan I","Spearfish 10 times at grade 1 shallow pools in Thanalan.",5,0,0,0,1
+291,18,"Getting Giggy with It: Thanalan II","Spearfish 30 times at grade 2 shallow pools in Thanalan.",5,0,0,0,1
+292,18,"Getting Giggy with It: Thanalan III","Spearfish 100 times at grade 3 shallow pools in Thanalan.",5,0,0,0,1
+293,18,"Getting Giggy with It: Thanalan IV","Spearfish 200 times at grade 4 shallow pools in Thanalan.",5,0,0,0,1
+294,18,"Getting Giggy with It: Thanalan V","Spearfish 500 times at grade 5 shallow pools in Thanalan.",5,0,0,0,1
+295,18,"I'd Rather Be Spearfishing: Thanalan","Obtain all five “Getting Giggy with It: Thanalan” achievements",10,42,0,0,1
+296,19,"Getting Too Attached I","Successfully affix 10 materia.",5,0,0,0,3
+297,19,"Getting Too Attached II","Successfully affix 50 materia.",5,0,0,0,3
+298,19,"Getting Too Attached III","Successfully affix 100 materia.",5,0,0,0,3
+299,19,"Getting Too Attached IV","Successfully affix 500 materia.",5,0,0,0,3
+300,19,"Materia Hysteria","Successfully affix 1,000 materia.",10,43,0,0,3
+301,19,"Beginner's Luck","Successfully affix two materia to the same piece of gear.",10,0,0,0,4
+302,19,"I Make My Own Luck","Successfully affix three materia to the same piece of gear.",20,0,0,0,4
+303,19,"Luck's Got Nothing to Do with It","Successfully affix four materia to the same piece of gear.",30,0,0,0,4
+304,19,"I Got This!","Successfully affix five materia to the same piece of gear.",40,0,2910,0,4
+305,19,"Prepare to Be Assimilated I","Successfully convert 10 spiritbound items into materia.",5,0,0,0,3
+306,19,"Prepare to Be Assimilated II","Successfully convert 50 spiritbound items into materia.",5,0,0,0,3
+307,19,"Prepare to Be Assimilated III","Successfully convert 100 spiritbound items into materia.",5,0,0,0,3
+308,19,"Prepare to Be Assimilated IV","Successfully convert 500 spiritbound items into materia.",5,0,0,0,3
+309,19,"Living in a Materia World","Successfully convert 1,000 spiritbound items into materia.",10,44,0,0,3
+310,20,"Leaving Limsa Lominsa","Complete the main scenario quest “Never the Twain Shall Meet.”",5,0,0,0,4
+311,20,"Gone from Gridania","Complete the main scenario quest “Beckon of the Elementals.”",5,0,0,0,4
+312,20,"Out of Ul'dah","Complete the main scenario quest “Calamity Cometh.”",5,0,0,0,4
+313,20,"This One Time, at Level Thirty-six...","Complete any one of the class quests available at level 36.",5,0,0,0,4
+314,20,"Tales of War","Complete the following Disciple of War quests: “Thrill of the Fight,” “Captain's Orders,” “Two Sides to Every Chip,” “There Can Be Only One,” and “Necessary Evils.”",10,45,0,0,4
+315,20,"Tales of Magic","Complete the following Disciple of Magic quests: “Law and the Order” and “The Call of Nature.”",10,46,0,0,4
+316,20,"Tales of the Hand","Complete the following Disciple of the Hand quests: “Spanning the Spectrum,” “The Sound of Silence,” “Struck Through the Heart,” “Head of the Class,” “A Fruitful Murder,” “Dream On, Dream Away,” and “Something in the Soup.”",10,47,0,0,4
+317,20,"Tales of the Land","Complete the following Disciple of the Land quests: “Runaway Little Girl,” “A Moogle Bouquet,” and “Polishing the Mast.”",10,48,0,0,4
+318,20,"The Greatest Tales Ever Told","Obtain the “Tales of War,” “Tales of Magic,” “Tales of the Hand,” and “Tales of the Land” achievements.",20,0,2908,0,4
+319,20,"A Little Something on the Side: La Noscea","Complete 15 sidequests originating in La Noscea.",5,0,0,0,4
+320,20,"A Little Something on the Side: Black Shroud","Complete 15 sidequests originating in the Black Shroud.",5,0,0,0,4
+321,20,"A Little Something on the Side: Thanalan","Complete 15 sidequests originating in Thanalan.",5,0,0,0,4
+322,20,"Sideways","Obtain all three “A Little Something on the Side” achievements.",10,49,0,0,4
+323,20,"All the More Region to Leve I","Complete 10 regional levequests.",5,0,0,0,3
+324,20,"All the More Region to Leve II","Complete 50 regional levequests.",5,0,0,0,3
+325,20,"All the More Region to Leve III","Complete 100 regional levequests.",5,0,0,0,3
+326,20,"All the More Region to Leve IV","Complete 500 regional levequests.",5,0,0,0,3
+327,20,"All the More Region to Leve V","Complete 1,000 regional levequests.",5,0,0,0,3
+328,20,"All the More Region to Leve VI","Complete 5,000 regional levequests.",10,50,0,0,3
+329,20,"Region d'Etre","Complete 10,000 regional levequests.",20,0,0,0,3
+330,20,"Think Global, Quest Local I","Complete 10 local levequests.",5,0,0,0,3
+331,20,"Think Global, Quest Local II","Complete 50 local levequests.",5,0,0,0,3
+332,20,"Think Global, Quest Local III","Complete 100 local levequests.",5,0,0,0,3
+333,20,"Think Global, Quest Local IV","Complete 500 local levequests.",5,0,0,0,3
+334,20,"Think Global, Quest Local V","Complete 1,000 local levequests.",5,0,0,0,3
+335,20,"Think Global, Quest Local VI","Complete 5,000 local levequests.",10,51,0,0,3
+336,20,"Lost in Localization","Complete 10,000 local levequests.",20,0,0,0,3
+337,20,"A Slave to Faction I","Complete 10 faction levequests.",5,0,0,0,3
+338,20,"A Slave to Faction II","Complete 50 faction levequests.",5,0,0,0,3
+339,20,"A Slave to Faction III","Complete 100 faction levequests.",10,52,0,0,3
+340,20,"Just the Factions, Ma'am","Complete 500 faction levequests.",20,0,0,0,3
+341,20,"Serving a Greater Cause I","Complete 10 behests.",5,0,0,0,3
+342,20,"Serving a Greater Cause II","Complete 50 behests.",5,0,0,0,3
+343,20,"Serving a Greater Cause III","Complete 100 behests.",5,0,0,0,3
+344,20,"Serving a Greater Cause IV","Complete 500 behests.",5,0,0,0,3
+345,20,"Serving a Greater Cause V","Complete 1,000 behests.",5,0,0,0,3
+346,20,"Serving a Greater Cause VI","Complete 5,000 behests.",10,53,0,0,3
+347,20,"Enraptured Servitude","Complete 10,000 behests.",20,0,0,0,3
+348,20,"Around the Realm and Back Again","Complete one regional battlecraft levequest at every aetheryte camp and aetherial gate in La Noscea, the Black Shroud, and Thanalan.",5,0,0,0,1
+349,20,"I Survived Camp Bearded Rock","Complete 20 regional battlecraft levequests originating at Camp Bearded Rock.",5,0,0,0,1
+350,20,"I Survived Cedarwood","Complete 20 regional battlecraft levequests originating in Cedarwood.",5,0,0,0,1
+351,20,"I Survived Camp Skull Valley","Complete 20 regional battlecraft levequests originating at Camp Skull Valley.",5,0,0,0,1
+352,20,"I Survived Camp Bald Knoll","Complete 20 regional battlecraft levequests originating at Camp Bald Knoll.",5,0,0,0,1
+353,20,"I Survived Camp Bloodshore","Complete 20 regional battlecraft levequests originating at Camp Bloodshore.",5,0,0,0,1
+354,20,"I Survived Cassiopeia Hollow","Complete 20 regional battlecraft levequests originating in Cassiopeia Hollow.",5,0,0,0,1
+355,20,"I Survived Camp Iron Lake","Complete 20 regional battlecraft levequests originating at Camp Iron Lake.",5,0,0,0,1
+356,20,"And All I Got Was This Lousy Achievement: La Noscea","Complete 20 regional battlecraft levequests at each aetheryte camp and aetherial gate in La Noscea.",10,54,0,0,2
+357,20,"I Survived Camp Bentbranch","Complete 20 regional battlecraft levequests originating at Camp Bentbranch.",5,0,0,0,1
+358,20,"I Survived Humblehearth","Complete 20 regional battlecraft levequests originating in Humblehearth.",5,0,0,0,1
+359,20,"I Survived Camp Nine Ivies","Complete 20 regional battlecraft levequests originating at Camp Nine Ivies.",5,0,0,0,1
+360,20,"I Survived Camp Emerald Moss","Complete 20 regional battlecraft levequests originating at Camp Emerald Moss.",5,0,0,0,1
+361,20,"I Survived Treespeak","Complete 20 regional battlecraft levequests originating in Treespeak.",5,0,0,0,1
+362,20,"I Survived the Mun-Tuy Cellars","Complete 20 regional battlecraft levequests originating in the Mun–tuy Cellars.",5,0,0,0,1
+363,20,"I Survived Camp Tranquil","Complete 20 regional battlecraft levequests originating at Camp Tranquil.",5,0,0,0,1
+364,20,"And All I Got Was This Lousy Achievement: Black Shroud","Complete 20 regional battlecraft levequests at each aetheryte camp and aetherial gate in the Black Shroud.",10,55,0,0,2
+365,20,"I Survived Camp Black Brush","Complete 20 regional battlecraft levequests originating at Camp Black Brush.",5,0,0,0,1
+366,20,"I Survived the Nanawa Mines","Complete 20 regional battlecraft levequests originating in the Nanawa Mines.",5,0,0,0,1
+367,20,"I Survived Camp Drybone","Complete 20 regional battlecraft levequests originating at Camp Drybone.",5,0,0,0,1
+368,20,"I Survived Halatali","Complete 20 regional battlecraft levequests originating in Halatali.",5,0,0,0,1
+369,20,"I Survived Camp Horizon","Complete 20 regional battlecraft levequests originating at Camp Horizon.",5,0,0,0,1
+370,20,"I Survived Nophica's Wells","Complete 20 regional battlecraft levequests originating in Nophica's Wells.",5,0,0,0,1
+371,20,"I Survived Camp Broken Water","Complete 20 regional battlecraft levequests originating at Camp Broken Water.",5,0,0,0,1
+372,20,"And All I Got Was This Lousy Achievement: Thanalan","Complete 20 regional battlecraft levequests at each aetheryte camp and aetherial gate in Thanalan.",10,56,0,0,1
+373,20,"Globetrotter","Complete 20 regional battlecraft levequests at every aetheryte camp and aetherial gate in La Noscea, the Black Shroud, and Thanalan.",20,57,0,0,2
+374,20,"At the Realm's Behest","Complete one behest at every aetheryte camp and aetherial gate in La Noscea, the Black Shroud, and Thanalan.",5,0,0,0,1
+375,20,"To Serve and Protect: Camp Bearded Rock","Complete 10 behests at Camp Bearded Rock.",5,0,0,0,1
+376,20,"To Serve and Protect: Cedarwood","Complete 10 behests in Cedarwood.",5,0,0,0,1
+377,20,"To Serve and Protect: Camp Skull Valley","Complete 10 behests at Camp Skull Valley.",5,0,0,0,1
+378,20,"To Serve and Protect: Camp Bald Knoll","Complete 10 behests at Camp Bald Knoll.",5,0,0,0,1
+379,20,"To Serve and Protect: Camp Bloodshore","Complete 10 behests at Camp Bloodshore.",5,0,0,0,1
+380,20,"To Serve and Protect: Cassiopeia Hollow","Complete 10 behests in Cassiopeia Hollow.",5,0,0,0,1
+381,20,"To Serve and Protect: Camp Iron Lake","Complete 10 behests at Camp Iron Lake.",5,0,0,0,1
+382,20,"La Noscea Got Served...and Protected","Complete 10 behests at each aetheryte camp and aetherial gate in La Noscea.",10,58,0,0,2
+383,20,"To Serve and Protect: Camp Bentbranch","Complete 10 behests at Camp Bentbranch.",5,0,0,0,1
+384,20,"To Serve and Protect: Humblehearth","Complete 10 behests in Humblehearth.",5,0,0,0,1
+385,20,"To Serve and Protect: Camp Nine Ivies","Complete 10 behests at Camp Nine Ivies.",5,0,0,0,1
+386,20,"To Serve and Protect: Camp Emerald Moss","Complete 10 behests at Camp Emerald Moss.",5,0,0,0,1
+387,20,"To Serve and Protect: Treespeak","Complete 10 behests in Treespeak.",5,0,0,0,1
+388,20,"To Serve and Protect: Mun--Tuy Cellars","Complete 10 behests in the Mun–Tuy Cellars.",5,0,0,0,1
+389,20,"To Serve and Protect: Camp Tranquil","Complete 10 behests at Camp Tranquil.",5,0,0,0,1
+390,20,"The Black Shroud Got Served...and Protected","Complete 10 behests at each aetheryte camp and aetherial gate in the Black Shroud.",10,59,0,0,2
+391,20,"To Serve and Protect: Camp Black Brush","Complete 10 behests at Camp Black Brush.",5,0,0,0,1
+392,20,"To Serve and Protect: Nanawa Silvermines","Complete 10 behests in the Nanawa Mines.",5,0,0,0,1
+393,20,"To Serve and Protect: Camp Drybone","Complete 10 behests at Camp Drybone.",5,0,0,0,1
+394,20,"To Serve and Protect: Halatali","Complete 10 behests in Halatali.",5,0,0,0,1
+395,20,"To Serve and Protect: Camp Horizon","Complete 10 behests at Camp Horizon.",5,0,0,0,1
+396,20,"To Serve and Protect: Nophica's Wells","Complete 10 behests in Nophica's Wells.",5,0,0,0,1
+397,20,"To Serve and Protect: Camp Broken Water","Complete 10 behests at Camp Broken Water.",5,0,0,0,1
+398,20,"Thanalan Got Served...and Protected","Complete 10 behests at each aetheryte camp and aetherial gate in Thanalan.",10,60,0,0,2
+399,20,"Eorzea Got Served...and Protected","Complete 10 behests at every aetheryte camp and aetherial gate in La Noscea, the Black Shroud, and Thanalan.",20,61,0,0,2
+400,20,"Leaning Towards the Brotherhood","Complete 10 faction levequests for the Brotherhood of the Broken Blade.",5,0,0,0,1
+401,20,"Love Thy Brother","Complete 50 faction levequests for the Brotherhood of the Broken Blade.",10,62,0,0,1
+402,20,"Leaning Towards the Shield","Complete 10 faction levequests for Azeyma's Shields.",5,0,0,0,1
+403,20,"Another Brick in the Shield Wall","Complete 50 faction levequests for Azeyma's Shields.",10,63,0,0,1
+404,20,"Leaning Towards the Horn","Complete 10 faction levequests for the Horn and Hand.",5,0,0,0,1
+405,20,"A Helping Horn","Complete 50 faction levequests for the Horn and Hand.",10,64,0,0,1
+406,20,"Commitment Issues","Complete 50 faction levequests each for the Brotherhood of the Broken Blade, Azeyma's Shields, and the Horn and Hand.",20,65,0,0,4
+407,20,"Like a Knight in Shining Armor","Complete the paladin job quest “Keeping the Oath.”",5,0,0,0,4
+408,20,"Bulletproof","Complete the monk job quest “Return of the King...of Ruin.”",5,0,0,0,4
+409,20,"I am the Warrior","Complete the warrior job quest “How to Quit You.”",5,0,0,0,4
+410,20,"Dragoon Age","Complete the dragoon job quest “Into the Dragon's Maw.”",5,0,0,0,4
+411,20,"A Bard's Tale","Complete the bard job quest “Requiem for the Fallen.”",5,0,0,0,4
+412,20,"Seeing White","Complete the white mage job quest “The Chorus of Cataclysm.”",5,0,0,0,4
+413,20,"Back in Black","Complete the black mage quest “Always Bet on Black.”",5,0,0,0,4
+414,20,"Career Opportunities","Complete the job quests “Keeping the Oath,” “Return of the King...of Ruin,” “How to Quit You,” “Into the Dragon's Maw,” “Requiem for the Fallen,” “The Chorus of Cataclysm,” and “Always Bet on Black.”",20,66,0,0,4
+415,20,"Once in a Lifetime","Complete the entire scenario centered around Dalamud and the Empire's Meteor project.",20,0,2914,0,4
+416,20,"Patricide","Defeat 11th Order Patriarch Gu Bu during the Battle for Aleport.",5,67,0,0,4
+417,20,"To Kill a Mocking Bird","Defeat Sazel Ciloc the Divine during the Battle for Hyrstmill.",5,68,0,0,4
+418,20,"Pounding the Spike","Defeat Stonespike Tanadd Gah during the battle for the Golden Bazaar.",5,69,0,0,4
+419,20,"An Eye on the Ale I","Receive a score of 10,000 or better for your efforts during a victorious campaign in the Battle for Aleport.",5,0,0,0,4
+420,20,"An Eye on the Ale II","Receive a score of 20,000 or better for your efforts during a victorious campaign in the Battle for Aleport.",5,0,0,0,4
+421,20,"An Eye on the Ale III","Receive a score of 30,000 or better for your efforts during a victorious campaign in the Battle for Aleport.",5,0,0,0,4
+422,20,"An Eye on the Ale IV","Receive a score of 40,000 or better for your efforts during a victorious campaign in the Battle for Aleport.",5,0,0,0,4
+423,20,"First Blood: Aleport","Receive a score of 50,000 or better for your efforts during a victorious campaign in the Battle for Aleport.",10,70,0,0,4
+424,20,"An Eye on the Trees I","Receive a score of 10,000 or better for your efforts during a victorious campaign in the Battle for Hyrstmill.",5,0,0,0,4
+425,20,"An Eye on the Trees II","Receive a score of 20,000 or better for your efforts during a victorious campaign in the Battle for Hyrstmill.",5,0,0,0,4
+426,20,"An Eye on the Trees III","Receive a score of 30,000 or better for your efforts during a victorious campaign in the Battle for Hyrstmill.",5,0,0,0,4
+427,20,"An Eye on the Trees IV","Receive a score of 40,000 or better for your efforts during a victorious campaign in the Battle for Hyrstmill.",5,0,0,0,4
+428,20,"First Blood: Hyrstmill","Receive a score of 50,000 or better for your efforts during a victorious campaign in the Battle for Hyrstmill.",10,71,0,0,4
+429,20,"An Eye on the Gold I","Receive a score of 10,000 or better for your efforts during a victorious campaign in the Battle for the Golden Bazaar.",5,0,0,0,4
+430,20,"An Eye on the Gold II","Receive a score of 20,000 or better for your efforts during a victorious campaign in the Battle for the Golden Bazaar.",5,0,0,0,4
+431,20,"An Eye on the Gold III","Receive a score of 30,000 or better for your efforts during a victorious campaign in the Battle for the Golden Bazaar.",5,0,0,0,4
+432,20,"An Eye on the Gold IV","Receive a score of 40,000 or better for your efforts during a victorious campaign in the Battle for the Golden Bazaar.",5,0,0,0,4
+433,20,"First Blood: Golden Bazaar","Receive a score of 50,000 or better for your efforts during a victorious campaign in the Battle for the Golden Bazaar.",10,72,0,0,4
+434,20,"Holding the Hamlet: Aleport I","Defend Aleport from invading kobold forces 5 times.",5,0,0,0,3
+435,20,"Holding the Hamlet: Aleport II","Defend Aleport from invading kobold forces 10 times.",5,0,0,0,3
+436,20,"Holding the Hamlet: Aleport III","Defend Aleport from invading kobold forces 50 times.",5,0,0,0,3
+437,20,"Holding the Hamlet: Aleport IV","Defend Aleport from invading kobold forces 100 times.",5,0,0,0,3
+438,20,"To Be or Not to Be the Guardian of Aleport","Defend Aleport from invading kobold forces 1,000 times.",10,73,0,0,3
+439,20,"Holding the Hamlet: Hyrstmill I","Defend Hyrstmill from invading Ixali forces 5 times.",5,0,0,0,3
+440,20,"Holding the Hamlet: Hyrstmill II","Defend Hyrstmill from invading Ixali forces 10 times.",5,0,0,0,3
+441,20,"Holding the Hamlet: Hyrstmill III","Defend Hyrstmill from invading Ixali forces 50 times.",5,0,0,0,3
+442,20,"Holding the Hamlet: Hyrstmill IV","Defend Hyrstmill from invading Ixali forces 100 times.",5,0,0,0,3
+443,20,"To Be or Not to Be the Guardian of Hyrstmill","Defend Hyrstmill from invading Ixali forces 1,000 times.",10,74,0,0,3
+444,20,"Holding the Hamlet: Golden Bazaar I","Defend the Golden Bazaar from invading Amalj'aa forces 5 times.",5,0,0,0,3
+445,20,"Holding the Hamlet: Golden Bazaar II","Defend the Golden Bazaar from invading Amalj'aa forces 10 times.",5,0,0,0,3
+446,20,"Holding the Hamlet: Golden Bazaar III","Defend the Golden Bazaar from invading Amalj'aa forces 50 times.",5,0,0,0,3
+447,20,"Holding the Hamlet: Golden Bazaar IV","Defend the Golden Bazaar from invading Amalj'aa forces 100 times.",5,0,0,0,3
+448,20,"To Be or Not to Be the Guardian of the Golden Bazaar","Defend the Golden Bazaar from invading Amalj'aa forces 1,000 times.",10,75,0,0,3
+449,20,"Helping the Hamlet: Aleport I","Procure and submit supplies 10 times during the Battle for Aleport.",5,0,0,0,3
+450,20,"Helping the Hamlet: Aleport II","Procure and submit supplies 100 times during the Battle for Aleport.",5,0,0,0,3
+451,20,"Helping the Hamlet: Aleport III","Procure and submit supplies 500 times during the Battle for Aleport.",5,0,0,0,3
+452,20,"Helping the Hamlet: Aleport IV","Procure and submit supplies 1,000 times during the Battle for Aleport.",5,0,0,0,3
+453,20,"To Be or Not to Be the Wind of Aleport","Procure and submit supplies 10,000 times during the Battle for Aleport.",10,76,0,0,3
+454,20,"Helping the Hamlet: Hyrstmill I","Procure and submit supplies 10 times during the Battle for Hyrstmill.",5,0,0,0,3
+455,20,"Helping the Hamlet: Hyrstmill II","Procure and submit supplies 100 times during the Battle for Hyrstmill.",5,0,0,0,3
+456,20,"Helping the Hamlet: Hyrstmill III","Procure and submit supplies 500 times during the Battle for Hyrstmill.",5,0,0,0,3
+457,20,"Helping the Hamlet: Hyrstmill IV","Procure and submit supplies 1,000 times during the Battle for Hyrstmill.",5,0,0,0,3
+458,20,"To Be or Not to Be the Wind of Hyrstmill","Procure and submit supplies 10,000 times during the Battle for Hyrstmill.",10,77,0,0,3
+459,20,"Helping the Hamlet: Golden Bazaar I","Procure and submit supplies 10 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+460,20,"Helping the Hamlet: Golden Bazaar II","Procure and submit supplies 100 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+461,20,"Helping the Hamlet: Golden Bazaar III","Procure and submit supplies 500 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+462,20,"Helping the Hamlet: Golden Bazaar IV","Procure and submit supplies 1,000 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+463,20,"To Be or Not to Be the Wind of the Golden Bazaar","Procure and submit supplies 10,000 times during the Battle for the Golden Bazaar.",10,78,0,0,3
+464,20,"Habiting the Hamlet: Aleport I","Craft and submit materia-augmented equipment 10 times during the Battle for Aleport.",5,0,0,0,3
+465,20,"Habiting the Hamlet: Aleport II","Craft and submit materia-augmented equipment 100 times during the Battle for Aleport.",5,0,0,0,3
+466,20,"Habiting the Hamlet: Aleport III","Craft and submit materia-augmented equipment 500 times during the Battle for Aleport.",5,0,0,0,3
+467,20,"Habiting the Hamlet: Aleport IV","Craft and submit materia-augmented equipment 1,000 times during the Battle for Aleport.",5,0,0,0,3
+468,20,"To Be or Not to Be the Hand of Aleport","Craft and submit materia-augmented equipment 10,000 times during the Battle for Aleport.",10,79,0,0,3
+469,20,"Habiting the Hamlet: Hyrstmill I","Craft and submit materia-augmented equipment 10 times during the Battle for Hyrstmill.",5,0,0,0,3
+470,20,"Habiting the Hamlet: Hyrstmill II","Craft and submit materia-augmented equipment 100 times during the Battle for Hyrstmill.",5,0,0,0,3
+471,20,"Habiting the Hamlet: Hyrstmill III","Craft and submit materia-augmented equipment 500 times during the Battle for Hyrstmill.",5,0,0,0,3
+472,20,"Habiting the Hamlet: Hyrstmill IV","Craft and submit materia-augmented equipment 1,000 times during the Battle for Hyrstmill.",5,0,0,0,3
+473,20,"To Be or Not to Be the Hand of Hyrstmill","Craft and submit materia-augmented equipment 10,000 times during the Battle for Hyrstmill.",10,80,0,0,3
+474,20,"Habiting the Hamlet: Golden Bazaar I","Craft and submit materia-augmented equipment 10 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+475,20,"Habiting the Hamlet: Golden Bazaar II","Craft and submit materia-augmented equipment 100 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+476,20,"Habiting the Hamlet: Golden Bazaar III","Craft and submit materia-augmented equipment 500 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+477,20,"Habiting the Hamlet: Golden Bazaar IV","Craft and submit materia-augmented equipment 1,000 times during the Battle for the Golden Bazaar.",5,0,0,0,3
+478,20,"To Be or Not to Be the Hand of the Golden Bazaar","Craft and submit materia-augmented equipment 10,000 times during the Battle for the Golden Bazaar.",10,81,0,0,3
+479,20,"Leave Your Hammer at Home: Aleport","Emerge victorious in the Battle for Aleport without the assistance of any Disciples of the Land or Hand.",5,0,0,0,4
+480,20,"Leave Your Hammer at Home: Hyrstmill","Emerge victorious in the Battle for Hyrstmill without the assistance of any Disciples of the Land or Hand.",5,0,0,0,4
+481,20,"Leave Your Hammer at Home: Golden Bazaar","Emerge victorious in the Battle for the Golden Bazaar without the assistance of any Disciples of the Land or Hand.",5,0,0,0,4
+482,20,"Make Stuff, Not War: Aleport","Emerge victorious in the Battle for Aleport without the assistance of any Disciples of War or Magic.",5,0,0,0,4
+483,20,"Make Stuff, Not War: Hyrstmill","Emerge victorious in the Battle for Hyrstmill without the assistance of any Disciples of War or Magic.",5,0,0,0,4
+484,20,"Make Stuff, Not War: Golden Bazaar","Emerge victorious in the Battle for the Golden Bazaar without the assistance of any Disciples of War or Magic.",5,0,0,0,4
+485,20,"Looking Out for the Little People","Emerge victorious in the Battle for Aleport, the Battle for Hyrstmill, and the Battle for the Golden Bazaar.",5,0,0,0,4
+486,21,"It's Reining Deer","Obtain a festive Starlight Celebration outfit consisting of a set of reindeer antlers and a reindeer suit.",20,82,0,0,2
+487,21,"Beast from the East","Obtain a dragon kabuto during the Heavensturn festivities.",5,0,0,0,2
+488,21,"Red Beast from the East","Obtain a crimson dragon kabuto during the Heavensturn festivities.",5,0,0,0,2
+489,21,"Gold Beast from the East","Obtain a golden dragon kabuto during the Heavensturn festivities.",5,0,0,0,2
+490,21,"Black Beast from the East","Obtain a black dragon kabuto during the Heavensturn festivities.",5,0,0,0,2
+491,21,"Get All the Things!","Obtain all four dragon kabuto as part of the Heavensturn festivities.",20,83,0,0,2
+492,21,"Love Me Tender","Obtain a paramour's pendant during the Valentione's Day festivities.",5,0,0,0,2
+493,21,"B.F.F.","Obtain a platinum paramour's pendant during the Valentione's Day festivities.",5,0,0,0,2
+494,21,"Did It Mostly for the Glory of Love","Obtain the Band of Eternal Passion during the Valentione's Day festivities.",5,0,0,0,2
+495,21,"Love Makes the World Go Round","Obtain a paramour's pendant, platinum paramour's pendant, and the Band of Eternal Passion during the Valentione's Day festivities.",20,84,0,0,2
+496,21,"Royal Audience","Obtain a peach blossom earring.",20,85,0,0,2
+497,21,"Eggsceptional Hunting","Obtain a pristine egg ring.",5,0,0,0,2
+498,21,"Eggstraordinary Hunting","Obtain a vibrant egg ring.",5,0,0,0,2
+499,21,"Eggsemplary Hunting","Obtain a brilliant egg ring.",5,0,0,0,2
+500,21,"Eggstreme Hunting","Obtain a midnight egg ring.",5,0,0,0,2
+501,21,"Eggstravagant Hunting","Obtain a chocobo egg ring.",5,0,0,0,2
+502,21,"Seven Short of a Dozen","Obtain all five egg rings.",20,86,0,0,2
+503,21,"Cascadier Survivor","Obtain a lord's yukata (blue) or a lady's yukata (red) during the Moonfire Faire festivities.",5,0,0,0,2
+504,21,"Stylish Cascadier","Obtain a lord's yukata (green) or a lady's yukata (blue) during the Moonfire Faire festivities.",5,0,0,0,2
+505,21,"Dapper Cascadier","Obtain a lord's yukata (grey) or a lady's yukata (black) during the Moonfire Faire festivities.",5,0,0,0,2
+506,21,"Classy Cascadier","Obtain a pair of lord's drawers (white) or a pair of lady's knickers (white) during the Moonfire Faire festivities.",5,0,0,0,2
+507,21,"Refined Cascadier","Obtain a pair of lord's drawers (gold) or a pair of lady's knickers (gold) during the Moonfire Faire festivities.",5,0,0,0,2
+508,21,"Clogging Along","Obtain a pair of lord's clogs or lady's clogs during the Moonfire Faire festivities.",5,0,0,0,2
+509,21,"Cascadier for Life","Obtain all six Moonfire Faire achievements.",20,87,0,0,2
+510,21,"Chock-full of Elemental Goodness","Obtain an over-aspected cluster.",20,88,0,0,2
+511,22,"One-upping the Antares","Defeat Antares in the Thousand Maws of Toto–Rak.",5,0,0,0,2
+512,22,"Kicking Sargas and Taking Names","Defeat Sargas in the Thousand Maws of Toto–Rak.",5,0,0,0,2
+513,22,"Shaula We Dance?","Defeat Shaula in the Thousand Maws of Toto–Rak.",5,0,0,0,2
+514,22,"Like a Batraal Out of Hell","Defeat Batraal in Dzemael Darkhold.",5,0,0,0,2
+515,22,"Miser Neutralizer","Defeat the Miser's Mistress in the Aurum Vale.",5,0,0,0,2
+516,22,"Raiding the Vale","Defeat the Miser's Mistress and open all five treasure chests in the Aurum Vale.",5,0,0,0,2
+517,22,"Breathless","Clear the Aurum Vale without consuming a single morbol fruit or vine.",5,0,0,0,2
+518,22,"Three Heads Are Better Than One","Defeat the Chimera in Cutter's Cry.",5,0,0,0,2
+519,22,"Making the Cut","Defeat the Chimera and open all five treasure chests in Cutter's Cry.",5,0,0,0,2
+520,22,"Big Ants Don't Cry","Clear Cutter's Cry while remaining with your party and defeating the Myrmidon Marshal.",5,0,0,0,2
+521,23,"Taking in the Sights: La Noscea","Attune with all 19 aetheryte crystals and aetherial gates in La Noscea.",5,0,0,0,2
+522,23,"Taking in the Sights: Black Shroud","Attune with all 23 aetheryte crystals and aetherial gates in the Black Shroud.",5,0,0,0,2
+523,23,"Taking in the Sights: Thanalan","Attune with all 22 aetheryte crystals and aetherial gates in Thanalan.",5,0,0,0,2
+524,23,"Taking in the Sights: Coerthas","Attune with all 19 aetheryte crystals and aetherial gates in Coerthas.",5,0,0,0,2
+525,23,"Taking in the Sights: Mor Dhona","Attune with the 4 aetheryte crystals and aetherial gates in Mor Dhona at Revenant's Toll, Brittlebark, the Fogfens, and the Singing Shards.",5,0,0,0,2
+526,23,"Been There, Done That","Complete the “Taking in the Sights” achievements for La Noscea, the Black Shroud, Thanalan, Coerthas, and Mor Dhona.",10,105,0,0,2
+527,24,"All Watched Over by a Maelstrom of Loving Grace","Officially enlist in the Maelstrom.",5,0,0,0,4
+528,24,"Snakebitten","Officially enlist in the Order of the Twin Adder.",5,0,0,0,4
+529,24,"Light My Fire","Officially enlist in the Immortal Flames.",5,0,0,0,4
+530,24,"A Storm of Seals I","Earn 10,000 Storm Seals.",5,0,0,0,3
+531,24,"A Storm of Seals II","Earn 50,000 Storm Seals.",5,0,0,0,3
+532,24,"A Storm of Seals III","Earn 100,000 Storm Seals.",10,89,0,0,3
+533,24,"The Ruby Anchor","Earn 500,000 Storm Seals.",20,0,2222,0,3
+534,24,"A Snake in the Brass I","Earn 10,000 Serpent Seals.",5,0,0,0,3
+535,24,"A Snake in the Brass II","Earn 50,000 Serpent Seals.",5,0,0,0,3
+536,24,"A Snake in the Brass III","Earn 100,000 Serpent Seals.",10,90,0,0,3
+537,24,"The Mahogany Leaf","Earn 500,000 Serpent Seals.",20,0,2221,0,3
+538,24,"Burning a Hole in My Pocket I","Earn 10,000 Flame Seals.",5,0,0,0,3
+539,24,"Burning a Hole in My Pocket II","Earn 50,000 Flame Seals.",5,0,0,0,3
+540,24,"Burning a Hole in My Pocket III","Earn 100,000 Flame Seals.",10,91,0,0,3
+541,24,"The Mythril Scales","Earn 500,000 Flame Seals.",20,0,2223,0,3
+542,24,"In Good Company: Maelstrom I","Complete 10 company levequests for the Maelstrom.",5,0,0,0,3
+543,24,"In Good Company: Maelstrom II","Complete 100 company levequests for the Maelstrom.",5,0,0,0,3
+544,24,"In Good Company: Maelstrom III","Complete 200 company levequests for the Maelstrom.",10,92,0,0,3
+545,24,"The Turquoise Cannon","Complete 500 company levequests for the Maelstrom.",20,0,0,0,3
+546,24,"In Good Company: Twin Adder I","Complete 10 company levequests for the Order of the Twin Adder.",5,0,0,0,3
+547,24,"In Good Company: Twin Adder II","Complete 100 company levequests for the Order of the Twin Adder.",5,0,0,0,3
+548,24,"In Good Company: Twin Adder III","Complete 200 company levequests for the Order of the Twin Adder.",10,93,0,0,3
+549,24,"The Ironwood Leaf","Complete 500 company levequests for the Order of the Twin Adder.",20,0,0,0,3
+550,24,"In Good Company: Immortal Flames I","Complete 10 company levequests for the Immortal Flames.",5,0,0,0,3
+551,24,"In Good Company: Immortal Flames II","Complete 100 company levequests for the Immortal Flames.",5,0,0,0,3
+552,24,"In Good Company: Immortal Flames III","Complete 200 company levequests for the Immortal Flames.",10,94,0,0,3
+553,24,"The Silver Scales","Complete 500 company levequests for the Immortal Flames.",20,0,0,0,3
+554,24,"Fueling the Storm I","Complete 10 supply missions for the Maelstrom.",5,0,0,0,3
+555,24,"Fueling the Storm II","Complete 100 supply missions for the Maelstrom.",5,0,0,0,3
+556,24,"Fueling the Storm III","Complete 1,000 supply missions for the Maelstrom.",10,95,0,0,3
+557,24,"The Onyx Oars","Complete 5,000 supply missions for the Maelstrom.",20,0,4274,0,3
+558,24,"Feeding the Serpent I","Complete 10 supply missions for the Order of the Twin Adder.",5,0,0,0,3
+559,24,"Feeding the Serpent II","Complete 100 supply missions for the Order of the Twin Adder.",5,0,0,0,3
+560,24,"Feeding the Serpent III","Complete 1,000 supply missions for the Order of the Twin Adder.",10,96,0,0,3
+561,24,"The Sycamore Leaf","Complete 5,000 supply missions for the Order of the Twin Adder.",20,0,4276,0,3
+562,24,"Fanning the Flames I","Complete 10 supply missions for the Immortal Flames.",5,0,0,0,3
+563,24,"Fanning the Flames II","Complete 100 supply missions for the Immortal Flames.",5,0,0,0,3
+564,24,"Fanning the Flames III","Complete 1,000 supply missions for the Immortal Flames.",10,97,0,0,3
+565,24,"The Brass Scales","Complete 5,000 supply missions for the Immortal Flames.",20,0,4275,0,3
+566,24,"To Each According to His Need: Maelstrom I","Complete 10 provisioning missions for the Maelstrom.",5,0,0,0,3
+567,24,"To Each According to His Need: Maelstrom II","Complete 100 provisioning missions for the Maelstrom.",5,0,0,0,3
+568,24,"To Each According to His Need: Maelstrom III","Complete 1,000 provisioning missions for the Maelstrom.",10,98,0,0,3
+569,24,"The Jade Mast","Complete 5,000 provisioning missions for the Maelstrom.",20,0,4517,0,3
+570,24,"To Each According to His Need: Twin Adder I","Complete 10 provisioning missions for the Order of the Twin Adder.",5,0,0,0,3
+571,24,"To Each According to His Need: Twin Adder II","Complete 100 provisioning missions for the Order of the Twin Adder.",5,0,0,0,3
+572,24,"To Each According to His Need: Twin Adder III","Complete 1,000 provisioning missions for the Order of the Twin Adder.",10,99,0,0,3
+573,24,"The Willow Leaf","Complete 5,000 provisioning missions for the Order of the Twin Adder.",20,0,4519,0,3
+574,24,"To Each According to His Need: Immortal Flames I","Complete 10 provisioning missions for the Immortal Flames.",5,0,0,0,3
+575,24,"To Each According to His Need: Immortal Flames II","Complete 100 provisioning missions for the Immortal Flames.",5,0,0,0,3
+576,24,"To Each According to His Need: Immortal Flames III","Complete 1,000 provisioning missions for the Immortal Flames.",10,100,0,0,3
+577,24,"The Bronze Scales","Complete 5,000 provisioning missions for the Immortal Flames.",20,0,4518,0,3
+578,24,"Twelve Minutes or Less or Your Cargo's Free","Complete level 20 caravan security in less than 12 minutes (Earth time).",5,0,0,0,4
+579,24,"Ten Minutes or Less or Your Cargo's Free","Complete level 20 caravan security in less than 10 minutes (Earth time).",5,0,0,0,4
+580,24,"Eight Minutes or Less or Your Cargo's Free","Complete level 20 caravan security in less than 8 minutes (Earth time).",10,101,0,0,4
+581,24,"Gone in Twelve Minutes","Complete level 40 caravan security in less than 12 minutes (Earth time).",5,0,0,0,4
+582,24,"Gone in Ten Minutes","Complete level 40 caravan security in less than 10 minutes (Earth time).",5,0,0,0,4
+583,24,"Gone in Eight Minutes","Complete level 40 caravan security in less than 8 minutes (Earth time).",10,103,0,0,4
+584,24,"Handle with Care I","Protect a total of 100 packs of chocobo cargo.",5,0,0,0,3
+585,24,"Handle with Care II","Protect a total of 500 packs of chocobo cargo.",5,0,0,0,3
+586,24,"Handle with Care III","Protect a total of 1,000 packs of chocobo cargo.",5,0,2784,0,3
+587,24,"Handle with Care IV","Protect a total of 5,000 packs of chocobo cargo.",10,102,0,0,3
+588,24,"Chocobo Shrugged","Protect a total of 10,000 packs of chocobo cargo.",20,0,0,0,3
+589,24,"I Make This Look Good","Obtain a complete set of Grand Company soldier armor consisting of a soldier's cap, a soldier's overcoat, a pair of soldier's gloves, and a pair of soldier's boots.",5,0,0,0,4
+590,24,"My Little Chocobo","Purchase a chocobo issuance and obtain your own personal steed.",5,0,0,0,4
+591,24,"Pimp Your Ride","Purchase all three sets of chocobo barding.",5,104,0,0,4

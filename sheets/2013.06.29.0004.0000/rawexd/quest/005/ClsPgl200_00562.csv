@@ -1,0 +1,127 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CLSPGL200_00562_SEQ_00","格闘士ギルドのハモンはすっかり意気消沈しているようだ。"
+1,"TEXT_CLSPGL200_00562_SEQ_01","ハモンは冒険者に指導をする元気はない。「チュチュト」から新たな課題をもらおう。"
+2,"TEXT_CLSPGL200_00562_SEQ_02","昔、ハモンが修行したことをやり遂げれば、彼の闘争心を煽れるかもしれない。「ドライボーン」の南方にある「拳撃の痕跡」に「連撃」を叩きこんで、現れた「ホーネット・クラウド」の「ホーネットの毒針」を集めてこよう。"
+3,"TEXT_CLSPGL200_00562_SEQ_03","ホーネットの毒針を入手することができた。「格闘士ギルド」の「ハモン」に「ホーネットの毒針」を渡しにいこう。"
+4,"TEXT_CLSPGL200_00562_SEQ_04","ホーネットの毒針を見て、昔の修行を思い出し闘魂を取り戻すことができたようだ。準備ができたら「ハモン」に話しかけよう。"
+5,"TEXT_CLSPGL200_00562_SEQ_05","「大斧のヴェッグファル」と部下になったというルルクタが現れた。彼はもし、ハモンが復活を果たした時には、決闘を申し込むという。もう一度、「ハモン」に話しかけよう。"
+6,"TEXT_CLSPGL200_00562_SEQ_06","話しによるとヴェッグファルは以前、ハモンに負けているようだ。決闘で負ければ、格闘士ギルドはヴェッグファルのものになってしまう。「拳聖ハモン」の復活に協力するため、冒険者も修行に励もう。
+
+※格闘士のレベルが25以上になると、ハモンから
+　次の格闘士クエストを受注することができます。"
+7,"TEXT_CLSPGL200_00562_SEQ_07",""
+8,"TEXT_CLSPGL200_00562_SEQ_08",""
+9,"TEXT_CLSPGL200_00562_SEQ_09",""
+10,"TEXT_CLSPGL200_00562_SEQ_10",""
+11,"TEXT_CLSPGL200_00562_SEQ_11",""
+12,"TEXT_CLSPGL200_00562_SEQ_12",""
+13,"TEXT_CLSPGL200_00562_SEQ_13",""
+14,"TEXT_CLSPGL200_00562_SEQ_14",""
+15,"TEXT_CLSPGL200_00562_SEQ_15",""
+16,"TEXT_CLSPGL200_00562_SEQ_16",""
+17,"TEXT_CLSPGL200_00562_SEQ_17",""
+18,"TEXT_CLSPGL200_00562_SEQ_18",""
+19,"TEXT_CLSPGL200_00562_SEQ_19",""
+20,"TEXT_CLSPGL200_00562_SEQ_20",""
+21,"TEXT_CLSPGL200_00562_SEQ_21",""
+22,"TEXT_CLSPGL200_00562_SEQ_22",""
+23,"TEXT_CLSPGL200_00562_SEQ_23",""
+24,"TEXT_CLSPGL200_00562_TODO_00","チュチュトと話す"
+25,"TEXT_CLSPGL200_00562_TODO_01","拳撃の痕跡に連撃を加えてホーネットの毒針を入手"
+26,"TEXT_CLSPGL200_00562_TODO_02","格闘士ギルドのハモンにホーネットの毒針を渡す"
+27,"TEXT_CLSPGL200_00562_TODO_03","ハモンと修行する"
+28,"TEXT_CLSPGL200_00562_TODO_04","ハモンと話す"
+29,"TEXT_CLSPGL200_00562_TODO_05",""
+30,"TEXT_CLSPGL200_00562_TODO_06",""
+31,"TEXT_CLSPGL200_00562_TODO_07",""
+32,"TEXT_CLSPGL200_00562_TODO_08",""
+33,"TEXT_CLSPGL200_00562_TODO_09",""
+34,"TEXT_CLSPGL200_00562_TODO_10",""
+35,"TEXT_CLSPGL200_00562_TODO_11",""
+36,"TEXT_CLSPGL200_00562_TODO_12",""
+37,"TEXT_CLSPGL200_00562_TODO_13",""
+38,"TEXT_CLSPGL200_00562_TODO_14",""
+39,"TEXT_CLSPGL200_00562_TODO_15",""
+40,"TEXT_CLSPGL200_00562_TODO_16",""
+41,"TEXT_CLSPGL200_00562_TODO_17",""
+42,"TEXT_CLSPGL200_00562_TODO_18",""
+43,"TEXT_CLSPGL200_00562_TODO_19",""
+44,"TEXT_CLSPGL200_00562_TODO_20",""
+45,"TEXT_CLSPGL200_00562_TODO_21",""
+46,"TEXT_CLSPGL200_00562_TODO_22",""
+47,"TEXT_CLSPGL200_00562_TODO_23",""
+48,"TEXT_CLSPGL200_00562_HAMON_000_1","はぁ……<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>か……。
+わざわざ来てもらってすまないが……。
+今日はチュチュトに指導をしてもらってくれ……。"
+49,"TEXT_CLSPGL200_00562_CHUCHUTO_000_5","ふーむ、強くなった<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>を見ても、
+まだ師匠はやる気を起こさないみたいね……。
+もっともーっと闘争心を煽らないと……。"
+50,"TEXT_CLSPGL200_00562_CHUCHUTO_000_7","……そうだ！　<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>が、
+師匠が若いころ苦労した修行を楽々やり遂げちゃえば、
+闘争心を煽られるんじゃないかしら？"
+51,"TEXT_CLSPGL200_00562_CHUCHUTO_000_8","師匠は昔、連続攻撃を磨くために、
+わざわざ怒らせて凶暴になった魔物と戦って、
+修行をしたって言ってた。"
+52,"TEXT_CLSPGL200_00562_CHUCHUTO_000_9","例えば、ドライボーン南方にある蜂の住む木に
+「連撃」を使って、怒った蜂の群れを倒してたみたい。
+今でもそこには「拳撃の痕跡」が残ってるらしいわ。"
+53,"TEXT_CLSPGL200_00562_CHUCHUTO_000_12","あなたがそこで同じ修行をして、
+師匠に「ホーネットの毒針」を見せつければ、
+師匠は当時の闘魂を思い出すはずよ！"
+54,"TEXT_CLSPGL200_00562_HAMON_000_20","なんじゃぁ……。
+ワシのことは、放っといてくれんかのう……。"
+55,"TEXT_CLSPGL200_00562_HAMON_000_21","こっこれは……ホーネットの毒針！？
+まさか、あの木を使って修行をしたのか！？"
+56,"TEXT_CLSPGL200_00562_HAMON_000_22","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>がやり遂げたのか……！
+お主が、若い頃のワシの修行を軽々と……！
+"
+57,"TEXT_CLSPGL200_00562_HAMON_000_23","ぐぬぬ……ワシだって……ワシだってまた……
+かつてのスタミナを！！　闘魂を取り戻したい！！！"
+58,"TEXT_CLSPGL200_00562_HAMON_000_25","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>よ！
+手合わせをしようぞ！
+この熱い想いを忘れぬうちにじゃ！！"
+59,"TEXT_CLSPGL200_00562_INSTANCE_BATTLE_YESNO_TITLE","クエスト「ClsPgl200」のバトルを開始しますか？"
+60,"TEXT_CLSPGL200_00562_INSTANCE_BATTLE_YESNO_YES","はい"
+61,"TEXT_CLSPGL200_00562_INSTANCE_BATTLE_YESNO_NO","いいえ"
+62,"TEXT_CLSPGL200_00562_HAMON_000_30","Hahaha! When I'm fighting you, it feels like I'm fighting my younger self, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>. If I keep at it, it's only a matter time before I make my comeback!"
+63,"TEXT_CLSPGL200_00562_WEGGFARR_000_32","(-???-)Gahahaha! What are ye doin' there, old man? Learnin' how to walk?"
+64,"TEXT_CLSPGL200_00562_WEGGFARR_000_33","Y-You! You're Weggfarr Wideaxe!"
+65,"TEXT_CLSPGL200_00562_WEGGFARR_000_34","Ahhh, I haven't heard that name in ages. Nay, no one's called me that since the day ye humiliated me on the bloodsands."
+66,"TEXT_CLSPGL200_00562_WEGGFARR_000_35","I gave up fightin' after that, an' was floatin' about aimlessly. But eventually I started doin' business under the Alacran name. As ye well know, yer former pupil Rurukuta works for me, though I had no idea he was trainin' under the Holyfist till recently."
+67,"TEXT_CLSPGL200_00562_WEGGFARR_000_37","But Holyfist ain't nothin' but a name these days, so I'm told. How do ye sleep at night, knowin' how feeble ye've become?"
+68,"TEXT_CLSPGL200_00562_WEGGFARR_000_38","If ye have trouble sleepin', ye could always try a whiff o' somnus. Like as not, though, a dodderin' old man like ye won't ever wake up again! Gahahaha!"
+69,"TEXT_CLSPGL200_00562_HAMON_000_39","Shut your mouth, Weggfarr, or I'll shut it for you!"
+70,"TEXT_CLSPGL200_00562_WEGGFARR_000_40","With what, old man? Yer fists're as flaccid as yer member!
+...Ah, but let's be civilized for a moment. We're old friends, after all, an' friends help each other out."
+71,"TEXT_CLSPGL200_00562_WEGGFARR_000_42","If yer serious about makin' a comeback, I'd gladly to lend a hand. By way o' motivatin' ye, how's about we have us a rematch? O' course, it'd take place in public. Oh, an' the winner takes the Pugilists' Guild."
+72,"TEXT_CLSPGL200_00562_CHUCHUTO_000_43","That's ridiculous! Master, we have nothing to gain by taking him up on this!"
+73,"TEXT_CLSPGL200_00562_WEGGFARR_000_45","Ah, this must be yer little nurse! Rest assured, when I take over the guild, I'll keep her on as me <Emphasis>personal</Emphasis> assistant! Gahahaha!"
+74,"TEXT_CLSPGL200_00562_CHUCHUTO_000_46","D-Do you really mean to fight him?"
+75,"TEXT_CLSPGL200_00562_HAMON_000_47","You don't need to worry, Chuchuto."
+76,"TEXT_CLSPGL200_00562_CHUCHUTO_000_48","Master..."
+77,"TEXT_CLSPGL200_00562_HAMON_000_49","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>. I don't mean to put undue pressure on you..."
+78,"TEXT_CLSPGL200_00562_HAMON_000_50","But the fate of the guild rests upon your young shoulders!"
+79,"TEXT_CLSPGL200_00562_CHUCHUTO_100_51","What!?"
+80,"TEXT_CLSPGL200_00562_HAMON_000_51","Listen to me, Chuchuto. I know I can do this. I just need <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> to keep getting stronger, as <If(PlayerParameter(4))>she<Else/>he</If>'s been doing so far. Fighting <If(PlayerParameter(4))>her<Else/>him</If> reminds of who I used to be, and I'm confident I can be that person again."
+81,"TEXT_CLSPGL200_00562_POP_MESSAGE","You sense a hostile presence!"
+82,"TEXT_CLSPGL200_00562_HAMON_000_72","If you're feeling apprehensive about all this, I don't blame you. I'm not blind to reality. If I were to fight Wegfarr as I am now, I'd be down for the count in a matter of heartbeats, if not lying dead in a pool of my own blood."
+83,"TEXT_CLSPGL200_00562_HAMON_000_73","But I'm determined to defeat Wegfarr, and I can with your help. Your presence sets my fighting spirit to raging, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>!"
+84,"TEXT_CLSPGL200_00562_HAMON_000_74","So keep at your training─I promise to do the same. When you've grown stronger, return here, and we'll continue your lessons."
+85,"TEXT_CLSPGL200_00562_QIB_TODO_1","Defeat Hamon!"
+86,"TEXT_CLSPGL200_00562_QIB_HAMON1_BATTLETALK_5CEC","ヒョッヒョッヒョ！いっくぞーい！！"
+87,"TEXT_CLSPGL200_00562_QIB_HAMON1_BATTLETALK_8CEC","拳聖のハモンの拳を、しかと目に焼き付けるが良い！"
+88,"TEXT_CLSPGL200_00562_QIB_HAMON1_BATTLETALK_HP0","ぐふぅっ！ジジイに向かって、容赦無いのう……。"
+89,"TEXT_CLSPGL200_00562_QIB_HAMON2_BATTLETALK_5CEC","よ、予定通り！拳の感覚を思い出してきたぞい！"
+90,"TEXT_CLSPGL200_00562_QIB_HAMON2_BATTLETALK_8CEC","次こそワシの真の力を出す！覚悟するんじゃよ！"
+91,"TEXT_CLSPGL200_00562_QIB_HAMON2_BATTLETALK_11CEC","それそれ！拳聖のハモンは止まらんぞい！！"
+92,"TEXT_CLSPGL200_00562_QIB_CHUCHUTO2_BATTLETALK_HP50","師匠……ああっもう、見てらんないわね……。"
+93,"TEXT_CLSPGL200_00562_QIB_HAMON2_BATTLETALK_HP0","おほぅっ！も、もうちょっと優しくして……。"
+94,"TEXT_CLSPGL200_00562_QIB_HAMON3_BATTLETALK_8CEC","け、計画通りじゃのう！力がみなぎってきよったわい！"
+95,"TEXT_CLSPGL200_00562_QIB_HAMON3_BATTLETALK_11CEC","もう一戦！最後にもう一戦やるぞい！！"
+96,"TEXT_CLSPGL200_00562_QIB_CHUCHUTO3_BATTLETALK_5CEC","し、師匠……まだやるのぉ！？"
+97,"TEXT_CLSPGL200_00562_QIB_HAMON3_BATTLETALK_14CEC","今度こそ……真の最強の超凄い拳聖の力、見せてくれる！"
+98,"TEXT_CLSPGL200_00562_QIB_HAMON3_BATTLETALK_HP60","まだじゃ……まだワシは戦えるっ！"
+99,"TEXT_CLSPGL200_00562_QIB_HAMON3_BATTLETALK_HP25","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>の拳の痛み……気持ちいい……！"
+100,"TEXT_CLSPGL200_00562_QIB_HAMON3_BATTLETALK_HP0","ぐはぁっ！わ、ワシ……なんだか目覚めちゃいそう……！"

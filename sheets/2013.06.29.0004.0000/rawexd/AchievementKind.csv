@@ -1,0 +1,17 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"Battle"
+2,"Class"
+3,"Currency"
+4,"Items"
+5,"Crafting"
+6,"Gathering"
+7,"Materia"
+8,"Quests"
+9,"Seasonal Events"
+10,"Dungeons"
+11,"Exploration"
+12,"Grand Company"
+13,"Legacy"

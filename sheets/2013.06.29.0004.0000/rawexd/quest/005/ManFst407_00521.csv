@@ -1,0 +1,147 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_MANFST407_00521_SEQ_00",""
+1,"TEXT_MANFST407_00521_SEQ_01",""
+2,"TEXT_MANFST407_00521_SEQ_02",""
+3,"TEXT_MANFST407_00521_SEQ_03",""
+4,"TEXT_MANFST407_00521_SEQ_04",""
+5,"TEXT_MANFST407_00521_SEQ_05",""
+6,"TEXT_MANFST407_00521_SEQ_06",""
+7,"TEXT_MANFST407_00521_SEQ_07",""
+8,"TEXT_MANFST407_00521_SEQ_08",""
+9,"TEXT_MANFST407_00521_SEQ_09",""
+10,"TEXT_MANFST407_00521_SEQ_10",""
+11,"TEXT_MANFST407_00521_SEQ_11",""
+12,"TEXT_MANFST407_00521_SEQ_12",""
+13,"TEXT_MANFST407_00521_SEQ_13",""
+14,"TEXT_MANFST407_00521_SEQ_14",""
+15,"TEXT_MANFST407_00521_SEQ_15",""
+16,"TEXT_MANFST407_00521_SEQ_16",""
+17,"TEXT_MANFST407_00521_SEQ_17",""
+18,"TEXT_MANFST407_00521_SEQ_18",""
+19,"TEXT_MANFST407_00521_SEQ_19",""
+20,"TEXT_MANFST407_00521_SEQ_20",""
+21,"TEXT_MANFST407_00521_SEQ_21",""
+22,"TEXT_MANFST407_00521_SEQ_22",""
+23,"TEXT_MANFST407_00521_SEQ_23",""
+24,"TEXT_MANFST407_00521_TODO_00","～と話す"
+25,"TEXT_MANFST407_00521_TODO_01",""
+26,"TEXT_MANFST407_00521_TODO_02",""
+27,"TEXT_MANFST407_00521_TODO_03",""
+28,"TEXT_MANFST407_00521_TODO_04",""
+29,"TEXT_MANFST407_00521_TODO_05",""
+30,"TEXT_MANFST407_00521_TODO_06",""
+31,"TEXT_MANFST407_00521_TODO_07",""
+32,"TEXT_MANFST407_00521_TODO_08",""
+33,"TEXT_MANFST407_00521_TODO_09",""
+34,"TEXT_MANFST407_00521_TODO_10",""
+35,"TEXT_MANFST407_00521_TODO_11",""
+36,"TEXT_MANFST407_00521_TODO_12",""
+37,"TEXT_MANFST407_00521_TODO_13",""
+38,"TEXT_MANFST407_00521_TODO_14",""
+39,"TEXT_MANFST407_00521_TODO_15",""
+40,"TEXT_MANFST407_00521_TODO_16",""
+41,"TEXT_MANFST407_00521_TODO_17",""
+42,"TEXT_MANFST407_00521_TODO_18",""
+43,"TEXT_MANFST407_00521_TODO_19",""
+44,"TEXT_MANFST407_00521_TODO_20",""
+45,"TEXT_MANFST407_00521_TODO_21",""
+46,"TEXT_MANFST407_00521_TODO_22",""
+47,"TEXT_MANFST407_00521_TODO_23",""
+48,"TEXT_MANFST407_00521_000010_LIVIA","You have spirit, that I will allow. Yet you struggle to the benefit of none, least of all yourself."
+49,"TEXT_MANFST407_00521_000020_MINFILIA","Ugh!"
+50,"TEXT_MANFST407_00521_000030_LIVIA","This “Echo” of yours intrigues us. We desire only to understand it. And for that, we need your help."
+51,"TEXT_MANFST407_00521_000040_LIVIA","You wish to be rid of the eikons, do you not?"
+52,"TEXT_MANFST407_00521_000050_LIVIA","You would have saved yourself a great deal of torment had you accepted our aid from the beginning."
+53,"TEXT_MANFST407_00521_000060_MINFILIA","Ugh! Ugggh..."
+54,"TEXT_MANFST407_00521_000070_LIVIA","Tell me everything, and I shall end it quickly. Refuse, and though you beg for death, you shall not have it."
+55,"TEXT_MANFST407_00521_000080_LIVIA","Which will it be?"
+56,"TEXT_MANFST407_00521_000090_MINFILIA","Ugggh! Ugh..."
+57,"TEXT_MANFST407_00521_000100_LIVIA","As you wish, my dear Minfilia."
+58,"TEXT_MANFST407_00521_000110_LIVIA","Unpleasant though it will be for all concerned, you leave us no choice but to employ more rigorous methods of study."
+59,"TEXT_MANFST407_00521_000120_LIVIA","Be so kind as to deliver the prisoners to Castrum Meridianum."
+60,"TEXT_MANFST407_00521_000130_IMPERIALSOLDIER","Yes, milady!"
+61,"TEXT_MANFST407_00521_000140_MINFILIA","<pant> <pant> <moan>"
+62,"TEXT_MANFST407_00521_300150_IMPERIALSOLDIER","Take the leader! Kill the rest!"
+63,"TEXT_MANFST407_00521_300160_IMPERIALSOLDIER","What the─!?"
+64,"TEXT_MANFST407_00521_300170_MINFILIA","Y'shtola!"
+65,"TEXT_MANFST407_00521_300180_YSHTOLA","Pray forgive us our delay!"
+66,"TEXT_MANFST407_00521_300190_YDA","Papalymo! Minfilia!"
+67,"TEXT_MANFST407_00521_300200_MINFILIA","Yda!"
+68,"TEXT_MANFST407_00521_300210_PAPALYMO","What took you so long!?"
+69,"TEXT_MANFST407_00521_300220_YDA","Well, it's nice to see you too!"
+70,"TEXT_MANFST407_00521_300230_YSHTOLA","The reunion must wait!"
+71,"TEXT_MANFST407_00521_300240_YDA","Right! First things first!"
+72,"TEXT_MANFST407_00521_300250_PAPALYMO","Yes, let's get back to being heavily outnumbered..."
+73,"TEXT_MANFST407_00521_300260_WEDGE","Uwaaah!"
+74,"TEXT_MANFST407_00521_300270_BIGGS","You ditched your magitek armor!? Fool of a Lalafell!"
+75,"TEXT_MANFST407_00521_300280_WEDGE","Well, EXCUSE ME! She's all yours if you think you can do any better!"
+76,"TEXT_MANFST407_00521_300290_IMPERIALSOLDIER","<gasp>"
+77,"TEXT_MANFST407_00521_300300_IMPERIALSOLDIER","But there's no one in there!"
+78,"TEXT_MANFST407_00521_300310_CID","This is Cid! Can you hear me!?"
+79,"TEXT_MANFST407_00521_300320_CID","I need you to count to five, then jump! Understood!?"
+80,"TEXT_MANFST407_00521_300330_YSHTOLA","One..."
+81,"TEXT_MANFST407_00521_300340_YDA","Two!"
+82,"TEXT_MANFST407_00521_300350_PAPALYMO","Three!"
+83,"TEXT_MANFST407_00521_300360_MINFILIA","Four!"
+84,"TEXT_MANFST407_00521_400370_GAIUS","エオルゼアの為政者たちが吠えた演説……。
+力の伴わぬ、空虚な言葉の数々……。"
+85,"TEXT_MANFST407_00521_400380_GAIUS","茶番を演じる弱き為政者と、
+それに喝采を送る愚かな民……まさに滑稽なり。"
+86,"TEXT_MANFST407_00521_400390_GAIUS","解るか「暁」よ……。
+必要なのは力。
+民を守り、導き、この地を救う真なる力だ！"
+87,"TEXT_MANFST407_00521_400400_GAIUS","蛮神を征すこの力こそ、エオルゼアを救う王者の剣よ。
+それを覚えておくのだな。"
+88,"TEXT_MANFST407_00521_400410_CID","なにッ！？"
+89,"TEXT_MANFST407_00521_400420_CID","今のは……！"
+90,"TEXT_MANFST407_00521_400430_ALPHINAUD","蛮神「ガルーダ」を倒した、例の兵器か！？"
+91,"TEXT_MANFST407_00521_400440_MINFILIA","アルテマウェポン……完成していたのね……。"
+92,"TEXT_MANFST407_00521_400450_ALPHINAUD","アルテマ……ウェポン……。"
+93,"TEXT_MANFST407_00521_400460_MINFILIA","アラミゴで発掘された、古代アラグ帝国の遺産。
+あらゆる蛮神を打ち払い、あらゆる国を焼き払うという、
+絶対の力。"
+94,"TEXT_MANFST407_00521_400470_MINFILIA","帝国は、その力を携え、
+エオルゼア諸国に服従を誓わせる気よ！"
+95,"TEXT_MANFST407_00521_400480_CID","ガイウス、貴様はッ！"
+96,"TEXT_MANFST407_00521_400490_ALPHINAUD","あれは！？
+見ろ、ガイウスの横！"
+97,"TEXT_MANFST407_00521_400500_ALPHINAUD","奴は天使い……天使い「アシエン」だ！"
+98,"TEXT_MANFST407_00521_400510_ALPHINAUD","しかも、あの法衣……。
+闇の異形者と呼ばれ、アシエンたちを束ねる
+上級の存在……。"
+99,"TEXT_MANFST407_00521_400520_MINFILIA","では、あれが！
+あれが、アシエン・ラハブレア！"
+100,"TEXT_MANFST407_00521_400530_MINFILIA","サンクレッド！？"
+101,"TEXT_MANFST407_00521_400540_MINFILIA","そんな、サンクレッド！
+彼が、アシエン・ラハブレアだったというの！？"
+102,"TEXT_MANFST407_00521_400550_CID","限界だ！
+脱出するぞ！"
+103,"TEXT_MANFST407_00521_400560_MINFILIA","サンクレッドォォォ！！"
+104,"TEXT_MANFST407_00521_400570_LAHABREAEORZEA","ハハハハハッ！
+フハハハハハハハッ！"
+105,"TEXT_MANFST407_00521_500580_ALPHINAUD","サンクレッドが、アシエン・ラハブレアだったとはな……。"
+106,"TEXT_MANFST407_00521_500590_ALPHINAUD","よりにもよって、彼にアシエン関連の調査を
+進めさせていたのは私なのだぞ！
+気付けなかった自分が情けない！"
+107,"TEXT_MANFST407_00521_500600_ALPHINAUD","そして、我々の情報は、奴らに筒抜けだったというわけだ。
+……クソッ！"
+108,"TEXT_MANFST407_00521_500610_ALPHINAUD","帝国の切り札、アルテマウェポンは完成した。
+蛮神を、いとも容易くねじ伏せる力。
+そしてあの火力……。"
+109,"TEXT_MANFST407_00521_500620_ALPHINAUD","あの兵器の脅威を、一刻も早く
+「エオルゼア同盟軍」に伝えなければならない。"
+110,"TEXT_MANFST407_00521_500630_ALPHINAUD","落ち込んでいる場合ではないぞ！"
+111,"TEXT_MANFST407_00521_500640_MINFILIA","もしもし……。そう、わたしよ、ミンフィリア。ご無沙汰してるわね。お陰様で無事よ。それはそうと、頼んでいたアレ、もうできてる？急ぎで悪いんだけど、届けて欲しいの。ええ、わかった。ありがとう、クルル。委員長……お祖父様によろしくね。"
+112,"TEXT_MANFST407_00521_500650_ALPHINAUD","ともあれ、皆は無事だったのだ。"
+113,"TEXT_MANFST407_00521_500660_ALPHINAUD","敵がどんなに強大であろうとも、力を合わせて戦えばよい。
+「暁の血盟」には、それができるのだから。"
+114,"TEXT_MANFST407_00521_500670_ALPHINAUD","今こそ、エオルゼア諸国へ知らしめるのだ！
+蛮神「ガルーダ」討伐の報（しらせ）とともに、
+「暁」が蘇ったことを！"
+115,"TEXT_MANFST407_00521_500680_ALPHINAUD","ここからの戦いは、君が頼りだ。
+頼んだぞ。"
+116,"TEXT_MANFST407_00521_500690_MINFILIA","……それじゃ。"
+117,"TEXT_MANFST407_00521_500700_MINFILIA","行きましょう。
+諸国を束ねる首領たちの元へ。"

@@ -1,0 +1,1604 @@
+﻿key,0,1,2,3,4,5,6,7
+#,,,,,,,,
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
+0,"",0,"",0,0,1,0,0
+1,"sandbag",0,"sandbags",0,0,1,0,0
+2,"ruins runner",0,"ruins runners",0,0,1,0,0
+3,"antelope doe",0,"antelope does",0,1,1,0,0
+4,"antelope stag",0,"antelope stags",0,1,1,0,0
+5,"opo-opo",0,"opo-opos",0,1,1,0,0
+6,"lemur",0,"lemurs",0,0,1,0,0
+7,"giant gnat",0,"giant gnats",0,0,1,0,0
+8,"ked",0,"keds",0,0,1,0,0
+9,"miteling",0,"mitelings",0,0,1,0,0
+10,"diremite",0,"diremites",0,0,1,0,0
+11,"banemite",0,"banemites",0,0,1,0,0
+12,"northern vulture",0,"northern vultures",0,0,1,0,0
+13,"arbor buzzard",0,"arbor buzzards",0,1,1,0,0
+14,"wild hoglet",0,"wild hoglets",0,0,1,0,0
+15,"wild hog",0,"wild hogs",0,0,1,0,0
+16,"wild boar",0,"wild boars",0,0,1,0,0
+17,"balloon",0,"balloons",0,0,1,0,0
+18,"zombie",0,"zombies",0,0,1,0,0
+19,"zombie mage",0,"zombie mages",0,0,1,0,0
+20,"magicked bones",0,"magicked bones",0,0,1,0,0
+21,"trickster imp",0,"trickster imps",0,0,1,0,0
+22,"roselet",0,"roselets",0,0,1,0,0
+23,"kedtrap",0,"kedtraps",0,0,1,0,0
+24,"treant",0,"treants",0,0,1,0,0
+25,"dryad",0,"dryads",0,0,1,0,0
+26,"gigantoad",0,"gigantoads",0,0,1,0,0
+27,"nix",0,"nixes",0,0,1,0,0
+28,"coeurl pup",0,"coeurl pups",0,0,1,0,0
+29,"dullahan",0,"dullahan",0,0,1,0,0
+30,"clay golem",0,"clay golems",0,0,1,0,0
+31,"mindflayer",0,"mindflayers",0,0,1,0,0
+32,"microchu",0,"microchus",0,0,1,0,0
+33,"ochu",0,"ochus",0,1,1,0,0
+34,"adamantoise",0,"adamantoises",0,1,1,0,0
+35,"tonberry",0,"tonberries",0,0,1,0,0
+36,"boring weevil",0,"boring weevils",0,0,1,0,0
+37,"ground squirrel",0,"ground squirrels",0,0,1,0,0
+38,"black bat",0,"black bats",0,0,1,0,0
+39,"tree slug",0,"tree slugs",0,0,1,0,0
+40,"shroud hare",0,"shroud hares",0,0,1,0,0
+41,"syrphid swarm",0,"syrphid swarms",0,0,1,0,0
+42,"yarzon",0,"yarzons",0,0,1,0,0
+43,"chigoe",0,"chigoes",0,0,1,0,0
+44,"jumping djigga",0,"jumping djiggas",0,0,1,0,0
+45,"will-o'-the-wisp",0,"will-o'-the-wisps",0,0,1,0,0
+46,"plasmoid",0,"plasmoids",0,0,1,0,0
+47,"forest funguar",0,"forest funguars",0,0,1,0,0
+48,"toadstool",0,"toadstools",0,0,1,0,0
+49,"little ladybug",0,"little ladybugs",0,0,1,0,0
+50,"goblin thug",0,"goblin thugs",0,0,1,0,0
+51,"alpha anole",0,"alpha anoles",0,1,1,0,0
+52,"Redbelly lookout",0,"Redbelly lookouts",0,0,1,0,0
+53,"3rd Cohort hoplomachus",0,"3rd Cohort hoplomachi",0,0,1,0,0
+54,"hornet swarm",0,"hornet swarms",0,0,1,0,0
+55,"death gaze",0,"death gazes",0,0,1,0,0
+56,"water sprite",0,"water sprites",0,0,1,0,0
+57,"3rd Cohort decurion",0,"3rd Cohort decurions",0,0,1,0,0
+58,"3rd Cohort laquearius",0,"3rd Cohort laquearii",0,0,1,0,0
+59,"3rd Cohort eques",0,"3rd Cohort equites",0,0,1,0,0
+60,"3rd Cohort secutor",0,"3rd Cohort secutores",0,0,1,0,0
+61,"3rd Cohort signifer",0,"3rd Cohort signiferi",0,0,1,0,0
+62,"pteroc",0,"pterocs",0,0,1,0,0
+63,"pudding",0,"puddings",0,0,1,0,0
+64,"sylvan screech",0,"sylvan screeches",0,0,1,0,0
+65,"sylvan sigh",0,"sylvan sighs",0,0,1,0,0
+66,"sylvan snarl",0,"sylvan snarls",0,0,1,0,0
+67,"sylpheed screech",0,"sylpheed screeches",0,0,1,0,0
+68,"sylpheed sigh",0,"sylpheed sighs",0,0,1,0,0
+69,"sylpheed snarl",0,"sylpheed snarls",0,0,1,0,0
+70,"sylpheed song",0,"sylpheed songs",0,0,1,0,0
+71,"Silbexio of the Dusken Knot",0,"Silbexio of the Dusken Knot",0,0,1,0,1
+72,"Bockman",0,"Bockman",0,0,1,0,1
+73,"Galvanth the Dominator",0,"Galvanth the Dominator",0,0,1,0,1
+74,"Shredder",0,"Shredder",0,0,1,0,1
+75,"Aerico",0,"Aerico",0,0,1,0,1
+76,"Gelmorran strutfinder",0,"Gelmorran strutfinders",0,0,1,0,0
+77,"Gelmorran cogfinder",0,"Gelmorran cogfinders",0,0,1,0,0
+78,"Gelmorran nailfinder",0,"Gelmorran nailfinders",0,0,1,0,0
+79,"Dalamud priest",0,"Dalamud priests",0,0,1,0,0
+80,"Redbelly gutter",0,"Redbelly gutters",0,0,1,0,0
+81,"Severaint Seven Splinter",0,"Severaint Seven Splinter",0,0,1,0,1
+82,"Redbelly hivekeep",0,"Redbelly hivekeeps",0,0,1,0,0
+83,"Redbelly sharpeye",0,"Redbelly sharpeyes",0,0,1,0,0
+84,"Redbelly chanter",0,"Redbelly chanters",0,0,1,0,0
+85,"Dofagan the Penitent",0,"Dofagan the Penitent",0,0,1,0,1
+86,"Hollow Baron lodesman",0,"Hollow Baron lodesmen",0,0,1,0,0
+87,"Hollow Baron waister",0,"Hollow Baron waisters",0,0,1,0,0
+88,"Hollow Baron engineer",0,"Hollow Baron engineers",0,0,1,0,0
+89,"Hollow Baron gunner",0,"Hollow Baron gunners",0,0,1,0,0
+90,"spriggan collector",0,"spriggan collectors",0,0,1,0,0
+91,"spriggan",0,"spriggans",0,0,1,0,0
+92,"Antares",0,"Antares",0,0,1,0,1
+93,"Sargas",0,"Sargas",0,0,1,0,1
+94,"Shaula",0,"Shaula",0,0,1,0,1
+95,"flux flan",0,"flux flans",0,0,1,0,0
+96,"hecatoncheir overseer",0,"hecatoncheir overseers",0,0,1,0,0
+97,"hecatoncheir stonehauler",0,"hecatoncheir stonehaulers",0,0,1,0,0
+98,"hecatoncheir shockblocker",0,"hecatoncheir shockblockers",0,0,1,0,0
+99,"hecatoncheir piledriver",0,"hecatoncheir piledrivers",0,0,1,0,0
+100,"hecatoncheir blastmaster",0,"hecatoncheir blastmasters",0,0,1,0,0
+101,"Gyges the Great",0,"Gyges the Great",0,0,1,0,1
+102,"Ixali swordfighter",0,"Ixali swordfighters",0,1,1,0,0
+103,"Ixali boldwing",0,"Ixali boldwings",0,1,1,0,0
+104,"Ixali swiftbeak",0,"Ixali swiftbeaks",0,1,1,0,0
+105,"Ixali fogcaller",0,"Ixali fogcallers",0,1,1,0,0
+106,"coeurl",0,"coeurls",0,0,1,0,0
+107,"mandragora",0,"mandragoras",0,0,1,0,0
+108,"sandbag",0,"sandbags",0,0,1,0,0
+109,"gravedigger",0,"gravediggers",0,0,1,0,0
+110,"skeleton soldier",0,"skeleton soldiers",0,0,1,0,0
+111,"Deepcroft miteling",0,"Deepcroft mitelings",0,0,1,0,0
+112,"lesser kalong",0,"lesser kalongs",0,0,1,0,0
+113,"earth sprite",0,"earth sprites",0,1,1,0,0
+114,"ice sprite",0,"ice sprites",0,1,1,0,0
+115,"wind sprite",0,"wind sprites",0,0,1,0,0
+116,"fire sprite",0,"fire sprites",0,0,1,0,0
+117,"lightning sprite",0,"lightning sprites",0,0,1,0,0
+118,"midge swarm",0,"midge swarms",0,0,1,0,0
+119,"Octavel the Unforgiving",0,"Octavel the Unforgiving",0,0,1,0,1
+120,"anole",0,"anoles",0,1,1,0,0
+121,"Redbelly swarmpoint",0,"Redbelly swarmpoints",0,0,1,0,0
+122,"Redbelly stinger",0,"Redbelly stingers",0,0,1,0,0
+123,"toxic battrap",0,"toxic battraps",0,0,1,0,0
+124,"toxic flytrap",0,"toxic flytraps",0,0,1,0,0
+125,"pus gnat",0,"pus gnats",0,0,1,0,0
+126,"giant slug",0,"giant slugs",0,0,1,0,0
+127,"enormous slug",0,"enormous slugs",0,1,1,0,0
+128,"treant sapling",0,"treant saplings",0,0,1,0,0
+129,"firefly",0,"fireflies",0,0,1,0,0
+130,"lindwurm",0,"lindwurms",0,0,1,0,0
+131,"crater golem",0,"crater golems",0,0,1,0,0
+132,"smoke bomb",0,"smoke bombs",0,0,1,0,0
+133,"giant bat",0,"giant bats",0,0,1,0,0
+134,"tainted earth sprite",0,"tainted earth sprites",0,0,1,0,0
+135,"tainted wind sprite",0,"tainted wind sprites",0,0,1,0,0
+136,"tainted water sprite",0,"tainted water sprites",0,0,1,0,0
+137,"wandering bones",0,"wandering bones",0,0,1,0,0
+138,"Redbelly jack",0,"Redbelly jacks",0,0,1,0,0
+139,"Coeurlclaw hunter",0,"Coeurlclaw hunters",0,0,1,0,0
+140,"Coeurlclaw poacher",0,"Coeurlclaw poachers",0,0,1,0,0
+141,"parasite funguar",0,"parasite funguars",0,0,1,0,0
+142,"young antelope stag",0,"young antelope stags",0,0,1,0,0
+143,"Ak-Inik varlet",0,"Ak-Inik varlets",0,1,1,0,0
+144,"Ak-Mena varlet",0,"Ak-Mena varlets",0,1,1,0,0
+145,"carrion beetle",0,"carrion beetles",0,0,1,0,0
+146,"fleshfly swarm",0,"fleshfly swarms",0,0,1,0,0
+147,"croftlight",0,"croftlights",0,0,1,0,0
+148,"void lamp",0,"void lamp",0,0,1,0,0
+149,"horde mite",0,"horde mites",0,0,1,0,0
+150,"bastard mite",0,"bastard mites",0,0,1,0,0
+151,"tainted louse",0,"tainted louses",0,0,1,0,0
+152,"void flame",0,"void flames",0,0,1,0,0
+153,"prison pteroc",0,"prison pterocs",0,0,1,0,0
+154,"Mun-Tuy sapling",0,"Mun-Tuy saplings",0,0,1,0,0
+155,"mitetrap",0,"mitetraps",0,0,1,0,0
+156,"gaoler's lantern",0,"gaoler's lanterns",0,0,1,0,0
+157,"cell mite",0,"cell mites",0,0,1,0,0
+158,"prison pudding",0,"prison puddings",0,0,1,0,0
+159,"widow's suitor",0,"widow's suitors",0,0,1,0,0
+160,"Sylphlands buzzard",0,"Sylphlands buzzards",0,0,1,0,0
+161,"pit boar",0,"pit boars",0,0,1,0,0
+162,"milkroot sapling",0,"milkroot saplings",0,0,1,0,0
+163,"Sylphlands sentinal",0,"Sylphlands sentinals",0,0,1,0,0
+164,"dreamtoad",0,"dreamtoads",0,0,1,0,0
+165,"milkroot cluster",0,"milkroot clusters",0,0,1,0,0
+166,"sylph bonnet",0,"sylph bonnets",0,0,1,0,0
+167,"sylpheed dream",0,"sylpheed dreams",0,0,1,0,0
+168,"hoverfly swarm",0,"hoverfly swarms",0,0,1,0,0
+169,"Coeurlclaw cutter",0,"Coeurlclaw cutters",0,0,1,0,0
+170,"deepvoid deathmouse",0,"deepvoid deathmice",0,0,1,0,0
+171,"lesser kalong",0,"lesser kalongs",0,0,1,0,0
+172,"Redbelly larcener",0,"Redbelly larceners",0,0,1,0,0
+173,"anole familiar",0,"anole familiars",0,1,1,0,0
+174,"watchwolf",0,"watchwolves",0,0,1,0,0
+175,"poisonous flytrap",0,"poisonous flytraps",0,0,1,0,0
+176,"foraging doe",0,"foraging does",0,0,1,0,0
+177,"leafbleed slug",0,"leafbleed slugs",0,0,1,0,0
+178,"leafbleed mite",0,"leafbleed mites",0,0,1,0,0
+179,"shroudbee swarm",0,"shroudbee swarms",0,0,1,0,0
+180,"leafbleed roseling",0,"leafbleed roselings",0,0,1,0,0
+181,"carrion chigoe",0,"carrion chigoes",0,0,1,0,0
+182,"zombie pikeman",0,"zombie pikemen",0,0,1,0,0
+183,"North Shroud lemur",0,"North Shroud lemurs",0,0,1,0,0
+184,"South Shroud opo-opo",0,"South Shroud opo-opos",0,0,1,0,0
+185,"Janremi Blackheart",0,"Janremi Blackheart",0,0,1,0,1
+186,"hedge knight",0,"hedge knights",0,0,1,0,0
+187,"marshlight",0,"marshlights",0,0,1,0,0
+188,"saprophagous slug",0,"saprophagous slugs",0,0,1,0,0
+189,"hot-blooded highwayman",0,"hot-blooded highwaymen",0,0,1,0,0
+190,"Ixali scout",0,"Ixali scouts",0,1,1,0,0
+191,"dewdrinker ladybug",0,"dewdrinker ladybugs",0,0,1,0,0
+192,"Ixali dulltalon",0,"Ixali dulltalons",0,1,1,0,0
+193,"Ixali lostwing",0,"Ixali lostwings",0,1,1,0,0
+194,"Ixali slowbeak",0,"Ixali slowbeaks",0,1,1,0,0
+195,"hoglet",0,"hoglets",0,0,1,0,0
+196,"black eft",0,"black efts",0,0,1,0,0
+197,"bog yarzon",0,"bog yarzons",0,0,1,0,0
+198,"nutbreaker squirrel",0,"nutbreaker squirrels",0,0,1,0,0
+199,"stumbling funguar",0,"stumbling funguars",0,0,1,0,0
+200,"carrier ladybug",0,"carrier ladybugs",0,0,1,0,0
+201,"syrphid cloud",0,"syrphid clouds",0,0,1,0,0
+202,"greedy hoglet",0,"greedy hoglets",0,0,1,0,0
+203,"leathervine microchu",0,"leathervine microchus",0,0,1,0,0
+204,"russet yarzon",0,"russet yarzons",0,0,1,0,0
+205,"mottled eft",0,"mottled efts",0,0,1,0,0
+206,"anole stalker",0,"anole stalkers",0,1,1,0,0
+207,"floating eye",0,"floating eyes",0,0,1,0,0
+208,"Ixali lightwing",0,"Ixali lightwings",0,1,1,0,0
+209,"Ixali deftalon",0,"Ixali deftalons",0,1,1,0,0
+210,"Ixali straightbeak",0,"Ixali straightbeaks",0,1,1,0,0
+211,"glowfly",0,"glowflies",0,0,1,0,0
+212,"lone wolf",0,"lone wolves",0,0,1,0,0
+213,"strangling ivy",0,"strangling ivies",0,0,1,0,0
+214,"overgrown ivy",0,"overgrown ivies",0,1,1,0,0
+215,"overgrown offering",0,"overgrown offerings",0,1,1,0,0
+216,"toxic toad",0,"toxic toads",0,0,1,0,0
+217,"laughing toad",0,"laughing toads",0,0,1,0,0
+218,"Qiqirn scrambler",0,"Qiqirn scramblers",0,0,1,0,0
+219,"Qiqirn beater",0,"Qiqirn beaters",0,0,1,0,0
+220,"faerie funguar",0,"faerie funguars",0,0,1,0,0
+221,"brood ziz",0,"brood ziz",0,0,1,0,0
+222,"molted ziz",0,"molted ziz",0,0,1,0,0
+223,"ziz gorlin",0,"ziz gorlins",0,0,1,0,0
+224,"ziz",0,"ziz",0,0,1,0,0
+225,"goblin hunter",0,"goblin hunters",0,0,1,0,0
+226,"river yarzon",0,"river yarzons",0,0,1,0,0
+227,"yarzon scavenger",0,"yarzon scavengers",0,0,1,0,0
+228,"bark eft",0,"bark efts",0,0,1,0,0
+229,"sylvan scream",0,"sylvan screams",0,0,1,0,0
+230,"sylvan sough",0,"sylvan soughs",0,0,1,0,0
+231,"sylvan groan",0,"sylvan groans",0,0,1,0,0
+232,"diseased treant",0,"diseased treants",0,0,1,0,0
+233,"oldgrowth treant",0,"oldgrowth treants",0,1,1,0,0
+234,"smallmouth orobon",0,"smallmouth orobon",0,0,1,0,0
+235,"bigmouth orobon",0,"bigmouth orobon",0,0,1,0,0
+236,"revenant",0,"revenants",0,0,1,0,0
+237,"morbol",0,"morbols",0,0,1,0,0
+238,"stroper",0,"stropers",0,0,1,0,0
+239,"raptor poacher",0,"raptor poachers",0,0,1,0,0
+240,"boar poacher",0,"boar poachers",0,0,1,0,0
+241,"wolf poacher",0,"wolf poachers",0,0,1,0,0
+242,"ahriman",0,"ahrimans",0,1,1,0,0
+243,"iron tortoise",0,"iron tortoises",0,1,1,0,0
+244,"giant tortoise",0,"giant tortoises",0,0,1,0,0
+245,"Amalj'aa lancer",0,"Amalj'aa lancers",0,1,1,0,0
+246,"Amalj'aa impaler",0,"Amalj'aa impalers",0,1,1,0,0
+247,"Amalj'aa javelinier",0,"Amalj'aa javeliniers",0,1,1,0,0
+248,"Amalj'aa halberdier",0,"Amalj'aa halberdiers",0,1,1,0,0
+249,"Amalj'aa archer",0,"Amalj'aa archers",0,1,1,0,0
+250,"Amalj'aa hunter",0,"Amalj'aa hunters",0,1,1,0,0
+251,"Amalj'aa ranger",0,"Amalj'aa rangers",0,1,1,0,0
+252,"Amalj'aa sniper",0,"Amalj'aa snipers",0,1,1,0,0
+253,"Amalj'aa pugilist",0,"Amalj'aa pugilists",0,1,1,0,0
+254,"Amalj'aa striker",0,"Amalj'aa strikers",0,1,1,0,0
+255,"Glassjaw Nazagg Gah",0,"Glassjaw Nazagg Gah",0,0,1,0,1
+256,"Amalj'aa bruiser",0,"Amalj'aa bruisers",0,1,1,0,0
+257,"Diamondjaw Nezedd Gah",0,"Diamondjaw Nezedd Gah",0,0,1,0,1
+258,"Amalj'aa thaumaturge",0,"Amalj'aa thaumaturges",0,1,1,0,0
+259,"Amalj'aa seer",0,"Amalj'aa seers",0,1,1,0,0
+260,"Amalj'aa divinator",0,"Amalj'aa divinators",0,1,1,0,0
+261,"Blackbile Maladd Chah",0,"Blackbile Maladd Chah",0,0,1,0,1
+262,"star marmot",0,"star marmots",0,0,1,0,0
+263,"dreadwolf",0,"dreadwolves",0,0,1,0,0
+264,"sundrake",0,"sundrakes",0,0,1,0,0
+265,"sandtoad",0,"sandtoads",0,0,1,0,0
+266,"Qiqirn shellsweeper",0,"Qiqirn shellsweepers",0,0,1,0,0
+267,"Babaroon Halfshell",0,"Babaroon Halfshell",0,0,1,0,1
+268,"Qiqirn roerunner",0,"Qiqirn roerunners",0,0,1,0,0
+269,"magitek vanguard",0,"magitek vanguards",0,0,1,0,0
+270,"grenade",0,"grenades",0,0,1,0,0
+271,"golden fleece",0,"golden fleeces",0,0,1,0,0
+272,"phurble",0,"phurbles",0,0,1,0,0
+273,"myotragus billy",0,"myotragus billies",0,0,1,0,0
+274,"myotragus nanny",0,"myotragus nannies",0,0,1,1,0
+275,"quartz doblyn",0,"quartz doblyns",0,0,1,0,0
+276,"rusty coblyn",0,"rusty coblyns",0,0,1,0,0
+277,"copper coblyn",0,"copper coblyns",0,0,1,0,0
+278,"lead coblyn",0,"lead coblyns",0,0,1,0,0
+279,"sun bat",0,"sun bats",0,0,1,0,0
+280,"sandstone golem",0,"sandstone golems",0,0,1,0,0
+281,"axe beak",0,"axe beaks",0,1,1,0,0
+282,"hammer beak",0,"hammer beaks",0,0,1,0,0
+283,"goblin mugger",0,"goblin muggers",0,0,1,0,0
+284,"yarzon feeder",0,"yarzon feeders",0,0,1,0,0
+285,"russet yarzon",0,"russet yarzons",0,0,1,0,0
+286,"sabotender",0,"sabotenders",0,0,1,0,0
+287,"cactuar",0,"cactuars",0,0,1,0,0
+288,"cochineal cactuar",0,"cochineal cactuars",0,0,1,0,0
+289,"eft",0,"efts",0,1,1,0,0
+290,"sandworm",0,"sandworms",0,0,1,0,0
+291,"ouroboros",0,"ouroboros",0,1,1,0,0
+292,"antling soldier",0,"antling soldiers",0,1,1,0,0
+293,"antling sentry",0,"antling sentries",0,1,1,0,0
+294,"antling worker",0,"antling workers",0,1,1,0,0
+295,"simurgh",0,"simurghs",0,0,1,0,0
+296,"bumble beetle",0,"bumble beetles",0,0,1,0,0
+297,"magitek colossus",0,"magitek colossi",0,0,1,0,0
+298,"sun midge swarm",0,"sun midge swarms",0,0,1,0,0
+299,"nesting buzzard",0,"nesting buzzards",0,0,1,0,0
+300,"cove buzzard",0,"cove buzzards",0,0,1,0,0
+301,"chasm buzzard",0,"chasm buzzards",0,0,1,0,0
+302,"dusty mongrel",0,"dusty mongrels",0,0,1,0,0
+303,"sandskin peiste",0,"sandskin peistes",0,0,1,0,0
+304,"basilisk",0,"basilisks",0,0,1,0,0
+305,"desert peiste",0,"desert peistes",0,0,1,0,0
+306,"tuco-tuco",0,"tuco-tucos",0,0,1,0,0
+307,"angler",0,"anglers",0,1,1,0,0
+308,"orobon",0,"orobon",0,1,1,0,0
+309,"bloated bogy",0,"bloated bogies",0,0,1,0,0
+310,"Moondrip stonehauler",0,"Moondrip stonehaulers",0,0,1,0,0
+311,"Amajina stonehauler",0,"Amajina stonehaulers",0,1,1,0,0
+312,"Moondrip blastmaster",0,"Moondrip blastmasters",0,0,1,0,0
+313,"Amajina blastmaster",0,"Amajina blastmasters",0,1,1,0,0
+314,"Moondrip piledriver",0,"Moondrip piledrivers",0,0,1,0,0
+315,"Amajina piledriver",0,"Amajina piledrivers",0,1,1,0,0
+316,"bomb",0,"bombs",0,0,1,0,0
+317,"spriggan graverobber",0,"spriggan graverobbers",0,0,1,0,0
+318,"snapping shrew",0,"snapping shrews",0,0,1,0,0
+319,"rotting corpse",0,"rotting corpses",0,0,1,0,0
+320,"fallen soldier",0,"fallen soldiers",0,0,1,0,0
+321,"fallen pikeman",0,"fallen pikemen",0,0,1,0,0
+322,"rotting noble",0,"rotting nobles",0,0,1,0,0
+323,"fallen mage",0,"fallen mages",0,0,1,0,0
+324,"fallen wizard",0,"fallen wizards",0,0,1,0,0
+325,"Deathstroke assassin",0,"Deathstroke assassins",0,0,1,0,0
+326,"Quiveron guard",0,"Quiveron guards",0,0,1,0,0
+327,"Venomtongue assassin",0,"Venomtongue assassins",0,0,1,0,0
+328,"Baron von Quiveron III Esquire",0,"Baron von Quiveron III Esquire",0,0,1,0,1
+329,"Straightshot assassin",0,"Straightshot assassins",0,0,1,0,0
+330,"Quiveron attendant",0,"Quiveron attendants",0,0,1,0,0
+331,"Corpse Brigade knuckledancer",0,"Corpse Brigade knuckledancers",0,0,1,0,0
+332,"Corpse Brigade firedancer",0,"Corpse Brigade firedancer",0,0,1,1,0
+333,"Corpse Brigade pikedancer",0,"Corpse Brigade pikedancers",0,0,1,0,0
+334,"Noble Whoresons smuggler",0,"Noble Whoresons smugglers",0,0,1,0,0
+335,"Noble Whoresons ringleader",0,"Noble Whoresons ringleaders",0,0,1,0,0
+336,"Noble Whoresons penman",0,"Noble Whoresons penmen",0,0,1,0,0
+337,"tempered gladiator",0,"tempered gladiators",0,0,1,0,0
+338,"tempered champion",0,"tempered champions",0,0,1,0,0
+339,"tempered orator",0,"tempered orators",0,0,1,0,0
+340,"archelon",0,"archelons",0,1,1,0,0
+341,"apkallu",0,"apkallus",0,1,1,0,0
+342,"shallowtail reaver",0,"shallowtail reavers",0,0,1,0,0
+343,"Aermswys the Stained",0,"Aermswys the Stained",0,0,1,0,1
+344,"shallowclaw reaver",0,"shallowclaw reavers",0,0,1,0,0
+345,"shelfclaw reaver",0,"shelfclaw reavers",0,0,1,0,0
+346,"shallowscale reaver",0,"shallowscale reavers",0,0,1,0,0
+347,"shelfscale reaver",0,"shelfscale reavers",0,0,1,0,0
+348,"shalloweye reaver",0,"shalloweye reavers",0,0,1,0,0
+349,"rivertoad",0,"rivertoads",0,0,1,0,0
+350,"Qiqirn eggdigger",0,"Qiqirn eggdiggers",0,0,1,0,0
+351,"Qiqirn gullroaster",0,"Qiqirn gullroasters",0,0,1,0,0
+352,"jungle coeurl",0,"jungle coeurls",0,0,1,0,0
+353,"goobbue",0,"goobbues",0,0,1,0,0
+354,"mossless goobbue",0,"mossless goobbues",0,0,1,0,0
+355,"mildewed goobbue",0,"mildewed goobbues",0,0,1,0,0
+356,"mossy goobbue",0,"mossy goobbues",0,0,1,0,0
+357,"aurochs",0,"aurochs",0,1,1,0,0
+358,"wounded aurochs",0,"wounded aurochs",0,0,1,0,0
+359,"great buffalo",0,"great buffaloes",0,0,1,0,0
+360,"sea wasp",0,"sea wasps",0,0,1,0,0
+361,"Bloodshore bell",0,"Bloodshore bells",0,0,1,0,0
+362,"drifting aurelia",0,"drifting aureliae",0,0,1,0,0
+363,"dusk bat",0,"dusk bats",0,0,1,0,0
+364,"cave bat",0,"cave bats",0,0,1,0,0
+365,"basalt golem",0,"basalt golems",0,0,1,0,0
+366,"giant pelican",0,"giant pelicans",0,0,1,0,0
+367,"goblin fisher",0,"goblin fishers",0,0,1,0,0
+368,"kobold dustman",0,"kobold dustmen",0,0,1,0,0
+369,"kobold pitman",0,"kobold pitmen",0,0,1,0,0
+370,"kobold pickman",0,"kobold pickmen",0,0,1,0,0
+371,"kobold priest",0,"kobold priests",0,0,1,0,0
+372,"kobold supplicant",0,"kobold supplicants",0,0,1,0,0
+373,"kobold missionary",0,"kobold missionaries",0,0,1,0,0
+374,"kobold deacon",0,"kobold deacons",0,0,1,0,0
+375,"kobold bedesman",0,"kobold bedesmen",0,0,1,0,0
+376,"kobold sidesman",0,"kobold sidesmen",0,0,1,0,0
+377,"kobold roundsman",0,"kobold roundsmen",0,0,1,0,0
+378,"kobold potman",0,"kobold potmen",0,0,1,0,0
+379,"kobold patrolman",0,"kobold patrolmen",0,0,1,0,0
+380,"kobold footman",0,"kobold footmen",0,0,1,0,0
+381,"forest yarzon",0,"forest yarzons",0,0,1,0,0
+382,"waterskipper",0,"waterskippers",0,0,1,0,0
+383,"yarzon bleeder",0,"yarzon bleeders",0,0,1,0,0
+384,"shelfclaw sahagin",0,"shelfclaw sahagin",0,0,1,0,0
+385,"trenchclaw sahagin",0,"trenchclaw sahagin",0,0,1,0,0
+386,"shelfscale sahagin",0,"shelfscale sahagin",0,0,1,0,0
+387,"North Tidegate grieve",0,"North Tidegate grieves",0,0,1,0,0
+388,"trenchfang sahagin",0,"trenchfang sahagin",0,0,1,0,0
+389,"shelfspine sahagin",0,"shelfspine sahagin",0,0,1,0,0
+390,"South Tidegate grieve",0,"South Tidegate grieves",0,0,1,0,0
+391,"salamander",0,"salamanders",0,0,1,0,0
+392,"lost lamb",0,"lost lambs",0,0,1,0,0
+393,"wild dodo",0,"wild dodo",0,0,1,0,0
+394,"fat dodo",0,"fat dodos",0,0,1,0,0
+395,"bee cloud",0,"bee clouds",0,0,1,0,0
+396,"dung midge swarm",0,"dung midge swarms",0,0,1,0,0
+397,"condor",0,"condors",0,0,1,0,0
+398,"highland condor",0,"highland condors",0,0,1,0,0
+399,"wild jackal",0,"wild jackals",0,0,1,0,0
+400,"roseling",0,"roselings",0,0,1,0,0
+401,"puk hatchling",0,"puk hatchlings",0,0,1,0,0
+402,"puk hatchling",0,"puk hatchlings",0,0,1,0,0
+403,"hedgemole",0,"hedgemoles",0,0,1,0,0
+404,"bogy",0,"bogies",0,0,1,0,0
+405,"tiny mandragora",0,"tiny mandragoras",0,0,1,0,0
+406,"raincatcher mandragora",0,"raincatcher mandragoras",0,0,1,0,0
+407,"ringtail",0,"ringtails",0,0,1,0,0
+408,"galago",0,"galagos",0,0,1,0,0
+409,"Moraby mole",0,"Moraby moles",0,0,1,0,0
+410,"sewer mole",0,"sewer moles",0,0,1,0,0
+411,"grass raptor",0,"grass raptors",0,0,1,0,0
+412,"velociraptor",0,"velociraptors",0,0,1,0,0
+413,"Mamool Ja executioner",0,"Mamool Ja executioners",0,0,1,0,0
+414,"Mamool Ja breeder",0,"Mamool Ja breeders",0,0,1,0,0
+415,"Mamool Ja sophist",0,"Mamool Ja sophists",0,0,1,0,0
+416,"Mamool Ja infiltrator",0,"Mamool Ja infiltrators",0,0,1,0,0
+417,"wharf rat",0,"wharf rats",0,0,1,0,0
+418,"grounded raider",0,"grounded raiders",0,0,1,0,0
+419,"Captain Petyr Pigeontoe",0,"Captain Petyr Pigeontoe",0,0,1,0,1
+420,"Rhotano buccaneer",0,"Rhotano buccaneers",0,0,1,0,0
+421,"grounded pirate",0,"grounded pirates",0,0,1,0,0
+422,"Lady Amandine",0,"Lady Amandine",0,0,1,1,1
+423,"manor claviger",0,"manor clavigers",0,0,1,1,0
+424,"lady's handmaiden",0,"lady's handmaidens",0,0,1,1,0
+425,"lady's candle",0,"lady's candles",0,0,1,0,0
+426,"manor jester",0,"manor jesters",0,0,1,0,0
+427,"manor steward",0,"manor stewards",0,0,1,0,0
+428,"manor sentry",0,"manor sentries",0,0,1,0,0
+429,"manor chef",0,"manor chefs",0,0,1,1,0
+430,"attic bat",0,"attic bats",0,1,1,0,0
+431,"attack hound",0,"attack hounds",0,1,1,0,0
+432,"carpet stain",0,"carpet stains",0,0,1,0,0
+433,"divan mold",0,"divan molds",0,0,1,0,0
+434,"manor servitor",0,"manor servitors",0,0,1,0,0
+435,"corpsefly",0,"corpseflies",0,0,1,0,0
+436,"Ixali windtalon",0,"Ixali windtalons",0,1,1,0,0
+437,"fleshy pod",0,"fleshy pods",0,0,1,0,0
+438,"prisoner's delight",0,"prisoner's delights",0,0,1,0,0
+439,"sticky web",0,"sticky web",0,0,1,0,0
+440,"Graffias's tail",0,"Graffias's tail",0,0,1,0,0
+441,"warden's whip",0,"warden's whips",0,0,1,0,0
+442,"Coeurl o' Nine Tails",0,"Coeurl o' Nine Tails",0,0,1,0,0
+443,"comesmite",0,"comesmites",0,0,1,0,0
+444,"Graffias",0,"Graffias",0,0,1,1,1
+445,"stagnant water sprite",0,"stagnant water sprites",0,0,1,1,0
+446,"Asipatra",0,"Asipatra",0,0,1,0,1
+447,"Matagaigai",0,"Matagaigai",0,0,1,0,1
+448,"Lou Carcolh",0,"Lou Carcolh",0,0,1,0,1
+449,"Jackanapes",0,"Jackanapes",0,0,1,0,1
+450,"Spenser of the Bottomless Cup",0,"Spenser of the Bottomless Cup",0,0,1,0,1
+451,"Yabi Two-tails",0,"Yabi Two-tails",0,0,1,1,1
+452,"Curupira",0,"Curupira",0,0,1,0,1
+453,"Wood Wailer sentry",0,"Wood Wailer sentries",0,0,1,0,0
+454,"disorderly adventurer",0,"disorderly adventurers",0,0,1,0,0
+455,"void soulcounter",0,"void soulcounters",0,0,1,0,0
+456,"inconspicuous imp",0,"inconspicuous imps",0,1,1,0,0
+457,"unbalanced bandit",0,"unbalanced bandits",0,1,1,0,0
+458,"foraging doe",0,"foraging does",0,0,1,1,0
+459,"vile gnat",0,"vile gnats",0,0,1,0,0
+460,"foraging stag",0,"foraging stags",0,0,1,0,0
+461,"banemite",0,"banemites",0,0,1,0,0
+462,"snapscales",0,"snapscales",0,0,1,0,0
+463,"slithertwine",0,"slithertwines",0,0,1,0,0
+464,"goblin outlaw",0,"goblin outlaws",0,0,1,0,0
+465,"Stikflix Grumblytoss",0,"Stikflix Grumblytoss",0,0,1,0,1
+466,"domesticated banemite",0,"domesticated banemites",0,0,1,0,0
+467,"fachan",0,"fachans",0,0,1,0,0
+468,"pack ziz",0,"pack ziz",0,0,1,0,0
+469,"milkroot mandragora",0,"milkroot mandragoras",0,0,1,0,0
+470,"Briaxio of the Well",0,"Briaxio of the Well",0,0,1,0,1
+471,"angry sow",0,"angry sows",0,1,1,1,0
+472,"rotting sentinel",0,"rotting sentinels",0,0,1,0,0
+473,"mischief-maker imp",0,"mischief-maker imps",0,0,1,0,0
+474,"seven-year gnat",0,"seven-year gnats",0,0,1,0,0
+475,"alpha stag",0,"alpha stags",0,1,1,0,0
+476,"wanted goblin",0,"wanted goblins",0,0,1,0,0
+477,"lush morbol",0,"lush morbols",0,0,1,0,0
+478,"Kupni Kapp",0,"Kupni Kapp",0,0,1,1,1
+479,"Guttrix Sliverpicks",0,"Guttrix Sliverpicks",0,0,1,0,1
+480,"figgy pudding",0,"figgy puddings",0,0,1,0,0
+481,"greatwing ked",0,"greatwing keds",0,0,1,0,0
+482,"nutcracker squirrel",0,"nutcracker squirrels",0,0,1,0,0
+483,"lordless cutpurse",0,"lordless cutpurses",0,0,1,0,0
+484,"redcap",0,"redcaps",0,0,1,0,0
+485,"bark weevil",0,"bark weevils",0,0,1,0,0
+486,"stinging syrphid cloud",0,"stinging syrphid clouds",0,0,1,0,0
+487,"suckling hoglet",0,"suckling hoglets",0,0,1,0,0
+488,"lordless footpad",0,"lordless footpads",0,0,1,0,0
+489,"yarzon invader",0,"yarzon invaders",0,0,1,0,0
+490,"midge cloud",0,"midge clouds",0,0,1,0,0
+491,"wandering wisp",0,"wandering wisps",0,0,1,0,0
+492,"trickster imp",0,"trickster imps",0,0,1,0,0
+493,"zombie Wailer",0,"zombie Wailers",0,0,1,0,0
+494,"wight Wailer",0,"wight Wailers",0,0,1,0,0
+495,"leafbleed diremite",0,"leafbleed diremites",0,0,1,0,0
+496,"leafbleed banemite",0,"leafbleed banemites",0,0,1,0,0
+497,"leafbleed ochu",0,"leafbleed ochus",0,0,1,0,0
+498,"Zezeroon Stickyfingers",0,"Zezeroon Stickyfingers",0,0,1,0,1
+499,"lunging lemur",0,"lunging lemurs",0,0,1,0,0
+500,"trancetoad",0,"trancetoads",0,0,1,0,0
+501,"despicable devilet",0,"despicable devilets",0,0,1,0,0
+502,"greedy hog",0,"greedy hogs",0,0,1,0,0
+503,"plump orobon",0,"plump orobon",0,0,1,0,0
+504,"loam bogy",0,"loam bogies",0,0,1,0,0
+505,"leafbleed morbol",0,"leafbleed morbols",0,0,1,0,0
+506,"spawning adamantoise",0,"spawning adamantoises",0,0,1,1,0
+507,"orphaned sylph",0,"orphaned sylphs",0,1,1,0,0
+508,"angered elm",0,"angered elms",0,1,1,0,0
+509,"thickfur doe",0,"thickfur does",0,0,1,0,0
+510,"ボス部下（仮）",0,"",0,0,1,0,0
+511,"barricade",0,"barricades",0,0,1,0,0
+512,"Alux",0,"Alux",0,0,1,0,1
+513,"Prince of Pestilence",0,"Prince of Pestilence",0,0,1,1,0
+514,"Sirocco",0,"Sirocco",0,0,1,0,1
+515,"Coeurlclaw King",0,"Coeurlclaw King",0,0,1,1,0
+516,"Dschubba",0,"Dschubba",0,0,1,0,1
+517,"Miraudont the Madder",0,"Miraudont the Madder",0,0,1,1,1
+518,"serpent recruit",0,"Serpent recruits",0,0,1,0,0
+519,"Greatloam farmer",0,"Greatloam farmers",0,0,1,0,0
+520,"crestfallen merchant",0,"crestfallen merchants",0,0,1,0,0
+521,"guild-issue supplies",0,"bundles of guild-issue supplies",0,0,1,0,0
+522,"Mun-Tuy sack",0,"Mun-Tuy sacks",0,0,1,0,0
+523,"hive gate",0,"hive gates",0,0,1,0,0
+524,"bothered beekeeper",0,"bothered beekeepers",0,0,1,0,0
+525,"befuddled beekeeper",0,"befuddled beekeepers",0,0,1,0,0
+526,"Wood Wailer lance",0,"Wood Wailer lances",0,0,1,0,0
+527,"local hunter",0,"local hunters",0,0,1,0,0
+528,"North Shroud opo-opo",0,"North Shroud opo-opos",0,0,1,0,0
+529,"abused adventurer",0,"abused adventurers",0,1,1,0,0
+530,"au courant adventurer",0,"au courant adventurers",0,1,1,0,0
+531,"Little Solace sylph",0,"Little Solace sylphs",0,0,1,0,0
+532,"Coeurlclaw concubine",0,"Coeurlclaw concubines",0,0,1,0,0
+533,"shifty-eyed prospector",0,"shifty-eyed prospectors",0,0,1,0,0
+534,"frightened stag",0,"frightened stags",0,0,1,0,0
+535,"Jackanapes' bean-bearer",0,"Jackanapes' bean-bearers",0,0,1,0,1
+536,"sylph pillow",0,"sylph pillows",0,0,1,0,0
+537,"首",0,"",0,0,1,0,0
+538,"tempered sylph",0,"tempered sylphs",0,0,1,0,0
+539,"lunar golem",0,"lunar golems",0,0,1,0,0
+540,"Redbelly conspirator",0,"Redbelly conspirators",0,0,1,0,0
+541,"訓練人形（仮）",0,"",0,0,1,0,0
+542,"charging hog",0,"charging hogs",0,0,1,0,0
+543,"enchanted funguar",0,"enchanted funguars",0,1,1,0,0
+544,"longclaw galago",0,"longclaw galagos",0,0,1,0,0
+545,"honeydipper imp",0,"honeydipper imps",0,0,1,0,0
+546,"3rd Cohort bestarius",0,"3rd Cohort bestarii",0,0,1,0,0
+547,"Redbelly gatewatch",0,"Redbelly gatewatches",0,0,1,0,0
+548,"Kottos",0,"Kottos",0,0,1,0,1
+549,"Redbelly navvy",0,"Redbelly navvies",0,0,1,0,0
+550,"Coeurlclaw trapper",0,"Coeurlclaw trappers",0,0,1,0,0
+551,"goblin robber",0,"goblin robbers",0,0,1,0,0
+552,"stone golem",0,"stone golems",0,0,1,0,0
+553,"honeybee swarm",0,"honeybee swarms",0,0,1,0,0
+554,"Ichorous Ire",0,"Ichorous Ire",0,0,1,0,1
+555,"blasting cap",0,"blasting cap",0,0,1,0,0
+556,"Wood Wailer captain",0,"Wood Wailer captains",0,0,1,0,0
+557,"black eft",0,"black efts",0,0,1,0,0
+558,"Nunyunuwi",0,"Nunyunuwi",0,0,1,0,1
+559,"shelfeye reaver",0,"shelfeye reavers",0,0,1,0,0
+560,"snipper",0,"snippers",0,0,1,0,0
+561,"megalocrab",0,"megalocrabs",0,0,1,0,0
+562,"kobold quarryman",0,"kobold quarrymen",0,0,1,0,0
+563,"aurelia",0,"aureliae",0,1,1,0,0
+564,"potter wasp swarm",0,"potter wasp swarms",0,0,1,0,0
+565,"trenchtooth sahagin",0,"trenchtooth sahagins",0,0,1,0,0
+566,"midland condor",0,"midland condors",0,0,1,0,0
+567,"Sylphlands condor",0,"Sylphlands condors",0,0,1,0,0
+568,"Maisenta Hawke",0,"Maisenta Hawke",0,0,1,0,1
+569,"Hastridie Hawke",0,"Hastridie Hawke",0,0,1,0,1
+570,"Qiqirn beachcomber",0,"Qiqirn beachcombers",0,0,1,0,0
+571,"Thavnairian miteling",0,"Thavnairian mitelings",0,0,1,0,0
+572,"Thavnairian mite",0,"Thavnairian mites",0,0,1,0,0
+573,"sweettrap",0,"sweettraps",0,0,1,0,0
+574,"snipping shrew",0,"snipping shrews",0,0,1,0,0
+575,"silver coblyn",0,"silver coblyns",0,0,1,0,0
+576,"spriggan chumbler",0,"spriggan chumblers",0,0,1,0,0
+577,"untamed shrew",0,"untamed shrews",0,1,1,0,0
+578,"clay golem",0,"clay golems",0,0,1,0,0
+579,"Redbelly lookout",0,"Redbelly lookouts",0,0,1,0,0
+580,"Redbelly sharpeye",0,"Redbelly sharpeyes",0,0,1,0,0
+581,"Keroucene the Betrayer",0,"Keroucene the Betrayer",0,0,1,0,1
+582,"Keroucene's lackey",0,"Keroucene's lackeys",0,0,1,0,0
+583,"sylvan budnapper",0,"sylvan budnappers",0,0,1,0,0
+584,"3rd Cohort bestarius",0,"3rd Cohort bestarii",0,0,1,0,0
+585,"Coeurlclaw catspaw",0,"Coeurlclaw catspaws",0,0,1,0,0
+586,"3rd Cohort bestarius",0,"3rd Cohort bestarii",0,0,1,0,0
+587,"buzzing djigga",0,"buzzing djiggas",0,0,1,0,0
+588,"Mun-Tuy lemur",0,"Mun-Tuy lemurs",0,0,1,0,0
+589,"dwarf diremite",0,"dwarf diremites",0,0,1,0,0
+590,"northern vulture",0,"northern vultures",0,0,1,0,0
+591,"glowering glowfly",0,"glowering glowflies",0,0,1,0,0
+592,"lumber toad",0,"lumber toads",0,0,1,0,0
+593,"honeybee swarm",0,"honeybee swarms",0,0,1,0,0
+594,"tainted wind sprite",0,"tainted wind sprites",0,0,1,0,0
+595,"ocher jelly",0,"ocher jellies",0,1,1,0,0
+596,"Akoman",0,"Akoman",0,1,1,0,1
+597,"Nezul Cattlan the Violator",0,"Nezul Cattlan the Violator",0,0,1,0,1
+598,"Leih Aliapoh",0,"Leih Aliapoh",0,0,1,1,1
+599,"Silvairre",0,"Silvairre",0,0,1,0,1
+600,"Pawah Mujuuk the Ghost",0,"Pawah Mujuuk the Ghost",0,0,1,1,1
+601,"Coeurlclaw falconer",0,"Coeurlclaw falconers",0,0,1,0,0
+602,"hunting falcon",0,"hunting falcons",0,0,1,0,0
+603,"riverbank yarzon",0,"riverbank yarzons",0,0,1,0,0
+604,"Spirithold glowfly",0,"Spirithold glowflies",0,0,1,0,0
+605,"young anole",0,"young anoles",0,0,1,0,0
+606,"lockbreaker imp",0,"lockbreaker imps",0,0,1,0,0
+607,"angered elm",0,"angered elms",0,1,1,0,0
+608,"alpha wolf",0,"alpha wolves",0,1,1,0,0
+609,"soft-spoken lancer",0,"soft-spoken lancers",0,0,1,0,0
+610,"grizzled lancer",0,"grizzled lancers",0,0,1,0,0
+611,"sharp-eyed lancer",0,"sharp-eyed lancers",0,0,1,0,0
+612,"blood bat",0,"blood bats",0,0,1,0,0
+613,"red balloon",0,"red balloons",0,0,1,0,0
+614,"Foulques of the Mist",0,"Foulques of the Mist",0,0,1,0,1
+615,"wild-eyed treant",0,"wild-eyed treants",0,0,1,0,0
+616,"clay golem",0,"clay golems",0,0,1,0,0
+617,"masked mage",0,"masked mages",0,0,1,0,0
+618,"Drooling Daisy",0,"Drooling Daisy",0,0,1,1,1
+619,"Yda",0,"Yda",0,0,1,1,1
+620,"Papalymo",0,"Papalymo",0,0,1,0,1
+621,"Gods' Quiver bow",0,"Gods' Quiver bow",0,0,1,0,0
+622,"Wood Wailer lance",0,"Wood Wailer lance",0,0,1,0,0
+623,"lumber toad",0,"lumber toads",0,0,1,0,0
+624,"syrphid cloud",0,"syrphid clouds",0,0,1,0,0
+625,"servitor's lantern",0,"servitor's lanterns",0,0,1,0,0
+626,"Foulques",0,"Foulques",0,0,1,0,1
+627,"Thibain",0,"Thibain",0,0,1,0,1
+628,"Sylphie",0,"Sylphie",0,0,1,1,1
+629,"Copperbell coblyn",0,"Copperbell coblyns",0,0,1,0,0
+630,"",0,"",0,0,1,0,0
+631,"spriggan copper copper",0,"spriggan copper coppers",0,0,1,0,0
+632,"huge hornet",0,"huge hornets",0,0,1,0,0
+633,"manor maidservant",0,"manor maidservants",0,0,1,1,0
+634,"mirrorknight",0,"mirrorknights",0,0,1,0,0
+635,"scaphite",0,"scaphites",0,0,1,0,0
+636,"thickshell",0,"thickshells",0,0,1,0,0
+637,"dragonfly",0,"dragonflies",0,0,1,0,0
+638,"stoneshell",0,"stoneshells",0,0,1,0,0
+639,"colibri",0,"colibris",0,0,1,0,0
+640,"pugil",0,"pugils",0,0,1,0,0
+641,"wespe",0,"wespes",0,0,1,0,0
+642,"mud pugil",0,"mud pugils",0,0,1,0,0
+643,"uragnite",0,"uragnites",0,1,1,0,0
+644,"killer mantis",0,"killer mantises",0,0,1,0,0
+645,"mudpuppy",0,"mudpuppies",0,0,1,0,0
+646,"gigas bonze",0,"gigas bonzes",0,0,1,0,0
+647,"gigas shramana",0,"gigas shramanas",0,0,1,0,0
+648,"gigas sozu",0,"gigas sozus",0,0,1,0,0
+649,"gigas bhikkhu",0,"gigas bhikkhus",0,0,1,0,0
+650,"daring harrier",0,"daring harriers",0,0,1,0,0
+651,"raging harrier",0,"raging harriers",0,0,1,0,0
+652,"hexing harrier",0,"hexing harriers",0,0,1,0,0
+653,"snow wolf",0,"snow wolves",0,0,1,0,0
+654,"bull behemoth",0,"bull behemoths",0,0,1,0,0
+655,"behemoth",0,"behemoths",0,0,1,0,0
+656,"wyvern",0,"wyverns",0,0,1,0,0
+657,"thrustaevis",0,"thrustaevis",0,0,1,0,0
+658,"vodoriga",0,"vodorigas",0,0,1,0,0
+659,"snow wolf pup",0,"snow wolf pups",0,0,1,0,0
+660,"Ixali wildtalon",0,"Ixali wildtalons",0,1,1,0,0
+661,"Ixali stillbeak",0,"Ixali stillbeaks",0,1,1,0,0
+662,"Ixali boundwing",0,"Ixali boundwings",0,1,1,0,0
+663,"Ixali fearcaller",0,"Ixali fearcallers",0,1,1,0,0
+664,"ギルドメンバーA",0,"",0,0,1,0,0
+665,"チンピラA",0,"",0,0,1,0,0
+666,"チンピラB",0,"",0,0,1,0,0
+667,"親玉",0,"",0,0,1,0,0
+668,"アルディス",0,"",0,0,1,0,0
+669,"ヴィンセントの刺客A",0,"",0,0,1,0,0
+670,"弱そうなやつB",0,"",0,0,1,0,0
+671,"弱そうなやつC",0,"",0,0,1,0,0
+672,"ヴィンセントの刺客D",0,"",0,0,1,0,0
+673,"弱そうなやつE",0,"",0,0,1,0,0
+674,"",0,"",0,0,1,0,0
+675,"",0,"",0,0,1,0,0
+676,"",0,"",0,0,1,0,0
+677,"",0,"",0,0,1,0,0
+678,"",0,"",0,0,1,0,0
+679,"",0,"",0,0,1,0,0
+680,"",0,"",0,0,1,0,0
+681,"",0,"",0,0,1,0,0
+682,"",0,"",0,0,1,0,0
+683,"",0,"",0,0,1,0,0
+684,"",0,"",0,0,1,0,0
+685,"",0,"",0,0,1,0,0
+686,"",0,"",0,0,1,0,0
+687,"",0,"",0,0,1,0,0
+688,"",0,"",0,0,1,0,0
+689,"Mylla Swordsong",0,"Mylla Swordsong",0,0,1,1,1
+690,"Aldis, Sword of Nald",0,"Aldis, Sword of Nald",0,0,1,0,1
+691,"",0,"",0,0,1,0,0
+692,"",0,"",0,0,1,0,0
+693,"",0,"",0,0,1,0,0
+694,"",0,"",0,0,1,0,0
+695,"",0,"",0,0,1,0,0
+696,"hornet cloud",0,"hornet clouds",0,0,1,0,0
+697,"ザコタイプA",0,"",0,0,1,1,1
+698,"Zana Lyehga",0,"Zana Lyehga",0,0,1,0,0
+699,"ザコタイプA",0,"",0,0,1,0,0
+700,"ザコタイプB",0,"",0,0,1,0,0
+701,"ザコタイプC",0,"",0,0,1,0,0
+702,"ザコタイプD",0,"",0,0,1,0,0
+703,"ザコタイプE",0,"",0,0,1,0,0
+704,"ザコタイプF",0,"",0,0,1,0,0
+705,"ザコタイプG",0,"",0,0,1,0,0
+706,"ギルドメンバーA",0,"",0,0,1,0,0
+707,"ギルドメンバーB",0,"",0,0,1,0,0
+708,"Gotwin Halehex",0,"Gotwin Halehex",0,0,1,0,1
+709,"void slave",0,"void slaves",0,0,1,0,0
+710,"修行アーススプライト（仮）",0,"",0,0,1,0,0
+711,"ガーゴイルボス",0,"",0,0,1,0,0
+712,"ザコA",0,"",0,0,1,0,0
+713,"Thancred",0,"Thancred",0,0,1,0,1
+714,"Owyne",0,"Owyne",0,0,1,0,1
+715,"Papashan",0,"Papashan",0,0,1,0,1
+716,"spriggan sifter",0,"spriggan sifters",0,0,1,0,0
+717,"ガリバルド",0,"",0,0,1,0,0
+718,"ザコA",0,"",0,0,1,0,0
+719,"ザコB",0,"",0,0,1,0,0
+720,"銀冑団A",0,"",0,0,1,0,0
+721,"銀冑団B",0,"",0,0,1,0,0
+722,"ザコC",0,"",0,0,1,0,0
+723,"ザコD",0,"",0,0,1,0,0
+724,"ザコE",0,"",0,0,1,0,0
+725,"ザコF",0,"",0,0,1,0,0
+726,"masked mage",0,"masked mages",0,0,1,0,0
+727,"ボス",0,"",0,0,1,0,0
+728,"ザコA",0,"",0,0,1,0,0
+729,"Y'shtola",0,"Y'shtola",0,0,1,1,1
+730,"ザコB",0,"",0,0,1,0,0
+731,"海賊ボス",0,"",0,0,1,0,0
+732,"ザコA",0,"",0,0,1,0,0
+733,"ザコB",0,"",0,0,1,0,0
+734,"ウェジェノア",0,"",0,0,1,0,0
+735,"リフスロー",0,"",0,0,1,0,0
+736,"YJ警備兵A",0,"",0,0,1,0,0
+737,"YJ警備兵B",0,"",0,0,1,0,0
+738,"ザコC",0,"",0,0,1,0,0
+739,"ザコD",0,"",0,0,1,0,0
+740,"ザコE",0,"",0,0,1,0,0
+741,"ザコF",0,"",0,0,1,0,0
+742,"リュウイン",0,"",0,0,1,0,0
+743,"ミロードン",0,"",0,0,1,0,0
+744,"イクサル隊長",0,"",0,0,1,0,0
+745,"ザコA",0,"",0,0,1,0,0
+746,"ザコB",0,"",0,0,1,0,0
+747,"ザコC",0,"",0,0,1,0,0
+748,"ザコD",0,"",0,0,1,0,0
+749,"ザコE",0,"",0,0,1,0,0
+750,"???",0,"???",0,0,1,0,1
+751,"Hamon Holyfist",0,"Hamon Holyfist",0,0,1,0,1
+752,"Kuplu Kopo",0,"Kuplu Kopo",0,0,1,1,1
+753,"ザコA",0,"",0,0,1,0,0
+754,"ザコB",0,"",0,0,1,0,0
+755,"Diligence of the Alacran",0,"Diligence of the Alacran",0,0,1,0,0
+756,"Temperance of the Alacran",0,"Temperance of the Alacran",0,0,1,0,0
+757,"Kindness of the Alacran",0,"Kindness of the Alacran",0,0,1,0,0
+758,"Cocobusi the Cross",0,"Cocobusi the Cross",0,0,1,0,1
+759,"ザコA",0,"",0,0,1,0,0
+760,"ザコB",0,"",0,0,1,0,0
+761,"Fufulupa",0,"Fufulupa",0,0,1,0,1
+762,"Baldewyn",0,"Baldewyn",0,0,1,0,1
+763,"サー・カルヴラン",0,"",0,0,1,0,0
+764,"ザコA",0,"",0,0,1,0,0
+765,"soulsucker imp",0,"soulsucker imps",0,0,1,0,0
+766,"seemingly ordinary imp",0,"seemingly ordinary imps",0,0,1,0,0
+767,"stalwart swordsman",0,"stalwart swordsmen",0,0,1,0,0
+768,"Galfrid the Gallant",0,"Galfrid the Gallant",0,1,1,0,1
+769,"ザコA",0,"",0,0,1,0,0
+770,"ザコB",0,"",0,0,1,0,0
+771,"ザコC",0,"",0,0,1,0,0
+772,"ボス",0,"",0,0,1,0,0
+773,"ザコA",0,"",0,0,1,0,0
+774,"ザコB",0,"",0,0,1,0,0
+775,"ザコC",0,"",0,0,1,0,0
+776,"軍曹",0,"",0,0,1,0,0
+777,"二等兵A",0,"",0,0,1,0,0
+778,"二等兵B",0,"",0,0,1,0,0
+779,"二等兵C",0,"",0,0,1,0,0
+780,"チョコボ",0,"",0,0,1,0,0
+781,"void jumper",0,"void jumpers",0,0,1,0,0
+782,"void herald",0,"void heralds",0,0,1,0,0
+783,"void dross",0,"void dross",0,0,1,0,0
+784,"feral croc",0,"feral crocs",0,0,1,0,0
+785,"giant logger",0,"giant loggers",0,0,1,0,0
+786,"giant lugger",0,"giant luggers",0,0,1,0,0
+787,"giant reader",0,"giant readers",0,0,1,0,0
+788,"biast",0,"biasts",0,0,1,0,0
+789,"hippogryph",0,"hippogryphs",0,0,1,0,0
+790,"hippocerf",0,"hippocerfs",0,0,1,0,0
+791,"snowstorm yeti",0,"snowstorm yetis",0,0,1,0,0
+792,"yeti",0,"yetis",0,0,1,0,0
+793,"hapalit",0,"hapalits",0,0,1,0,0
+794,"redhorn ogre",0,"redhorn ogres",0,0,1,0,0
+795,"ornery karakul",0,"ornery karakuls",0,1,1,0,0
+796,"wold wolf",0,"wold wolves",0,0,1,0,0
+797,"キラーマシン",0,"",0,0,1,0,0
+798,"味方A",0,"",0,0,1,0,0
+799,"味方B",0,"",0,0,1,0,0
+800,"味方C",0,"",0,0,1,0,0
+801,"帝国兵隊長",0,"",0,0,1,0,0
+802,"ザコA",0,"",0,0,1,0,0
+803,"ザコB",0,"",0,0,1,0,0
+804,"ザコC",0,"",0,0,1,0,0
+805,"味方A",0,"",0,0,1,0,0
+806,"味方B",0,"",0,0,1,0,0
+807,"味方C",0,"",0,0,1,0,0
+808,"味方A",0,"",0,0,1,0,0
+809,"味方B",0,"",0,0,1,0,0
+810,"味方C",0,"",0,0,1,0,0
+811,"Ahtzapfyn the Absorbed",0,"Ahtzapfyn the Absorbed",0,0,1,0,1
+812,"silent lackey",0,"silent lackeys",0,0,1,0,0
+813,"Mamool Ja mercenary",0,"Mamool Ja mercenaries",0,0,1,0,0
+814,"Mamool Ja mercenary head",0,"Mamool Ja mercenary heads",0,0,1,0,0
+815,"Storm Captain Ghimthota Sthalmoenwyn",0,"Storm Captain Ghimthota Sthalmoenwyn",0,0,1,0,1
+816,"Storm Private C'nangho Enah",0,"Storm Private C'nangho Enah",0,0,1,1,1
+817,"silent lackey",0,"silent lackeys",0,0,1,0,0
+818,"Mamool Ja mercenary",0,"Mamool Ja mercenaries",0,0,1,0,0
+819,"star marmot",0,"star marmot",0,0,1,0,0
+820,"",0,"",0,0,1,0,0
+821,"",0,"",0,0,1,0,0
+822,"",0,"",0,0,1,0,0
+823,"Chuchuto Brightstar",0,"Chuchuto Brightstar",0,0,1,1,0
+824,"Solkwyb the Enlightened",0,"Solkwyb the Enlightened",0,0,1,1,0
+825,"molting megalocrab",0,"molting megalocrabs",0,0,1,0,0
+826,"砕岩のブルーンバル",0,"",0,0,1,0,0
+827,"アイランド・メガロクラブ",0,"",0,0,1,0,0
+828,"Rurukuta Tornstar",0,"Rurukuta Tornstar",0,0,1,0,1
+829,"Alacran bloodhound",0,"Alacran bloodhounds",0,1,1,0,0
+830,"Alacran warhound",0,"Alacran warhounds",0,1,1,0,0
+831,"bastet",0,"bastets",0,0,1,0,0
+832,"star marmot",0,"star marmots",0,0,1,0,0
+833,"pack jackal",0,"pack jackals",0,0,1,0,0
+834,"scarred jackal",0,"scarred jackals",0,0,1,0,0
+835,"pack jackal",0,"pack jackals",0,0,1,0,0
+836,"Glazrael Saltwind",0,"Glazrael Saltwind",0,0,1,0,1
+837,"Wyrstzoen",0,"Wyrstzoen",0,0,1,0,1
+838,"able-bodied ambusher",0,"able-bodied ambushers",0,1,1,0,0
+839,"namless attacker",0,"namless attackers",0,0,1,0,0
+840,"Baron von Quiveron III Esquire",0,"Baron von Quiveron III Esquire",0,0,1,0,1
+841,"Mormo",0,"Mormo",0,0,1,1,1
+842,"Cocobygo the Craven",0,"Cocobygo the Craven",0,0,1,0,1
+843,"Cocobani the Cold",0,"Cocobani the Cold",0,0,1,0,1
+844,"Cocobezi the Contemplative",0,"Cocobezi the Contemplative",0,0,1,0,1
+845,"Cocoboha the Curt",0,"Cocoboha the Curt",0,0,1,0,1
+846,"ザコA",0,"",0,0,1,0,0
+847,"ザコB",0,"",0,0,1,0,0
+848,"ザコC",0,"",0,0,1,0,0
+849,"Menuis",0,"Menuis",0,0,1,0,1
+850,"Shearing Sheridan",0,"Shearing Sheridan",0,0,1,0,1
+851,"chupacabra",0,"chupacabras",0,0,1,0,0
+852,"Cuachac",0,"Cuachac",0,0,1,0,1
+853,"Ahctstymm Shadowlurker",0,"Ahctstymm Shadowlurker",0,0,1,0,1
+854,"Anselm Larkscall",0,"Anselm Larkscall",0,0,1,0,1
+855,"Fiebras the Dull",0,"Fiebras the Dull",0,0,1,0,1
+856,"426th Order Pickman Bu Ga",0,"426th Order Pickman Bu Ga",0,0,1,0,1
+857,"Padfoot",0,"Padfoot",0,0,1,0,1
+858,"Kokoroon Quickfingers",0,"Kokoroon Quickfingers",0,0,1,0,1
+859,"Gluttonous Gertrude",0,"Gluttonous Gertrude",0,0,1,1,1
+860,"Old Six-arms",0,"Old Six-arms",0,0,1,0,1
+861,"Barometz",0,"Barometz",0,0,1,0,1
+862,"Tryptix Stumblemox",0,"Tryptix Stumblemox",0,0,1,0,1
+863,"Brollachan",0,"Brollachan",0,0,1,0,1
+864,"Aipaloovik",0,"Aipaloovik",0,0,1,0,1
+865,"doomed gigantoad",0,"doomed gigantoads",0,0,1,0,0
+866,"Cactuar Jack",0,"Cactuar Jack",0,0,1,0,1
+867,"Bubbly Bernie",0,"Bubbly Bernie",0,0,1,0,1
+868,"Crier Briareos",0,"Crier Briareos",0,0,1,0,1
+869,"Daddy Longlegs",0,"Daddy Longlegs",0,0,1,0,1
+870,"Grishild the Ungood",0,"Grishild the Ungood",0,0,1,0,1
+871,"Guguroon Wetnose",0,"Guguroon Wetnose",0,0,1,0,1
+872,"Babaroon Halfshell",0,"Babaroon Halfshell",0,0,1,0,1
+873,"Vodyanoi",0,"Vodyanoi",0,0,1,0,1
+874,"Spitfire",0,"Spitfire",0,0,1,0,1
+875,"nest commander",0,"nest commanders",0,0,1,0,0
+876,"Glassjaw Nazagg Gah",0,"Glassjaw Nazagg Gah",0,0,1,0,1
+877,"Undertaker",0,"Undertaker",0,0,1,0,1
+878,"Gossamer",0,"Gossamer",0,0,1,0,1
+879,"elder longhorn",0,"elder longhorn",0,1,1,0,0
+880,"longhorn billygoat",0,"longhorn billygoat",0,0,1,0,0
+881,"longhorn nannygoat",0,"longhorn nannygoat",0,0,1,0,0
+882,"Gisfrid the Grinder",0,"Gisfrid the Grinder",0,0,1,0,1
+883,"Miluda the Slitter",0,"Miluda the Slitter",0,0,1,1,1
+884,"Blackbile Maladd Chah",0,"Blackbile Maladd Chah",0,0,1,0,1
+885,"Ulhuadshi",0,"Ulhuadshi",0,0,1,0,1
+886,"Simurgh",0,"Simurgh",0,0,1,0,1
+887,"Odin",0,"Odin",0,0,1,0,1
+888,"U'jughal",0,"U'jughal",0,0,1,1,1
+889,"ranger of the Drake",0,"rangers of the Drake",0,0,1,1,0
+890,"healer of the Drake",0,"healers of the Drake",0,0,1,1,0
+891,"cute courtesan",0,"cute courtesan",0,0,1,1,0
+892,"Maelstrom recruit",0,"Maelstrom recruit",0,0,1,0,0
+893,"king wespe",0,"king wespes",0,0,1,0,0
+894,"rutting buffalo",0,"rutting buffaloes",0,0,1,0,0
+895,"cane toad",0,"cane toads",0,0,1,0,0
+896,"dune bogy",0,"dune bogys",0,0,1,0,0
+897,"spawning orobon",0,"spawning orobon",0,0,1,0,0
+898,"sledgehammer beak",0,"sledgehammer beaks",0,0,1,0,0
+899,"marble guradian",0,"marble guradians",0,0,1,0,0
+900,"Amalj'aa supply crate",0,"Amalj'aa supply crates",0,1,1,0,0
+901,"prism coblyn",0,"prism coblyns",0,0,1,0,0
+902,"shipment of brass cogs",0,"shipments of brass cogs",0,0,1,0,0
+903,"Storm Captain Loetahlsyn",0,"Storm Captain Loetahlsyn",0,0,1,0,1
+904,"Yellowjacket drill sergeant",0,"Yellowjacket drill sergeants",0,0,1,0,0
+905,"crate of oranges",0,"crates of oranges",0,0,1,0,0
+906,"Kujata",0,"Kujata",0,0,1,0,1
+907,"Weggfarr Wideaxe",0,"Weggfarr Wideaxe",0,0,1,0,1
+908,"",0,"",0,0,1,0,0
+909,"",0,"",0,0,1,0,0
+910,"",0,"",0,0,1,0,0
+911,"",0,"",0,0,1,0,0
+912,"",0,"",0,0,1,0,0
+913,"",0,"",0,0,1,0,0
+914,"hired hand",0,"hired hands",0,0,1,0,0
+915,"hired hand",0,"hired hands",0,0,1,0,0
+916,"hired hand",0,"hired hands",0,0,1,0,0
+917,"earth sprite",0,"earth sprites",0,1,1,0,0
+918,"U'kahmuli",0,"U'kahmuli",0,0,1,1,1
+919,"U'ralka",0,"U'ralka",0,0,1,1,1
+920,"U'konelua",0,"U'konelua",0,0,1,1,1
+921,"U'ndomii",0,"U'ndomii",0,0,1,1,1
+922,"U'lolamo",0,"U'lolamo",0,0,1,1,1
+923,"Duskwight sellsword",0,"Duskwight sellswords",0,0,1,0,0
+924,"Bruce the Big",0,"Bruce the Big",0,0,1,0,1
+925,"nameless attacker",0,"nameless attackers",0,0,1,0,0
+926,"Chastity of the Alacran",0,"Chastity of the Alacran",0,0,1,0,0
+927,"Humility of the Alacran",0,"Humility of the Alacran",0,0,1,0,0
+928,"Kindness of the Alacran",0,"Kindness of the Alacran",0,0,1,0,0
+929,"Temperance of the Alacran",0,"Temperance of the Alacran",0,0,1,0,0
+930,"Diligence of the Alacran",0,"Diligence of the Alacran",0,0,1,0,0
+931,"Charity of the Alacran",0,"Charity of the Alacran",0,0,1,0,0
+932,"Patience of the Alacran",0,"Patience of the Alacran",0,0,1,0,0
+933,"novice gladiator",0,"novice gladiators",0,0,1,0,0
+934,"veteran gladiator",0,"veteran gladiators",0,0,1,0,0
+935,"Papashan",0,"Papashan",0,0,1,0,1
+936,"Owyne",0,"Owyne",0,0,1,0,1
+937,"frenzied bulb",0,"frenzied bulbs",0,0,1,0,0
+938,"frenzied oak",0,"frenzied oaks",0,0,1,0,0
+939,"frenzied elm",0,"frenzied elms",0,0,1,0,0
+940,"frenzied goobbue",0,"frenzied goobbues",0,0,1,0,0
+941,"frenzied mossback",0,"frenzied mossbacks",0,0,1,0,0
+942,"lesser blanga",0,"lesser blangas",0,0,1,0,0
+943,"stout ambusher",0,"stout ambushers",0,0,1,0,0
+944,"Duskwight sellsword captain",0,"Duskwight sellsword captains",0,0,1,0,0
+945,"blanga",0,"blangas",0,0,1,0,0
+946,"Quzal Huatotl the Shrieker",0,"Quzal Huatotl the Shrieker",0,0,1,0,1
+947,"Ixali sincaller",0,"Ixali sincallers",0,1,1,0,0
+948,"Galfrid the Gallant",0,"Galfrid the Gallant",0,0,1,0,1
+949,"Garibald the Fargone",0,"Garibald the Fargone",0,0,1,0,1
+950,"gila monster",0,"gila monsters",0,0,1,0,0
+951,"goblin mugger",0,"goblin muggers",0,0,1,0,0
+952,"yarzon feeder",0,"yarzon feeders",0,0,1,0,0
+953,"flower wespe",0,"flower wespes",0,0,1,0,0
+954,"kobold dustman",0,"kobold dustmen",0,0,1,0,0
+955,"kobold supplicant",0,"kobold supplicants",0,0,1,0,0
+956,"kobold dustman",0,"kobold dustmen",0,0,1,0,0
+957,"kobold supplicant",0,"kobold supplicants",0,0,1,0,0
+958,"clever hedgemole",0,"clever hedgemoles",0,0,1,0,0
+959,"tiny ladybug",0,"tiny ladybugs",0,0,1,0,0
+960,"syrphid cloud",0,"syrphid clouds",0,0,1,0,0
+961,"buzzard",0,"buzzards",0,0,1,0,0
+962,"shore slug",0,"shore slugs",0,0,1,0,0
+963,"torchlight",0,"torchlights",0,0,1,0,0
+964,"fat dodo",0,"fat dodos",0,0,1,0,0
+965,"plainstrider",0,"plainstriders",0,0,1,0,0
+966,"Patripatan",0,"Patripatan",0,0,1,0,1
+967,"Morabv hedgemole",0,"Morabv hedgemoles",0,0,1,0,0
+968,"red jackal",0,"red jackals",0,0,1,0,0
+969,"Leavold, Sword of Thal",0,"Leavold, Sword of Thal",0,0,1,0,1
+970,"Sultansworn elite",0,"Sultansworn elites",0,0,1,0,0
+971,"lawless cursedealer",0,"lawless cursedealers",0,0,1,0,0
+972,"lawless spellweaver",0,"lawless spellweavers",0,0,1,0,0
+973,"lawless fistfighter",0,"lawless fistfighters",0,0,1,0,0
+974,"lawless bowman",0,"lawless bowmen",0,0,1,0,0
+975,"drowned diviner",0,"drowned diviners",0,0,1,0,0
+976,"drowned saltwitch",0,"drowned saltwitches",0,0,1,0,0
+977,"drowned brawler",0,"drowned brawlers",0,0,1,0,0
+978,"drowned outranger",0,"drowned outrangers",0,0,1,0,0
+979,"drowned butcher",0,"drowned butchers",0,0,1,0,0
+980,"lesser gargoyle",0,"lesser gargoyles",0,0,1,0,0
+981,"Yellowjacket",0,"Yellowjackets",0,0,1,0,0
+982,"Ryssfloh",0,"Ryssfloh",0,0,1,0,1
+983,"flambeau",0,"flambeaus",0,0,1,0,0
+984,"errant soul",0,"errant souls",0,1,1,0,0
+985,"spriggan quencher",0,"spriggan quenchers",0,0,1,0,0
+986,"living fossil",0,"living fossils",0,0,1,0,0
+987,"pit hippocerf",0,"pit hippocerfs",0,0,1,0,0
+988,"stone servant",0,"stone servants",0,0,1,0,0
+989,"filthy bodyguard",0,"filthy bodyguards",0,0,1,0,0
+990,"raucous bodyguard",0,"raucous bodyguards",0,0,1,0,0
+991,"boastful bodyguard",0,"boastful bodyguards",0,0,1,0,0
+992,"Highcant Hatsugg Chah",0,"Highcant Hatsugg Chah",0,0,1,0,1
+993,"flame sergeant",0,"flame sergeants",0,0,1,0,0
+994,"flame gladiator",0,"flame gladiators",0,0,1,0,0
+995,"imperial funditor",0,"imperial funditores",0,1,1,0,0
+996,"imperial decurion",0,"imperial decurions",0,1,1,0,0
+997,"imperial imaginifer",0,"imperial imaginiferes",0,1,1,0,0
+998,"imperial bestarius",0,"imperial bestarii",0,1,1,0,0
+999,"serpent archer",0,"serpent archers",0,0,1,0,0
+1000,"serpent lancer",0,"serpent lancers",0,0,1,0,0
+1001,"serpent gladiator",0,"serpent gladiators",0,0,1,0,0
+1002,"storm conjurer",0,"storm conjurers",0,0,1,0,0
+1003,"storm marauder",0,"storm marauders",0,0,1,0,0
+1004,"storm archer",0,"storm archers",0,0,1,0,0
+1005,"flame thaumaturge",0,"flame thaumaturges",0,0,1,0,0
+1006,"flame conjurer",0,"flame conjurers",0,0,1,0,0
+1007,"flame gladiator",0,"flame gladiators",0,0,1,0,0
+1008,"Fernehalwes",0,"Fernehalwes",0,0,1,0,1
+1009,"Sabotender Corrido",0,"Sabotender Corrido",0,0,1,0,1
+1010,"masterless thrall",0,"masterless thralls",0,0,1,0,0
+1011,"Scale Eater",0,"Scale Eater",0,0,1,0,1
+1012,"Pinktoe",0,"Pinktoe",0,0,1,0,1
+1013,"Greataxe Beak",0,"Greataxe Beak",0,0,1,0,1
+1014,"mine hound",0,"mine hounds",0,0,1,0,0
+1015,"Berahthraben the Alone",0,"Berahthraben the Alone",0,0,1,0,1
+1016,"Gridanian merchant",0,"Gridanian merchants",0,0,1,0,0
+1017,"lesser vodoriga",0,"lesser vodorigas",0,0,1,0,0
+1018,"common cactuar",0,"common cactuars",0,0,1,0,0
+1019,"flowering sabotender",0,"flowering sabotenders",0,0,1,0,0
+1020,"flowering cactuar",0,"flowering cactuars",0,0,1,0,0
+1021,"moldy pudding",0,"moldy puddings",0,0,1,0,0
+1022,"antling gamergate",0,"antling gamergates",0,1,1,0,0
+1023,"phurbleweed",0,"phurbleweeds",0,0,1,0,0
+1024,"firedrake",0,"firedrakes",0,0,1,0,0
+1025,"zombie wizard",0,"zombie wizards",0,0,1,0,0
+1026,"zombie soldier",0,"zombie soldiers",0,0,1,0,0
+1027,"evenfall firefly",0,"evenfall fireflies",0,1,1,0,0
+1028,"trickster imp",0,"trickster imps",0,0,1,0,0
+1029,"mischief-maker imp",0,"mischief-maker imps",0,0,1,0,0
+1030,"lowland billygoat",0,"lowland billygoats",0,0,1,0,0
+1031,"lowland nannygoat",0,"lowland nannygoats",0,0,1,0,0
+1032,"loamshell",0,"loamshells",0,0,1,0,0
+1033,"dirty mongrel",0,"dirty mongrels",0,0,1,0,0
+1034,"fire bomb",0,"fire bombs",0,0,1,0,0
+1035,"soulless chrisom",0,"soulless chrisoms",0,0,1,0,0
+1036,"guillotine beak",0,"guillotine beaks",0,0,1,0,0
+1037,"softskin peiste",0,"softskin peistes",0,0,1,0,0
+1038,"tomahawk beak",0,"tomahawk beaks",0,0,1,0,0
+1039,"blood-eyed buzzard",0,"blood-eyed buzzards",0,0,1,0,0
+1040,"horny toad",0,"horny toads",0,0,1,0,0
+1041,"pyrite coblyn",0,"pyrite coblyns",0,0,1,0,0
+1042,"sun midge cloud",0,"sun midge clouds",0,0,1,0,0
+1043,"yarzon lurker",0,"yarzon lurkers",0,0,1,0,0
+1044,"unclassified sabotender",0,"unclassified sabotenders",0,1,1,0,0
+1045,"uncommon cactuar",0,"uncommon cactuars",0,1,1,0,0
+1046,"loverly ladybird",0,"loverly ladybirds",0,0,1,1,0
+1047,"Drybone tuco-tuco",0,"Drybone tuco-tucos",0,0,1,0,0
+1048,"tumbling tuco-tuco",0,"tumbling tuco-tucos",0,0,1,0,0
+1049,"naked shrew",0,"naked shrews",0,0,1,0,0
+1050,"nutmuncher marmot",0,"nutmuncher marmots",0,0,1,0,0
+1051,"grain weevil",0,"grain weevils",0,0,1,0,0
+1052,"Mamool Ja menace",0,"Mamool Ja menaces",0,0,1,0,0
+1053,"Longarm",0,"Longarm",0,0,1,0,1
+1054,"Thunderhooves",0,"Thunderhooves",0,0,1,0,1
+1055,"Rageclaw",0,"Rageclaw",0,0,1,0,1
+1056,"Warren Warden",0,"Warren Warden",0,0,1,0,0
+1057,"Ripe Rampager",0,"Ripe Rampager",0,0,1,0,1
+1058,"Cepheus",0,"Cepheus",0,0,1,0,1
+1059,"E'bandala Sweetmane",0,"E'bandala Sweetmane",0,0,1,1,1
+1060,"O'adebh Whitemane",0,"O'adebh Whitemane",0,0,1,1,1
+1061,"buffalo calf",0,"buffalo calves",0,0,1,0,0
+1062,"Memeroon",0,"Memeroon",0,0,1,0,1
+1063,"talking colibri",0,"talking colibris",0,0,1,0,0
+1064,"hyur-eating raptor",0,"hyur-eating raptors",0,0,1,0,0
+1065,"hyur-eating pelican",0,"hyur-eating pelicans",0,0,1,0,0
+1066,"golden coeurl",0,"golden coeurls",0,0,1,0,0
+1067,"craven condor",0,"craven condors",0,0,1,0,0
+1068,"apkallu caller",0,"apkallu callers",0,1,1,0,0
+1069,"Bloodshore eyesore",0,"Bloodshore eyesores",0,0,1,0,0
+1070,"jungle coeurl pup",0,"jungle coeurl pups",0,0,1,0,0
+1071,"truffle coeurl",0,"truffle coeurls",0,0,1,0,0
+1072,"Qiqirn truffler",0,"Qiqirn trufflers",0,0,1,0,0
+1073,"void mine",0,"void mines",0,0,1,0,0
+1074,"angry hedgemole",0,"angry hedgemoles",0,1,1,0,0
+1075,"sanguinary buccaneer",0,"sanguinary buccaneers",0,0,1,0,0
+1076,"unsightly buffallo",0,"unsightly buffalloes",0,1,1,0,0
+1077,"rabid aurochs",0,"rabid aurochs",0,0,1,0,0
+1078,"bloodsucker bat",0,"bloodsucker bats",0,0,1,0,0
+1079,"suspcious megalocrab",0,"suspcious megalocrabs",0,0,1,0,0
+1080,"Bloodshore snipper",0,"Bloodshore snippers",0,0,1,0,0
+1081,"big claw",0,"big claws",0,0,1,0,0
+1082,"naked mole",0,"naked moles",0,0,1,0,0
+1083,"rat mole",0,"rat moles",0,0,1,0,0
+1084,"yarzon biter",0,"yarzon biters",0,0,1,0,0
+1085,"ocean roseling",0,"ocean roselings",0,1,1,0,0
+1086,"inebriated imp",0,"inebriated imps",0,1,1,0,0
+1087,"feral dodo",0,"feral dodos",0,0,1,0,0
+1088,"raggedy jackal",0,"raggedy jackals",0,0,1,0,0
+1089,"jackal pup",0,"jackal pups",0,0,1,0,0
+1090,"gibbering jackal",0,"gibbering jackals",0,0,1,0,0
+1091,"insatiable goobbue",0,"insatiable goobbues",0,1,1,0,0
+1092,"coastal mandragora",0,"coastal mandragoras",0,0,1,0,0
+1093,"marching mandragora",0,"marching mandragoras",0,0,1,0,0
+1094,"eagle-eyed buzzard",0,"eagle-eyed buzzards",0,1,1,0,0
+1095,"egglayer dodo",0,"egglayer dodos",0,1,1,0,0
+1096,"stray dodo",0,"stray dodos",0,0,1,0,0
+1097,"scalepuk",0,"scalepuks",0,0,1,0,0
+1098,"wild ram",0,"wild rams",0,0,1,0,0
+1099,"lost lamb",0,"lost lambs",0,0,1,0,0
+1100,"riverbank toad",0,"riverbank toads",0,0,1,0,0
+1101,"pack rat",0,"pack rats",0,0,1,0,0
+1102,"frenzied aurelia",0,"frenzied aureliae",0,0,1,0,0
+1103,"saltwater aurelia",0,"saltwater aureliae",0,0,1,0,0
+1104,"Ala Mhigan Flame recruit",0,"Ala Mhigan Flame recruits",0,1,1,0,0
+1105,"shifty-eyed merchant",0,"shifty-eyed merchants",0,0,1,0,0
+1106,"shifty-eyed vagrant",0,"shifty-eyed vagrants",0,0,1,0,0
+1107,"shifty-eyed vagrant",0,"shifty-eyed vagrants",0,0,1,0,0
+1108,"Margry Flintheart",0,"Margry Flintheart",0,0,1,1,1
+1109,"Mamanzo the Charred",0,"Mamanzo the Charred",0,0,1,0,1
+1110,"tempered slave",0,"tempered slaves",0,0,1,0,0
+1111,"Headrip ogre",0,"Headrip ogres",0,0,1,0,0
+1112,"sandstone guardian",0,"sandstone guardians",0,0,1,0,0
+1113,"imperial tesserarius",0,"imperial tesserarii",0,1,1,0,0
+1114,"Mumuroon Yellowtooth",0,"Mumuroon Yellowtooth",0,0,1,0,1
+1115,"Qiqirn yolkdrainer",0,"Qiqirn yolkdrainers",0,0,1,0,0
+1116,"gaunt beak",0,"gaunt beaks",0,0,1,0,0
+1117,"darkwing devilet",0,"darkwing devilets",0,0,1,0,0
+1118,"rockbite peiste",0,"rockbite peistes",0,0,1,0,0
+1119,"fellbite peiste",0,"fellbite peistes",0,0,1,0,0
+1120,"void flame",0,"void flames",0,0,1,0,0
+1121,"void jumper",0,"void jumpers",0,0,1,0,0
+1122,"bald buzzard",0,"bald buzzards",0,0,1,0,0
+1123,"wicked soul",0,"wicked souls",0,0,1,0,0
+1124,"ravenous nannygoat",0,"ravenous nannygoats",0,0,1,0,0
+1125,"ravenous billygoat",0,"ravenous billygoats",0,0,1,0,0
+1126,"battle drake",0,"battle drakes",0,0,1,0,0
+1127,"Blackstake Rodegg Chah",0,"Blackstake Rodegg Chah",0,0,1,0,1
+1128,"shifty-eyed poacher",0,"shifty-eyed poachers",0,0,1,0,0
+1129,"shifty-eyed poacher",0,"shifty-eyed poachers",0,0,1,0,0
+1130,"Redbelly snatcher",0,"Redbelly snatchers",0,0,1,0,0
+1131,"Redbelly runner",0,"Redbelly runners",0,0,1,0,0
+1132,"strongbreath stroper",0,"strongbreath stropers",0,0,1,0,0
+1133,"Turncloak Clairvisse",0,"Turncloak Clairvisse",0,0,1,0,1
+1134,"spotted eft",0,"spotted efts",0,0,1,0,0
+1135,"sharptooth orobon",0,"sharptooth orobon",0,0,1,0,0
+1136,"gnarled treant",0,"gnarled treants",0,0,1,0,0
+1137,"Pannixia of the Woven Wing",0,"Pannixia of the Woven Wing",0,0,1,1,1
+1138,"tempered sylvan sough",0,"tempered sylvan soughs",0,0,1,0,0
+1139,"tempered sylvan scream",0,"tempered sylvan screams",0,0,1,0,0
+1140,"giant bee",0,"giant bees",0,0,1,0,0
+1141,"vodoriga cur",0,"vodoriga curs",0,0,1,0,0
+1142,"honeybee cloud",0,"honeybee clouds",0,0,1,0,0
+1143,"Milburh the Mystic",0,"Milburh the Mystic",0,0,1,1,1
+1144,"long-winded lemur",0,"long-winded lemurs",0,0,1,0,0
+1145,"leafbleed hare",0,"leafbleed hares",0,0,1,0,0
+1146,"wingrat",0,"wingrats",0,0,1,0,0
+1147,"carrion djigga",0,"carrion djiggas",0,0,1,0,0
+1148,"goblin roper",0,"goblin ropers",0,0,1,0,0
+1149,"3rd Levy Storm Private",0,"3rd Levy Storm Privates",0,0,1,0,0
+1150,"shifty-eyed sailor",0,"shifty-eyed sailors",0,0,1,0,0
+1151,"shifty-eyed sailor",0,"shifty-eyed sailors",0,0,1,0,0
+1152,"Number 256",0,"Number 256",0,0,1,0,1
+1153,"Moraby stoneshell",0,"Moraby stoneshells",0,0,1,0,0
+1154,"426th Order mendicant Zi Gu",0,"426th Order mendicant Zi Gu",0,0,1,0,1
+1155,"426th Order missionary",0,"426th Order missionaries",0,0,1,0,0
+1156,"426th Order bedesman",0,"426th Order bedesmen",0,0,1,0,0
+1157,"426th Order pitman",0,"426th Order pitmen",0,0,1,0,0
+1158,"426th Order patrolman",0,"426th Order patrolmen",0,0,1,0,0
+1159,"void warrior",0,"void warriors",0,0,1,0,0
+1160,"Twin-tongued Addison",0,"Twin-tongued Addison",0,0,1,0,1
+1161,"wandering waterskin",0,"wandering waterskins",0,0,1,0,0
+1162,"Sahagin sapper",0,"Sahagin sappers",0,0,1,0,0
+1163,"Sahagin spy",0,"Sahagin spies",0,0,1,0,0
+1164,"decoy crab",0,"decoy crabs",0,0,1,0,0
+1165,"Wormwix Scribbletalk",0,"Wormwix Scribbletalk",0,0,1,1,1
+1166,"wet rat",0,"wet rats",0,0,1,0,0
+1167,"sweet-tooth goobbue",0,"sweet-tooth goobbues",0,0,1,0,0
+1168,"drowned crofter",0,"drowned crofters",0,0,1,0,0
+1169,"Serpent Reaver deckhound",0,"Serpent Reaver deckhounds",0,0,1,0,0
+1170,"Qiqirn egglifter",0,"Qiqirn egglifters",0,0,1,0,0
+1171,"rope-burned buccaneer",0,"rope-burned buccaneers",0,0,1,0,0
+1172,"tar-stained buccaneer",0,"tar-stained buccaneers",0,0,1,0,0
+1173,"Galeborn bucaneer",0,"Galeborn bucaneers",0,0,1,0,0
+1174,"Striped Lightning hand",0,"Striped Lightning hands",0,0,1,0,0
+1175,"Striped Lightning thug",0,"Striped Lightning thugs",0,0,1,0,0
+1176,"Serpent conjurer",0,"Serpent conjurers",0,0,1,0,0
+1177,"Amalj'aa ravager",0,"Amalj'aa ravagers",0,1,1,0,0
+1178,"Pfarmurl the Driven",0,"Pfarmurl the Driven",0,0,1,0,1
+1179,"murderous marauder",0,"murderous marauders",0,0,1,0,0
+1180,"wild wolf",0,"wild wolves",0,0,1,0,0
+1181,"Rothlyt pelican",0,"Rothlyt pelicans",0,0,1,0,0
+1182,"Taurus",0,"Taurus",0,0,1,0,1
+1183,"Bateleur",0,"Bateleur",0,0,1,0,1
+1184,"lily bulb",0,"lily bulbs",0,0,1,0,0
+1185,"Ifrit",0,"Ifrit",0,0,1,0,1
+1186,"infernal fetters",0,"infernal fetters",0,1,1,0,0
+1187,"damantus",0,"damantii",0,0,1,0,0
+1188,"doctore",0,"doctores",0,0,1,0,0
+1189,"scythe mantis",0,"scythe mantises",0,0,1,0,0
+1190,"coliseum python",0,"coliseum pythons",0,0,1,0,0
+1191,"rudis beak",0,"rudis beaks",0,0,1,0,0
+1192,"pit peiste",0,"pit peistes",0,0,1,0,0
+1193,"gas bomb",0,"gas bombs",0,0,1,0,0
+1194,"Firemane",0,"Firemane",0,0,1,0,1
+1195,"noxius",0,"noxii",0,0,1,0,0
+1196,"thunderclap guivre",0,"thunderclap guivres",0,0,1,0,0
+1197,"Tangata",0,"Tangata",0,0,1,0,1
+1198,"vandalous imp",0,"vandalous imps",0,0,1,0,0
+1199,"blowfly swarm",0,"blowfly swarms",0,0,1,0,0
+1200,"Cancer",0,"Cancer",0,0,1,0,1
+1201,"Acubens",0,"Acubens",0,0,1,0,1
+1202,"Lazy Laurence",0,"Lazy Laurence",0,0,1,0,1
+1203,"fruiting fungus",0,"fruiting fungii",0,0,1,0,0
+1204,"Chopper",0,"Chopper",0,0,1,0,0
+1205,"scurvy dog",0,"scurvy dogs",0,0,1,0,0
+1206,"Denn the Orcatoothed",0,"Denn the Orcatoothed",0,0,1,0,1
+1207,"baleen guard",0,"baleen guards",0,0,1,0,0
+1208,"giant clam",0,"giant clams",0,0,1,0,0
+1209,"shade seeker",0,"shade seekers",0,0,1,0,0
+1210,"cave aurelia",0,"cave aureliae",0,0,1,0,0
+1211,"fossilshell",0,"fossilshells",0,0,1,0,0
+1212,"Sastasha orobon",0,"Sastasha orobon",0,0,1,0,0
+1213,"Mormo's missionary",0,"Mormo's missionaries",0,0,1,1,0
+1214,"Amalj'aa ravager",0,"Amalj'aa ravagers",0,1,1,0,0
+1215,"Amalj'aa ravager",0,"Amalj'aa ravagers",0,1,1,0,0
+1216,"circling vulture",0,"circling vultures",0,0,1,0,0
+1217,"syrphid cloud",0,"syrphid clouds",0,0,1,0,0
+1218,"rotting pikeman",0,"rotting pikemen",0,0,1,0,0
+1219,"rotting mage",0,"rotting mages",0,0,1,0,0
+1220,"Amalj'aa ravager",0,"Amalj'aa ravagers",0,1,1,0,0
+1221,"void warrior",0,"void warriors",0,0,1,0,0
+1222,"parasite ladybug",0,"parasite ladybugs",0,0,1,1,0
+1223,"steelquill tuco-tuco",0,"steelquill tuco-tucos",0,0,1,0,0
+1224,"spawning megalocrab",0,"spawning megalocrabs",0,0,1,0,0
+1225,"repair supplies",0,"repair supplies",0,0,1,0,0
+1226,"wallstone",0,"wallstones",0,0,1,0,0
+1227,"bronze urn",0,"bronze urns",0,0,1,0,0
+1228,"hidden rations",0,"hidden rations",0,0,1,0,0
+1229,"sap auger",0,"sap augers",0,0,1,0,0
+1230,"bonfire",0,"bonfires",0,0,1,0,0
+1231,"materiel crate",0,"materiel crates",0,0,1,0,0
+1232,"fallen supplies",0,"fallen supplies",0,0,1,0,0
+1233,"greater buffalo",0,"greater buffaloes",0,0,1,0,0
+1234,"Slasher",0,"Slasher",0,0,1,0,1
+1235,"kobold gurneyman",0,"kobold gurneymen",0,0,1,0,0
+1236,"dirty rat",0,"dirty rats",0,0,1,0,0
+1237,"Nonoroon",0,"Nonoroon",0,0,1,0,1
+1238,"Rabid Ratata",0,"Rabid Ratata",0,0,1,1,1
+1239,"Salthound boatswain",0,"Salthound boatswains",0,0,1,0,0
+1240,"Salthound lodesman",0,"Salthound lodesmen",0,0,1,0,0
+1241,"grain hamper",0,"grain hampers",0,0,1,0,0
+1242,"Nayokk Roh",0,"Nayokk Roh",0,0,1,1,1
+1243,"Gilpincher Zuzuroon",0,"Gilpincher Zuzuroon",0,0,1,0,1
+1244,"Qiqirn trafficker",0,"Qiqirn traffickers",0,0,1,0,0
+1245,"Chachamun",0,"Chachamun",0,0,1,0,1
+1246,"Bertram",0,"Bertram",0,0,1,0,1
+1247,"Tiny Aurochs",0,"Tiny Aurochs",0,0,1,0,1
+1248,"Rururaji",0,"Rururaji",0,0,1,0,1
+1249,"Jajanzo",0,"Jajanzo",0,0,1,0,1
+1250,"Aldebrand",0,"Aldebrand",0,0,1,0,1
+1251,"Ligart",0,"Ligart",0,0,1,0,1
+1252,"E'tajha Sapphire-eyes",0,"E'tajha Sapphire-eyes",0,0,1,1,1
+1253,"E'lahmui Ruby-eyes",0,"E'lahmui Ruby-eyes",0,0,1,1,1
+1254,"Hunberct Longhaft",0,"Hunberct Longhaft",0,0,1,0,1
+1255,"Brass Blade",0,"Brass Blades",0,0,1,0,0
+1256,"shipping crate",0,"shipping crates",0,0,1,0,0
+1257,"amateur raider",0,"amateur raiders",0,1,1,0,0
+1258,"gil turtle",0,"gil turtles",0,0,1,0,0
+1259,"rasher hog",0,"rasher hogs",0,0,1,0,0
+1260,"tamed spriggan",0,"tamed spriggans",0,0,1,0,0
+1261,"ledgeleaper",0,"ledgeleapers",0,0,1,0,0
+1262,"boulder",0,"boulders",0,0,1,0,0
+1263,"pecking condor",0,"pecking condors",0,0,1,0,0
+1264,"elder goobbue",0,"elder goobbues",0,1,1,0,0
+1265,"Toxic Tamlyn",0,"Toxic Tamlyn",0,0,1,0,1
+1266,"rotten jam",0,"rotten jams",0,0,1,0,0
+1267,"stale bubble",0,"stale bubbles",0,0,1,0,0
+1268,"acid bubble",0,"acid bubbles",0,1,1,0,0
+1269,"Buso",0,"Buso",0,0,1,0,1
+1270,"void hound",0,"void hounds",0,0,1,0,0
+1271,"Ak-Mena groundsman",0,"Ak-Mena groundsmen",0,1,1,0,0
+1272,"Yellowjacket patrol",0,"Yellowjacket patrols",0,0,1,0,0
+1273,"Storm recruit",0,"Storm recruit",0,0,1,0,0
+1274,"Gegeruju Manor guard",0,"Gegeruju Manor guards",0,0,1,0,0
+1275,"Flame recruit",0,"Flame recruits",0,0,1,0,0
+1276,"Stone Torch",0,"Stone Torches",0,0,1,0,0
+1277,"Brass Blade",0,"Brass Blades",0,0,1,0,0
+1278,"ranger of the Drake",0,"rangers of the Drake",0,0,1,0,0
+1279,"Aiatar",0,"Aiatar",0,0,1,0,1
+1280,"great yellow pelican",0,"great yellow pelicans",0,0,1,0,0
+1281,"blue back",0,"blue backs",0,0,1,0,0
+1282,"violet back",0,"violet backs",0,0,1,0,0
+1283,"sable back",0,"sable backs",0,0,1,0,0
+1284,"inferno drake",0,"inferno drakes",0,1,1,0,0
+1285,"tempest biast",0,"tempest biasts",0,0,1,0,0
+1286,"hellbender",0,"hellbenders",0,0,1,0,0
+1287,"gulley galago",0,"gulley galagos",0,0,1,0,0
+1288,"ravelled raincatcher",0,"ravelled raincatchers",0,0,1,0,0
+1289,"painted colibri",0,"painted colibris",0,0,1,0,0
+1290,"comet chaser",0,"comet chasers",0,0,1,0,0
+1291,"mud biast",0,"mud biasts",0,0,1,0,0
+1292,"ashdrake",0,"ashdrakes",0,1,1,0,0
+1293,"wyrmhound",0,"wyrmhounds",0,0,1,0,0
+1294,"surf eft",0,"surf efts",0,0,1,0,0
+1295,"swamp pugil",0,"swamp pugils",0,0,1,0,0
+1296,"violet back",0,"violet backs",0,0,1,0,0
+1297,"deep jungle coeurl",0,"deep jungle coeurls",0,0,1,0,0
+1298,"goblin pathfinder",0,"goblin pathfinders",0,0,1,0,0
+1299,"goblin pathfinder",0,"goblin pathfinders",0,0,1,0,0
+1300,"Brayflox Alltalks",0,"Brayflox Alltalks",0,0,1,0,1
+1301,"Gigirya the Guarded",0,"Gigirya the Guarded",0,0,1,0,1
+1302,"Hecatoncheir stonebreaker",0,"Hecatoncheir stonebreakers",0,0,1,0,0
+1303,"blasting cap",0,"blasting caps",0,0,1,0,0
+1304,"Charity of the Alacran",0,"Charity of the Alacran",0,0,1,0,0
+1305,"Chastity of the Alacran",0,"Chastity of the Alacran",0,0,1,0,0
+1306,"Diligence of the Alacran",0,"Diligence of the Alacran",0,0,1,0,0
+1307,"Humility of the Alacran",0,"Humility of the Alacran",0,0,1,0,0
+1308,"bandit backstabber",0,"bandit backstabbers",0,0,1,0,0
+1309,"bandit trapper",0,"bandit trappers",0,0,1,0,0
+1310,"bandit mage",0,"bandit mages",0,0,1,0,0
+1311,"bandit archer",0,"bandit archers",0,0,1,0,0
+1312,"lone coeurl",0,"lone coeurls",0,0,1,0,0
+1313,"large buffalo",0,"large buffaloes",0,0,1,0,0
+1314,"someone familiar",0,"familiar persons",0,0,1,0,1
+1315,"cattle tyrant",0,"cattle tyrants",0,0,1,0,0
+1316,"giant oxpecker",0,"giant oxpeckers",0,0,1,0,0
+1317,"ironquill tuco-tuco",0,"ironquill tuco-tucos",0,1,1,0,0
+1318,"swarming diremite",0,"swarming diremites",0,0,1,0,0
+1319,"mad sergeant",0,"mad sergeants",0,0,1,0,0
+1320,"farmer in need",0,"farmers in need",0,0,1,0,0
+1321,"miller in need",0,"millers in need",0,0,1,0,0
+1322,"worried worker",0,"worried workers",0,0,1,0,0
+1323,"diligent worker",0,"diligent workers",0,0,1,0,0
+1324,"flustered fisher",0,"flustered fishers",0,0,1,0,0
+1325,"Tiny Chris",0,"Tiny Chris",0,0,1,0,1
+1326,"Aismurl Goldmember",0,"Aismurl Goldmember",0,0,1,0,1
+1327,"debauched degenerate",0,"debauched degenerate",0,0,1,0,0
+1328,"worm-fearing woodcutter",0,"worm-fearing woodcutter",0,0,1,0,0
+1329,"Jaded Jody",0,"Jaded Jody",0,0,1,1,1
+1330,"mead-porting Midlander",0,"mead-porting Midlanders",0,0,1,0,0
+1331,"storm sergeant",0,"storm sergeants",0,0,1,0,0
+1332,"storm private",0,"storm privates",0,0,1,0,0
+1333,"problematic porter",0,"problematic porters",0,0,1,0,0
+1334,"Red Rooster tiller",0,"Red Rooster tillers",0,0,1,0,0
+1335,"innocent maiden",0,"innocent maidens",0,1,1,1,0
+1336,"lickerish lad",0,"lickerish lads",0,0,1,0,0
+1337,"Yellowjacket veteran",0,"Yellowjacket veterans",0,0,1,0,0
+1338,"Yellowjacket greenback",0,"Yellowjacket greenbacks",0,0,1,0,0
+1339,"thrillseeking milksop",0,"thrillseeking milksops",0,0,1,0,0
+1340,"thrillseeking sceptic",0,"thrillseeking sceptics",0,0,1,0,0
+1341,"cowardly challenger",0,"cowardly challengers",0,0,1,0,0
+1342,"spriggan copper carrier",0,"spriggan copper carriers",0,0,1,0,0
+1343,"flame scout",0,"flame scouts",0,0,1,0,0
+1344,"augmented battle drake",0,"augmented battle drakes",0,1,1,0,0
+1345,"Yellowjacket recruit",0,"Yellowjacket recruits",0,0,1,0,0
+1346,"storm courier",0,"storm couriers",0,0,1,0,0
+1347,"mauled merchant",0,"mauled merchants",0,0,1,0,0
+1348,"hungry hobbledehoy",0,"hungry hobbledehoys",0,0,1,0,0
+1349,"roadblocker imp",0,"roadblocker imps",0,0,1,0,0
+1350,"dry slug",0,"dry slugs",0,0,1,0,0
+1351,"Ul'dahn naturalist",0,"Ul'dahn naturalists",0,1,1,0,0
+1352,"kind father",0,"kind fathers",0,0,1,0,0
+1353,"Amalj'aa drakelasher",0,"Amalj'aa drakelashers",0,1,1,0,0
+1354,"heckler imp",0,"heckler imps",0,0,1,0,0
+1355,"troubled tiller",0,"troubled tillers",0,0,1,0,0
+1356,"flummoxed fisher",0,"flummoxed fishers",0,0,1,0,0
+1357,"mandragora prince",0,"mandragora princes",0,0,1,0,0
+1358,"furious farmer",0,"furious farmers",0,0,1,0,0
+1359,"Yellowjacket captain",0,"Yellowjacket captains",0,0,1,0,0
+1360,"goblin trader",0,"goblin traders",0,0,1,0,0
+1361,"careless carrier",0,"careless carriers",0,0,1,0,0
+1362,"dodo's nest",0,"dodo's nests",0,0,1,0,0
+1363,"oyster hunter",0,"oyster hunters",0,1,1,0,0
+1364,"4th Cohort triarius",0,"4th Cohort triarii",0,0,1,0,0
+1365,"4th Cohort Imaginifer",0,"4th Cohort Imaginifers",0,0,1,0,0
+1366,"4th Cohort war hound",0,"4th Cohort war hounds",0,0,1,0,0
+1367,"Coffer & Coffin heavy",0,"Coffer & Coffin heavies",0,0,1,0,0
+1368,"quay worker",0,"quay workers",0,0,1,0,0
+1369,"hysterical hawker",0,"hysterical hawkers",0,0,1,0,0
+1370,"sleepless citizen",0,"sleepless citizens",0,0,1,0,0
+1371,"flame private",0,"flame privates",0,0,1,0,0
+1372,"382th Order Pickman Ge Bu",0,"382th Order Pickman Ge Bu",0,0,1,0,1
+1373,"Baenryss of the Deep",0,"Baenryss of the Deep",0,0,1,0,1
+1374,"cultured conjurer",0,"cultured conjurer",0,0,1,0,0
+1375,"animated pugilist",0,"animated pugilists",0,1,1,0,0
+1376,"short-tempered thaumaturge",0,"short-tempered thaumaturges",0,0,1,0,0
+1377,"handsome stranger",0,"handsome strangers",0,0,1,0,0
+1378,"Fufulupa the Unbending",0,"Fufulupa the Unbending",0,0,1,0,1
+1379,"Brass Blade",0,"Brass Blades",0,0,1,0,0
+1380,"Sir Baron von Quiveron IV Esquire",0,"Sir Baron von Quiveron IV Esquire",0,0,1,0,1
+1381,"Baldewyn Four Yalms",0,"Baldewyn Four Yalms",0,0,1,0,1
+1382,"Captain Madison",0,"Captain Madison",0,0,1,0,1
+1383,"queer bubble",0,"queer bubbles",0,0,1,0,0
+1384,"small bomb",0,"small bombs",0,0,1,0,0
+1385,"bomb",0,"bombs",0,0,1,0,0
+1386,"large bomb",0,"large bombs",0,0,1,0,0
+1387,"ボス",0,"",0,0,1,0,0
+1388,"ザコA",0,"",0,0,1,0,0
+1389,"ザコB",0,"",0,0,1,0,0
+1390,"ザコC",0,"",0,0,1,0,0
+1391,"",0,"",0,0,1,0,0
+1392,"",0,"",0,0,1,0,0
+1393,"",0,"",0,0,1,0,0
+1394,"",0,"",0,0,1,0,0
+1395,"",0,"",0,0,1,0,0
+1396,"",0,"",0,0,1,0,0
+1397,"",0,"",0,0,1,0,0
+1398,"",0,"",0,0,1,0,0
+1399,"",0,"",0,0,1,0,0
+1400,"",0,"",0,0,1,0,0
+1401,"",0,"",0,0,1,0,0
+1402,"",0,"",0,0,1,0,0
+1403,"",0,"",0,0,1,0,0
+1404,"",0,"",0,0,1,0,0
+1405,"",0,"",0,0,1,0,0
+1406,"",0,"",0,0,1,0,0
+1407,"",0,"",0,0,1,0,0
+1408,"",0,"",0,0,1,0,0
+1409,"",0,"",0,0,1,0,0
+1410,"",0,"",0,0,1,0,0
+1411,"",0,"",0,0,1,0,0
+1412,"",0,"",0,0,1,0,0
+1413,"",0,"",0,0,1,0,0
+1414,"",0,"",0,0,1,0,0
+1415,"",0,"",0,0,1,0,0
+1416,"",0,"",0,0,1,0,0
+1417,"",0,"",0,0,1,0,0
+1418,"",0,"",0,0,1,0,0
+1419,"",0,"",0,0,1,0,0
+1420,"",0,"",0,0,1,0,0
+1421,"",0,"",0,0,1,0,0
+1422,"",0,"",0,0,1,0,0
+1423,"",0,"",0,0,1,0,0
+1424,"",0,"",0,0,1,0,0
+1425,"",0,"",0,0,1,0,0
+1426,"",0,"",0,0,1,0,0
+1427,"",0,"",0,0,1,0,0
+1428,"",0,"",0,0,1,0,0
+1429,"",0,"",0,0,1,0,0
+1430,"",0,"",0,0,1,0,0
+1431,"",0,"",0,0,1,0,0
+1432,"",0,"",0,0,1,0,0
+1433,"",0,"",0,0,1,0,0
+1434,"",0,"",0,0,1,0,0
+1435,"",0,"",0,0,1,0,0
+1436,"",0,"",0,0,1,0,0
+1437,"",0,"",0,0,1,0,0
+1438,"",0,"",0,0,1,0,0
+1439,"",0,"",0,0,1,0,0
+1440,"",0,"",0,0,1,0,0
+1441,"",0,"",0,0,1,0,0
+1442,"",0,"",0,0,1,0,0
+1443,"",0,"",0,0,1,0,0
+1444,"",0,"",0,0,1,0,0
+1445,"",0,"",0,0,1,0,0
+1446,"",0,"",0,0,1,0,0
+1447,"",0,"",0,0,1,0,0
+1448,"",0,"",0,0,1,0,0
+1449,"",0,"",0,0,1,0,0
+1450,"",0,"",0,0,1,0,0
+1451,"",0,"",0,0,1,0,0
+1452,"",0,"",0,0,1,0,0
+1453,"",0,"",0,0,1,0,0
+1454,"",0,"",0,0,1,0,0
+1455,"",0,"",0,0,1,0,0
+1456,"",0,"",0,0,1,0,0
+1457,"",0,"",0,0,1,0,0
+1458,"",0,"",0,0,1,0,0
+1459,"",0,"",0,0,1,0,0
+1460,"",0,"",0,0,1,0,0
+1461,"",0,"",0,0,1,0,0
+1462,"",0,"",0,0,1,0,0
+1463,"",0,"",0,0,1,0,0
+1464,"",0,"",0,0,1,0,0
+1465,"",0,"",0,0,1,0,0
+1466,"",0,"",0,0,1,0,0
+1467,"",0,"",0,0,1,0,0
+1468,"",0,"",0,0,1,0,0
+1469,"",0,"",0,0,1,0,0
+1470,"",0,"",0,0,1,0,0
+1471,"",0,"",0,0,1,0,0
+1472,"",0,"",0,0,1,0,0
+1473,"",0,"",0,0,1,0,0
+1474,"",0,"",0,0,1,0,0
+1475,"",0,"",0,0,1,0,0
+1476,"",0,"",0,0,1,0,0
+1477,"",0,"",0,0,1,0,0
+1478,"",0,"",0,0,1,0,0
+1479,"",0,"",0,0,1,0,0
+1480,"",0,"",0,0,1,0,0
+1481,"",0,"",0,0,1,0,0
+1482,"",0,"",0,0,1,0,0
+1483,"",0,"",0,0,1,0,0
+1484,"",0,"",0,0,1,0,0
+1485,"",0,"",0,0,1,0,0
+1486,"",0,"",0,0,1,0,0
+1487,"",0,"",0,0,1,0,0
+1488,"",0,"",0,0,1,0,0
+1489,"",0,"",0,0,1,0,0
+1490,"",0,"",0,0,1,0,0
+1491,"",0,"",0,0,1,0,0
+1492,"",0,"",0,0,1,0,0
+1493,"",0,"",0,0,1,0,0
+1494,"",0,"",0,0,1,0,0
+1495,"",0,"",0,0,1,0,0
+1496,"",0,"",0,0,1,0,0
+1497,"",0,"",0,0,1,0,0
+1498,"",0,"",0,0,1,0,0
+1499,"",0,"",0,0,1,0,0
+1500,"",0,"",0,0,1,0,0
+1501,"",0,"",0,0,1,0,0
+1502,"",0,"",0,0,1,0,0
+1503,"",0,"",0,0,1,0,0
+1504,"",0,"",0,0,1,0,0
+1505,"",0,"",0,0,1,0,0
+1506,"",0,"",0,0,1,0,0
+1507,"",0,"",0,0,1,0,0
+1508,"",0,"",0,0,1,0,0
+1509,"",0,"",0,0,1,0,0
+1510,"",0,"",0,0,1,0,0
+1511,"",0,"",0,0,1,0,0
+1512,"",0,"",0,0,1,0,0
+1513,"",0,"",0,0,1,0,0
+1514,"",0,"",0,0,1,0,0
+1515,"",0,"",0,0,1,0,0
+1516,"",0,"",0,0,1,0,0
+1517,"",0,"",0,0,1,0,0
+1518,"",0,"",0,0,1,0,0
+1519,"",0,"",0,0,1,0,0
+1520,"",0,"",0,0,1,0,0
+1521,"",0,"",0,0,1,0,0
+1522,"",0,"",0,0,1,0,0
+1523,"",0,"",0,0,1,0,0
+1524,"",0,"",0,0,1,0,0
+1525,"",0,"",0,0,1,0,0
+1526,"",0,"",0,0,1,0,0
+1527,"",0,"",0,0,1,0,0
+1528,"",0,"",0,0,1,0,0
+1529,"",0,"",0,0,1,0,0
+1530,"",0,"",0,0,1,0,0
+1531,"",0,"",0,0,1,0,0
+1532,"",0,"",0,0,1,0,0
+1533,"",0,"",0,0,1,0,0
+1534,"",0,"",0,0,1,0,0
+1535,"",0,"",0,0,1,0,0
+1536,"",0,"",0,0,1,0,0
+1537,"",0,"",0,0,1,0,0
+1538,"",0,"",0,0,1,0,0
+1539,"",0,"",0,0,1,0,0
+1540,"",0,"",0,0,1,0,0
+1541,"",0,"",0,0,1,0,0
+1542,"",0,"",0,0,1,0,0
+1543,"",0,"",0,0,1,0,0
+1544,"",0,"",0,0,1,0,0
+1545,"",0,"",0,0,1,0,0
+1546,"",0,"",0,0,1,0,0
+1547,"",0,"",0,0,1,0,0
+1548,"",0,"",0,0,1,0,0
+1549,"",0,"",0,0,1,0,0
+1550,"",0,"",0,0,1,0,0
+1551,"",0,"",0,0,1,0,0
+1552,"",0,"",0,0,1,0,0
+1553,"",0,"",0,0,1,0,0
+1554,"",0,"",0,0,1,0,0
+1555,"",0,"",0,0,1,0,0
+1556,"",0,"",0,0,1,0,0
+1557,"",0,"",0,0,1,0,0
+1558,"",0,"",0,0,1,0,0
+1559,"",0,"",0,0,1,0,0
+1560,"",0,"",0,0,1,0,0
+1561,"",0,"",0,0,1,0,0
+1562,"",0,"",0,0,1,0,0
+1563,"",0,"",0,0,1,0,0
+1564,"",0,"",0,0,1,0,0
+1565,"",0,"",0,0,1,0,0
+1566,"",0,"",0,0,1,0,0
+1567,"",0,"",0,0,1,0,0
+1568,"",0,"",0,0,1,0,0
+1569,"",0,"",0,0,1,0,0
+1570,"",0,"",0,0,1,0,0
+1571,"",0,"",0,0,1,0,0
+1572,"",0,"",0,0,1,0,0
+1573,"",0,"",0,0,1,0,0
+1574,"",0,"",0,0,1,0,0
+1575,"",0,"",0,0,1,0,0
+1576,"",0,"",0,0,1,0,0
+1577,"",0,"",0,0,1,0,0
+1578,"",0,"",0,0,1,0,0
+1579,"",0,"",0,0,1,0,0
+1580,"",0,"",0,0,1,0,0
+1581,"",0,"",0,0,1,0,0
+1582,"",0,"",0,0,1,0,0
+1583,"",0,"",0,0,1,0,0
+1584,"",0,"",0,0,1,0,0
+1585,"",0,"",0,0,1,0,0
+1586,"",0,"",0,0,1,0,0
+1587,"",0,"",0,0,1,0,0
+1588,"",0,"",0,0,1,0,0
+1589,"",0,"",0,0,1,0,0
+1590,"",0,"",0,0,1,0,0
+1591,"",0,"",0,0,1,0,0
+1592,"",0,"",0,0,1,0,0
+1593,"",0,"",0,0,1,0,0
+1594,"",0,"",0,0,1,0,0
+1595,"",0,"",0,0,1,0,0
+1596,"",0,"",0,0,1,0,0
+1597,"",0,"",0,0,1,0,0
+1598,"",0,"",0,0,1,0,0
+1599,"",0,"",0,0,1,0,0
+1600,"",0,"",0,0,1,0,0

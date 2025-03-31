@@ -1,0 +1,1112 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+#,,,,,,,,,,,,,,,
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,uint16,uint16,byte,uint32,byte
+2000000,"[en]",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000001,"毒薬ポーション",0,"毒薬ポーション",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,99,65538,3
+2000002,"おいしい料理",0,"おいしい料理",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,120,99,65615,3
+2000003,"油",0,"油",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000004,"Test1",0,"Test1",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000005,"Test2",0,"Test2",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000006,"Test3",0,"Test3",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000007,"Test4",0,"Test4",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000008,"Test5",0,"Test5",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000009,"Test6",0,"Test6",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000010,"Test7",0,"Test7",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000011,"Test8",0,"Test8",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000012,"Test9",0,"Test9",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000013,"Test10",0,"Test10",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000014,"Test11",0,"Test11",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000015,"Test12",0,"Test12",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000016,"古時計",0,"古時計",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,65622,3
+2000017,"角砂糖",0,"角砂糖",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,65595,3
+2000018,"音楽堂のゴミ",0,"音楽堂のゴミ",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+
+クエスト「野外音楽堂の掃除」関連アイテム","",20601,1,99,0,3
+2000019,"ニコリオーの宝物",0,"ニコリオーの宝物",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+
+","",20601,1,99,0,3
+2000020,"キノコ観察録",0,"キノコ観察録",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+
+","",20601,1,3,65610,3
+2000021,"wooden hairpin",0,"wooden hairpins",0,0,1,0,0,"A simple wooden hairpin treasured by young Aunillie of the Acorn Orchard.","Wooden Hairpin",22623,1,1,0,3
+2000022,"傷薬（仮）",0,"傷薬（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+。
+クエスト「姉の心遣い」関連アイテム","",20601,1,1,0,3
+2000023,"ヨエヌの封書",0,"ヨエヌの封書",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",26068,1,1,65560,3
+2000024,"recruit's toolbox",0,"recruit's toolboxes",0,0,1,0,0,"A sturdy box filled with a set of pristine carpentry tools.","Recruit's Toolbox",21002,1,1,65563,3
+2000025,"スウェシーナ隊長への封書（仮）",0,"スウェシーナ隊長への封書（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+
+クエスト「商店街の主からの手紙」関連アイテム","",20601,1,1,0,3
+2000026,"マンドラゴラの種（仮）",0,"マンドラゴラの種（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+
+クエスト「困りの種」関連アイテム","",20601,1,1,0,3
+2000027,"アリクシからの預かり物（仮）",0,"アリクシからの預かり物（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+
+クエスト「小さなお届け物」関連アイテム","",20601,1,1,0,3
+2000028,"Azeyma rose",0,"Azeyma roses",0,1,1,0,0,"A single red Azeyma rose entrusted to you by Ethelred.","Azeyma Rose",26069,1,1,65562,3
+2000029,"iron snaffle",0,"iron snaffles",0,1,1,0,0,"A small metal bit used in a set of chocobo reins. There appear to be several deep bite marks in the iron...","Iron Snaffle",21007,1,1,65568,3
+2000030,"鍋島テストアイテム１",0,"鍋島テストアイテム１",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,4,65623,3
+2000031,"鍋島テストアイテム２",0,"鍋島テストアイテム２",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,3,65625,3
+2000032,"鍋島テストアイテム３",0,"鍋島テストアイテム３",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,2,65625,3
+2000033,"鍋島テストアイテム４",0,"鍋島テストアイテム４",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,65624,3
+2000034,"鍋島テストアイテム５",0,"鍋島テストアイテム５",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,65624,3
+2000035,"鍋島テストアイテム６",0,"鍋島テストアイテム６",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,65624,3
+2000036,"鍋島テストアイテム７",0,"鍋島テストアイテム７",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,65613,3
+2000037,"ラプトルの卵",0,"ラプトルの卵",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",26069,1,1,65550,3
+2000038,"気付けの薬草（仮）",0,"気付けの薬草（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000039,"幻術士の文",0,"幻術士の文",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000040,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000041,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000042,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000043,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000044,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000045,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000046,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000047,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000048,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000049,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000050,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000051,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000052,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000053,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000054,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000055,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000056,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000057,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000058,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000059,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000060,"",0,"",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000061,"pot of amber unguent",0,"pots of amber unguent",0,0,1,0,0,"A sharply scented liquid entrusted to you by Master Gabineaux of Gabineaux's Bower.","Amber Unguent",20661,1,3,65663,3
+2000062,"chigoe egg sac",0,"chigoe egg sacs",0,0,1,0,0,"This translucent sac appears to be filled with thousands of tiny pearl-shaped eggs.","Chigoe Egg Sac",22623,1,8,65664,3
+2000063,"鍋島テストアイテム８",0,"鍋島テストアイテム８",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65636,3
+2000064,"鍋島テストアイテム９",0,"鍋島テストアイテム９",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65636,3
+2000065,"鍋島テストアイテム１０",0,"鍋島テストアイテム１０",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65637,3
+2000066,"鍋島テストアイテム１１",0,"鍋島テストアイテム１１",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65637,3
+2000067,"鍋島テストアイテム１２",0,"鍋島テストアイテム１２",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,6,65680,3
+2000068,"鍋島テストアイテム１３",0,"鍋島テストアイテム１３",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65638,3
+2000069,"鍋島テストアイテム１４",0,"鍋島テストアイテム１４",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65640,3
+2000070,"鍋島テストアイテム１５",0,"鍋島テストアイテム１５",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65640,3
+2000071,"anole egg",0,"anole eggs",0,1,1,0,0,"This melon-sized egg of the violent scalekin known as the anole is still slightly warm.","Anole Egg",25451,1,6,65661,3
+2000072,"気付けの薬草（仮）",0,"気付けの薬草（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000073,"幻術士の文",0,"幻術士の文",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",0,0,1,0,0
+2000074,"handmade eel pie",0,"handmade eel pies",0,0,1,0,0,"Mother Miounne's realm-famous eel pie. Served only in her fine establishment, the Carline Canopy.","Handmade Eel Pie",24305,1,1,65621,3
+2000075,"bag of stolen Mun--Tuy beans",0,"bags of stolen Mun--Tuy beans",0,0,1,0,0,"A hempen bag filled halfway with ripe Mun–Tuy beans.","Stolen Mun--Tuy Beans",22623,1,6,65639,3
+2000076,"scented letter",0,"scented letters",0,0,1,0,0,"A sweetly scented letter dropped by Ailbert.","Scented Letter",26151,1,1,65635,3
+2000077,"microchu leaflet",0,"microchu leaflets",0,0,1,0,0,"A tender, fleshy leaf taken from a microchu.","Microchu Leaflet",25401,1,4,65634,0
+2000078,"鍋島テストアイテム１６",0,"鍋島テストアイテム１６",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",20601,1,1,65682,0
+2000079,"F'mibhas's sealed message",0,"F'mibhas's sealed messages",0,0,1,0,1,"A message entrusted to you at the Archers' Guild by an adventurer calling herself F'mibhas.","F'mibhas's Message",26068,0,1,65560,0
+2000080,"bag of basic provisions",0,"bags of basic provisions",0,0,1,0,0,"A large bag filled with various dried meats and fruit entrusted to you by a hardened adventurer named Celestine.","Basic Provisions",22623,0,1,65570,0
+2000081,"bone spearhead",0,"bone spearheads",0,0,1,0,0,"The bone of some large mammal whittled down to a sharp point.","Bone Spearhead",22303,0,1,65574,0
+2000082,"pot of beeswax oil",0,"pots of besswax oil",0,0,1,0,0,"One part softened beeswax mixed with two parts olive oil. Used to treat leather.","Beeswax Oil",22636,0,1,65574,0
+2000083,"length of brambleweed rope",0,"lengths of brambleweed rope",0,0,1,0,0,"A thick, sturdy rope twisted from common brambleweed.","Brambleweed Rope",26103,0,1,65574,0
+2000084,"Azeyma rose hip",0,"Azeyma rose hips",0,1,1,0,0,"The bitter fruit of an Azeyma rose.","Azeyma Rose Hip",25502,1,6,65577,0
+2000085,"音楽堂のゴミ（仮）",0,"音楽堂のゴミ（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,0,1,0,0
+2000086,"豆乳（仮）",0,"豆乳（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",24454,0,1,65580,0
+2000087,"水車の代金",0,"水車の代金",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",22623,0,1,65581,0
+2000088,"土屋テストアイテム01",0,"土屋テストアイテム01",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+土屋テスト用","",20601,1,3,65690,10
+2000089,"××の盗品",0,"××の盗品",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+クエスト「ハーストミル卒業クエ」","",20601,0,1,65684,3
+2000090,"鍋島テストアイテム１７",0,"鍋島テストアイテム１７",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",0,0,1,0,0
+2000091,"鍋島テストアイテム１８",0,"鍋島テストアイテム１８",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+鍋島テスト用","",0,0,1,0,0
+2000092,"roselet seed",0,"roselet seeds",0,0,1,0,0,"These hard black seeds can remain dormant for years before sprouting.","Roselet Seed",22623,1,6,65692,3
+2000093,"strand of newly spun diremite webbing",0,"strands of newly spun diremite webbing",0,0,1,0,0,"Little time has elapsed since this strand was spun, and so the web remains extremely sticky.","Newly Spun Diremite Web",21664,1,6,65693,3
+2000094,"bottle of stingbrew",0,"bottles of stingbrew",0,0,1,0,0,"A potent liquor created through the fermentation of hornet carcasses.","Stingbrew",24403,1,1,65694,3
+2000095,"smoldering coal",0,"smoldering coals",0,0,1,0,0,"A red-hot piece of carbonized wood.","Smoldering Coal",30202,1,1,65695,3
+2000096,"Leia's egg",0,"Leia's eggs",0,0,1,0,1,"You must deliver this egg, adventurer. It's our only hope!","Leia's Egg",25452,1,1,65697,3
+2000097,"Keitha's letter",0,"Keitha's letters",0,0,1,0,1,"A stained envelope entrusted to you by realm-renowned wrangler Keitha of Bentbranch Meadows.","Keitha's Letter",26068,1,1,0,3
+2000098,"pot of scarlet oil",0,"pots of scarlet oil",0,0,1,0,0,"A viscous yet odorless secretion taken from the underbelly of a common ladybug.","Scarlet Oil",20641,1,6,65567,0
+2000099,"bag of hornet husks",0,"bags of hornet husks",0,0,1,0,0,"The carcasses of common hornets. The stingers are still intact.","Dead Hornets",22623,1,4,65694,3
+2000100,"bottle of flat ale",0,"bottles of flat ale",0,0,1,0,0,"Having been left uncovered for a few days, this cheap Aleport brew has lost all of its carbonation.","Flat Ale",20643,1,3,65696,3
+2000101,"phial of Azeyma rose oil",0,"phials of Azeyma rose oil",0,0,1,0,0,"A fragrant oil pressed from freshly harvested Azeyma rose hips.","Azeyma Rose Oil",20663,1,2,65556,3
+2000102,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,"A heavy stone used by the Wood Wailers for training with the lance.","Stone of Courage",21451,1,1,65571,0
+2000103,"flask of humus oil",0,"flasks of humus oil",0,0,1,0,0,"A flask of brownish oil you received from Brother E–Sumi–Yan. It reeks of decayed earth.","Humus Oil",22636,1,1,0,3
+2000104,"rusted octant",0,"rusted octants",0,0,1,0,0,"An instrument widely used in maritime navigation. This one appears to have been a victim of the elements.","Rusted Octant",21002,1,1,65644,3
+2000105,"rusted octant",0,"rusted octants",0,0,1,0,0,"An instrument widely used in maritime navigation. This one appears to have been a victim of the elements.","Rusted Octant",21002,1,1,65645,3
+2000106,"手配書（仮）",0,"手配書（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,3,0,3
+2000107,"シープの肉（仮）",0,"シープの肉（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000108,"酒瓶（仮）",0,"酒瓶（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000109,"裁縫物（仮）",0,"裁縫物（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000110,"未届け通知（仮）",0,"未届け通知（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,3,0,3
+2000111,"売上台帳（仮）",0,"売上台帳（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000112,"魚の塩漬け（仮）",0,"魚の塩漬け（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000113,"よく釣れる餌（仮）",0,"よく釣れる餌（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000114,"強力な釣り糸（仮）",0,"強力な釣り糸（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,3,0,3
+2000115,"頑丈な釣竿（仮）",0,"頑丈な釣竿（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,3,0,3
+2000116,"船用の鉄鉱石（仮）",0,"船用の鉄鉱石（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,1,0,3
+2000117,"集金袋（仮）",0,"集金袋（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,3,0,3
+2000118,"チョコボ装甲（仮）",0,"チョコボ装甲（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",20601,1,3,0,3
+2000119,"handmade eel pie",0,"handmade eel pies",0,0,1,0,0,"Mother Miounne's realm-famous eel pie. Served only in her fine establishment, the Carline Canopy.","Handmade Eel Pie",24305,1,1,65659,3
+2000120,"handmade eel pie",0,"handmade eel pies",0,0,1,0,0,"Mother Miounne's realm-famous eel pie. Served only in her fine establishment, the Carline Canopy.","Handmade Eel Pie",24305,1,1,65660,3
+2000121,"flask of pristine water",0,"flasks of pristine water",0,0,1,0,0,"A flask of water drawn from the banks of a pristine lake in the East Shroud.","Pristine Water",22614,1,1,65628,3
+2000122,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,"A heavy stone used by the Wood Wailers for training with the lance.","Stone of Courage",21451,1,1,65679,0
+2000123,"magitek photocell",0,"magitek photocells",0,0,1,0,0,"These lighter-than-air spheres of concentrated lightning can be used to power magitek terminals.","Magitek Photocell",22625,1,4,0,0
+2000124,"carrion chigoe egg sac",0,"carrion chigoe egg sacs",0,0,1,0,0,"This translucent sac appears to be filled with thousands of tiny, pearl-shaped eggs.","Carrion Chigoe Egg Sac",22623,0,99,0,0
+2000125,"tattered uniform",0,"tattered uniforms",0,0,1,0,0,"An old Order of the Twin Adder jacket, stained with the blood of its former owner.","Tattered Uniform",22623,0,99,0,0
+2000126,"plump honeybee",0,"plump honeybees",0,0,1,0,0,"A healthy looking honeybee...or at least it would be healthy if you hadn't killed it.","Plump Honeybee",27002,0,99,0,0
+2000127,"sticky leaf",0,"sticky leaves",0,0,1,0,0,"A viscous coating covers this leaf taken from a landtrap.","Sticky Leaf",25401,0,99,0,0
+2000128,"poached pelt",0,"poached pelts",0,0,1,0,0,"Pelts taken from beasts unlawfully hunted by Coeurlclaw poachers.","Poached Pelt",21002,0,99,0,0
+2000129,"落ちたオリーヴ（仮）",0,"落ちたオリーヴ（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21610,1,6,0,3
+2000130,"謎のハーブ（仮）",0,"謎のハーブ（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21610,1,3,0,3
+2000131,"食い逃げ犯の似顔絵（仮）",0,"食い逃げ犯の似顔絵（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21610,1,1,0,3
+2000132,"ビスマルクへの注文書（仮）",0,"ビスマルクへの注文書（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21610,0,1,0,3
+2000133,"網倉への注文書（仮）",0,"網倉への注文書（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21610,1,1,0,3
+2000134,"出店リスト（仮）",0,"出店リスト（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21610,1,1,0,3
+2000135,"あやしいハーブ（仮）",0,"あやしいハーブ（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21610,1,3,0,3
+2000136,"sealed envelope",0,"sealed envelopes",0,0,1,0,0,"This unmarked envelope contains a missive penned by local informant Wymond.","Sealed Envelope",26068,1,1,65685,3
+2000137,"Franz the Fair flyer",0,"Franz the Fair flyers",0,0,1,0,0,"A notice singing the praises of one Franz the Fair─an extremely popular gladiator, as can be noted by the excessive use of exclamation marks.","Franz the Fair Flyer",26056,1,3,65689,3
+2000138,"shrew pelt",0,"shrew pelts",0,0,1,0,0,"The bristly hide of a snapping shrew.","Shrew Pelt",21610,1,5,65699,3
+2000139,"ウォルナット材（仮）",0,"ウォルナット材（仮）",0,0,1,0,0,"最高級の木材","",21610,1,1,0,0
+2000140,"burlap sack",0,"burlap sacks",0,0,1,0,0,"This old flaxen bag contains something soft and warm...","Burlap Sack",22628,1,1,65709,3
+2000141,"set of survey records",0,"sets of survey records",0,0,1,0,0,"A sprawling list of numbers which appear to be coordinates of some sort.","Survey Records",26151,1,1,65711,3
+2000142,"bog yarzon shell",0,"bog yarzon shell",0,0,1,0,0,"The rock-hard carapace of a bog yarzon.","Bog Yarzon Shell",22252,1,4,65733,0
+2000143,"glimshroom",0,"glimshrooms",0,0,1,0,0,"A variety of fungus found in Peacegarden that naturally emits a soft white glow.","Glimshroom",25602,1,1,65731,3
+2000144,"basketful of aphids",0,"basketfuls of aphids",0,0,1,0,0,"These tiny vilekin gather on the young leaves of various forest foliage to feed.","Aphids",27003,1,1,65707,3
+2000145,"毒薬テスト",0,"毒薬テスト",0,0,1,0,0,"※テスト用","",22623,1,5,0,3
+2000146,"box of surveyor's instruments",0,"boxes of surveyor's instruments",0,0,1,0,0,"A wooden box containing various tools used by surveyors, including an alidade, a plumb, and a block of marking wax.","Surveyor's Instruments",21002,1,2,65711,3
+2000147,"surveyor's rope",0,"surveyor's ropes",0,0,1,0,0,"A thin rope used by surveyors to measure distance.","Surveyor's Rope",26103,1,1,65711,3
+2000148,"East Aldenard Trading Company cargo crate",0,"East Aldenard Trading Company cargo crates",0,1,1,0,0,"Items prepared and packaged to ship from Vesper Bay to the East Aldenard Trading Company.","East Aldenard Trading Company Cargo",21003,1,3,65758,3
+2000149,"bottle of cactuar blood",0,"bottles of cactuar blood",0,0,1,0,0,"Actually, this clear liquid is far closer to water than it is blood...except, that is, for the cactuar it is taken from. For him it is most definitely blood.","Cactuar Blood",20642,1,4,65759,3
+2000150,"piece of Fafafono's baggage",0,"pieces of Fafafono's baggage",0,0,1,0,0,"The piece is quite warm from having sat under the Thanalan sun. Hopefully there is nothing perishable inside.","Fafafono's Baggage",21003,1,3,65761,3
+2000151,"slice of funguar gills",0,"slices of funguar gills",0,0,1,0,0,"It is believed that each gill can hold up to ten score spores.","Funguar Gills",25603,0,99,0,0
+2000152,"microchu vine",0,"microchu vines",0,0,1,0,0,"When dried and made into a rope, a single microchu vine can support a full-grown Roegadyn.","Microchu Vine",26103,0,99,0,0
+2000153,"chunk of magnetite",0,"chunks of magnetite",0,0,1,0,0,"An ordinary-looking stone that will adhere itself to certain types of metal.","Magnetite",21209,1,3,65764,3
+2000154,"copper lure",0,"copper lures",0,0,1,0,0,"From its condition, it can be gathered that this lure was gnawed on by more than one denizen of the deep.","Copper Lure",27055,1,2,65765,3
+2000155,"補給物資（仮）",0,"補給物資（仮）",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",26069,1,1,0,3
+2000156,"落とした商品(仮)",0,"落とした商品(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",25557,1,5,65769,3
+2000157,"鉱虫油(仮)",0,"鉱虫油(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",25651,1,5,65770,3
+2000158,"鉱虫油(仮)",0,"鉱虫油(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",25651,1,1,65771,3
+2000159,"キレイな石(仮)",0,"キレイな石(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21256,1,1,65771,3
+2000160,"研き砂(仮)",0,"研き砂(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21464,1,5,65772,3
+2000161,"錆びたキセル(仮)",0,"錆びたキセル(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",36003,1,1,65772,3
+2000162,"キレイなキセル(仮)",0,"キレイなキセル(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",36003,1,1,65774,3
+2000163,"乗船券(仮)",0,"乗船券(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",26068,1,1,65773,3
+2000164,"bottle of coblyn grease",0,"bottles of coblyn grease",0,0,1,0,0,"It's best if one did not ask exactly how this oil was extracted from a coblyn.","Coblyn Grease",20663,1,4,65763,3
+2000165,"letter to Momodi",0,"letters to Momodi",0,0,1,0,0,"A sincere note of thanks from the sweet-voiced Kikipu of the Silver Bazaar.","Letter to Momodi",26068,1,1,65766,3
+2000166,"先祖伝来の家宝(仮)",0,"先祖伝来の家宝(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21002,1,1,0,3
+2000167,"先祖伝来の家宝(仮)",0,"先祖伝来の家宝(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21002,1,1,0,3
+2000168,"antling mandible",0,"antling mandibles",0,1,1,0,0,"The hard, jagged jaw of an antling worker.","Antling Mandible",22205,1,5,65841,3
+2000169,"hammer beak rib",0,"hammer beak ribs",0,0,1,0,0,"The large, curved rib of a hammer beak.","Hammer beak Rib",22202,1,1,0,3
+2000170,"silver ore cluster",0,"silver ore clusters",0,0,1,0,0,"Several chunks of silver which have grown together to form a sizable cluster.","Silver Ore Cluster",21211,1,1,0,3
+2000171,"鉄の疑似餌(仮)",0,"鉄の疑似餌(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",27051,1,1,65857,3
+2000172,"銀の疑似餌(仮)",0,"銀の疑似餌(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",27051,1,1,0,3
+2000173,"金の疑似餌(仮)",0,"金の疑似餌(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",27051,1,1,0,3
+2000174,"質のいい石(仮) ",0,"質のいい石(仮) ",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21205,1,1,65859,3
+2000175,"空っぽの壺(仮)",0,"空っぽの壺(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",25055,1,1,65861,3
+2000176,"水壺(仮)",0,"水壺(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",25055,1,1,65861,3
+2000177,"hammer beak rib",0,"hammer beak ribs",0,0,1,0,0,"The large, curved rib of a hammer beak.","Hammer beak Rib",22202,1,8,65862,3
+2000178,"五色の置き石(仮)",0,"五色の置き石(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",21208,1,1,0,3
+2000179,"長谷川のテスト",0,"長谷川のテスト",0,0,1,0,0,"","",26069,1,1,65874,3
+2000180,"長谷川のテスト2",0,"長谷川のテスト2",0,0,1,0,0,"","",26069,1,1,0,3
+2000181,"笛(仮)",0,"笛(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",26069,1,1,0,3
+2000182,"",0,"",0,0,1,0,0,"","",20601,1,2,65743,3
+2000183,"",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000184,"",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000185,"well-worn fishing rod",0,"well-worn fishing rods",0,0,1,0,0,"The Twelve only know how many fish have been caught with this antique rod.","Well-worn Fishing Rod",38401,1,1,65921,3
+2000186,"Roseline's missive",0,"Roseline's missives",0,0,1,0,1,"Information regarding a suspicious individual compiled by Roseline of the Wood Wailers.","Roseline's Missive",26151,1,1,65916,3
+2000187,"Roseline's missive",0,"Roseline's missives",0,0,1,0,1,"Information regarding a suspicious individual compiled by Roseline of the Wood Wailers.","Roseline's Missive",26151,1,1,65916,3
+2000188,"Roseline's missive",0,"Roseline's missives",0,0,1,0,1,"Information regarding a suspicious individual compiled by Roseline of the Wood Wailers.","Roseline's Missive",26151,1,1,65916,3
+2000189,"clay krater",0,"clay kraters",0,0,1,0,0,"A deep clay bowl filled with cold water.","Clay Krater",25055,1,1,65903,3
+2000190,"ケッドトラップの種(仮)",0,"ケッドトラップの種(仮)",0,0,1,0,0,"※α未使用
+もし入ってたらバグなのでEvent班へ教えてください。
+","",25554,1,1,65903,3
+2000191,"worn leather bag",0,"worn leather bags",0,0,1,0,0,"A tattered leather satchel you found lying near a gutted campfire.","Leather Bag",26069,1,1,65915,3
+2000192,"bouquet of Nymeia lilies",0,"bouquets of Nymeia lilies",0,0,1,0,0,"Bouquets such as these are oft used as offerings to the dead.","Nymeia Lilies",25022,1,3,65919,3
+2000193,"thousand-year plum",0,"thousand-year plums",0,0,1,0,0,"Not actually a plum, and not actually a thousand years old, but this fruit does only grow on the Guardian Tree─a arboreal specimen known for its longevity.","Thousand-year Plum",25508,0,99,0,0
+2000194,"よれた作業着(仮)",0,"よれた作業着(仮)",0,0,1,0,0,"※仮組アイテムの為、シナリオ確定時に名称やヘルプ内容を修正","",42076,1,1,0,3
+2000195,"新調した作業着(仮)",0,"新調した作業着(仮)",0,0,1,0,0,"※仮組アイテムの為、シナリオ確定時に名称やヘルプ内容を修正","",42045,1,1,0,3
+2000196,"bottle of deep green tonic",0,"bottles of deep green tonic",0,0,1,0,0,"An earthy-smelling medicine created by budding alchemist Alewyn Alder.","Deep Green Tonic",20661,1,1,65930,3
+2000197,"cracked vase",0,"cracked vases",0,0,1,0,0,"The crack was there before you found it. Honest.","Cracked Vase",25055,1,1,65931,3
+2000198,"handful of dropped gil",0,"handfuls of dropped gil",0,0,1,0,0,"The faint aroma of prosperity can be detected on this freshly minted gil.","Dropped Gil",26069,1,5,65932,3
+2000199,"receipt of purchase",0,"receipts of purchase",0,0,1,0,0,"Exchange this slip at the Royal Plantations for one ripe pumpkin.","Receipt of Purchase",26056,1,1,65839,3
+2000200,"slice of salt-cured antelope",0,"slices of salt-cured antelope",0,0,1,0,0,"If cured properly, antelope meat can be stored for up to three summers.","Salt-cured Antelope",24353,1,1,65890,3
+2000201,"order slip",0,"order slips",0,1,1,0,0,"A small piece of parchment detailing an order for a gaudy circlet.","Order Slip",26151,1,1,65701,3
+2000202,"",0,"",0,0,1,0,0,"","",26151,1,1,0,3
+2000203,"box of dried Mun-Tuy beans",0,"boxes of dried Mun-Tuy beans",0,0,1,0,0,"A simple wooden box containing several handfuls of Mun–Tuy beans─a favorite of Black Shroud lemurs.","Mun-Tuy Bean Box",21003,1,1,65891,3
+2000204,"small cane",0,"small canes",0,0,1,0,0,"An unusually small cane you found lying upon a stump.","Small Cane",32412,1,1,65892,3
+2000205,"small cane",0,"small canes",0,0,1,0,0,"An unusually small cane you found lying upon a stump.","Small Cane",32412,1,1,65892,3
+2000206,"box of hunting tools",0,"boxes of hunting tools",0,0,1,0,0,"An unlocked box containing several basic tools employed by hunters to trap their prey.","Hunting Tools",21002,1,3,65898,3
+2000207,"小さな木の実(仮)",0,"小さな木の実(仮)",0,0,1,0,0,"※シナリオ上使わなくなりました。","",25554,1,1,0,3
+2000208,"じめじめしたキノコ(仮)",0,"じめじめしたキノコ(仮)",0,0,1,0,0,"※シナリオ上使わなくなりました。","",25605,1,1,0,3
+2000209,"pile of antelope umbles",0,"piles of antelope umbles",0,0,1,0,0,"When making an offering of antelope innards to the spirits of the wood, it is proper if they are still warm.","Antelope Umbles",25202,1,4,65904,3
+2000210,"ochu leaflet",0,"ochu leaflets",0,1,1,0,0,"The tender, green young leaves of an ochu.","Ochu Leaflet",25401,1,4,65908,3
+2000211,"cut of fresh shrew meat",0,"cuts of fresh shrew meat",0,0,1,0,0,"The flavor of shrew meat is only bearable if it is prepared within six bells of its harvest. Even then, it still must be blended with strong spices and smoked to be considered even remotely edible.","Fresh Shrew Meat",25155,1,2,65840,3
+2000212,"silver ore cluster",0,"silver ore clusters",0,0,1,0,0,"Several chunks of silver which have grown together to form a sizable cluster.","Silver Ore Cluster",21215,1,1,65843,3
+2000213,"ボロボロの小袋",0,"ボロボロの小袋",0,0,1,0,0,"","",26069,1,1,0,3
+2000214,"slice of fatty orobon",0,"slices of fatty orobon",0,0,1,0,0,"Thick cuts of orobon so fresh you can eat it raw...but probably shouldn't unless you enjoy parasites.","Fatty Orobon",25202,1,4,65858,3
+2000215,"bottle of fresh spoken blood",0,"bottles of fresh spoken blood",0,0,1,0,0,"The warm blood of a bipedal sentient. For some unknown reason, the humours will not coagulate.","Fresh Spoken Blood",22601,1,4,65900,3
+2000216,"Amajina & Sons coffer",0,"Amajina & Sons coffer",0,1,1,0,0,"A metal-clad lockbox used in transporting expensive ores from the Concern's mines back to Ul'dah.","Amajina & Sons Coffer",21002,1,3,65844,3
+2000217,"Naldiq & Vymelli missive",0,"Naldiq & Vymelli missives",0,0,1,0,0,"An important message entrusted to you by Naldiq & Vymelli's forgemaster H'naanza with orders to deliver it to <Emphasis>Victory</Emphasis> shipwright Ahtbyrm.","Naldiq & Vymelli Missive",26068,1,1,65942,3
+2000218,"packed lunch",0,"packed lunches",0,0,1,0,0,"Boiled boar, stewed dodo, steamed cabbage, a slab of stone cheese, and a haunch of day-old bread─everything a hard-working shipwright needs to maintain his (or her) vigor.","Packed Lunch",22641,1,4,65945,3
+2000219,"lightning sprite core",0,"lightning sprite cores",0,0,1,0,0,"These white-hot cores are sometimes used by blacksmiths and armorers as a source of heat when driving rivets into metal plate.","Lightning Sprite Core",21265,1,3,65946,3
+2000220,"curved jackal fang",0,"curved jackal fangs",0,0,1,0,0,"The brownish yellow stain on this sharp tooth suggests a diet rich in carrion.","Curved Jackal Fang",22303,1,4,65947,3
+2000221,"lump of fetid dodo flesh",0,"lumps of fetid dodo flesh",0,0,1,0,0,"With a decent wind, the stench of rotting dodo meat can carry for malms, attracting all manner of creatures.","Fetid Dodo Flesh",24353,1,1,65952,3
+2000222,"brass helm wheel",0,"brass helm wheels",0,0,1,0,0,"A piece of nautical equipment intended for the <Emphasis>Victory</Emphasis> and sought after by shipwright Fyrilsmyd.","Brass Helm Wheel",21003,1,1,65951,3
+2000223,"knot of tangled rigging",0,"knots of tangled rigging",0,0,1,0,0,"A piece of nautical equipment intended for the <Emphasis>Victory</Emphasis> and sought after by shipwright Fyrilsmyd.","Tangled Rigging",20910,1,1,65951,3
+2000224,"folded sailcloth",0,"folded sailcloths",0,0,1,0,0,"A piece of nautical equipment intended for the <Emphasis>Victory</Emphasis> and sought after by shipwright Fyrilsmyd.","Folded Sailcloth",21602,1,1,65951,3
+2000225,"La Noscean lilybell",0,"La Noscean lilybells",0,0,1,0,0,"A lovely flower for the lovely Ghimthota.","La Noscean Lilybell",25022,1,1,65953,3
+2000226,"使用してません（海）",0,"使用してません（海）",0,0,1,0,0,"※仮組アイテムの為、シナリオ確定時に名称やヘルプ内容を修正","",20601,1,1,0,3
+2000227,"使用してません（海）",0,"使用してません（海）",0,0,1,0,0,"※仮組アイテムの為、シナリオ確定時に名称やヘルプ内容を修正","",20601,1,1,0,3
+2000228,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,"A piece of pottery dating back to an age when the city-state of Gelmorra prospered.","Muddy Potsherd",25054,1,5,65907,3
+2000229,"magicked blade",0,"magicked blades",0,0,1,0,0,"An ornately decorated sword found thrust into Lifemend Stump.","Magicked Blade",30426,1,1,65981,3
+2000230,"sack of foul-smelling bait",0,"sacks of foul-smelling bait",0,0,1,0,0,"Though yarzons are said to be attracted to the stench of most any kind of rotting flesh, they become especially excited when that flesh is of a fellow vilekin.","Foul-smelling Bait",21005,1,2,65583,3
+2000231,"bone whistle",0,"bone whistles",0,0,1,0,0,"A small, high-pitched whistle that hunters use to mimic bird calls and send signals to their companions.","Bone Whistle",26069,1,3,0,3
+2000232,"bottle of Fullflower mead",0,"bottles of Fullflower mead",0,0,1,0,0,"This aged honey liquor has a faint bouquet of roses...and ochus.","Fullflower Mead",25057,1,1,65974,3
+2000233,"balloon finger",0,"balloon fingers",0,0,1,0,0,"This tiny finger taken from a voidsent balloon is hot to the touch.","Balloon Finger",26061,1,6,65974,3
+2000234,"oily order slip",0,"oily order slips",0,1,1,0,0,"A stained order slip used by Coffer & Coffin wenches who have difficulty remembering all the demands of their customers.","Oily Order Slip",26153,1,4,65860,3
+2000235,"alchemic potation",0,"alchemic potations",0,1,1,0,0,"A highly toxic liquid entrusted to you by the rogue lancer Foulques.","Alchemic Potation",24403,1,1,65591,3
+2000236,"bloody boar tusk",0,"bloody boar tusks",0,0,1,0,0,"It appears the poor soul who tried to harvest this tusk before you was not so fortunate.","Bloody Boar Tusk",22301,1,10,65592,3
+2000237,"piece of fallen cargo",0,"pieces of fallen cargo",0,0,1,0,0,"Though the crate is splintered in several places, it does not appear that its contents were damaged in the fall.","Fallen Cargo",21003,1,2,65923,3
+2000238,"plantation pumpkin",0,"plantation pumpkins",0,0,1,0,0,"It is believed that after eating pumpkin for the first time, the sultana fell in love with the nutty flavor and ordered all her royal plantations grow the vegetable.","Plantation Pumpkin",25410,1,1,65839,3
+2000239,"crumbling ginger cookie",0,"crumbling ginger cookies",0,0,1,0,0,"Straight from good Wystan's pocket. (Don't mind the lint.)","Crumbling Ginger Cookie",24051,1,4,65856,3
+2000240,"Luquelot's letter",0,"Luquelot's letters",0,0,1,0,1,"A sealed envelope entrusted to you by Bentbranch Meadows chocobokeep Luquelot.","Luquelot's Letter",26068,1,1,65982,3
+2000241,"torn timetable",0,"torn timetables",0,0,1,0,0,"A slip of paper indicating the various departure and arrival times of Amajina & Sons Mineral Concern freight trains.","Torn Timetable",26151,1,1,65925,3
+2000242,"bunch of broad-leaf gysahl greens",0,"bunches of broad-leaf gysahl greens",0,0,1,0,0,"Gysahl greens picked fresh from the gardens at Bentbranch Meadows.","Broad-leaf Gysahl Greens",25418,1,3,65910,3
+2000243,"vial of spoken blood",0,"vials of spoken blood",0,0,1,0,0,"The warm blood of a bipedal sentient. For some unknown reason, the humours will not coagulate.","Spoken Blood",22601,1,1,65974,3
+2000244,"cultist rosary",0,"cultist rosaries",0,0,1,0,0,"These accursed beads exude a powerful aura of death and suffering.","Cultist Rosary",21265,1,99,0,0
+2000245,"gaudy ring",0,"gaudy rings",0,0,1,0,0,"One look at this extravagant ring would make anyone question Didilata's mother's taste in finery.","Gaudy Ring",48021,1,1,65687,3
+2000246,"smoked crayfish ball",0,"smoked crayfish balls",0,0,1,0,0,"Fishing bait delivered to the Mirror Planks.","Smoked Crayfish Ball",21003,1,1,65922,3
+2000247,"Mun-Tuy bean delivery",0,"Mun-Tuy bean deliveries",0,0,1,0,0,"Dried Mun-Tuy beans delivered to the Mirror Planks.","Mun-Tuy Bean Delivery",22628,1,1,65922,3
+2000248,"suit of unworn plate mail",0,"suits of unworn plate mail",0,0,1,0,0,"An unblemished suit of steel plate armor delivered to the Mirror Planks.","Unworn Plate Mail",42508,1,1,65922,3
+2000249,"Miounne's letter",0,"Miounne's letters",0,0,1,0,1,"A sealed envelope entrusted to you by Mother Miounne of the Carline Canopy.","Miounne's Letter",26068,1,1,65983,3
+2000250,"wooden lockbox",0,"wooden lockboxes",0,0,1,0,0,"As long as the lock is intact, we may never know for certain what Timbermaster Beatin placed inside.","Wooden Lockbox",21002,1,1,65984,3
+2000251,"poached hide",0,"poached hides",0,0,1,0,0,"Evidence proving unlawful hunting in the Twelveswood.","Poached Hide",23001,0,99,0,0
+2000252,"stolen crate",0,"stolen crates",0,0,1,0,0,"A wooden box filled with items stolen by goblin robbers.","Stolen Crate",21003,0,99,0,0
+2000253,"golem fragment",0,"golem fragments",0,0,1,0,0,"A chunk of stone that was once animated using arcane magicks.","Golem Fragment",21202,0,99,0,0
+2000254,"earth sprite core",0,"earth sprite cores",0,1,1,0,0,"These rock-hard cores are oft used to stabilize loose earth, making land safer to build upon.","Earth Sprite Core",21202,0,99,0,0
+2000255,"stolen shipping crate",0,"stolen shipping crates",0,0,1,0,0,"Merchandise pilfered by Sir Baron von Quiveron III Esquire and his blundering attendants.","Stolen Shipping Crate",21003,0,99,0,0
+2000256,"cactus leaf",0,"cactus leaves",0,0,1,0,0,"While not very pleasing to the palate, cactus leaves provide adequate nourishment when there is naught else save coblyn legs to eat.","Cactus Leaf",23001,0,99,0,0
+2000257,"golem soulstone",0,"golem soulstones",0,0,1,0,0,"The magick-imbued heart of a golem.","Golem Soulstone",21202,0,99,0,0
+2000258,"crate of contraband",0,"crates of contraband",0,0,1,0,0,"Illegal what-nots peddled by the goblins of Skull Valley.","Contraband",23001,0,99,0,0
+2000259,"slip of bloody parchment",0,"slips of bloody parchment",0,0,1,0,0,"The arcane text scrawled upon this page appears to have been written in blood. Could it be a clue to breaking the area's sealed barrier?","Bloody Parchment",26151,1,99,0,0
+2000260,"tiny key",0,"tiny keys",0,0,1,0,0,"A small metal key used to unlock doors in Haukke Manor.","Tiny Key",26054,1,99,0,0
+2000261,"white key",0,"white keys",0,0,1,0,0,"A snow white lily is painted upon this key found in Haukke Manor.","White Key",26052,1,99,0,0
+2000262,"red key",0,"red keys",0,0,1,0,0,"A blood red rose is painted upon this key found in Haukke Manor.","Red Key",26053,1,99,0,0
+2000263,"green key",0,"green keys",0,0,1,0,0,"A green ivy leaf is painted upon this key found in Haukke Manor.","Green Key",26053,1,99,0,0
+2000264,"yellow key",0,"yellow keys",0,0,1,0,0,"A bright, yellow carnation is painted upon this key found in Haukke Manor.","Yellow Key",26053,1,99,0,0
+2000265,"throbbing maple log",0,"throbbing maple logs",0,0,1,0,0,"A sample of maple harvested for the Greatloam Growery's study of treant behavior.","Throbbing Maple Log",22408,0,99,0,0
+2000266,"twitching maple branch",0,"twitching maple branches",0,0,1,0,0,"A sample of maple harvested for the Greatloam Growery's study of treant behavior.","Twitching Maple Branch",22416,0,99,0,0
+2000267,"treant acorn",0,"treant acorns",0,0,1,0,0,"Unlike the seeds of normal, healthy trees, acorns fallen from treants have a habit of exploding.","Treant Acorn",25504,0,99,0,0
+2000268,"ash sapling",0,"ash saplings",0,1,1,0,0,"Upon further inspection of the trunk's rings, it appears this young ash tree has seen fewer than five summers.","Ash Sapling",22407,0,99,0,0
+2000269,"ash sapling branch",0,"ash sapling branches",0,1,1,0,0,"Upon further inspection of the branch's rings, it appears this young ash tree has seen fewer than five summers.","Ash Sapling Branch",22416,0,99,0,0
+2000270,"sprig of east bank mistletoe",0,"sprigs of east bank mistletoe",0,0,1,0,0,"This variety of Tinolqa mistletoe is normally found growing on the east bank of the West Vein.","East Bank Mistletoe",25001,0,99,0,0
+2000271,"bundle of chopped firewood",0,"bundles of chopped firewood",0,0,1,0,0,"Large cuts of dry wood, perfect for maintaining campfires, bonfires, cook fires, and signal fires.","Chopped Firewood",22407,0,99,0,0
+2000272,"bundle of dry kindling",0,"bundles of dry kindling",0,0,1,0,0,"Small cuts of dry wood, perfect for starting campfires, bonfires, cook fires, and signal fires.","Dry Kindling",22418,0,99,0,0
+2000273,"pot of pure latex",0,"pots of pure latex",0,0,1,0,0,"This sticky, white tree sap contains  not a single impurity.","Pure Latex",22643,0,99,0,0
+2000274,"pot of impure latex",0,"pots of impure latex",0,0,1,0,0,"This sticky, white tree sap is peppered with tiny vilekin and pieces bark.","Impure Latex",22643,0,99,0,0
+2000275,"thinned ash log",0,"thinned ash logs",0,0,1,0,0,"Large pieces cut away from tall ash trees to allow sunshine to reach lower lying vegetation.","Thinned Ash Log",22407,0,99,0,0
+2000276,"thinned ash branch",0,"thinned ash branches",0,0,1,0,0,"Leaf-laden branches cut away from tall ash trees to allow sunshine to reach lower lying vegetation.","Thinned Ash Branch",22416,0,99,0,0
+2000277,"straight ash log",0,"straight ash logs",0,0,1,0,0,"A sublime sample of perfectly straight and round ash timber.","Straight Ash Log",22407,0,99,0,0
+2000278,"heavenspillar Root",0,"heavenspillar roots",0,0,1,0,0,"A gnarled root taken from a variety of cyclopean tree known as heavenspillars.","Heavenspillar Root",25005,0,99,0,0
+2000279,"piece of heavenspillar bark",0,"pieces of heavenspillar bark",0,0,1,0,0,"A chunk of hard bark taken from a variety of cyclopean tree known as heavenspillars.","Heavenspillar Bark",22418,0,99,0,0
+2000280,"thick heavenspillar root",0,"thick heavenspillar roots",0,0,1,0,0,"A thick, healthy root taken from a variety of cyclopean tree known as heavenspillars.","Thick Heavenspillar Root",25005,0,99,0,0
+2000281,"ochu seed",0,"ochu seeds",0,1,1,0,0,"If left to germinate, these seeds will eventually grow into an ochu.","Ochu Seed",25514,0,99,0,0
+2000282,"dried ochu leaf",0,"dried ochu leaves",0,0,1,0,0,"Though devoid of any moisture, this leaf still twitches slightly.","Dried Ochu Leaf",21662,0,99,0,0
+2000283,"piece of spore-covered bark",0,"pieces of spore-covered bark",0,0,1,0,0,"A thin veil of white spores have been dusted across the uneven surface of this bark.","Spore-covered Bark",22418,0,99,0,0
+2000284,"piece of worm-eaten bark",0,"pieces of worm-eaten bark",0,0,1,0,0,"This thick piece of bark is riddled with countless tiny tunnels dug by hungry vilekin larvae.","Worm-eaten Bark",22418,0,99,0,0
+2000285,"large chestnut",0,"large chestnuts",0,0,1,0,0,"A plump Gridanian chestnut.","Large Chestnut",25502,0,99,0,0
+2000286,"rotten chestnut",0,"rotten chestnuts",0,0,1,0,0,"A bruised and blackened Gridanian chestnut. Only suitable for consumption by worms, hogs, and possibly hungry Qiqirn.","Rotten Chestnut",25502,0,99,0,0
+2000287,"golden chestnut",0,"golden chestnuts",0,0,1,0,0,"The golden color of this Gridanian chestnut is prized by pâtisseries across the realm.","Golden Chestnut",25502,0,99,0,0
+2000288,"sprig of west bank mistletoe",0,"sprigs of west bank mistletoe",0,0,1,0,0,"This variety of Tinolqa mistletoe is normally found growing on the west bank of the West Vein.","West Bank Mistletoe",25001,0,99,0,0
+2000289,"long ash log",0,"long ash logs",0,0,1,0,0,"A long, straight ash log that will most likely prove difficult for chocobos to jump over, even if over half is buried.","Long Ash Log",22407,0,99,0,0
+2000290,"thin ash log",0,"thin ash logs",0,0,1,0,0,"While sufficiently long and straight, this ash long is far too thin to be effective if used to construct a fence.","Thin Ash Log",22407,0,99,0,0
+2000291,"roselet seed",0,"roselet seeds",0,0,1,0,0,"These hard, black seeds can remain dormant for years before sprouting.","Roselet Seed",25514,0,99,0,0
+2000292,"withered roselet leaf",0,"withered roselet leaves",0,0,1,0,0,"Judging from its state of decay, this roselet leaf appears to have fallen from its host long ago.","Withered Roselet Leaf",25401,0,99,0,0
+2000293,"sprouted roselet seed",0,"sprouted roselet seeds",0,0,1,0,0,"This hard seed has split down the middle─a single root now protruding from one end, a bright green bud from the other.","Sprouted Roselet Seed",25514,0,99,0,0
+2000294,"sprig of quickweed",0,"sprigs of quickweed",0,0,1,0,0,"A swift growing weed that produces tiny white flowers similar in appearance to Jessamine, but with a foul scent that attracts only flies.","Quickweed",25008,0,99,0,0
+2000295,"sprig of jessamine",0,"sprigs of jessamine",0,0,1,0,0,"A medicinal herb known for the fragrant aroma of its tiny white flowers. Not to be confused with quickweed.","Jessamine",25008,0,99,0,0
+2000296,"pot of clear maple sap",0,"pots of clear maple sap",0,0,1,0,0,"Sap so pure, it will not require filtering before boiling down into syrup.","Clear Maple Sap",22642,0,99,0,0
+2000297,"pot of clouded maple sap",0,"pots of clouded maple sap",0,0,1,0,0,"Sap so filled with impurities, it will require several trips through a filter before it can be considered of a quality suitable for making syrup.","Clouded Maple Sap",22642,0,99,0,0
+2000298,"piece of branded bark",0,"pieces of branded bark",0,0,1,0,0,"The mark of the primal Ramuh has been burned deeply into this piece of bark.","Branded Bark",22418,0,99,0,0
+2000299,"bed of green moss",0,"beds of green moss",0,0,1,0,0,"A large colony slow-growing moss so soft that sylphs have often been seen sleeping upon it.","Green Moss Bed",22649,0,99,0,0
+2000300,"pot of giant brambleweed sap",0,"pots of giant brambleweed sap",0,0,1,0,0,"A colorless, odorless liquid extracted from the massive, thorned foliage growing in the Bramble Patch.","Giant Brambleweed Sap",22642,0,99,0,0
+2000301,"giant brambleweed thorn",0,"giant brambleweed thorns",0,0,1,0,0,"This thorn, cut from the dense foliage covering the Bramble Patch, is almost as large as a Lalafell.","Giant Brambleweed Thorn",22304,0,99,0,0
+2000302,"dried Mun-Tuy bean",0,"dried Mun-Tuy beans",0,0,1,0,0,"Boiled, baked, roasted, or even fermented, there are scores of ways to prepare Mun-Tuy beans─a staple amongst forest dwellers since the first tribes arrived generations ago. When dried and stored properly, the beans will last indefinitely.","Dried Mun-Tuy Bean",25553,0,99,0,0
+2000303,"Shroud iris",0,"Shroud irises",0,0,1,0,0,"A flower so breathtaking, that it is said even an Ixal will stop to gaze at its beauty.","Shroud Iris",21651,0,99,0,0
+2000304,"exposed tree root",0,"exposed tree roots",0,1,1,0,0,"A scarred section of root that has been exposed to the elements.","Exposed Tree Root",25005,0,99,0,0
+2000305,"withered tree root",0,"withered tree roots",0,0,1,0,0,"A shriveled section of root that has been removed from the tree whence it grew.","Withered Tree Root",25005,0,99,0,0
+2000306,"healthy tree root",0,"healthy tree roots",0,0,1,0,0,"A thick section of root, moist to the touch.","Healthy Tree Root",25005,0,99,0,0
+2000307,"sprig of young galago mint",0,"sprigs of young galago mint",0,0,1,0,0,"The oils produced within these newly formed buds are highly fragrant, making them perfect for flavoring cakes and liquors.","Young Galago Mint",25016,0,99,0,0
+2000308,"sprig of mature galago mint",0,"sprigs of mature galago mint",0,0,1,0,0,"As galago mint leaves mature, the oils produced within the leaves evaporate, making them less fragrant than their younger counterparts.","Mature Galago Mint",25016,0,99,0,0
+2000309,"Gelmorran coin",0,"Gelmorran coins",0,0,1,0,0,"A faded bronze piece, stamped with the seal of the ancient subterranean city-state of Gelmorra.","Gelmorran Coin",26066,0,99,0,0
+2000310,"patinated metal shard",0,"patinated metal shards",0,0,1,0,0,"Countless seasons of exposure to the elements have resulted in the blue-green coating this unidentifiable piece of metal now carries.","Patinated Metal Shard",20817,0,99,0,0
+2000311,"two-yalm switch",0,"two-yalm switches",0,0,1,0,0,"From end to end, this tree branch is almost as long as a full-grown Roegadyn is tall.","Two-yalm Switch",22416,0,99,0,0
+2000312,"rotting leaf",0,"rotting leaves",0,0,1,0,0,"If allowed to decay further, these leaves will make for good, rich soil.","Rotting Leaf",25417,0,99,0,0
+2000313,"handful of soldier's sore berries",0,"handfuls of soldier's sore berries",0,0,1,0,0,"Though extremely deadly if consumed, the juice taken from crushed soldier's sore berries can be used to create a deep red paint that closely resembles the color of fresh blood.","Soldier's Sore Berries",25023,0,99,0,0
+2000314,"soldier's sore leaf",0,"soldier's sore leaves",0,0,1,0,0,"The razor-like edges of these thick leaves are sharp enough to slice through skin, hence the name “soldier's sore.”","Soldier's Sore Leaf",25413,0,99,0,0
+2000315,"sprite apple",0,"sprite apples",0,0,1,0,0,"A sister of the faerie apple developed by the Greatloam Growery to better withstand the elements, while yielding larger harvests.","Sprite Apple",25508,0,99,0,0
+2000316,"hairy caterpillar",0,"hairy caterpillars",0,0,1,0,0,"Though no larger than a Lalafellin moustache, this voracious vilekin can consume up to a score of leaves in a single bell.","Hairy Caterpillar",27004,0,99,0,0
+2000317,"spotted mushroom",0,"spotted mushrooms",0,0,1,0,0,"A queer-looking fungus not native to the Twelveswood. It could be edible, but so far, no one has had the courage to be the first to find out.","Spotted Mushroom",25607,0,99,0,0
+2000318,"spore-covered nail",0,"spore-covered nails",0,0,1,0,0,"A long, wooden peg covered in mushroom spores and driven into a healthy tree with hopes that the spores will take root.","Spore-covered Nail",22305,0,99,0,0
+2000319,"practice spear",0,"practice spears",0,0,1,0,0,"A simple, wooden weapon used in Wood Wailer training exercises. The tip is too blunt to induce any serious injury.","Practice Spear",31816,0,99,0,0
+2000320,"bag of compost",0,"bags of compost",0,0,1,0,0,"These bags contain a pungent mixture of peat moss, rotting leaves, chocobo dung, and growth formula gamma. It's what plants crave.","Growth Formula Bag",25556,0,99,0,0
+2000321,"mite egg",0,"mite eggs",0,0,1,0,0,"A pulsating egg pulled from a mite hole.","Mite Egg",25452,0,99,0,0
+2000322,"whitecap",0,"whitecaps",0,0,1,0,0,"A delicate mushroom that tastes divine in stews.","Whitecap",25602,0,99,0,0
+2000323,"iron leg trap",0,"iron leg traps",0,1,1,0,0,"Used by poachers, these deadly traps injure more Lalafells than they do beastkin.","Iron Leg Trap",27241,0,99,0,0
+2000324,"bottle of Solace",0,"bottles of Solace",0,0,1,0,0,"A magicked tincture used to soothe the savage beast.","Solace",22606,1,99,0,3
+2000325,"slice of antelope loin",0,"slice of antelope loin",0,0,1,0,0,"Tender, lean antelope meat suitable for drying.","Antelope Loin",25153,0,99,0,0
+2000326,"chewed <i>Necrologos</i> page",0,"chewed <i>Necrologos</i> pages",0,0,1,0,0,"An excerpt from the chapter entitled “Olidious Separation,” the words and symbols written in blood upon these pages are said to bind terrible creatures. If disturbed, the ward will weaken, possibly allowing the creatures to escape.","Chewed Necrologos Page",26151,0,99,0,0
+2000327,"bottle of homebrew",0,"bottles of homebrew",0,0,1,0,0,"It may make you go blind, but at least it is chilled.","Homebrew",25057,0,99,0,0
+2000328,"torn <i>Necrologos</i> page",0,"torn <i>Necrologos</i> pages",0,0,1,0,0,"An excerpt from the chapter entitled “The Beholders,” the words and symbols written in blood upon these pages are said to bind terrible creatures. If disturbed, the ward will weaken, possibly allowing the creatures to escape.","Torn Necrologos Page",26151,0,99,0,0
+2000329,"ripped <i>Necrologos</i> page",0,"ripped <i>Necrologos</i> pages",0,0,1,0,0,"An excerpt from the chapter entitled “Brand of the Impure,” the words and symbols written in blood upon these pages are said to bind terrible creatures. If disturbed, the ward will weaken, possibly allowing the creatures to escape.","Ripped Necrologos Page",26151,0,99,0,0
+2000330,"adamantoise egg",0,"adamantoise eggs",0,1,1,0,0,"A large, heavy egg with a seemingly unbreakable shell.","Adamantoise Egg",25452,0,99,0,0
+2000331,"poached hide",0,"poached hides",0,0,1,0,0,"Hides taken from beasts unlawfully hunted by Coeurlclaw poachers.","Poached Hide",22015,0,99,0,0
+2000332,"water sprite core",0,"water sprite cores",0,0,1,0,0,"These concentrated cores of suspended water can put out even the hottest of flames, including ones crafted by imps to hide their true forms.","Water Sprite Core",22606,1,99,0,3
+2000333,"large pollen cluster",0,"large pollen clusters",0,0,1,0,0,"The fine powder attached to this cluster is sure to send any man, woman...or imp, for that matter, into a sneezing fit.","Large Pollen Cluster",25007,1,99,0,3
+2000334,"（仮）見破りアイテム",0,"",0,0,1,0,0,"","",22623,1,99,0,3
+2000335,"vulture breast",0,"vulture breasts",0,0,1,0,0,"Tender white meat suited for sautés. Tastes remarkably like chocobo.","Vulture Breast",25158,0,99,0,0
+2000336,"slice of raw orobon",0,"slices of raw orobon",0,0,1,0,0,"Marinate overnight in a mixture of one part mead, one part fermented Mun-Tuy bean sauce, and then roast over an open flame for a delicious meal that is sure to impress.","Raw Orobon",25202,0,99,0,0
+2000337,"dirty diary",0,"dirty diaries",0,0,1,0,0,"A small diary found buried in Silent Arbor.","Dirty Diary",26002,1,1,65976,3
+2000338,"package to the Foremast",0,"packages to the Foremast",0,0,1,0,0,"One of the packages forgotten on the transport balloon from Limsa Lominsa. It is addressed to one Syngithuv.","Foremast Package",21005,1,1,65934,3
+2000339,"package to the De Nevelle Checkpoint",0,"packages to the De Nevelle Checkpoint",0,0,1,0,0,"One of the packages forgotten on the transport balloon from Limsa Lominsa. It is addressed to one Jessamine.","De Nevelle Checkpoint Package",23001,1,1,65934,3
+2000340,"water sprite core",0,"water sprite cores",0,0,1,0,0,"These concentrated cores of suspended water can help maintain the freshness of recently caught fish.","Water Sprite Core",22606,1,3,65936,3
+2000341,"sack of rotting rat meat",0,"sacks of rotting rat meat",0,0,1,0,0,"It's what buzzards crave.","Rotting Rat Meat",24353,1,1,65937,3
+2000342,"millioncorn seedling",0,"millioncorn seedlings",0,0,1,0,0,"This strain of millioncorn has been bred over generations to grow in even the rockiest of soils.","Millioncorn Seedling",25004,1,1,65938,3
+2000343,"iron brazier",0,"iron braziers",0,1,1,0,0,"When lit, this receptacle will not only produce light, but provide heat to the immediate area.","Iron Brazier",21003,1,1,65939,3
+2000344,"bomb claw",0,"bomb claws",0,0,1,0,0,"Unbearably hot to the touch, this remnant of a voidsent bomb will set aflame nearly anything it comes in contact with.","Bomb Claw",22623,1,1,65939,3
+2000345,"wooden casket",0,"wooden caskets",0,0,1,0,0,"A plain-looking box believed to contain the effects of Lyulf's deceased father.","Wooden Casket",21002,1,1,65940,3
+2000346,"fertilized dodo egg",0,"fertilized dodo eggs",0,0,1,0,0,"If left be, this warm heavy egg will likely hatch in a matter of weeks.","Fertilized Dodo Egg",25451,1,3,65941,3
+2000347,"bushel of blackloam",0,"bushels of blackloam",0,0,1,0,0,"Quite literally a steaming sack of shite.","Blackloam",21466,1,3,66003,3
+2000348,"stolen farm tool",0,"stolen farm tools",0,0,1,0,0,"Without tools like these, the tillers who frequent Tiller's Rest would have a hard time tilling.","Stolen Farm Tool",21002,1,3,66004,3
+2000349,"撒き餌(仮)",0,"撒き餌(仮)",0,0,1,0,0,"※ 使用してません","",20601,1,1,0,3
+2000350,"tiller's shovel",0,"tiller's shovels",0,0,1,0,0,"Used by the tillers of Summerford to clear the land of rocks.","Tiller's Shovel",21003,1,3,66007,3
+2000351,"ripe La Noscean orange",0,"ripe La Noscean oranges",0,0,1,0,0,"A sweet citrus fruit known to thrive in the temperate climate of lower La Noscea. This particular specimen seems to have thrived quite a bit.","Ripe La Noscean Orange",25512,1,3,66008,3
+2000352,"piece of Fafafono's baggage",0,"pieces of Fafafono's baggage",0,0,1,0,0,"The piece is quite warm from having sat under the Thanalan sun. Hopefully there is nothing perishable inside.","Fafafono's Baggage",40402,1,1,0,3
+2000353,"piece of Fafafono's baggage",0,"pieces of Fafafono's baggage",0,0,1,0,0,"The piece is quite warm from having sat under the Thanalan sun. Hopefully there is nothing perishable inside.","Fafafono's Baggage",44036,1,1,0,3
+2000354,"letter to Kikipu",0,"letters to Kikipu",0,0,1,0,0,"This envelope contains a very special message from Oswell.","Letter to Kikipu",26068,1,1,65760,3
+2000355,"hammer beak tailfeather",0,"hammer beak tailfeathers",0,0,1,0,0,"Beautiful plumage plucked from the rump of a slain hammer beak.","Hammer Beak Tailfeather",21906,1,5,65760,3
+2000356,"sack of oranges",0,"sacks of oranges",0,0,1,0,0,"A burlap bag packed chock-full of juicy, ripe La Noscean oranges.","Sack of Oranges",26069,1,1,66002,3
+2000357,"sack of gil",0,"sacks of gil",0,0,1,0,0,"Payment for the sack of La Noscean oranges.","Sack of Gil",26069,1,1,66002,3
+2000358,"盗まれた卵(仮)",0,"盗まれた卵(仮)",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",25452,1,1,66092,3
+2000359,"灯篭の油(仮)",0,"灯篭の油(仮)",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",20663,1,6,66093,3
+2000360,"使い込まれた鑢(仮)",0,"使い込まれた鑢(仮)",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",26069,1,1,66095,3
+2000361,"リバーヤーゾンの足(仮)",0,"リバーヤーゾンの足(仮)",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",22260,1,3,66096,3
+2000362,"オチューの若葉",0,"オチューの若葉",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",25401,1,5,66099,3
+2000363,"なぞの荷物(仮)",0,"なぞの荷物(仮)",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",21003,1,1,66100,3
+2000364,"取られた土器(仮)",0,"取られた土器(仮)",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",25054,1,1,66101,3
+2000365,"おいしい罠",0,"おいしい罠",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",25055,1,1,0,3
+2000366,"とても重い石",0,"とても重い石",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",21216,1,1,0,3
+2000367,"hornet stinger",0,"hornet stingers",0,0,1,0,0,"These sharp appendages each contain a single drop of poison. It is, however, extremely difficult to remove one from the carcass of a hornet without the drop spilling.","Hornet Stinger",22305,1,6,66098,3
+2000368,"Dadanen's final notice",0,"Dadanen's final notices",0,0,1,0,1,"A firmly worded reminder of delivery from the jeweler Dadanen.","Dadanen's Final Notice",26056,1,1,65864,3
+2000369,"raw Nashachite",0,"raw Nashachites",0,0,1,0,0,"An extremely rare variety of malachite that gets its name from its deep green color─the same color as former Ul'dahn sultana Nanasha Ul Nasha's eyes.","Raw Nashachite",20004,1,3,66039,3
+2000370,"sharpened pickaxe",0,"sharpened pickaxes",0,0,1,0,0,"This weathered pickaxe has seen countless years of use, yet is still as sharp as the day it was forged.","Sharpened Pickaxe",38005,1,1,66040,3
+2000371,"old hammer",0,"old hammers",0,1,1,0,0,"This weathered hammer has seen countless years of use, yet its owner has seen to it that the haft remains well varnished.","Old Hammer",35102,1,1,66040,3
+2000372,"heavy sledgehammer",0,"heavy sledgehammers",0,0,1,0,0,"This weathered sledgehammer has seen countless years of use, and though dented and scratched, its iron head is still in fine condition.","Heavy Sledgehammer",38101,1,1,66040,3
+2000373,"iron leg trap",0,"iron leg traps",0,1,1,0,0,"A deadly trigger-activated device that Fufulupa wishes to use to catch bandits.","Iron Leg Trap",21003,1,4,65873,3
+2000374,"the Eye of the Serpent",0,"the Eyes of the Serpent",0,1,1,0,1,"A gem-like stone carved carefully from the lens of a peiste eye.","Eye of the Serpent",21280,1,4,65875,3
+2000375,"小さなナナシャマラカイト",0,"小さなナナシャマラカイト",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",21285,1,4,65876,3
+2000376,"bottle of mongrel blood",0,"bottles of mongrel blood",0,0,1,0,0,"When thrown into fire, the stench omitted by this thick blood is foul enough to keep most beastkin at bay.","Mongrel Blood",20641,1,4,65877,3
+2000377,"letter to Leofric",0,"letters to Leofric",0,0,1,0,0,"A sealed message written by Brass Blade Fufulupa of the Rose to his former captain Leofric.","Letter to Leofric",26068,1,1,65866,3
+2000378,"raw Nashachite",0,"raw Nashachites",0,0,1,0,0,"An extremely rare variety of malachite that gets its name from its deep green color─the same color as former Ul'dahn sultana Nanasha Ul Nasha's eyes.","Raw Nashachite",20004,1,3,66109,3
+2000379,"vial of gigantoad secretions",0,"vials of gigantoad secretions",0,0,1,0,0,"Not only does this viscous liquid keep toads cool in the harsh climes of Thanalan, but its toxicity protects the toads from being consumed by larger predators.","Gigantoad Secretions",20682,1,2,66066,3
+2000380,"Hamund's application",0,"Hamund's applications",0,0,1,0,0,"An envelope addressed to the miner Beringaer containing Hamund's application for employment.","Hamund's Application",26151,1,1,66067,3
+2000381,"antique dagger",0,"antique daggers",0,1,1,0,0,"This ornamental dagger has remained in possession of the Brass Blades of the Rose for centuries, traditionally passed down to a new captain when an old one retires.","Antique Dagger",30222,1,1,65868,3
+2000382,"buzzard thigh",0,"buzzard thighs",0,0,1,0,0,"One would not guess this succulent slice of lean meat came from a bird known for dining on decaying flesh.","Buzzard Thigh",25154,1,2,65871,3
+2000383,"thickshell leg",0,"thickshell legs",0,0,1,0,0,"If you can make it through the stone-hard shell, you will be treated with a sweet, buttery meat that is best eaten steamed.","Thickshell Leg",25301,1,2,65871,3
+2000384,"scaphite slice",0,"scaphite slices",0,0,1,0,0,"Sailors who have traveled to the eastern islands beyond the Sea of Jade swear that the rubbery flesh of this shelled creature is best eaten raw.","Scaphite Slice",25156,1,2,65871,3
+2000385,"bottle of marmot blood",0,"bottles of marmot blood",0,0,1,0,0,"The erudite Erasmus is convinced this frothy blood of a star marmot will help him better understand the life the now-deceased beastkin lived.","Marmot Blood",22601,1,5,66108,3
+2000386,"letter of introduction",0,"letters of introduction",0,0,1,0,0,"A slip of bound parchment entrusted to you by Quicksand proprietress Momodi Modi.","Letter of Introduction",26056,1,1,66104,3
+2000387,"letter of introduction",0,"letters of introduction",0,0,1,0,0,"A slip of bound parchment entrusted to you by Quicksand proprietress Momodi Modi.","Letter of Introduction",26056,1,1,66105,3
+2000388,"letter of introduction",0,"letters of introduction",0,0,1,0,0,"A slip of bound parchment entrusted to you by Quicksand proprietress Momodi Modi.","Letter of Introduction",26056,1,1,66106,3
+2000389,"磁気を帯びた鉱石(仮)",0,"",0,0,1,0,0,"※ 現在β3に向けて仮状態の為、正式名称が決定次第名称を変更致します","",21216,1,1,0,3
+2000390,"queer leaflet",0,"queer leaflets",0,0,1,0,0,"A strange slip of parchment found at the Amalj'aa encampment in eastern Thanalan.","Queer Leaflet",26056,1,1,66158,3
+2000391,"slab of cloud marble",0,"slabs of cloud marble",0,0,1,0,0,"A pure white stone sometimes used for lichstones.","Cloud Marble",21251,1,1,66165,3
+2000392,"sprig of Althyk lavender",0,"sprigs of Althyk lavender",0,0,1,0,0,"A fragrant variety of lavender rarely found in the arid lowland regions of Thanalan.","Althyk Lavender",25002,1,3,66166,3
+2000393,"hiring notice",0,"hiring notices",0,0,1,0,0,"The parchment reads, “Skilled carpenters sought to aid in the construction of a new inn. Fair wages promised. Workers must bring own tools.”","Hiring Notice",26056,1,5,66168,3
+2000394,"slab of cloud marble",0,"slabs of cloud marble",0,0,1,0,0,"A pure white stone sometimes used for lichstones.","Cloud Marble",21213,1,5,66170,3
+2000395,"bottle of muddy spring water",0,"bottles of muddy spring water",0,0,1,0,0,"While not stagnant, this water is filled with impurities making it unsuitable for drinking (unless you are <Emphasis>really</Emphasis> thirsty).","Muddy Spring Water",25055,1,1,66173,3
+2000396,"letter to Owyne",0,"letters to Owyne",0,0,1,0,0,"A letter addressed to Sultansworn elite Owyne.","Letter to Owyne",26068,1,1,66164,3
+2000397,"offering to the Warden",0,"offerings to the Warden",0,1,1,0,0,"Caitlyn of Drybone's attempt to placate Azeyma the Warden.","Offering to the Warden",26069,1,1,66172,3
+2000398,"letter to Owyne",0,"letters to Owyne",0,0,1,0,0,"A letter addressed to Sultansworn elite Owyne.","Letter to Owyne",26068,1,1,66087,3
+2000399,"ripe corpse",0,"ripe corpses",0,0,1,0,0,"This poor soul appears to have been ravaged by an Amalj'aa before sitting to rot for several turns of the sun.","Ripe Corpse",1809,1,3,66154,3
+2000400,"bouquet of Nymeia lilies",0,"bouquets of Nymeia lilies",0,0,1,0,0,"Bouquets such as these are oft used as offerings to the dead.","Nymeia Lilies",25003,1,5,66163,3
+2000401,"scorpion ring",0,"scorpion rings",0,0,1,0,0,"A metal ring engraved with a scorpion, its tail poised ready to strike.","Scorpion Ring",48034,1,1,0,3
+2000402,"特製ポーション",0,"",0,0,1,0,0,"深手の傷も癒せる剣術士ギルドが特注したポーション","",20601,1,1,65799,3
+2000403,"scorpion ring",0,"scorpion rings",0,0,1,0,0,"A metal ring engraved with a scorpion, its tail poised ready to strike.","Scorpion Ring",48034,1,2,65799,3
+2000404,"wrinkled bill of sale",0,"wrinkled bills of sale",0,0,1,0,0,"Details of dealings made with the Corpse Brigade for the purchase of the poison Rhalgr's Bile.","Wrinkled Bill of Sale",26068,1,1,65801,3
+2000405,"rosewood box",0,"rosewood boxes",0,0,1,0,0,"A tiny box carved from a single piece of rosewood.","Rosewood Box",21002,1,1,66177,3
+2000406,"old offering",0,"old offerings",0,1,1,0,0,"This show of respect to the recently deceased is almost as withered as the corpse it now accompanies.","Old Offering",21003,1,6,66178,3
+2000407,"bottle of stingbrew",0,"bottles of stingbrew",0,0,1,0,0,"A potent liquor created through the fermentation of hornet carcasses. Its biting aroma is known to repel certain breeds of vilekin.","Stingbrew",20662,1,3,66173,3
+2000408,"toxic toad leg",0,"toxic toad legs",0,0,1,0,0,"Not as toxic as the name would have you believe, and it tastes like chocobo!","Toxic Toad Leg",25155,1,5,66094,3
+2000409,"striking dummy",0,"striking dummies",0,0,1,0,0,"A wooden dummy outfitted with several pegs. Basic training equipment for any inspiring pugilist.","Striking Dummy",27281,1,4,66102,3
+2000410,"package to Horizon",0,"packages to Horizon",0,0,1,0,0,"A small wrapped parcel bound for the settlement of Horizon.","Package to Horizon",21003,1,1,65926,3
+2000411,"phial of Rhalgr's Bile",0,"phials of Rhalgr's Bile",0,0,1,0,0,"A terrible poison made famous when it was used to assassinate an Ala Mhigan king.","Rhalgr's Bile",20662,1,1,65801,3
+2000412,"hiring notice",0,"hiring notices",0,0,1,0,0,"The parchment reads, “Skilled carpenters sought to aid in the construction of a new inn. Fair wages promised. Workers must bring own tools.”","Hiring Notice",26056,1,5,66168,3
+2000413,"writ of seizure",0,"writs of seizure",0,0,1,0,0,"An official-looking document detailing the seizure of a specified piece of property.","Writ of Seizure",26056,1,4,65766,3
+2000414,"dried fish",0,"dried fish",0,0,1,0,0,"The heat of the Thanalan sun only makes the odor of this long dead wavekin that much more unbearable.","Dried Fish",26069,1,1,65883,3
+2000415,"vulture breast",0,"vulture breasts",0,0,1,0,0,"Tender white meat suited for sautés. Tastes remarkably like chocobo.","Vulture Breast",25151,1,1,65883,3
+2000416,"crate of ether",0,"crates of ether",0,0,1,0,0,"A sturdy wooden crate filled with bottles of ether and copious amounts of packing hay.","Ether Crate",21003,1,1,65884,3
+2000417,"bottle of Amalj'aa blood",0,"bottles of Amalj'aa blood",0,0,1,0,0,"This malodorous lifeblood is so dark a red, it almost appears black.","Amalj'aa Blood",22601,1,2,65884,3
+2000418,"crate of ether",0,"crates of ether",0,0,1,0,0,"A sturdy wooden crate filled with bottles of ether and copious amounts of packing hay.","Ether Crate",21003,1,1,65885,3
+2000419,"bottle of Amalj'aa blood",0,"bottles of Amalj'aa blood",0,0,1,0,0,"This malodorous lifeblood is so dark a red, it almost appears black.","Amalj'aa Blood",22601,1,2,65885,3
+2000420,"bloody scepter",0,"bloody scepters",0,0,1,0,0,"The blood smeared about the curved blade is still sticky to the touch.","Bloody Scepter",32806,1,1,65887,3
+2000421,"shredded tome",0,"shredded tomes",0,0,1,0,0,"This book appears to have been torn apart with something sharp like a claw.","Shredded Tome",26002,1,1,65887,3
+2000422,"the <i>Book of Mormo</i>",0,"the <i>Book of Mormo</i>",0,0,1,0,1,"A scientific study on the characteristics of the voidsent seductress known as Mormo.","Book of Mormo",26002,1,3,65888,3
+2000423,"faded gil coin",0,"faded gil coins",0,0,1,0,0,"Bent and faded beyond recognition, even the most desperate of beggars will pause before accepting this coin.","Faded Gil",26067,1,5,66090,3
+2000424,"",0,"",0,0,1,0,0,"","",20601,1,1,66195,3
+2000425,"the <i>Book of Mormo</i>",0,"the <i>Book of Mormo</i>",0,0,1,0,1,"A scientific study on the characteristics of the voidsent seductress known as Mormo.","Book of Mormo",26002,1,3,65888,3
+2000426,"report on Cocobusi",0,"reports on Cocobusi",0,0,1,0,0,"This square of parchment contains information on Cocobusi the Cross.","Cocobusi Report",26056,1,3,65889,3
+2000427,"rivertoad liver",0,"rivertoad livers",0,0,1,0,0,"The soft, spongy liver of a river-dwelling gigantoad.","Rivertoad Liver",22603,1,3,66011,3
+2000428,"sack of fleece",0,"sacks of fleece",0,0,1,0,0,"This burlap sack is filled to bursting with freshly shorn sheep fleece.","Sack of Fleece",22610,1,1,66012,3
+2000429,"sack of flour",0,"sacks of flour",0,0,1,0,0,"Finely ground flour milled at the Grey Fleet.","Sack of Flour",25551,1,4,66013,3
+2000430,"bundle of raiments",0,"bundles of raiments",0,0,1,0,0,"An order of garments bound for the people working at the Red Rooster Stead.","Raiment Bundle",21003,1,3,66014,3
+2000431,"bundle of raiments",0,"bundles of raiments",0,0,1,0,0,"An order of garments bound for the people working at the Red Rooster Stead.","Raiment Bundle",21005,1,1,0,3
+2000432,"bundle of raiments",0,"bundles of raiments",0,0,1,0,0,"An order of garments bound for the people working at the Red Rooster Stead.","Raiment Bundle",23001,1,1,0,3
+2000433,"bloody bracelet",0,"bloody bracelets",0,0,1,0,0,"So much blood covers this piece of jewelry that it is impossible to tell from what it is made.","Bloody Bracelet",48601,1,1,65887,3
+2000434,"crate of meat",0,"crates of meat",0,0,1,0,0,"This simple wooden box entrusted to you by Skarnmhar of the Red Rooster Stead is heavy with rotting dodo meat.","Crate of Meat",21003,1,1,66015,3
+2000435,"empty dodo-sized sack",0,"empty dodo-sized sacks",0,1,1,0,0,"What ever would you put in an empty dodo-sized sack?","Empty Dodo-sized Sack",21610,1,3,66016,3
+2000436,"full dodo-sized sack",0,"full dodo-sized sacks",0,0,1,0,0,"What ever could be thrashing about in this dodo-sized sack?","Full Dodo-sized Sack",26069,1,3,66016,3
+2000437,"lice comb",0,"lice combs",0,0,1,0,0,"A fine-toothed metal comb used to remove blood-sucking lice from sheep.","Lice Comb",26069,1,3,66017,3
+2000438,"phial of aphid nectar",0,"phials of aphid nectar",0,0,1,0,0,"Ladybugs are known to feed on this sweet secretion.","Aphid Nectar",25105,1,1,66019,3
+2000439,"phial of ladybug viscera",0,"phials of ladybug viscera",0,0,1,0,0,"The moss-green ooze which seeps out between the cracked shell after crushing an innocent, defenseless ladybug.","Ladybug Viscera",25054,1,3,66019,3
+2000440,"clear earth crystal",0,"clear earth crystals",0,0,1,0,0,"The aetheric balance of this crystal is tipped completely to the element earth. Not a single trace of any of the other five elements can be detected.","Clear Earth Crystal",20012,1,3,66021,3
+2000441,"tiny key",0,"tiny keys",0,0,1,0,0,"A small metal key used to unlock locked doors. How novel!","Tiny Key",26054,1,99,0,0
+2000442,"six-onze pinch of firesand",0,"six-onze pinches of firesand",0,0,1,0,0,"Blasting powder used to clear tunnels in mines, though six onzes is not nearly enough to cause any real damage.","Six Onzes of Firesand",21001,1,99,0,0
+2000443,"偽造品（仮）",0,"偽造品（仮）",0,0,1,0,0,"仮メッセージ","",23001,0,99,0,0
+2000444,"pot of streetlamp oil",0,"pots of streetlamp oil",0,0,1,0,0,"Fuel used to light the streetlamps of Limsa Lominsa. It reeks of fish.","Streetlamp Oil",25055,1,7,65656,3
+2000445,"letter to the Admiral",0,"letters to the Admiral",0,0,1,0,0,"A letter addressed to Limsa Lominsan Admiral Merlwyb Bloefhiswyn.","Letter to the Admiral",26068,1,1,66064,3
+2000446,"letter to the Elder",0,"letters to the Elder",0,0,1,0,0,"A letter addressed to the Elder Seedseer Kan–E–Senna.","Letter to the Elder",26068,1,1,66064,3
+2000447,"peculiar herb stalk",0,"peculiar herb stalks",0,0,1,0,0,"A common weed rumored to have relaxing properties when either ingested or smoked.","Peculiar Herb",25002,1,6,65647,0
+2000448,"letter from Sweetnix",0,"letters from Sweetnix",0,0,1,0,0,"The only thing written on this slip of parchment appears to be a mess of squiggly lines and randomly positioned ink blots.","Letter from Sweetnix",26068,1,1,65649,0
+2000449,"log assessor's ledger",0,"log assessor's ledgers",0,0,1,0,0,"This booklet, penned by a log assessor from Mealvaan's Gate, contains the names of merchants who have yet to pay the duty on the goods they imported into Limsa Lominsa.","Log Assessor's Ledger",26056,1,2,65651,0
+2000450,"slice of fresh lamb",0,"slices of fresh lamb",0,0,1,0,0,"Lamb meat so fresh it still smells of the mother's teat.","Fresh Lamb",25153,1,4,65652,0
+2000451,"Seventh Sage sampler",0,"Seventh Sage samplers",0,0,1,0,0,"A set containing several exotic spices and instructions on how they can be used. Not something you would expect from the captain of a band of bloodthirsty pirates.","Seventh Sage Sampler",26069,1,2,65654,0
+2000452,"Seventh Sage sampler",0,"Seventh Sage samplers",0,0,1,0,0,"A set containing several exotic spices and instructions on how they can be used. Not something you would expect from the captain of a band of bloodthirsty pirates.","Seventh Sage Sampler",26069,1,1,0,0
+2000453,"missing persons list",0,"missing persons lists",0,0,1,0,0,"A disturbingly long list of people who have gone missing in recent moons.","Missing Persons List",26056,1,1,65655,0
+2000454,"aurelia umbrella",0,"aurelia umbrellas",0,1,1,0,0,"The soft gelatinous body of an aurelia. A delicacy in Othard where it is dried, then sliced and mixed with oil of sesame and dragon peppers.","Aurelia Umbrella",25156,1,4,65658,0
+2000455,"artist's rendition",0,"artist's renditions",0,1,1,0,0,"A drawing of a man(?) pieced together from descriptions given by eye-witnesses to his crimes most heinous.","Artist's Rendition",26056,1,1,65653,0
+2000456,"letter to the Admiral",0,"letters to the Admiral",0,0,1,0,0,"A letter addressed to Limsa Lominsan Admiral Merlwyb Bloefhyswyn.","Letter to the Admiral",26068,1,1,66043,3
+2000457,"letter to the general",0,"letters to the general",0,0,1,0,0,"A letter addressed to Ul'dahn Flame General Raubahn Aldynn.","Letter to the General",26068,1,1,66043,3
+2000458,"letter to the Elder",0,"letters to the Elder",0,0,1,0,0,"A letter addressed to the Elder Seedseer Kan–E–Senna.","Letter to the Elder",26068,1,1,66082,3
+2000459,"letter to the general",0,"letters to the general",0,0,1,0,0,"A letter addressed to Ul'dahn Flame General Raubahn Aldynn.","Letter to the General",26068,1,1,66082,3
+2000460,"price list",0,"price lists",0,0,1,0,0,"A piece of parchment containing prices from shops and stalls all over Limsa Lominsa.","Price List",26056,1,1,65650,0
+2000461,"Minfilia's dagger",0,"Minfilia's daggers",0,0,1,0,1,"This plain dagger has absolutely no defining characteristics except that the hilt does smell quite nice.","Minfilia's Dagger",30412,1,1,65808,3
+2000462,"materia-enhanced dagger",0,"materia-enhanced daggers",0,0,1,0,0,"A once ordinary dagger, now made special with the wonders of materia.","Materia-enhanced Dagger",30412,1,1,65808,3
+2000463,"twilight pretzel",0,"twilight pretzels",0,0,1,0,0,"A traditional Dunesfolk bread twisted into the shape of a knot and sprinkled generously with coarse-ground salt before being baked to a perfect brown resembling twilight over Thanalan.","Twilight Pretzel",24001,1,3,66207,3
+2000464,"slice sago palm pith",0,"slices of sago palm pith",0,0,1,0,0,"Once removed from the sago palm trunk, the pith is crushed, kneaded, and washed to remove the starch. The starch collected is then dried and turned into flour.","Sago Palm Pith",25503,1,99,0,0
+2000465,"sago palm nut",0,"sago palm nuts",0,0,1,0,0,"This hard fleshy nut is edible only after removing the naturally occurring poisons─a process which requires days of soaking and boiling, followed by a full moon of drying in the La Noscean salt air.","Sago Palm Nut",25017,1,99,0,0
+2000466,"withered leaf",0,"withered leaves",0,0,1,0,0,"A large dry leaf, brown from age and exposure to the sun.","Withered Leaf",25401,1,99,0,0
+2000467,"Oschon roselle calyx",0,"Oschon roselle calyces",0,1,1,0,0,"When dried and prepared as an herbal infusion, this rare form of hibiscus will color the water bright red. This tincture is oft sold in apothecaries under the name “Wanderer's Blood” and is purported to cure everything from the gout to bunions.","Oschon Roselle",25402,1,99,0,0
+2000468,"island coconut",0,"island coconuts",0,1,1,0,0,"The fruit of a palm which, before the Calamity, only grew on the Cieldalaes.","Island Coconut",25515,1,99,0,0
+2000469,"weather-worn brick",0,"weather-worn bricks",0,0,1,0,0,"A simple rectangular brick used in the building of crude walls and barriers. It has not fared well against the elements.","Weather-worn Brick",22609,1,99,0,0
+2000470,"undamaged brick",0,"undamaged bricks",0,1,1,0,0,"A simple rectangular brick used in the building of crude walls and barriers.","Undamaged Brick",21251,1,99,0,0
+2000471,"wind-worn slab",0,"wind-worn slabs",0,0,1,0,0,"An uneven slab of stone retrieved near the Eighty Sins of Sasamo. Countless summers of wind and sand have smoothed its surface and rounded its edges.","Wind-worn Slab",21206,1,99,0,0
+2000472,"undamaged slab",0,"undamaged slabs",0,1,1,0,0,"An uneven slab of stone retrieved near the Eighty Sins of Sasamo.","Undamaged Slab",21205,1,99,0,0
+2000473,"chunk of high-quality yellow copper ore",0,"chunks of high-quality yellow copper ore",0,0,1,0,0,"Rock containing a significant amount of the metal copper mixed with traces of iron and sulphur.","High-quality Yellow Copper Ore",21207,1,99,0,0
+2000474,"chunk of low-quality copper ore",0,"chunks of low-quality copper ore",0,0,1,0,0,"Rock made up largely of granite with an insignificant amount of copper.","Low-quality Copper Ore",21209,1,99,0,0
+2000475,"weather-worn brick",0,"weather-worn bricks",0,0,1,0,0,"A simple rectangular brick used in the building of crude walls and barriers. It has not fared well against the elements.","Weather-worn Brick",22609,1,99,0,0
+2000476,"undamaged brick",0,"undamaged bricks",0,1,1,0,0,"A simple rectangular brick used in the building of crude walls and barriers.","Undamaged Brick",21251,1,99,0,0
+2000477,"rock sample",0,"rock samples",0,0,1,0,0,"A slab of stone necessary for Marcette's studies.","Rock Sample",21455,1,99,0,0
+2000478,"ore sample",0,"ore samples",0,0,1,0,0,"A chunk of ore necessary for Marcette's studies.","Ore Sample",21203,1,99,0,0
+2000479,"brown clod",0,"brown clods",0,0,1,0,0,"There is little question this lump of earth contains no Nashachite.","Brown Clod",21206,1,99,0,0
+2000480,"chunk of high-quality zinc ore",0,"chunks of high-quality zinc ore",0,0,1,0,0,"Rock containing a significant amount of the metal zinc.","High-quality Zinc Ore",21210,1,99,0,0
+2000481,"time-worn bondstone",0,"time-worn bondstones",0,0,1,0,0,"The years have not been kind to this stone which, at one time, was placed within a wall to strengthen it.","Time-worn Bondstone",21454,1,99,0,0
+2000482,"undamaged bondstone",0,"undamaged bondstones",0,1,1,0,0,"Excavated from ruins unearthed by the Calamity, this stone, once used to strengthen a wall from within, is still in pristine shape.","Undamaged Bondstone",22615,1,99,0,0
+2000483,"rock sample",0,"rock samples",0,0,1,0,0,"This heavy grey stone does not appear to contain any rare metals, let alone gold.","Rock Sample",21454,1,99,0,0
+2000484,"ore sample",0,"ore samples",0,0,1,0,0,"While shiny, this chunk of metallic ore does not appear to contain any gold.","Ore Sample",21202,1,99,0,0
+2000485,"peiste molt",0,"peiste molts",0,0,1,0,0,"Thin as parchment and light as dodo down, this piece of scalekin skin is also nearly transparent.","Peiste Molt",21822,1,99,0,0
+2000486,"wind-worn slab",0,"wind-worn slabs",0,0,1,0,0,"An uneven slab of stone retrieved in Nophica's Wells. Countless summers of wind and sand have smoothed its surface and rounded its edges.","Wind-worn Slab",21206,1,99,0,0
+2000487,"undamaged slab",0,"undamaged slabs",0,1,1,0,0,"An uneven slab of stone retrieved in Nophica's Wells.","Undamaged Slab",21205,1,99,0,0
+2000488,"chunk of sample rock",0,"chunks of sample rock",0,0,1,0,0,"This heavy grey stone does not appear to contain any rare metals, let alone mythril.","Sample Rock",21455,1,99,0,0
+2000489,"chunk of sample ore",0,"chunks of sample ore",0,0,1,0,0,"While lightweight and shiny, this chunk of metallic ore does not appear to contain any mythril.","Sample Ore",21211,1,99,0,0
+2000490,"earthen power stone",0,"earthen power stones",0,0,1,0,0,"Beware of traveling mountebanks claiming these ordinary rocks have the power to cure all ailments by neutralizing negative humours with spiritual energies.","Earthen Power Stone",21456,1,99,0,0
+2000491,"gravestone block",0,"gravestone blocks",0,0,1,0,0,"A solid granite block large enough to be carved into a good-sized gravestone.","Gravestone Block",21251,1,99,0,0
+2000492,"sun-baked stone",0,"sun-baked stones",0,0,1,0,0,"A mason-dressed stone retrieved from the Invisible City.","Sun-baked Stone",21467,1,99,0,0
+2000493,"magicked stone",0,"magicked stones",0,0,1,0,0,"A mason-dressed stone retrieved from the Invisible City. It is mysteriously light for its size, and tingles to the touch.","Magicked Stone",21469,1,99,0,0
+2000494,"handful of dull sand",0,"handfuls of dull sand",0,0,1,0,0,"If it were gold, it might be worth something. But it's not, so it isn't.","Dull Sand",22629,1,99,0,0
+2000495,"handful of sparkling sand",0,"handfuls of sparkling sand",0,0,1,0,0,"They say all that glitters isn't gold...as is the case with this sand.","Sparkling Sand",22629,1,99,0,0
+2000496,"moss-covered stone",0,"moss-covered stones",0,0,1,0,0,"This ancient Gelmorran building block is covered on nearly every side by a thick blanket of emerald green moss.","Moss-covered Stone",21252,1,99,0,0
+2000497,"slab of high-density siltstone",0,"slabs of high-density siltstone",0,0,1,0,0,"An extremely heavy stone comprised of layers of river silt compressed down over thousands of generations.","High-density Siltstone",21453,1,99,0,0
+2000498,"wall stone",0,"wall stones",0,0,1,0,0,"A flat, uncracked stone, perfect for building or reinforcing walls.","Wall Stone",21251,1,99,0,0
+2000499,"dirt-caked stone",0,"dirt-caked stones",0,0,1,0,0,"There is a reason why no one wishes they had their weight in dirt, but dirt is all this rock has to offer.","Dirt-caked Stone",21206,1,99,0,0
+2000500,"engraved stone",0,"engraved stones",0,1,1,0,0,"It doesn't appear this stone contains any traces of gold, but perhaps the runes engraved upon it are directions to find the mother lode. Or perhaps it is a warning to not disturb this stone.","Engraved Stone",21307,1,99,0,0
+2000501,"sharpened flint stone",0,"sharpened flint stones",0,0,1,0,0,"A flint stone sharpened at one end so vintners can use the edge to open sealed wine bottles, as well as start fires.","Sharpened Flint Stone",21451,1,99,0,0
+2000502,"wall stone shard",0,"wall stone shards",0,0,1,0,0,"A shattered piece of Quarrymill's outer wall.","Wall Stone Shard",21251,1,99,0,0
+2000503,"unseeing stone",0,"unseeing stones",0,1,1,0,0,"A special stone that is thought to contain the spirit of a Watcher─a lantern which lights the dark paths of the Twelveswood. Until it is carved and blessed by Stillglade Fane, it remains blind to its task, hence the name “unseeing stone.”","Unseeing Stone",21251,1,99,0,0
+2000504,"brown glass shard",0,"brown glass shards",0,0,1,0,0,"A piece of clouded glass which more than likely came from an ale growler.","Brown Glass Shard",21458,1,99,0,0
+2000505,"green glass shard",0,"green glass shards",0,0,1,0,0,"A piece of colored glass which more than likely came from a wine bottle.","Green Glass Shard",21456,1,99,0,0
+2000506,"chunk of high-quality iron ore",0,"chunks of high-quality iron ore",0,0,1,0,0,"Rock containing a significant amount of the metal iron.","High-quality Iron Ore",21202,1,99,0,0
+2000507,"mollusk fossil",0,"mollusk fossils",0,0,1,0,0,"The remnants of shells discarded by people of the ancient civilization of Nym.","Mollusk Fossil",22253,1,99,0,0
+2000508,"Moraby oyster",0,"Moraby oysters",0,0,1,0,0,"A bivalved mollusk native to the relatively calm waters of Moraby Bay. Due to over-harvesting, they have grown quite rare...making them even more sought after.","Moraby Oyster",25215,1,99,0,0
+2000509,"Roroton's calling card",0,"Roroton's calling cards",0,0,1,0,1,"Both sides of this tiny square of hard parchment are jam-packed with the life and times of traveling Lalafellin entrepreneur Roroton.","Roroton's Calling Card",26068,1,1,66153,3
+2000510,"cut of myotragus sirloin",0,"cuts of myotragus sirloin",0,0,1,0,0,"Leaner than aldgoat meat, but much more difficult to harvest due to the violent nature of the beast.","Myotragus Sirloin",25152,1,5,66160,3
+2000511,"chunk of tuco-tuco meat",0,"chunks of tuco-tuco meat",0,0,1,0,0,"Since the Calamity, the popularity of tuco-tuco meat has grown to Dalamud-sized proportions.","Tuco-tuco Meat",25155,1,5,66167,3
+2000512,"captain's quarters key",0,"captain's quarters keys",0,0,1,0,0,"A small iron key which opens the door to the captain's quarters in Dead Man's Drink.","Captain's Quarters Key",26052,1,5,0,0
+2000513,"Waverider Gate key",0,"Waverider Gate keys",0,0,1,0,0,"A large iron key which unlocks the Waverider Gate.","Waverider Gate Key",26053,1,1,0,0
+2000514,"key to the Hole",0,"keys to the Hole",0,0,1,0,0,"A crooked iron key which opens the door to the Hole in Dead Man's Drink.","The Hole Key",26054,1,1,0,0
+2000515,"Isembard's note",0,"Isembard's notes",0,1,1,0,1,"A few words scrawled in code by Isembard of Drybone.","Isembard's Notes",26068,1,1,66155,3
+2000516,"fire sprite core",0,"fire sprite cores",0,0,1,0,0,"These red-hot cores are oft used to light churchwardens, censers, and candles, amongst other things.","Fire Sprite Core",21261,1,99,0,3
+2000517,"embalmed corpse",0,"embalmed corpses",0,1,1,0,0,"A dead body wrapped in a shroud and ready for interment.","Embalmed Corpse",21003,1,1,66156,3
+2000518,"queer leaflet",0,"queer leaflets",0,0,1,0,0,"A strange slip of parchment found at the Amalj'aa encampment in eastern Thanalan.","Queer Leaflet",26056,1,1,0,3
+2000519,"slip of Baderon's jottings",0,"slips of Baderon's jottings",0,0,1,0,0,"A small slip of paper with Drowning Wench proprietor Baderon Tenfingers' unintelligible writing scrawled all about it.","Baderon's Jottings",26153,1,1,66080,3
+2000520,"arcane epistle",0,"arcane epistles",0,1,1,0,0,"Whatever language this missive is written in, it is one you are not familiar with.","Arcane Epistle",26151,1,1,66225,3
+2000521,"Runstop Headgate key",0,"Runstop Headgate keys",0,0,1,0,0,"An oddly shaped key which, if the markings on the shaft are to be trusted, will open the Runstop Headgate.","Runstop Headgate Key",26054,1,1,0,0
+2000522,"blunt sailor's knife",0,"blunt sailor's knives",0,0,1,0,0,"From cutting rope to removing barnacles, from gutting fish to gutting boarders─on a ship, there are thousands of uses for a knife.","Blunt Sailor's Knife",30401,1,1,66079,3
+2000523,"raxa-wrapped box",0,"raxa-wrapped boxes",0,0,1,0,0,"A small lockbox entrusted to you by J'nasshym of the Brugaire Consortium.","Raxa-wrapped Box",21002,1,1,66226,3
+2000524,"caravan crate",0,"caravan crates",0,0,1,0,0,"Crates such as this one carrying merchandise are always attractive targets for highwaymen and bandits.","Caravan Crate",26069,1,2,65792,3
+2000525,"Sighard's waterskin",0,"Sighard's waterskins",0,0,1,0,1,"This waterskin is filled with more holes than water.","Sighard's Waterskin",24454,1,1,65853,3
+2000526,"Sighard's satchel",0,"Sighard's satchels",0,0,1,0,1,"To be called a proper satchel, this would need an arm strap and a bottom.","Sighard's Satchel",23001,1,2,65853,3
+2000527,"",0,"",0,0,1,0,0,"","",26068,1,1,0,0
+2000528,"",0,"",0,0,1,0,0,"","",26068,1,1,0,0
+2000529,"",0,"",0,0,1,0,0,"","",26068,1,1,0,0
+2000530,"colorful feather",0,"colorful feathers",0,0,1,0,0,"One would not guess this brilliant plumage came from a bird known for dining on decaying flesh.","Colorful Feather",21907,0,99,0,3
+2000531,"chunk of coblyn pyrite",0,"chunks of coblyn pyrite",0,0,1,0,0,"A heavy, dull piece of impure pyrite removed from the back of a coblyn.","Coblyn Pyrite",21207,0,99,0,3
+2000532,"thick softskin",0,"thick softskins",0,0,1,0,0,"The tough, glossy skin of a pre-molt softskin peiste. The demand for this item in Ul'dah is said to be lower than that for plague rat pelts.","Thick Softskin",21822,0,99,0,3
+2000533,"aurelia bladder",0,"aurelia bladders",0,1,1,0,0,"A tiny yet elastic sack which aureliae periodically fill with sea water to keep them from floating off to the heavens.","Aurelia Bladder",25205,0,99,0,3
+2000534,"wind sprite core",0,"wind sprite cores",0,0,1,0,0,"The wind generated by these lighter-than-air cores is oft employed in the drying of fishes and meats.","Wind Sprite Core",21262,0,99,0,3
+2000535,"lightning sprite core",0,"lightning sprite cores",0,0,1,0,0,"These white-hot cores are sometimes used by fishers to stun fish so that they float to the water's surface, making them easier to catch.","Lightning Sprite Core",21265,0,99,0,3
+2000536,"piece of fallen cargo",0,"pieces of fallen cargo",0,0,1,0,0,"Though the crate is splintered in several places, it does not appear that its contents were that severely damaged in the fall from the chocobo's back.","Fallen Cargo",21003,0,99,0,3
+2000537,"bundle of stolen effects",0,"bundles of stolen effects",0,0,1,0,0,"Several pieces of gold and silver jewelry hastily wrapped in a dirty square of tattered canvas.","Stolen Effects",21002,0,99,0,3
+2000538,"sack of rotten dodo meat",0,"sacks of rotten dodo meat",0,0,1,0,0,"The stench rising from this bag stuffed full of decaying cloudkin flesh is enough to blind a man.","Rotten Dodo Meat",25158,0,99,0,3
+2000539,"unearthed bowl",0,"unearthed bowls",0,1,1,0,0,"This ancient receptacle may be from the fallen city of Belah'dia.","Unearthed Bowl",25055,0,99,0,3
+2000540,"corrupted crystal",0,"corrupted crystals",0,0,1,0,0,"Over-aspected aether manifested into solid form.","Corrupted Crystal",20664,0,99,0,3
+2000541,"bunch of fresh lowland grapes",0,"bunches of fresh lowland grapes",0,0,1,0,0,"A semi-sweet variety of grape which has adapted to the volcanic soil abundant on Vylbrand. This particular bunch has not long been off the vine.","Fresh Lowland Grapes",25509,0,99,0,3
+2000542,"landtrap seed",0,"landtrap seeds",0,0,1,0,0,"This oddly shaped seed produced by any variety of landtraps is highly poisonous. Handle with caution.","Landtrap Seed",26069,0,99,0,3
+2000543,"fertilized dodo egg",0,"fertilized dodo eggs",0,0,1,0,0,"If left be, this warm heavy egg will likely hatch in a matter of weeks.","Fertilized Dodo Egg",25451,0,99,0,3
+2000544,"half-empty cask of ale",0,"half-empty casks of ale",0,0,1,0,0,"It would take quite the man (or woman) to drink this much ale in one sitting.","Half-empty Cask of Ale",25057,0,99,0,3
+2000545,"washed up wine bottle",0,"washed up wine bottles",0,0,1,0,0,"Poor judgment, poor balance, or perhaps combination of both saw this perfectly good bottle of Sixth Astral Era reserve dropped into the sea.","Washed Up Wine",25057,0,99,0,3
+2000546,"phial of nerve drops",0,"phials of nerve drops",0,0,1,0,0,"A bitter-smelling liquid created by budding alchemist Aelwyn Alder.","Nerve Drops",20625,1,99,0,3
+2000547,"bomb finger",0,"bomb fingers",0,0,1,0,0,"The disembodied middle finger of a voidsent bomb.","Bomb Finger",30201,1,99,0,3
+2000548,"evenfall firefly",0,"evenfall fireflies",0,1,1,0,0,"The deep green glow of this firefly is known to dispel the glamours of shape-shifting imps.","Evenfall Firefly",26069,1,99,0,3
+2000549,"fire sprite core",0,"fire sprite cores",0,0,1,0,0,"These red-hot cores are oft used to light churchwardens, censers, and candles, amongst other things.","Fire Sprite Core",21261,1,99,0,3
+2000550,"roseling pollen cluster",0,"roseling pollen clusters",0,0,1,0,0,"This fine yellow powder will cause extreme irritation of the nose and lungs if inhaled.","Roseling Pollen Cluster",26069,1,99,0,3
+2000551,"brightseed",0,"brightseeds",0,0,1,0,0,"This smoldering heart of a will o' wisp is said to have the power to reveal hidden secrets.","Brightseed",26061,1,99,0,3
+2000552,"water-stained <i>Necrologos</I> page",0,"water-stained <i>Necrologos</I> pages",0,0,1,0,0,"An excerpt from the chapter entitled “Fluid Corruption,” the words and symbols written in blood upon these pages are said to bind terrible creatures. If disturbed, the ward will weaken, possibly allowing the creatures to escape.","Water-stained Necrologos Page",26151,0,99,0,3
+2000553,"soiled <i>Necrologos</i> page",0,"soiled <i>Necrologos</i> pages",0,0,1,0,0,"An excerpt from the chapter entitled “The Noctambulist,” the words and symbols written in blood upon these pages are said to bind terrible creatures. If disturbed, the ward will weaken, possibly allowing the creatures to escape.","Soiled Necrologos Page",26151,0,99,0,3
+2000554,"blackened <i>Necrologos</i> page",0,"blackened <i>Necrologos</i> pages",0,0,1,0,0,"An excerpt from the chapter entitled “Igneous Toil,” the words and symbols written in blood upon these pages are said to bind terrible creatures. If disturbed, the ward will weaken, possibly allowing the creatures to escape.","Blackened Necrologos Page",26151,0,99,0,3
+2000555,"charred <i>Necrologos</i> page",0,"charred <i>Necrologos</i> pages",0,0,1,0,0,"An excerpt from the chapter entitled “Igneous Moil,” the words and symbols written in blood upon these pages are said to bind terrible creatures. If disturbed, the ward will weaken, possibly allowing the creatures to escape.","Charred Necrologos Page",26151,0,99,0,3
+2000556,"two-leaf mandragora bud",0,"two-leaf mandragora buds",0,0,1,0,0,"This sprout growing from the head of the mandragora is responsible for photosynthesis.","Two-leaf Mandragora Bud",25009,1,99,0,3
+2000557,"haunch of pelican meat",0,"haunches of pelican meat",0,0,1,0,0,"The meat of the common pelican is too tough and too foul to eat...unless one elects to bypass the chewing process and swallow the pieces whole.","Pelican Meat",25155,1,99,0,3
+2000558,"luminous crystal",0,"luminous crystals",0,0,1,0,0,"A concentrated elemental charge has left this crystal in a temporarily brightened state.","Luminous Crystal",20664,1,99,0,3
+2000559,"magitek transceiver",0,"magitek transceivers",0,0,1,0,0,"A tiny communication device used by the Garlean Empire to communicate over long distances. Designed to explode when taken too far from its owner, though this failsafe has been known to malfunction.","Magitek Transceiver",21002,1,99,0,3
+2000560,"lightning sprite core",0,"lightning sprite cores",0,0,1,0,0,"These white-hot cores are sometimes used by fishers to stun fish so that they float to the water's surface, making them easier to catch.","Lightning Sprite Core",21265,1,99,0,3
+2000561,"rainbowlip oyster",0,"rainbowlip oysters",0,0,1,0,0,"The colorful shell of this bivalved mollusk is used to make jewelry or decorate the hilts of daggers and épées.","Rainbowlip Oyster",22254,0,99,0,0
+2000562,"report on kobolds",0,"reports on kobolds",0,0,1,0,0,"Obviously recorded from memory, the information on this list lacks any sort of detail.","Kobold Report",26068,1,1,66022,3
+2000563,"川瀬実験アイテム01",0,"川瀬実験用01",0,0,1,0,0,"","",20601,1,10,66240,0
+2000564,"川瀬実験アイテム02",0,"川瀬実験用02",0,0,1,0,0,"","",26069,1,1,66241,0
+2000565,"炎の彫像（仮）",0,"炎の彫像（仮）",0,0,1,0,0,"炎の図形が彫られた像（仮）","",26054,1,1,0,0
+2000566,"ブドウの彫像（仮）",0,"ブドウの彫像（仮）",0,0,1,0,0,"ブドウの図形が彫られた像（仮）","",26054,1,1,0,0
+2000567,"ダイヤの彫像（仮）",0,"ダイヤの彫像（仮）",0,0,1,0,0,"ダイヤの図形が彫られた像（仮）","",26054,1,1,0,0
+2000568,"兜の彫像（仮）",0,"兜の彫像（仮）",0,0,1,0,0,"兜の図形が彫られた像（仮）","",26054,1,1,0,0
+2000569,"",0,"",0,0,1,0,0,"","",24108,1,1,65547,3
+2000570,"",0,"",0,0,1,0,0,"","",48214,1,1,0,3
+2000571,"イベントアイテム01(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000572,"イベントアイテム02(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000573,"イベントアイテム03(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000574,"イベントアイテム04(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000575,"イベントアイテム05(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000576,"イベントアイテム06(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000577,"イベントアイテム07(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000578,"イベントアイテム08(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000579,"イベントアイテム09(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000580,"イベントアイテム10(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000581,"イベントアイテム11(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000582,"イベントアイテム12(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000583,"イベントアイテム13(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000584,"イベントアイテム14(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000585,"イベントアイテム15(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000586,"イベントアイテム16(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000587,"イベントアイテム17(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000588,"イベントアイテム18(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000589,"イベントアイテム19(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000590,"イベントアイテム20(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000591,"イベントアイテム21(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000592,"イベントアイテム22(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000593,"イベントアイテム23(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000594,"イベントアイテム24(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000595,"イベントアイテム25(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000596,"イベントアイテム26(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000597,"イベントアイテム27(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000598,"イベントアイテム28(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000599,"イベントアイテム29(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000600,"イベントアイテム30(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000601,"イベントアイテム31(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000602,"イベントアイテム32(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000603,"イベントアイテム33(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000604,"イベントアイテム34(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000605,"イベントアイテム35(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000606,"イベントアイテム36(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000607,"イベントアイテム37(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000608,"イベントアイテム38(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000609,"イベントアイテム39(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000610,"イベントアイテム40(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000611,"イベントアイテム41(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000612,"イベントアイテム42(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000613,"イベントアイテム43(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000614,"イベントアイテム44(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000615,"イベントアイテム45(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000616,"イベントアイテム46(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000617,"イベントアイテム47(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000618,"イベントアイテム48(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000619,"イベントアイテム49(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000620,"イベントアイテム50(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000621,"イベントアイテム51(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000622,"イベントアイテム52(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000623,"イベントアイテム53(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000624,"イベントアイテム54(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000625,"イベントアイテム55(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000626,"イベントアイテム56(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000627,"イベントアイテム57(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000628,"イベントアイテム58(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000629,"イベントアイテム59(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000630,"イベントアイテム60(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000631,"イベントアイテム61(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000632,"イベントアイテム62(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000633,"イベントアイテム63(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000634,"イベントアイテム64(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000635,"イベントアイテム65(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000636,"イベントアイテム66(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000637,"イベントアイテム67(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000638,"イベントアイテム68(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000639,"イベントアイテム69(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000640,"イベントアイテム70(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000641,"イベントアイテム71(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000642,"イベントアイテム72(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000643,"イベントアイテム73(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000644,"イベントアイテム74(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000645,"イベントアイテム75(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000646,"イベントアイテム76(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000647,"イベントアイテム77(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000648,"イベントアイテム78(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000649,"イベントアイテム79(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000650,"イベントアイテム80(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000651,"イベントアイテム81(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000652,"イベントアイテム82(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000653,"イベントアイテム83(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000654,"イベントアイテム84(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000655,"イベントアイテム85(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000656,"イベントアイテム86(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000657,"イベントアイテム87(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000658,"イベントアイテム88(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000659,"イベントアイテム89(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000660,"イベントアイテム90(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000661,"イベントアイテム91(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000662,"イベントアイテム92(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000663,"イベントアイテム93(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000664,"イベントアイテム94(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000665,"イベントアイテム95(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000666,"イベントアイテム96(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000667,"イベントアイテム97(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000668,"イベントアイテム98(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000669,"イベントアイテム99(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000670,"イベントアイテム100(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000671,"イベントアイテム101(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000672,"イベントアイテム102(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000673,"イベントアイテム103(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000674,"イベントアイテム104(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000675,"イベントアイテム105(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000676,"イベントアイテム106(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000677,"イベントアイテム107(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000678,"イベントアイテム108(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000679,"イベントアイテム109(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000680,"イベントアイテム110(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000681,"イベントアイテム111(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000682,"イベントアイテム112(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000683,"イベントアイテム113(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000684,"イベントアイテム114(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000685,"イベントアイテム115(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000686,"イベントアイテム116(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000687,"イベントアイテム117(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000688,"イベントアイテム118(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000689,"イベントアイテム119(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000690,"イベントアイテム120(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000691,"イベントアイテム121(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000692,"イベントアイテム122(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000693,"イベントアイテム123(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000694,"イベントアイテム124(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000695,"イベントアイテム125(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000696,"イベントアイテム126(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000697,"イベントアイテム127(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000698,"イベントアイテム128(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000699,"イベントアイテム129(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000700,"イベントアイテム130(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000701,"イベントアイテム131(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000702,"イベントアイテム132(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000703,"イベントアイテム133(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000704,"イベントアイテム134(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000705,"イベントアイテム135(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000706,"イベントアイテム136(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000707,"イベントアイテム137(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000708,"イベントアイテム138(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000709,"イベントアイテム139(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000710,"イベントアイテム140(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000711,"イベントアイテム141(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000712,"イベントアイテム142(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000713,"イベントアイテム143(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000714,"イベントアイテム144(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000715,"イベントアイテム145(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000716,"イベントアイテム146(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000717,"イベントアイテム147(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000718,"イベントアイテム148(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000719,"イベントアイテム149(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000720,"イベントアイテム150(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000721,"イベントアイテム151(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000722,"イベントアイテム152(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000723,"イベントアイテム153(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000724,"イベントアイテム154(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000725,"イベントアイテム155(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000726,"イベントアイテム156(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000727,"イベントアイテム157(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000728,"イベントアイテム158(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000729,"イベントアイテム159(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000730,"イベントアイテム160(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000731,"イベントアイテム161(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000732,"イベントアイテム162(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000733,"イベントアイテム163(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000734,"イベントアイテム164(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000735,"イベントアイテム165(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000736,"イベントアイテム166(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000737,"イベントアイテム167(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000738,"イベントアイテム168(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000739,"イベントアイテム169(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000740,"イベントアイテム170(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000741,"イベントアイテム171(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000742,"イベントアイテム172(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000743,"イベントアイテム173(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000744,"イベントアイテム174(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000745,"イベントアイテム175(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000746,"イベントアイテム176(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000747,"イベントアイテム177(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000748,"イベントアイテム178(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000749,"イベントアイテム179(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000750,"イベントアイテム180(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000751,"イベントアイテム181(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000752,"イベントアイテム182(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000753,"イベントアイテム183(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000754,"イベントアイテム184(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000755,"イベントアイテム185(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000756,"イベントアイテム186(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000757,"イベントアイテム187(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000758,"イベントアイテム188(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000759,"イベントアイテム189(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000760,"イベントアイテム190(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000761,"イベントアイテム191(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000762,"イベントアイテム192(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000763,"イベントアイテム193(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000764,"イベントアイテム194(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000765,"イベントアイテム195(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000766,"イベントアイテム196(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000767,"イベントアイテム197(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000768,"イベントアイテム198(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000769,"イベントアイテム199(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000770,"イベントアイテム200(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000771,"イベントアイテム201(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000772,"イベントアイテム202(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000773,"イベントアイテム203(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000774,"イベントアイテム204(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000775,"イベントアイテム205(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000776,"イベントアイテム206(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000777,"イベントアイテム207(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000778,"イベントアイテム208(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000779,"イベントアイテム209(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000780,"イベントアイテム210(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000781,"イベントアイテム211(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000782,"イベントアイテム212(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000783,"イベントアイテム213(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000784,"イベントアイテム214(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000785,"イベントアイテム215(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000786,"イベントアイテム216(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000787,"イベントアイテム217(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000788,"イベントアイテム218(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000789,"イベントアイテム219(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000790,"イベントアイテム220(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000791,"イベントアイテム221(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000792,"イベントアイテム222(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000793,"イベントアイテム223(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000794,"イベントアイテム224(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000795,"イベントアイテム225(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000796,"イベントアイテム226(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000797,"イベントアイテム227(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000798,"イベントアイテム228(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000799,"イベントアイテム229(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000800,"イベントアイテム230(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000801,"イベントアイテム231(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000802,"イベントアイテム232(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000803,"イベントアイテム233(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000804,"イベントアイテム234(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000805,"イベントアイテム235(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000806,"イベントアイテム236(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000807,"イベントアイテム237(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000808,"イベントアイテム238(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000809,"イベントアイテム239(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000810,"イベントアイテム240(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000811,"イベントアイテム241(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000812,"イベントアイテム242(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000813,"イベントアイテム243(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000814,"イベントアイテム244(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000815,"イベントアイテム245(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000816,"イベントアイテム246(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000817,"イベントアイテム247(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000818,"イベントアイテム248(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000819,"イベントアイテム249(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000820,"イベントアイテム250(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000821,"イベントアイテム251(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000822,"イベントアイテム252(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000823,"イベントアイテム253(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000824,"イベントアイテム254(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000825,"イベントアイテム255(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000826,"イベントアイテム256(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000827,"イベントアイテム257(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000828,"イベントアイテム258(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000829,"イベントアイテム259(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000830,"イベントアイテム260(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000831,"イベントアイテム261(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000832,"イベントアイテム262(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000833,"イベントアイテム263(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000834,"イベントアイテム264(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000835,"イベントアイテム265(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000836,"イベントアイテム266(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000837,"イベントアイテム267(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000838,"イベントアイテム268(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000839,"イベントアイテム269(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000840,"イベントアイテム270(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000841,"イベントアイテム271(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000842,"イベントアイテム272(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000843,"イベントアイテム273(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000844,"イベントアイテム274(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000845,"イベントアイテム275(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000846,"イベントアイテム276(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000847,"イベントアイテム277(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000848,"イベントアイテム278(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000849,"イベントアイテム279(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000850,"イベントアイテム280(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000851,"イベントアイテム281(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000852,"イベントアイテム282(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000853,"イベントアイテム283(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000854,"イベントアイテム284(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000855,"イベントアイテム285(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000856,"イベントアイテム286(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000857,"イベントアイテム287(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000858,"イベントアイテム288(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000859,"イベントアイテム289(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000860,"イベントアイテム290(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000861,"イベントアイテム291(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000862,"イベントアイテム292(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000863,"イベントアイテム293(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000864,"イベントアイテム294(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000865,"イベントアイテム295(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000866,"イベントアイテム296(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000867,"イベントアイテム297(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000868,"イベントアイテム298(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000869,"イベントアイテム299(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000870,"イベントアイテム300(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3
+2000871,"イベントアイテム301(仮)",0,"",0,0,1,0,0,"","",20601,1,1,0,3

@@ -1,0 +1,603 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,,,,,,,,,,,
+int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,byte
+101,2,1,1,0,0,"/chatmode","/cm","/chatmode, /cm
+USAGE: /chatmode [chat mode]
+→Set the default chat mode.
+>>Example:
+  /chatmode party
+  (Changes default chat mode to [Party].)
+The default mode will be deactivated after a single message if it is set to [Shout].
+When setting the default mode to [Tell], you are still required to enter the recipient PC's name.
+If no chat mode is specified, the current default setting will be displayed.","","",1
+102,1,0,0,0,0,"/say","/s","/say, /s
+USAGE: /say [message]
+→Sends a message to all PCs within a small radius.
+The message will not be displayed if a PC has deselected [Say] in the chat filter.
+Typing /say or /s without a message switches the default chat mode to [Say].","","",3
+103,1,0,0,0,0,"/shout","/sh","/shout, /sh
+USAGE: /shout [message]
+→Sends a message to all PCs in the same area.
+The message will not be displayed if a PC has deselected [Shout] in the chat filter.","","",1
+104,3,0,0,0,0,"/tell","/t","/tell, /t
+USAGE: /tell [PC name] [message]
+→Sends a message to a specific PC within the same World.
+This message cannot be seen by other PCs, and will not be displayed if [Tell] is deselected in the chat filter.
+Typing /tell or /t [PC name] without a message switches the default chat mode to [Tell].","","",1
+105,1,0,0,0,0,"/party","/p","/party, /p
+USAGE: /party [message]
+→Sends a message to all members of your current party, regardless of their location.
+The message will not be displayed if a PC has deselected [Party] in the chat filter.
+Typing /party or /p without a message switches the default chat mode to [Party].","/party","/p",1
+106,1,0,0,0,0,"/linkshell","/l","/linkshell, /l
+USAGE: /linkshell [message]
+→Sends a message to all members of your active linkshell, regardless of their location.
+Typing /linkshell or /l without a message switches the default chat mode to [Linkshell].","","",1
+107,1,0,0,0,0,"/linkshell1","/l1","/linkshell1, /l1
+USAGE: /linkshell1 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 1, regardless of their location.","","",1
+108,1,0,0,0,0,"/linkshell2","/l2","/linkshell2, /l2
+USAGE: /linkshell2 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 2, regardless of their location.","","",1
+109,1,0,0,0,0,"/linkshell3","/l3","/linkshell3, /l3
+USAGE: /linkshell3 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 3, regardless of their location.","","",1
+110,1,0,0,0,0,"/linkshell4","/l4","/linkshell4, /l4
+USAGE: /linkshell4 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 4, regardless of their location.","","",1
+111,1,0,0,0,0,"/linkshell5","/l5","/linkshell5, /l5
+USAGE: /linkshell5 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 5, regardless of their location.","","",1
+112,1,0,0,0,0,"/linkshell6","/l6","/linkshell6, /l6
+USAGE: /linkshell6 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 6, regardless of their location.","","",1
+113,1,0,0,0,0,"/linkshell7","/l7","/linkshell7, /l7
+USAGE: /linkshell7 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 7, regardless of their location.","","",1
+114,1,0,0,0,0,"/linkshell8","/l8","/linkshell8, /l8
+USAGE: /linkshell8 [message]
+→Sends a message to all members of the linkshell you have registered in linkshell slot 8, regardless of their location.","","",1
+115,1,0,0,0,0,"/freecompany","/fc","/freecompany, /fc
+USAGE: /freecompany [message]
+→Sends a message to all members of your free company, regardless of their location.
+Typing /freecompany or /fc without a message switches the default chat mode to [Free Company].","","",1
+116,1,0,0,0,0,"/echo","/e","/echo, /e
+USAGE: /echo [message]
+→Displays a message that only you can see.","","",1
+117,1,0,0,0,0,"/yell","/y","/yell, /y
+USAGE: /yell [message]
+→Sends a message to all PCs within a large radius.
+The message will not be displayed if a PC has deselected [Yell] in the chat filter.
+Typing /yell or /s without a message switches the default chat mode to [Yell].","","",1
+121,3,1,2,0,0,"/partycmd","/pcmd","/partycmd, /pcmd
+USAGE: /partycmd [subcommand]
+→Executes various party commands.
+>>Subcommands:
+  <Color(-154)>add “PC name”</Color>  Invite a PC to your party.
+  <Color(-154)>leave</Color>  Leave your current party.
+  <Color(-154)>kick “PC name”</Color>  Oust a PC from your party.
+  <Color(-154)>breakup</Color>  Dissolve your current party.","","",0
+122,1,0,0,0,0,"/join","","USAGE: /join
+→Accepts a party invite.","","",0
+123,1,0,0,0,0,"/decline","","USAGE: /decline
+→Declines a party invite.","","",0
+124,3,1,2,0,0,"/friendlist","/flist","/friendlist, /flist
+USAGE: /friendlist
+→Executes various friend list commands.
+>>Subcommands:
+  <Color(-154)>add “PC name”</Color>  Send a PC a friend request.
+  <Color(-154)>accept “PC name”</Color>  Accept a friend request from a PC.
+  <Color(-154)>deny “PC name”</Color>  Deny a friend request from a PC.
+  <Color(-154)>remove “PC name”</Color>  Remove a PC from your friend list.
+Opens and closes friend list when no subcommand is specified.","","",0
+125,3,1,2,0,0,"/blacklist","/blist","/blacklist, /blist
+USAGE: /blacklist
+→Executes various blacklist commands.
+>>Subcommands:
+  <Color(-154)>add “PC name</Color>”  Add a PC to your blacklist.
+  <Color(-154)>remove “PC name”</Color>  Remove a PC from your blacklist.
+Opens and closes blacklist when no subcommand is specified.","","",0
+127,4,2,0,2,0,"/linkshellcmd","/lcmd","/linkshellcmd, /lcmd
+USAGE: /linkshellcmd
+→Opens and closes the linkshell menu.","","",0
+128,1,0,0,0,0,"/huntinglog","/hlog","/huntinglog, /hlog
+USAGE: /huntinglog
+→Opens and closes the hunting log.","","",0
+129,1,0,0,0,0,"/craftinglog","/clog","/craftinglog, /clog
+USAGE: /craftinglog
+→Opens and closes the crafting log.","","",0
+130,1,0,0,0,0,"/gatheringlog","/glog","/gatheringlog, /glog
+USAGE: /gatheringlog
+→Opens and closes the gathering log.","","",0
+131,3,1,2,0,0,"/freecompanycmd","/fccmd","/freecompanycmd(/fccmd)
+フリーカンパニーのメニューを開く。","","",0
+132,2,0,0,0,0,"/invite","","/invite キャラクター名
+指定キャラクターをパーティに招待する。キャラクター名を省略した場合、現在ターゲットしているキャラクターを対象とする。","","",0
+133,2,0,0,0,0,"/kick","","/kick キャラクター名
+指定キャラクターをパーティから除外する。キャラクター名を省略した場合、現在ターゲットしているキャラクターを対象とする。","","",0
+134,2,0,0,0,0,"/leader","","/leader キャラクター名
+指定キャラクターへパーティリーダーを移譲する。キャラクター名を省略した場合、現在ターゲットしているキャラクターを対象とする。","","",0
+135,2,0,0,0,0,"/leave","","/leave
+パーティから離脱する。","","",0
+201,2,1,1,0,0,"/?","","USAGE: /? /[command name]
+→Gives a detailed explanation of specified command. Abbreviations can be used.","","",1
+202,2,1,0,0,0,"/wait","","USAGE: /wait [wait time]
+→A macro command for adjusting the pause between commands.
+A wait time amount of 1 equals one second.
+The maximum wait time allowed is 60.
+If the wait time amount is over 60, it will be counted as 0.","","",1
+204,1,0,0,0,0,"/logout","/logoff","USAGE: /logout
+→Begins the logout process.","","",0
+206,1,0,0,0,0,"/shutdown","","USAGE: /shutdown
+→Log out and close the game.","","",0
+209,1,0,0,0,0,"/map","","USAGE: /map
+→Opens and closes the current area map.","","",0
+210,2,0,0,0,0,"/check","/c","/check, /c
+USAGE: /check “PC name”
+→Examines the specified PC.
+Examines current target when not specified.","","",0
+213,2,0,0,0,0,"/trade","","USAGE: /trade
+→Initiates a trade with your current target.","","",0
+214,1,0,0,0,0,"/return","","USAGE: /return
+→Return to your current home point.","","",0
+215,0,0,0,0,0,"/systeminfo","/si","/systeminfo, /si
+USAGE: /systeminfo
+Saves a text file to My Documents\My Games\FINAL FANTASY XIV - A Realm Reborn (Beta Version)\GameInfo containing information on your computer and client data. This information is necessary when sending a bug report.","","",1
+216,0,0,0,0,0,"/stuck","","USAGE: /stuck
+→Return to your current home point.
+For use when your character becomes stuck in the environment.","","",1
+217,2,1,2,0,0,"/legacymark","/lmark","/legacymark, /lmark
+USAGE: /legacymark [subcommand]
+→Show or hide the Mark of the Twelve─a brand appearing on the back of the neck of all who survived the Calamity.
+>>Subcommands:
+  <Color(-154)>1</Color>       Show mark.
+  <Color(-154)>0</Color>      Hide mark.
+Toggle between shown and hidden.","","",0
+218,2,1,2,0,0,"/gcsalute","","USAGE: /gcsalute [subcommand]
+ →Perform the official salute of the Grand Company to which you belong.
+ >>Subcommands:
+ motion Perform motion only.
+ Both text and motion will be displayed when no subcommand is specified.","","",0
+219,3,1,2,0,0,"/hotbar","","/hotbar サブコマンド
+ホットバーを操作、設定する。
+>>サブコマンド
+copy 番号1 番号2　番号1のホットバーの内容を、番号2のホットバーにそのままコピーする。","","",0
+220,3,1,2,0,0,"/crosshotbar","/chotbar","/chotbar サブコマンド
+クロスホットバーセットを操作、設定する。
+>>サブコマンド
+copy 番号1 番号2　番号1のクロスホットバーの内容を、番号2のクロスホットバーにそのままコピーする。","","",0
+251,3,1,3,0,0,"/action","/ac","/action, /ac
+USAGE: /action “action name” “PC name”
+→Uses an action on the specified PC.
+Uses current target when not specified.
+This cannot be used with actions you have not yet learned, or when restricted by other factors.","","",0
+252,2,1,2,0,0,"/battlemode","/bm","/battlemode, /bm
+USAGE: /battlemode [subcommand]
+→Toggle between active and passive mode.
+>>Subcommands:
+  <Color(-154)>1</Color>       Switch to active mode.
+  <Color(-154)>0</Color>      Switch to passive mode.
+Toggle between active and passive mode when no subcommand is specified.","","",0
+253,3,1,2,0,0,"/marking","/mk","/enemysign, /marking, /mk
+USAGE: /marking [target type] “PC name”
+→Set a sign on the specified PC.
+Uses current target when not specified.
+>>Target types:
+  attack1～5
+  bind1～3
+  ignore1～2
+  circle
+  cross
+  square
+  triangle
+  off  Turns off sign.
+>>Example:
+  /marking attack2 <t> 
+  (Sets sign “Target to Attack 2” on target.)","/marking","/enemysign",0
+254,2,0,0,0,0,"/target","/ta","/target, /ta
+USAGE: /target “PC name”
+→Targets the specified PC.
+Target must be within a certain radius for this command to function.","","",0
+255,1,0,0,0,0,"/targetpc","/tpc","/targetpc, /tpc
+USAGE: /targetpc
+→Targets the closest PC within a certain radius.","","",0
+256,1,0,0,0,0,"/targetnpc","/tnpc","/targetnpc, /tnpc
+USAGE: /targetnpc
+→Targets the closest NPC within a certain radius.","","",0
+257,1,0,0,0,0,"/targetenemy","/tenemy","/targetenemy, /tenemy
+USAGE: /targetenemy
+→Targets the closest enemy within a certain radius.","","",0
+258,1,0,0,0,0,"/battletarget","/bt","/battletarget, /bt
+USAGE: /battletarget
+→Targets the closest enemy within a certain radius that is attacking you.","","",0
+259,2,0,0,0,0,"/assist","/as","/assist, /as
+USAGE: /assist “PC name”
+→Targets the target of another PC. (A target must be specified.)
+Assists current target when not specified.","","",0
+260,1,0,0,0,0,"/facetarget","/ft","/facetarget, /ft
+USAGE: /facetarget
+→Immediately turns your PC in the direction of your current target.","","",0
+261,1,0,0,0,0,"/automove","","USAGE: /automove
+→Begin running in the current direction you are facing.
+Move in the opposite direction or repeat the command to cancel.","","",0
+262,2,1,3,0,0,"/recast","","USAGE: /recast “action name”
+→Displays time remaining until the specified action can be used again.","","",1
+263,1,0,0,0,0,"/loot","","USAGE: /loot
+→Opens the loot list.","","",0
+267,2,0,0,0,0,"/follow","","USAGE: /follow
+→Automatically follow a targeted PC.","","",0
+268,2,1,2,0,0,"/gearset","/gs","/gearset, /gs
+USAGE: /gearset [subcommand]
+→Execute gear set functions.
+>>Subcommands:
+  <Color(-154)>change [number]</Color>   Equip gear in slot [number].
+  <Color(-154)>view [number]</Color>       List gear in slot [number].
+  <Color(-154)>save [number]</Color>       Save current gear to slot [number].
+  <Color(-154)>delete [number]</Color>     Delete slot [number].
+","","",0
+401,1,0,0,0,0,"/emote","/em","/emote, /em
+USAGE: /emote [message]
+→Sends your PC name and the message as an emote within a [Say] radius.
+This message will not be displayed if a PC has their [Custom Emotes] chat filter turned on.","","",1
+402,2,1,2,0,0,"/surprised","","USAGE: /surprised [subcommand]
+→Act surprised.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+403,2,1,2,0,0,"/angry","","USAGE: /angry [subcommand]
+→Be angry.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+404,2,1,2,0,0,"/furious","","USAGE: /furious [subcommand]
+→Be furious.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+405,2,1,2,0,0,"/blush","","USAGE: /blush [subcommand]
+→Blush with embarrassment.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+406,2,1,2,0,0,"/bow","","USAGE: /bow [subcommand]
+→Perform a bow.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+407,2,1,2,0,0,"/cheer","","USAGE: /cheer [subcommand]
+→Cheer enthusiastically.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+408,2,1,2,0,0,"/clap","","USAGE: /clap [subcommand]
+→Applaud.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+409,2,1,2,0,0,"/beckon","","USAGE: /beckon [subcommand]
+→Make a beckoning motion.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+410,2,1,2,0,0,"/comfort","","USAGE: /comfort [subcommand]
+→Make a consoling gesture.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+411,2,1,2,0,0,"/cry","","USAGE: /cry [subcommand]
+→Break into tears.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+412,2,1,2,0,0,"/dance","","USAGE: /dance [subcommand]
+→Start dancing.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+413,2,1,2,0,0,"/doubt","","USAGE: /doubt [subcommand]
+→Appear doubtful.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+414,2,1,2,0,0,"/doze","","USAGE: /doze [subcommand]
+→Start dozing off.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+415,2,1,2,0,0,"/fume","","USAGE: /fume [subcommand]
+→Express annoyance.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+416,2,1,2,0,0,"/goodbye","","USAGE: /goodbye [subcommand]
+→Bid farewell.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+417,2,1,2,0,0,"/wave","","USAGE: /wave [subcommand]
+→Wave your hand.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+418,2,1,2,0,0,"/huh","","USAGE: /huh [subcommand]
+→Act bemused.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","/huh","/huh",1
+419,2,1,2,0,0,"/joy","","USAGE: /joy [subcommand]
+→Express joy.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+420,2,1,2,0,0,"/kneel","","USAGE: /kneel [subcommand]
+→Kneel in respect.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+421,2,1,2,0,0,"/chuckle","","USAGE: /chuckle [subcommand]
+→Chuckle in amusement.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+422,2,1,2,0,0,"/laugh","","USAGE: /laugh [subcommand]
+→Burst out laughing.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+423,2,1,2,0,0,"/lookout","","USAGE: /lookout [subcommand]
+→Scan the area.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+424,2,1,2,0,0,"/me","","USAGE: /me [subcommand]
+→Motion to yourself.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+425,2,1,2,0,0,"/no","","USAGE: /no [subcommand]
+→Disagree.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+426,2,1,2,0,0,"/deny","","USAGE: /deny [subcommand]
+→Strongly disagree.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+427,2,1,2,0,0,"/panic","","USAGE: /panic [subcommand]
+→Start to panic.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+428,2,1,2,0,0,"/point","","USAGE: /point [subcommand]
+→Point at something.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+429,2,1,2,0,0,"/poke","","USAGE: /poke [subcommand]
+→Make a poking gesture.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+430,2,1,2,0,0,"/congratulate","","USAGE: /congratulate [subcommand]
+→Offer congratulations.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+431,2,1,2,0,0,"/psych","","USAGE: /psych [subcommand]
+→Psych yourself up.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+432,2,1,2,0,0,"/salute","","USAGE: /salute [subcommand]
+→Perform a salute.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+433,2,1,2,0,0,"/shocked","","USAGE: /shocked [subcommand]
+→Act shocked.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+434,2,1,2,0,0,"/shrug","","USAGE: /shrug [subcommand]
+→Shrug.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+435,2,1,2,0,0,"/rally","","USAGE: /rally [subcommand]
+→Give encouragement.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+436,2,1,2,0,0,"/soothe","","USAGE: /soothe [subcommand]
+→Make a comforting gesture.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+437,2,1,2,0,0,"/stagger","","USAGE: /stagger [subcommand]
+→Stagger for a moment.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+438,2,1,2,0,0,"/stretch","","USAGE: /stretch [subcommand]
+→Stretch.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+439,2,1,2,0,0,"/sulk","","USAGE: /sulk [subcommand]
+→Wallow in self-pity.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+440,2,1,2,0,0,"/think","","USAGE: /think [subcommand]
+→Become lost in thought.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+441,2,1,2,0,0,"/upset","","USAGE: /upset [subcommand]
+→Express disgust.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+442,2,1,2,0,0,"/welcome","","USAGE: /welcome [subcommand]
+→Make a welcoming gesture.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+443,2,1,2,0,0,"/yes","","USAGE: /yes [subcommand]
+→Nod in approval.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+444,2,1,2,0,0,"/thumbsup","","USAGE: /thumbsup [subcommand]
+→Strongly agree.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+445,2,1,2,0,0,"/examineself","","USAGE: /examineself [subcommand]
+→Admire yourself.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+446,2,1,2,0,0,"/pose","","USAGE: /pose [subcommand]
+→Strike a pose.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+447,2,1,2,0,0,"/blowkiss","","USAGE: /blowkiss [subcommand]
+→Throw an airborne smooch in someone's general direction.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+448,2,1,2,0,0,"/grovel","","USAGE: /grovel [subcommand]
+→Fall to your knees in unworthiness.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+449,2,1,2,0,0,"/happy","","USAGE: /happy [subcommand]
+→Display extreme happiness.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+450,2,1,2,0,0,"/disappointed","","USAGE: /disappointed [subcommand]
+→Convey utter disappointment.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Perform motion only.
+Both text and motion will be displayed when no subcommand is specified.","","",1
+451,1,0,0,0,0,"/sit","/lounge","/sit, /lounge
+USAGE: /sit
+→Assume a sitting position.
+   Certain emotes have special sitting equivalents.
+   Also sits your character in a chair if the chair is nearby.","/sit","/lounge",1
+455,2,1,2,0,0,"/airquotes","","USAGE: /airquotes
+→Make air quotes with your fingers for added sarcasm, emphasis, etc.
+   No system message is displayed with this emote.","","",1
+456,2,1,2,0,0,"/gcsalute","","USAGE: /gcsalute [subcommand]
+ →Perform an official Maelstrom salute.
+ >>Subcommands:
+ <Color(-154)>motion</Color>   Perform motion only.
+ Both text and motion will be displayed when no subcommand is specified.","","",1
+457,2,1,2,0,0,"/gcsalute","","USAGE: /gcsalute [subcommand]
+ →Perform an official Order of the Twin Adder salute.
+ >>Subcommands:
+ <Color(-154)>motion</Color>   Perform motion only.
+ Both text and motion will be displayed when no subcommand is specified.","","",1
+458,2,1,2,0,0,"/gcsalute","","USAGE: /gcsalute [subcommand]
+ →Perform an official Immortal Flames salute.
+ >>Subcommands:
+ <Color(-154)>motion</Color>   Perform motion only.
+ Both text and motion will be displayed when no subcommand is specified.","","",1
+459,2,1,2,0,0,"/pray","","USAGE: /pray [subcommand]
+ →Offer solemn words of prayer to the Twelve or whatever gods it is you keep.
+ >>Subcommands:
+ <Color(-154)>motion</Color>   Perform motion only.
+ Both text and motion will be displayed when no subcommand is specified.","/pray","",1
+466,2,1,2,0,0,"/straightface","/straight","/straightface, /straightUSAGE: /straightface [subcommand]
+→Restore your facial expression to a neutral state.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.","","",1
+467,2,1,2,0,0,"/smile","","USAGE: /smile [subcommand]
+→Smile.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+468,2,1,2,0,0,"/grin","","USAGE: /grin [subcommand]
+→Beam with delight.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+469,2,1,2,0,0,"/smirk","","USAGE: /smirk [subcommand]
+→Smirk.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+470,2,1,2,0,0,"/taunt","","USAGE: /taunt [subcommand]
+→Put on a taunting grin.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+471,2,1,2,0,0,"/shuteyes","/shut","/shuteyes, /shutUSAGE: /shuteyes [subcommand]
+→Shut your eyes.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+472,2,1,2,0,0,"/sad","","USAGE: /sad [subcommand]
+→Frown.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+473,2,1,2,0,0,"/scared","/fear","/scared, /fearUSAGE: /scared [subcommand]
+→Stare in fear.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+474,2,1,2,0,0,"/amazed","/awe","/amazed, /aweUSAGE: /amazed [subcommand]
+→Stare in awe.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+475,2,1,2,0,0,"/ouch","/ow","/ouch, /owUSAGE: /ouch [subcommand]
+→Cringe in pain.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+476,2,1,2,0,0,"/annoyed","/annoy","/annoyed, /annoyUSAGE: /annoyed [subcommand]
+→Furrow your brow.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+477,2,1,2,0,0,"/alert","","USAGE: /alert [subcommand]
+→Sense something amiss.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1
+478,2,1,2,0,0,"/worried","/worry","/worried, /worryUSAGE: /worried [subcommand]
+→Appear worried.
+>>Subcommands:
+  <Color(-154)>motion</Color>      Change expression only.
+Both text and expression will be displayed when no subcommand is specified.
+
+Expression will return to normal after five seconds or by using the command /straightface.","","",1

@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_1","Well met, adventurer. All the seasons have their place, but Summerford was named after the one that suits her best."
+1,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_2","Well, <If(PlayerParameter(4))>lass<Else/>lad</If>, it's my job to see that this orchard runs smoothly. Used to be that I was a captain of my own pirate ship, but the Calamity saw an end to that."
+2,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_3","After I lost my vessel, I dragged my crew kickin' and screamin' here to begin a new life on the land."
+3,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_4","The Admiral had been gettin' tough on any sort of piracy, so I thought my boys would have an easier time of it out here."
+4,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_100_4","For most of them, though, it seems the smell of soil can't ever compete with the briny sea air."
+5,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_5","This orchard here is part of the Admiral's initiative to outlaw piracy and put us erstwhile buccaneers to work reclaimin' the land."
+6,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_6","The lawmakers have offered to buy our yields at a fair price─once we learn the way of gettin' the plants to flourish."
+7,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_7","Gurcant over there, he's a master botanist, but there's only so much he can teach us."
+8,"TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_8","If this farm is truly to succeed, my blokes need to forget the ocean and bend their backs to the work before 'em."
+9,"TEXT_REGSEASUMMERFARM_00069_Q1_000_1","What will you ask?"
+10,"TEXT_REGSEASUMMERFARM_00069_A1_000_1","What do you do here?"
+11,"TEXT_REGSEASUMMERFARM_00069_A1_000_2","What kind of place is this?"
+12,"TEXT_REGSEASUMMERFARM_00069_A1_000_3","Nothing."

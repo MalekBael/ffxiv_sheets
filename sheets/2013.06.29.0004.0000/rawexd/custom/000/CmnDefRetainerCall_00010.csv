@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFRETAINERCALL_00010_RETAINER_ENTER_1","Greetings, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>. You rang?"
+1,"TEXT_CMNDEFRETAINERCALL_00010_RETAINER_LEAVE_1","If you need aught else, I shall be waiting."
+2,"TEXT_CMNDEFRETAINERCALL_00010_MENU_TITLE","Select an option."
+3,"TEXT_CMNDEFRETAINERCALL_00010_MENU_INVENTORY","Entrust or withdraw items."
+4,"TEXT_CMNDEFRETAINERCALL_00010_MENU_GIL","Entrust or withdraw gil."
+5,"TEXT_CMNDEFRETAINERCALL_00010_MENU_MARKET_FROM_PLAYER","Sell items in your inventory on the market."
+6,"TEXT_CMNDEFRETAINERCALL_00010_MENU_MARKET_FROM_RETAINER","Sell items in your retainer's inventory on the market."
+7,"TEXT_CMNDEFRETAINERCALL_00010_MENU_SELLHISTORY","View transaction history."
+8,"TEXT_CMNDEFRETAINERCALL_00010_MENU_CLOSE","Quit."
+9,"TEXT_CMNDEFRETAINERCALL_00010_DEFAULT_TALK","You have not yet hired a retainer."
+10,"TEXT_CMNDEFRETAINERCALL_00010_NO_RETAINERS_AVAILABLE","You have not yet hired a retainer."
+11,"TEXT_CMNDEFRETAINERCALL_00010_BELL_TALK","Select a retainer to summon."
+12,"TEXT_CMNDEFRETAINERCALL_00010_CALL_RETAINER_FAILED","Your retainer did not respond."

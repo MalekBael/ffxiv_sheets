@@ -1,0 +1,17 @@
+﻿key,0,1,2
+#,,,
+int32,str,int32,uint16
+0,"Company Profile",0,0
+1,"",0,0
+2,"Rank Settings",1,0
+3,"Crest Design",0,0
+4,"Company Chest Settings",0,0
+5,"Invitations",2,0
+6,"",0,0
+7,"Member Dismissal",2,0
+8,"Promotion/Demotion",2,0
+9,"Company Board",3,0
+10,"",0,0
+11,"Short Message",0,0
+12,"Company Credits",0,0
+13,"",0,0

@@ -1,0 +1,259 @@
+﻿key,0,1,2
+#,,,
+int32,str,str,bool
+0,"","",False
+1,"the Insatiable","the Insatiable",False
+2,"the True","the True",False
+3,"Coeurlfist","Coeurlfist",True
+4,"Ironeater","Ironeater",True
+5,"of the Vengeful Lance","of the Vengeful Lance",False
+6,"the Godsbow","the Godsbow",False
+7,"the White","the White",False
+8,"Starcaller","Starcaller",True
+9,"the Exterminator","the Exterminator",False
+10,"Notorious Monster Hunter","Notorious Monster Hunter",True
+11,"Honest Gillionaire","Honest Gillionaire",True
+12,"Ruthless Gillionaire","Ruthless Gillionaire",True
+13,"Warmonger","Warmonger",True
+14,"Archmage","Archmage",True
+15,"Builder of the Realm","Builder of the Realm",False
+16,"Provider of the Realm","Provider of the Realm",False
+17,"of the Golden Saw","of the Golden Saw",False
+18,"of the Golden Anvil","of the Golden Anvil",False
+19,"of the Golden Hammer","of the Golden Hammer",False
+20,"of the Golden Leaf","of the Golden Leaf",False
+21,"of the Golden Hide","of the Golden Hide",False
+22,"of the Golden Needle","of the Golden Needle",False
+23,"of the Golden Lead","of the Golden Lead",False
+24,"of the Golden Ladle","of the Golden Ladle",False
+25,"Meadowbreaker","Meadowbreaker",True
+26,"Forestbreaker","Forestbreaker",True
+27,"Desertbreaker","Desertbreaker",True
+28,"of the Meadow Mines","of the Meadow Mines",False
+29,"of the Forest Mines","of the Forest Mines",False
+30,"of the Desert Mines","of the Desert Mines",False
+31,"Meadowreaper","Meadowreaper",True
+32,"Forestreaper","Forestreaper",True
+33,"Desertreaper","Desertreaper",True
+34,"of the Meadow Grasses","of the Meadow Grasses",False
+35,"of the Forest Grasses","of the Forest Grasses",False
+36,"of the Desert Grasses","of the Desert Grasses",False
+37,"Meadowcaster","Meadowcaster",True
+38,"Forestcaster","Forestcaster",True
+39,"Desertcaster","Desertcaster",True
+40,"of the Meadow Pools","of the Meadow Pools",False
+41,"of the Forest Pools","of the Forest Pools",False
+42,"of the Desert Pools","of the Desert Pools",False
+43,"Carrier of the Cauldron","Carrier of the Cauldron",False
+44,"the Assimilator","the Assimilator",False
+45,"Seeker of Blood","Seeker of Blood",False
+46,"Seeker of Truth","Seeker of Truth",False
+47,"Seeker of Skill","Seeker of Skill",False
+48,"Seeker of Bounty","Seeker of Bounty",False
+49,"Sidestepper","Sidestepper",True
+50,"Lord Protector","Lady Protector",True
+51,"Lord Creator","Lady Creator",True
+52,"Peacemaker","Peacemaker",True
+53,"the Last Resort","the Last Resort",False
+54,"the Sword of La Noscea","the Sword of La Noscea",False
+55,"the Sword of the Shroud","the Sword of the Shroud",False
+56,"the Sword of Thanalan","the Sword of Thanalan",False
+57,"the Sword of Eorzea","the Sword of Eorzea",False
+58,"the Shield of La Noscea","the Shield of La Noscea",False
+59,"the Shield of the Shroud","the Shield of the Shroud",False
+60,"the Shield of Thanalan","the Shield of Thanalan",False
+61,"the Shield of Eorzea","the Shield of Eorzea",False
+62,"Brother of the Broken Blade","Sister of the Broken Blade",True
+63,"the Warden's Wall","the Warden's Wall",False
+64,"Bearer of the Horn","Bearer of the Horn",True
+65,"the Uncommitted","the Uncommitted",False
+66,"Lominsan Craftsman","Lominsan Craftswoman",True
+67,"Gridanian Craftsman","Gridanian Craftswoman",True
+68,"Ul'dahn Craftsman","Ul'dahn Craftswoman",True
+69,"Local Hero","Local Heroine",True
+70,"the Professional","the Professional",False
+71,"Inquisitor","Inquisitor",True
+72,"Divine Crusher","Divine Crusher",True
+73,"Stonesplitter","Stonesplitter",True
+74,"A Kobold's Worst Nightmare","A Kobold's Worst Nightmare",False
+75,"An Ixal's Worst Nightmare","An Ixal's Worst Nightmare",False
+76,"An Amalj'aa's Worst Nightmare","An Amalj'aa's Worst Nightmare",False
+77,"the Guardian of Aleport","the Guardian of Aleport",False
+78,"the Guardian of Hyrstmill","the Guardian of Hyrstmill",False
+79,"the Guardian of the Golden Bazaar","the Guardian of the Golden Bazaar",False
+80,"the Wind of Aleport","the Wind of Aleport",False
+81,"the Wind of Hyrstmill","the Wind of Hyrstmill",False
+82,"the Wind of the Golden Bazaar","the Wind of the Golden Bazaar",False
+83,"the Hand of Aleport","the Hand of Aleport",False
+84,"the Hand of Hyrstmill","the Hand of Hyrstmill",False
+85,"the Hand of the Golden Bazaar","the Hand of the Golden Bazaar",False
+86,"Dreamseeker","Dreamseeker",True
+87,"Cascadier","Cascadier",True
+88,"Exterminator","Exterminator",True
+89,"the Patriot","the Patriot",False
+90,"the Know-it-All","the Know-it-All",False
+91,"Wild Thing","Wild Thing",True
+92,"the Winter Wyrm","the Winter Wyrm",False
+93,"Messenger of Love","Messenger of Love",True
+94,"Royal Seneschal","Princess for a Day",True
+95,"Dreamseeker","Dreamseeker",True
+96,"Stormlord","Stormlady",True
+97,"Serpentlord","Serpentlady",True
+98,"Flamelord","Flamelady",True
+99,"the Stormsworn","the Stormsworn",False
+100,"the Serpentsworn","the Serpentsworn",False
+101,"the Flamesworn","the Flamesworn",False
+102,"Stormcarrier","Stormcarrier",True
+103,"Serpentcarrier","Serpentcarrier",True
+104,"Flamecarrier","Flamecarrier",True
+105,"Stormbringer","Stormbringer",True
+106,"","",False
+107,"","",False
+108,"","",False
+109,"","",False
+110,"","",False
+111,"","",False
+112,"","",False
+113,"","",False
+114,"","",False
+115,"","",False
+116,"","",False
+117,"","",False
+118,"","",False
+119,"","",False
+120,"","",False
+121,"","",False
+122,"","",False
+123,"","",False
+124,"","",False
+125,"","",False
+126,"","",False
+127,"","",False
+128,"","",False
+129,"","",False
+130,"","",False
+131,"","",False
+132,"","",False
+133,"","",False
+134,"","",False
+135,"","",False
+136,"","",False
+137,"","",False
+138,"","",False
+139,"","",False
+140,"","",False
+141,"","",False
+142,"","",False
+143,"","",False
+144,"","",False
+145,"","",False
+146,"","",False
+147,"","",False
+148,"","",False
+149,"","",False
+150,"","",False
+151,"","",False
+152,"","",False
+153,"","",False
+154,"","",False
+155,"","",False
+156,"","",False
+157,"","",False
+158,"","",False
+159,"","",False
+160,"","",False
+161,"","",False
+162,"","",False
+163,"","",False
+164,"","",False
+165,"","",False
+166,"","",False
+167,"","",False
+168,"","",False
+169,"","",False
+170,"","",False
+171,"","",False
+172,"","",False
+173,"","",False
+174,"","",False
+175,"","",False
+176,"","",False
+177,"","",False
+178,"","",False
+179,"","",False
+180,"","",False
+181,"","",False
+182,"","",False
+183,"","",False
+184,"","",False
+185,"","",False
+186,"","",False
+187,"","",False
+188,"","",False
+189,"","",False
+190,"","",False
+191,"","",False
+192,"","",False
+193,"","",False
+194,"","",False
+195,"","",False
+196,"","",False
+197,"","",False
+198,"","",False
+199,"","",False
+200,"","",False
+201,"","",False
+202,"","",False
+203,"","",False
+204,"","",False
+205,"","",False
+206,"","",False
+207,"","",False
+208,"","",False
+209,"","",False
+210,"","",False
+211,"","",False
+212,"","",False
+213,"","",False
+214,"","",False
+215,"","",False
+216,"","",False
+217,"","",False
+218,"","",False
+219,"","",False
+220,"","",False
+221,"","",False
+222,"","",False
+223,"","",False
+224,"","",False
+225,"","",False
+226,"","",False
+227,"","",False
+228,"","",False
+229,"","",False
+230,"","",False
+231,"","",False
+232,"","",False
+233,"","",False
+234,"","",False
+235,"","",False
+236,"","",False
+237,"","",False
+238,"","",False
+239,"","",False
+240,"","",False
+241,"","",False
+242,"","",False
+243,"","",False
+244,"","",False
+245,"","",False
+246,"","",False
+247,"","",False
+248,"","",False
+249,"","",False
+250,"","",False
+251,"","",False
+252,"","",False
+253,"","",False
+254,"","",False
+255,"","",False

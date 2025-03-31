@@ -1,0 +1,19 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGWILGLDGUILD_00068_TALK_ACTOR","Greetings! Is there something you want to ask about the Goldsmiths' Guild?"
+1,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_000","Greetings! Is there something you want to ask about the Goldsmiths' Guild?"
+2,"TEXT_REGWILGLDGUILD_00068_Q1_000_1","What will you ask?"
+3,"TEXT_REGWILGLDGUILD_00068_A1_000_1","What do you do here?"
+4,"TEXT_REGWILGLDGUILD_00068_A1_000_2","What is goldsmithing?"
+5,"TEXT_REGWILGLDGUILD_00068_A1_000_3","Nothing."
+6,"TEXT_REGWILGLDGUILD_00068_A1_000_4","Can I have another set of earrings?"
+7,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_010","People call me Mistress Serendipity, but you can call me Sera!"
+8,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_011","I was recently appointed guildmaster, so this is all still quite new to me. My predecessor abruptly retired, you see...but that's a long, sordid story that I'm sure you'd rather not hear."
+9,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_012","Now, I may not have much experience managing people, but I <Emphasis>am</Emphasis> a very good goldsmith─even if I do say so myself! Those who train under me are guaranteed to learn a thing a two!"
+10,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_020","Though we're called <Emphasis>gold</Emphasis>smiths, we actually work with various kinds of precious metals and gemstones, all of which are abundant in Thanalan."
+11,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_021","Smelting, casting, cutting, polishing─we use all these techniques to craft beautiful baubles that delight the eyes."
+12,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_022","Mind you, the things we make aren't simply for show─a great many possess magical properties. And of course, we craft scepters and staves that thaumaturges use to channel their magicks."
+13,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_023","When you think about all the variety goldsmithing has to offer, it's really quite exciting!"
+14,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_030","You want <Emphasis>what</Emphasis>!? You can't be serious! <Emphasis>Gods</Emphasis>..."
+15,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_031","Just this once, but remember─life is not a minstrel's song, and you aren't some chosen hero. So don't go around expecting people to forgive you no matter the reckless, irresponsible things you do."

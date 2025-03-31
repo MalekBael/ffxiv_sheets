@@ -1,0 +1,1894 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+#,,,,,,,,,,,,,,
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,byte,uint32,byte,uint16,bool,bool
+2000000,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000001,"透明君※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000002,"草むらテスト※α未使用",0,"",0,0,1,0,0,3,65538,7,1860,True,False
+2000003,"クエストツールテスト※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000004,"クエストツールテスト２※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000005,"草むら※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000006,"草むら※α未使用",0,"",0,0,1,0,0,3,65605,7,1624,True,False
+2000007,"草むら※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000008,"Hedgetree",0,"Hedgetrees",0,0,1,0,0,3,65633,7,1625,True,False
+2000009,"destination",0,"destinations",0,0,1,0,0,3,65635,7,1625,True,False
+2000010,"anole egg",0,"anole eggs",0,1,1,0,0,3,65661,7,1843,True,False
+2000011,"anole egg",0,"anole eggs",0,1,1,0,0,3,65661,7,1843,True,False
+2000012,"anole egg",0,"anole eggs",0,1,1,0,0,3,65661,7,1843,True,False
+2000013,"anole egg",0,"anole eggs",0,1,1,0,0,3,65661,7,1843,True,False
+2000014,"anole egg",0,"anole eggs",0,1,1,0,0,3,65661,7,1843,True,False
+2000015,"scented letter",0,"scented letters",0,0,1,0,0,3,0,7,1848,True,False
+2000016,"decaying tree",0,"decaying trees",0,0,1,0,0,3,65663,7,1625,True,False
+2000017,"decaying tree",0,"decaying trees",0,0,1,0,0,3,65663,7,1625,True,False
+2000018,"decaying tree",0,"decaying trees",0,0,1,0,0,3,65663,7,1625,True,False
+2000019,"wooden hairpin",0,"wooden hairpins",0,0,1,0,0,3,0,7,1624,True,False
+2000020,"vegetable offering",0,"vegetable offerings",0,0,1,0,0,3,65578,7,1856,True,False
+2000021,"vegetable offering",0,"vegetable offerings",0,0,1,0,0,3,65578,7,1858,True,False
+2000022,"vegetable offering",0,"vegetable offerings",0,0,1,0,0,3,65578,7,1856,True,False
+2000023,"vegetable offering",0,"vegetable offerings",0,0,1,0,0,3,65578,7,1858,True,False
+2000024,"vegetable offering",0,"vegetable offerings",0,0,1,0,0,3,65578,7,1856,True,False
+2000025,"vegetable offering",0,"vegetable offerings",0,0,1,0,0,3,65578,7,1858,True,False
+2000026,"Azeyma rose hip",0,"Azeyma rose hips",0,1,1,0,0,3,65577,7,1844,True,False
+2000027,"Azeyma rose hip",0,"Azeyma rose hips",0,1,1,0,0,3,65577,7,1844,True,False
+2000028,"Azeyma rose hip",0,"Azeyma rose hips",0,1,1,0,0,3,65577,7,1844,True,False
+2000029,"Azeyma rose hip",0,"Azeyma rose hips",0,1,1,0,0,3,65577,7,1844,True,False
+2000030,"Azeyma rose hip",0,"Azeyma rose hips",0,1,1,0,0,3,65577,7,1844,True,False
+2000031,"Azeyma rose hip",0,"Azeyma rose hips",0,1,1,0,0,3,65577,7,1844,True,False
+2000032,"",0,"",0,0,1,0,0,3,720898,0,1624,True,False
+2000033,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000034,"巨大ウィスプの出現を待つ※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000035,"凶悪な魔物に挑む※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000036,"槍術士Aを追う※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000037,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000038,"",0,"",0,0,1,0,0,3,1114254,7,0,False,False
+2000039,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983198,0,3203,True,False
+2000040,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000041,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000042,"destination",0,"destinations",0,0,1,0,0,3,65695,7,3308,True,False
+2000043,"moist depression",0,"moist depressions",0,0,1,0,0,3,65696,7,1625,True,False
+2000044,"moist depression",0,"moist depressions",0,0,1,0,0,3,65696,7,1625,True,False
+2000045,"moist depression",0,"moist depressions",0,0,1,0,0,3,65696,7,1625,True,False
+2000046,"※α未使用",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000047,"※α未使用",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000048,"※α未使用",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000049,"※α未使用",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000050,"※α未使用",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000051,"※α未使用",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000052,"※α未使用",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000053,"warm egg",0,"warm eggs",0,0,1,0,0,3,65697,7,1842,True,False
+2000054,"",0,"",0,0,1,0,0,3,1114113,7,0,True,False
+2000055,"cultist rosary",0,"cultist rosaries",0,0,1,0,0,1,983042,0,1109,True,False
+2000056,"cultist rosary",0,"cultist rosaries",0,0,1,0,0,1,983043,0,1109,True,False
+2000057,"cultist rosary",0,"cultist rosaries",0,0,1,0,0,1,983044,0,1109,True,False
+2000058,"sealed barrier",0,"sealed barriers",0,0,1,0,0,1,983186,0,0,True,False
+2000059,"sealed barrier",0,"sealed barriers",0,0,1,0,0,1,983187,0,0,True,False
+2000060,"sealed barrier",0,"sealed barriers",0,0,1,0,0,1,983188,0,0,True,False
+2000061,"cultist orb",0,"cultist orbs",0,0,1,0,0,1,983178,0,0,True,True
+2000062,"cultist orb",0,"cultist orbs",0,0,1,0,0,1,983179,0,0,True,True
+2000063,"cultist orb",0,"cultist orbs",0,0,1,0,0,1,983180,0,0,True,True
+2000064,"abyssal cocoon",0,"",0,0,1,0,0,1,0,0,1366,False,False
+2000065,"stone bridge",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000066,"exit",0,"exits",0,1,1,0,0,1,0,0,0,False,False
+2000067,"cultist orb",0,"cultist orbs",0,0,1,0,0,1,983181,0,0,True,True
+2000068,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000069,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000070,"censer",0,"censers",0,0,1,0,0,3,65556,7,2076,True,False
+2000071,"censer",0,"censers",0,0,1,0,0,3,65556,7,2076,True,False
+2000072,"summoning bell",0,"summoning bells",0,0,1,0,0,3,720906,0,1624,True,False
+2000073,"market board",0,"market boards",0,0,1,0,0,3,720935,0,1624,True,False
+2000074,"※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000075,"※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000076,"※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000077,"※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000078,"※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000079,"※α未使用",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000080,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,3,0,7,1853,True,False
+2000081,"Watcher",0,"Watchers",0,0,1,0,0,3,0,7,1625,True,False
+2000082,"Watcher",0,"Watchers",0,0,1,0,0,3,0,7,1625,True,False
+2000083,"Watcher",0,"Watchers",0,0,1,0,0,3,0,7,1625,True,False
+2000084,"Wailing Path",0,"Wailing Path",0,0,1,0,0,3,0,7,1625,True,False
+2000085,"pristine waters",0,"pristine waters",0,0,1,0,0,3,0,7,1624,True,False
+2000086,"ailing ancient",0,"ailing ancients",0,1,1,0,0,3,0,7,1625,True,False
+2000087,"heavy oaken door",0,"heavy oaken doors",0,0,1,0,0,3,131083,0,0,True,False
+2000088,"comfy feather bed",0,"comfy feather beds",0,0,1,0,0,3,720916,0,0,True,False
+2000089,"trampled earth",0,"trampled earth",0,0,1,0,0,3,65592,7,2075,True,False
+2000090,"Wailing Path",0,"Wailing Path",0,0,1,0,0,3,0,7,1625,True,False
+2000091,"Wailing Path",0,"Wailing Path",0,0,1,0,0,3,0,7,1625,True,False
+2000092,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,3,0,7,1853,True,False
+2000093,"water-stained note",0,"water-stained notes",0,0,1,0,0,1,1048578,0,3237,True,False
+2000094,"water-stained note",0,"water-stained notes",0,0,1,0,0,1,1048579,0,3237,True,False
+2000095,"water-stained note",0,"water-stained notes",0,0,1,0,0,1,1048580,0,3237,True,False
+2000096,"water-stained note",0,"water-stained notes",0,0,1,0,0,1,1048581,0,3237,True,False
+2000097,"water-stained note",0,"water-stained notes",0,0,1,0,0,3,1048582,0,0,True,False
+2000098,"water-stained note",0,"water-stained notes",0,0,1,0,0,1,1048583,0,3237,True,False
+2000099,"water-stained note",0,"water-stained notes",0,0,1,0,0,1,1048584,0,3237,True,False
+2000100,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983152,0,3203,True,False
+2000101,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983153,0,3203,True,False
+2000102,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983154,0,3203,True,False
+2000103,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983155,0,3203,True,False
+2000104,"magitek photocell",0,"magitek photocells",0,0,1,0,0,2,983182,0,3203,True,False
+2000105,"magitek photocell",0,"magitek photocells",0,0,1,0,0,2,983183,0,3203,True,False
+2000106,"magitek photocell",0,"magitek photocells",0,0,1,0,0,2,983184,0,3203,True,False
+2000107,"magitek photocell",0,"magitek photocells",0,0,1,0,0,2,983185,0,3203,True,False
+2000108,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983199,0,3203,True,False
+2000109,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983200,0,3203,True,False
+2000110,"magitek photocell",0,"magitek photocells",0,0,1,0,0,1,983201,0,3203,True,False
+2000111,"",0,"",0,0,1,0,0,1,1114145,7,0,False,False
+2000112,"",0,"",0,0,1,0,0,1,1114146,7,0,False,False
+2000113,"",0,"",0,0,1,0,0,1,1114147,7,0,False,False
+2000114,"",0,"",0,0,1,0,0,1,1114148,7,0,False,False
+2000115,"",0,"",0,0,1,0,0,1,1114149,7,0,False,False
+2000116,"magitek terminal",0,"magitek terminals",0,0,1,0,0,1,983046,0,1621,True,False
+2000117,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000118,"magitek terminal",0,"magitek terminals",0,0,1,0,0,1,983047,0,1621,True,False
+2000119,"magitek terminal",0,"magitek terminals",0,0,1,0,0,1,0,0,1621,True,False
+2000120,"",0,"",0,0,1,0,0,3,0,7,0,False,False
+2000121,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000122,"magitek terminal",0,"magitek terminals",0,0,1,0,0,1,0,0,1621,True,False
+2000123,"magitek terminal",0,"magitek terminals",0,0,1,0,0,1,0,0,1621,True,False
+2000124,"",0,"",0,0,1,0,0,3,1114118,7,0,False,False
+2000125,"magitek transporter",0,"magitek transporters",0,0,1,0,0,1,983190,0,1623,True,False
+2000126,"magitek transporter",0,"magitek transporters",0,0,1,0,0,3,983045,0,0,True,False
+2000127,"magitek transporter",0,"magitek transporters",0,0,1,0,0,3,983045,0,0,True,False
+2000128,"pollen cluster",0,"pollen clusters",0,0,1,0,0,3,1114114,7,1625,True,False
+2000129,"pollen cluster",0,"pollen clusters",0,0,1,0,0,1,1114114,0,1666,False,False
+2000130,"pollen cluster",0,"pollen clusters",0,0,1,0,0,2,0,0,1666,False,False
+2000131,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000132,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000133,"",0,"",0,0,1,0,0,3,0,7,0,False,False
+2000134,"",0,"",0,0,1,0,0,3,0,7,1624,False,False
+2000135,"",0,"",0,0,1,0,0,3,0,7,1624,False,False
+2000136,"faint footprints",0,"faint footprints",0,0,1,0,0,3,65606,7,1626,True,False
+2000137,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000138,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000139,"exit",0,"exits",0,1,1,0,0,1,983045,0,1629,True,False
+2000140,"tangled undergrowth",0,"tangled undergrowth",0,0,1,0,0,3,65707,7,1625,True,False
+2000141,"survey records",0,"survey records",0,0,1,0,0,3,65711,7,1848,True,False
+2000142,"tangled undergrowth",0,"tangled undergrowth",0,0,1,0,0,3,65707,7,2075,True,False
+2000143,"dusty malmstone",0,"dusty malmstones",0,0,1,0,0,3,65735,7,2076,True,False
+2000144,"dusty malmstone",0,"dusty malmstones",0,0,1,0,0,3,65735,7,2076,True,False
+2000145,"glimshroom",0,"glimshrooms",0,0,1,0,0,3,65731,7,1852,True,False
+2000146,"burlap sacks",0,"burlap sacks",0,0,1,0,0,3,65709,7,1851,True,False
+2000147,"surveyor's instruments",0,"surveyor's instruments",0,0,1,0,0,3,65711,7,1850,True,False
+2000148,"surveyor's instruments",0,"surveyor's instruments",0,0,1,0,0,3,65711,7,1850,True,False
+2000149,"surveyor's rope",0,"surveyor's rope",0,0,1,0,0,3,65711,7,1849,True,False
+2000150,"anole egg",0,"anole eggs",0,1,1,0,0,3,65661,7,1843,True,False
+2000151,"Aethernet shard",0,"Aethernet shards",0,1,1,0,0,3,720924,0,1585,True,False
+2000152,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000153,"Aethernet shard",0,"Aethernet shards",0,1,1,0,0,3,720924,0,1585,True,False
+2000154,"Aethernet shard",0,"Aethernet shards",0,1,1,0,0,3,720924,0,1585,True,False
+2000155,"Aethernet shard",0,"Aethernet shards",0,1,1,0,0,3,720924,0,1585,True,False
+2000156,"Aethernet shard",0,"Aethernet shards",0,1,1,0,0,3,720924,0,1585,True,False
+2000157,"Aethernet shard",0,"Aethernet shards",0,1,1,0,0,3,720924,0,1585,True,False
+2000158,"",0,"",0,0,1,0,0,3,1114122,7,0,False,False
+2000159,"tiny key",0,"tiny keys",0,0,1,0,0,2,983048,0,1651,True,False
+2000160,"sealed blasting door",0,"sealed blasting doors",0,0,1,0,0,1,983050,0,0,True,False
+2000161,"",0,"",0,0,1,0,0,1,0,0,0,False,True
+2000162,"lift lever",0,"lift levers",0,0,1,0,0,1,983118,0,0,True,False
+2000163,"lift lever",0,"lift levers",0,0,1,0,0,1,983119,0,3317,True,False
+2000164,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000165,"lift lever",0,"lift levers",0,0,1,0,0,1,983120,0,0,True,False
+2000166,"lift lever",0,"lift levers",0,0,1,0,0,1,983121,0,3317,True,False
+2000167,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000168,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000169,"firesand",0,"6-onze pinches of firesand",0,0,1,0,0,1,983052,0,2791,True,False
+2000170,"blasting device",0,"blasting devices",0,0,1,0,0,1,983111,0,0,True,False
+2000171,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000172,"firesand",0,"6-onze pinches of firesand",0,0,1,0,0,1,983053,0,2791,True,False
+2000173,"sealed blasting door",0,"sealed blasting doors",0,0,1,0,0,1,983051,0,0,True,False
+2000174,"lift lever",0,"lift levers",0,0,1,0,0,1,983146,0,0,True,False
+2000175,"lift lever",0,"lift levers",0,0,1,0,0,1,983147,0,3317,True,False
+2000176,"lift lever",0,"lift levers",0,0,1,0,0,1,983148,0,0,True,False
+2000177,"lift lever",0,"lift levers",0,0,1,0,0,1,983149,0,3317,True,False
+2000178,"tiny key",0,"tiny keys",0,0,1,0,0,1,983049,0,1651,True,False
+2000179,"firesand",0,"6-onze pinches of firesand",0,0,1,0,0,2,983054,0,2791,True,False
+2000180,"blasting device",0,"blasting devices",0,0,1,0,0,1,983112,0,0,True,False
+2000181,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000182,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000183,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000184,"improved blasting device",0,"improved blasting devices",0,0,1,0,0,1,983081,0,0,True,False
+2000185,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000186,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000187,"exit",0,"exits",0,1,1,0,0,1,983045,0,1629,True,False
+2000188,"",0,"",0,0,1,0,0,1,1114125,7,0,False,False
+2000189,"",0,"",0,0,1,0,0,1,1114126,7,0,False,False
+2000190,"",0,"",0,0,1,0,0,1,1114127,7,0,False,False
+2000191,"",0,"",0,0,1,0,0,1,1114128,7,0,False,False
+2000192,"",0,"",0,0,1,0,0,1,1114129,7,0,False,False
+2000193,"",0,"",0,0,1,0,0,1,1114130,7,0,False,False
+2000194,"",0,"",0,0,1,0,0,1,1114131,7,0,False,False
+2000195,"",0,"",0,0,1,0,0,1,1114132,7,0,False,False
+2000196,"",0,"",0,0,1,0,0,1,1114133,7,0,False,False
+2000197,"",0,"",0,0,1,0,0,3,0,0,1624,True,False
+2000198,"",0,"",0,0,1,0,0,3,0,0,1624,True,False
+2000199,"",0,"",0,0,1,0,0,3,0,0,1624,True,False
+2000200,"",0,"",0,0,1,0,0,1,1114134,7,0,False,False
+2000201,"",0,"",0,0,1,0,0,1,1114135,7,0,False,False
+2000202,"",0,"",0,0,1,0,0,1,1114136,7,0,False,False
+2000203,"",0,"",0,0,1,0,0,1,1114137,7,0,False,False
+2000204,"",0,"",0,0,1,0,0,3,0,0,1624,True,False
+2000205,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000206,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000207,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000208,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000209,"iron lever",0,"iron levers",0,1,1,0,0,1,983061,0,2537,True,False
+2000210,"",0,"",0,0,1,0,0,2,0,0,3134,False,False
+2000211,"",0,"",0,0,1,0,0,3,1114138,7,0,False,False
+2000212,"bloody memo",0,"bloody memos",0,0,1,0,0,1,1048585,0,2221,True,False
+2000213,"blue coral formation",0,"formations of blue coral",0,0,1,0,0,1,983063,0,0,True,False
+2000214,"red coral formation",0,"formations of red coral",0,0,1,0,0,1,983064,0,0,True,False
+2000215,"green coral formation",0,"formations of green coral",0,0,1,0,0,1,983065,0,0,True,False
+2000216,"inconspicuous switch",0,"inconspicuous switches",0,1,1,0,0,1,983066,0,0,True,False
+2000217,"hidden door",0,"hidden doors",0,0,1,0,0,1,0,0,0,False,False
+2000218,"",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000219,"",0,"",0,0,1,0,0,1,0,0,1624,True,False
+2000220,"",0,"",0,0,1,0,0,1,0,0,1712,True,False
+2000221,"",0,"",0,0,1,0,0,1,983114,0,1624,True,False
+2000222,"giant clam",0,"giant clams",0,0,1,0,0,1,0,0,0,False,False
+2000223,"",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000224,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000225,"Rambade door",0,"Rambade doors",0,0,1,0,0,1,0,0,0,False,False
+2000226,"wooden door",0,"wooden doors",0,0,1,0,0,1,983067,0,0,True,False
+2000227,"captain's quarters",0,"captain's quarters doors",0,0,1,0,0,1,983068,0,0,True,False
+2000228,"wooden door",0,"wooden doors",0,0,1,0,0,1,983069,0,0,True,False
+2000229,"wooden door",0,"wooden doors",0,0,1,0,0,1,983070,0,0,True,False
+2000230,"wooden door",0,"wooden doors",0,0,1,0,0,1,983071,0,0,True,False
+2000231,"Waverider Gate",0,"Waverider Gates",0,0,1,0,1,1,983072,0,0,True,False
+2000232,"the Hole",0,"the Hole",0,0,1,0,1,1,983073,0,0,True,False
+2000233,"",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000234,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000235,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000236,"Rambade door",0,"Rambade doors",0,0,1,0,0,1,0,0,0,False,False
+2000237,"",0,"",0,0,1,0,0,3,0,0,0,True,False
+2000238,"",0,"",0,0,1,0,0,1,983045,0,1629,True,False
+2000239,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000240,"敵POPポイント",0,"",0,0,1,0,0,3,66206,7,1625,True,False
+2000241,"敵POPポイント２",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000242,"敵POPポイント",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000243,"敵POPポイント２",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000244,"敵POPポイント",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000245,"敵POPポイント２",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000246,"敵POPポイント",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000247,"敵POPポイント",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000248,"",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000249,"",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000250,"captain's quarters key",0,"captain's quarters keys",0,0,1,0,0,2,983074,0,1652,True,False
+2000251,"iron key",0,"iron keys",0,1,1,0,0,2,983075,0,1624,True,False
+2000252,"iron key",0,"iron keys",0,1,1,0,0,2,983076,0,1624,True,False
+2000253,"iron key",0,"iron keys",0,1,1,0,0,2,983077,0,1624,True,False
+2000254,"iron key",0,"iron keys",0,1,1,0,0,2,983078,0,1624,True,False
+2000255,"Waverider Gate key",0,"Waverider Gate keys",0,0,1,0,0,2,983079,0,1652,True,False
+2000256,"key to the Hole",0,"keys to the Hole",0,0,1,0,0,1,983080,0,1652,True,False
+2000257,"",0,"",0,0,1,0,0,3,0,0,1624,True,False
+2000258,"",0,"",0,0,1,0,0,3,0,0,1624,True,False
+2000259,"",0,"",0,0,1,0,0,3,0,0,1624,True,False
+2000260,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000261,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000262,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000263,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000264,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000265,"長谷川テストオブジェクト",0,"",0,0,1,0,0,3,65776,7,1624,True,False
+2000266,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000267,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000268,"narrow fissure",0,"narrow fissures",0,0,1,0,0,3,65843,7,1625,True,False
+2000269,"herb patch",0,"herb patches",0,1,1,0,0,1,983082,0,2729,True,False
+2000270,"",0,"",0,0,1,0,0,2,0,0,1666,False,False
+2000271,"",0,"",0,0,1,0,0,3,1114153,7,0,False,False
+2000272,"",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000273,"",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000274,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000275,"脱出地点",0,"",0,0,1,0,0,1,0,0,1629,True,False
+2000276,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000277,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000278,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000279,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000280,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000281,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000282,"barrel trap",0,"barrel traps",0,0,1,0,0,3,0,7,2032,True,False
+2000283,"検索ポイント",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000284,"megalocrab nest",0,"megalocrab nests",0,0,1,0,0,3,65849,7,1625,True,False
+2000285,"ClsExc050：悲鳴ポイント",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000286,"overturned wain",0,"overturned wains",0,0,1,0,0,3,65850,7,3257,True,False
+2000287,"overturned wain",0,"overturned wains",0,0,1,0,0,3,65851,7,3257,True,False
+2000288,"destination",0,"destinations",0,0,1,0,0,3,65852,7,1625,True,False
+2000289,"Sighard's waterskin",0,"Sighard's waterskins",0,0,1,0,1,3,65853,7,3265,True,False
+2000290,"Sighard's satchel",0,"Sighard's satchels",0,0,1,0,1,3,65853,7,3266,True,False
+2000291,"ClsExc200：ニセ証拠品3",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000292,"ClsExc200：ニセ証拠品4",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000293,"ClsExc200：ニセ証拠品5",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000294,"Sighard's hatchet",0,"Sighard's hatchets",0,0,1,0,1,3,65853,7,3264,True,False
+2000295,"ClsExc250：待ち合わせポイント",0,"",0,0,1,0,0,3,65854,7,1625,True,False
+2000296,"lavender pot",0,"lavender pots",0,0,1,0,0,3,65855,7,3286,True,False
+2000297,"fruit barrel",0,"fruit barrels",0,0,1,0,0,3,65855,7,3285,True,False
+2000298,"splintered crate",0,"splintered crates",0,0,1,0,0,3,65855,7,3284,True,False
+2000299,"overturned wain",0,"overturned wains",0,0,1,0,0,3,65855,7,2710,True,False
+2000300,"Amajina & Sons coffer",0,"Amajina & Sons coffer",0,1,1,0,0,3,65844,7,2034,True,False
+2000301,"tiny key",0,"tiny keys",0,0,1,0,0,2,0,0,1651,True,False
+2000302,"tiny key",0,"tiny keys",0,0,1,0,0,1,983083,0,1651,True,False
+2000303,"tiny key",0,"tiny keys",0,0,1,0,0,1,983084,0,1651,True,False
+2000304,"tiny key",0,"tiny keys",0,0,1,0,0,1,983085,0,1651,True,False
+2000305,"tiny key",0,"tiny keys",0,0,1,0,0,1,983086,0,1651,True,False
+2000306,"tiny key",0,"tiny keys",0,0,1,0,0,1,983087,0,1651,True,False
+2000307,"tiny key",0,"tiny keys",0,0,1,0,0,1,983088,0,1651,True,False
+2000308,"tiny key",0,"tiny keys",0,0,1,0,0,1,983089,0,1651,True,False
+2000309,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000310,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000311,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000312,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000313,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000314,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000315,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000316,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000317,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000318,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000319,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000320,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000321,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000322,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000323,"tiny key",0,"tiny keys",0,0,1,0,0,1,0,0,1651,True,False
+2000324,"green key",0,"green keys",0,0,1,0,0,2,983090,0,1652,True,False
+2000325,"yellow key",0,"yellow keys",0,0,1,0,0,1,983091,0,1652,True,False
+2000326,"white key",0,"white keys",0,0,1,0,0,2,0,0,1652,True,False
+2000327,"red key",0,"red keys",0,0,1,0,0,2,0,0,1652,True,False
+2000328,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000329,"locked door",0,"locked doors",0,0,1,0,0,1,983092,0,0,True,False
+2000330,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000331,"locked door",0,"locked doors",0,0,1,0,0,1,983093,0,0,True,False
+2000332,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000333,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000334,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000335,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000336,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000337,"locked door",0,"locked doors",0,0,1,0,0,1,983094,0,0,True,False
+2000338,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000339,"locked door",0,"locked doors",0,0,1,0,0,1,983095,0,0,True,False
+2000340,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000341,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000342,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000343,"locked door",0,"locked doors",0,0,1,0,0,1,983096,0,0,True,False
+2000344,"locked door",0,"locked doors",0,0,1,0,0,1,983097,0,0,True,False
+2000345,"locked door",0,"locked doors",0,0,1,0,0,1,983098,7,0,True,False
+2000346,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000347,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000348,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000349,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000350,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000351,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000352,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000353,"locked door",0,"locked doors",0,0,1,0,0,1,0,7,0,True,False
+2000354,"Rose Door",0,"Rose Doors",0,0,1,0,0,1,0,0,0,True,False
+2000355,"Ivy Door",0,"Ivy Doors",0,1,1,0,0,1,983099,0,0,True,False
+2000356,"Carnation Door",0,"Carnation Doors",0,0,1,0,0,1,983100,0,0,True,False
+2000357,"Lily Door",0,"Lily Doors",0,0,1,0,0,1,0,0,0,False,False
+2000358,"void lamp",0,"void lamps",0,0,1,0,0,1,0,0,0,True,False
+2000359,"void lamp",0,"void lamps",0,0,1,0,0,1,0,0,0,True,False
+2000360,"void lamp",0,"void lamps",0,0,1,0,0,1,0,0,0,True,False
+2000361,"void lamp",0,"void lamps",0,0,1,0,0,1,0,0,0,True,False
+2000362,"crystal ball",0,"crystal balls",0,0,1,0,0,1,0,0,0,True,False
+2000363,"crystal ball",0,"crystal balls",0,0,1,0,0,1,0,0,0,True,False
+2000364,"crystal ball",0,"crystal balls",0,0,1,0,0,1,0,0,0,True,False
+2000365,"crystal ball",0,"crystal balls",0,0,1,0,0,1,0,0,0,True,False
+2000366,"void lamp",0,"void lamps",0,0,1,0,0,1,983101,0,0,True,False
+2000367,"void lamp",0,"void lamps",0,0,1,0,0,1,983102,0,0,True,False
+2000368,"void lamp",0,"void lamps",0,0,1,0,0,1,983103,0,0,True,False
+2000369,"void lamp",0,"void lamps",0,0,1,0,0,1,983104,0,0,True,False
+2000370,"exit",0,"exits",0,1,1,0,0,1,983045,0,1629,True,False
+2000371,"",0,"",0,0,1,0,0,3,1114144,7,0,True,False
+2000372,"shrewhill",0,"shrewhills",0,0,1,0,0,3,65857,7,3306,True,False
+2000373,"shrewhill",0,"shrewhills",0,0,1,0,0,3,65857,7,3306,True,False
+2000374,"shrewhill",0,"shrewhills",0,0,1,0,0,3,65857,7,3306,True,False
+2000375,"pockmarked silver ore",0,"chunks of pockmarked silver ore",0,0,1,0,0,3,65861,7,1624,True,False
+2000376,"pockmarked silver ore",0,"chunks of pockmarked silver ore",0,0,1,0,0,3,0,7,1624,True,False
+2000377,"pockmarked silver ore",0,"chunks of pockmarked silver ore",0,0,1,0,0,3,65863,7,3384,True,False
+2000378,"pockmarked silver ore",0,"chunks of pockmarked silver ore",0,0,1,0,0,3,65863,7,3384,True,False
+2000379,"pockmarked silver ore",0,"chunks of pockmarked silver ore",0,0,1,0,0,3,65863,7,3384,True,False
+2000380,"pockmarked silver ore",0,"chunks of pockmarked silver ore",0,0,1,0,0,3,65863,7,3384,True,False
+2000381,"pockmarked silver ore",0,"chunks of pockmarked silver ore",0,0,1,0,0,3,0,7,1624,True,False
+2000382,"",0,"",0,0,1,0,0,3,0,7,1852,True,False
+2000383,"",0,"",0,0,1,0,0,3,0,7,1436,True,False
+2000384,"Accusation Chamber door",0,"Accusation Chamber doors",0,1,1,0,0,1,983156,7,0,True,False
+2000385,"Abacination Chamber door",0,"Abacination Chamber doors",0,1,1,0,0,1,983157,7,0,True,False
+2000386,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000387,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000388,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000389,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000390,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000391,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000392,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000393,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000394,"陰山テスト検索ポイント1",0,"",0,0,1,0,0,3,65743,7,1625,True,False
+2000395,"陰山テスト検索ポイント2",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000396,"陰山テスト検索ポイント3",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000397,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000398,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000399,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000400,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000401,"summoning bell",0,"summoning bells",0,0,1,0,0,3,720906,0,0,True,False
+2000402,"market board",0,"market boards",0,0,1,0,0,3,720935,0,0,True,False
+2000403,"summoning bell",0,"summoning bells",0,0,1,0,0,3,720906,0,0,True,False
+2000404,"",0,"",0,0,1,0,0,2,0,0,1798,False,False
+2000405,"unnatural ripples",0,"patches of unnatural ripples",0,0,1,0,0,1,983107,0,0,True,False
+2000406,"unnatural ripples",0,"patches of unnatural ripples",0,0,1,0,0,1,983108,0,0,True,False
+2000407,"unnatural ripples",0,"patches of unnatural ripples",0,0,1,0,0,1,983109,0,0,True,False
+2000408,"unnatural ripples",0,"patches of unnatural ripples",0,0,1,0,0,1,983110,0,0,True,False
+2000409,"",0,"",0,0,1,0,0,1,0,7,1845,False,False
+2000410,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000411,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000412,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000413,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000414,"ベラフディアの石碑",0,"",0,0,1,0,0,1,983231,0,3237,True,False
+2000415,"炎の彫像",0,"",0,0,1,0,0,1,983232,0,0,True,False
+2000416,"ブドウの彫像",0,"",0,0,1,0,0,1,983233,0,0,True,False
+2000417,"ダイヤの彫像",0,"",0,0,1,0,0,1,983234,0,0,True,False
+2000418,"兜の彫像",0,"",0,0,1,0,0,1,983235,0,0,True,False
+2000419,"",0,"",0,0,1,0,0,1,983236,0,0,True,False
+2000420,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000421,"",0,"",0,0,1,0,0,1,983237,0,0,True,False
+2000422,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000423,"",0,"",0,0,1,0,0,1,983238,0,0,True,False
+2000424,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000425,"",0,"",0,0,1,0,0,1,983239,0,0,True,False
+2000426,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000427,"",0,"",0,0,1,0,0,1,983240,0,0,True,False
+2000428,"",0,"",0,0,1,0,0,1,983241,0,0,True,False
+2000429,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000430,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000431,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000432,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000433,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000434,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000435,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000436,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000437,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000438,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000439,"summoning bell",0,"summoning bells",0,0,1,0,0,3,720906,0,0,True,False
+2000440,"market board",0,"market boards",0,0,1,0,0,3,720935,0,0,True,False
+2000441,"summoning bell",0,"summoning bells",0,0,1,0,0,3,720906,0,0,True,False
+2000442,"market board",0,"market boards",0,0,1,0,0,3,720935,0,0,True,False
+2000443,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000444,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000445,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000446,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000447,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000448,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000449,"",0,"",0,0,1,0,0,3,66002,7,2075,True,False
+2000450,"襲われた荷車",0,"",0,0,1,0,0,3,66014,7,1625,True,False
+2000451,"",0,"",0,0,1,0,0,3,66002,7,2702,True,False
+2000452,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000453,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000454,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000455,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000456,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000457,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000458,"",0,"",0,0,1,0,0,1,0,0,1623,True,False
+2000459,"",0,"",0,0,1,0,0,1,1114276,7,0,True,False
+2000460,"",0,"",0,0,1,0,0,1,1114277,0,1624,False,False
+2000461,"",0,"",0,0,1,0,0,1,1114278,0,1624,False,False
+2000462,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000463,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000464,"",0,"",0,0,1,0,0,1,1114279,0,1624,False,False
+2000465,"",0,"",0,0,1,0,0,1,1114280,0,1624,False,False
+2000466,"",0,"",0,0,1,0,0,1,1114281,0,1624,False,False
+2000467,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000468,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000469,"",0,"",0,0,1,0,0,1,1114282,0,1624,False,False
+2000470,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000471,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000472,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000473,"",0,"",0,0,1,0,0,1,0,0,1623,True,False
+2000474,"",0,"",0,0,1,0,0,1,0,0,1623,True,False
+2000475,"",0,"",0,0,1,0,0,1,0,0,1623,True,False
+2000476,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000477,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000478,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000479,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000480,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000481,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000482,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000483,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000484,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000485,"",0,"",0,0,1,0,0,1,0,0,1621,True,False
+2000486,"脱出地点",0,"",0,0,1,0,0,1,983045,0,1629,True,False
+2000487,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000488,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000489,"川瀬実験EOBJ",0,"",0,0,1,0,0,3,66241,0,1624,True,False
+2000490,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000491,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000492,"",0,"",0,0,1,0,0,3,0,0,0,False,False
+2000493,"脱出地点",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000494,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000495,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000496,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000497,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000498,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000499,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000500,"魔力の放流",0,"",0,0,1,0,0,1,983245,0,0,True,False
+2000501,"魔力の放流",0,"",0,0,1,0,0,1,983246,0,0,True,False
+2000502,"王の間の扉（仮）",0,"",0,0,1,0,0,1,983247,0,0,True,False
+2000503,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000504,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000505,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000506,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000507,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000508,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000509,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000510,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000511,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000512,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000513,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000514,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000515,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000516,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000517,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000518,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000519,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000520,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000521,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000522,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000523,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000524,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000525,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000526,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000527,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000528,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000529,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000530,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000531,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000532,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000533,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000534,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000535,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000536,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000537,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000538,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000539,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000540,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000541,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000542,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000543,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000544,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000545,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000546,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000547,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000548,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000549,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000550,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000551,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000552,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000553,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000554,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000555,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000556,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000557,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000558,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000559,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000560,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000561,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000562,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000563,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2000564,"（仮）スイッチ",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000565,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000566,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000567,"（仮）スイッチ",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000568,"（仮）スイッチ",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000569,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000570,"（仮）爆薬",0,"",0,0,1,0,0,1,0,0,2791,True,False
+2000571,"（仮）爆薬設置地点",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000572,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000573,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000574,"（仮）爆薬設置地点",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000575,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000576,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000577,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000578,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000579,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000580,"（仮）スイッチ",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000581,"（仮）スイッチ",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000582,"（仮）コンソール",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000583,"（仮）コンソール",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000584,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000585,"（仮）スイッチ",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000586,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000587,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000588,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000589,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000590,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000591,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000592,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000593,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000594,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2000595,"（仮）対空砲",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000596,"脱出地点",0,"",0,0,1,0,0,1,0,0,1629,True,False
+2000597,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000598,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000599,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000600,"（仮）対空砲",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000601,"（仮）対空砲",0,"",0,0,1,0,0,1,0,0,0,True,False
+2000602,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000603,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000604,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000605,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000606,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000607,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000608,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000609,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000610,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000611,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000612,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000613,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000614,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000615,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000616,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000617,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000618,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000619,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000620,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000621,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000622,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000623,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000624,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000625,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000626,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000627,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000628,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000629,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000630,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000631,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000632,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000633,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000634,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000635,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000636,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000637,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000638,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000639,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000640,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000641,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000642,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000643,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000644,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000645,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000646,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000647,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000648,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000649,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000650,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000651,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000652,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000653,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000654,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000655,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000656,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000657,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000658,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000659,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000660,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000661,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000662,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000663,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000664,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000665,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000666,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000667,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000668,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000669,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000670,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000671,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000672,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000673,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000674,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000675,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000676,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000677,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000678,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000679,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000680,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000681,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000682,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000683,"exit",0,"exits",0,1,1,0,0,1,983045,0,1629,True,False
+2000684,"",0,"",0,0,1,0,0,4,0,0,1838,False,False
+2000685,"well-worn fishing rod",0,"well-worn fishing rods",0,0,1,0,0,3,65921,7,1997,True,False
+2000686,"small cane",0,"small canes",0,0,1,0,0,3,65892,7,2030,True,False
+2000687,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000688,"gutted campfire",0,"gutted campfires",0,0,1,0,0,3,65915,7,2057,False,False
+2000689,"worn leather bag",0,"worn leather bags",0,0,1,0,0,3,65915,7,1999,True,False
+2000690,"thousand-year plum",0,"thousand-year plums",0,0,1,0,0,2,0,0,1805,True,False
+2000691,"exposed wall",0,"exposed walls",0,1,1,0,0,3,65689,7,2107,True,False
+2000692,"exposed wall",0,"exposed walls",0,1,1,0,0,3,65689,7,2107,True,False
+2000693,"exposed wall",0,"exposed walls",0,1,1,0,0,3,65689,7,2107,True,False
+2000694,"exposed wall",0,"exposed walls",0,1,1,0,0,3,0,7,1624,True,False
+2000695,"dropped gil",0,"piles of dropped gil",0,0,1,0,0,3,65932,7,2777,True,False
+2000696,"dropped gil",0,"piles of dropped gil",0,0,1,0,0,3,65932,7,2777,True,False
+2000697,"dropped gil",0,"piles of dropped gil",0,0,1,0,0,3,65932,7,2777,True,False
+2000698,"",0,"",0,0,1,0,0,4,0,0,1839,False,False
+2000699,"",0,"",0,0,1,0,0,4,0,0,1840,False,False
+2000700,"shortcut",0,"shortcuts",0,0,1,0,0,1,983114,0,2629,True,False
+2000701,"",0,"",0,0,1,0,0,4,0,0,1829,False,False
+2000702,"ガラクタの山(仮)",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000703,"ガラクタの山(仮)",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000704,"ガラクタの山(仮)",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000705,"ガラクタの山(仮)",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000706,"ガラクタの山(仮)",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000707,"（仮）魔導書の紙片",0,"",0,0,1,0,0,2,0,0,1678,False,False
+2000708,"（仮）木材",0,"",0,0,1,0,0,2,0,0,1810,True,False
+2000709,"destination",0,"destinations",0,0,1,0,0,3,65612,7,1626,True,False
+2000710,"destination",0,"destinations",0,0,1,0,0,3,65891,7,2127,True,False
+2000711,"destination",0,"destinations",0,0,1,0,0,3,65893,7,1625,True,False
+2000712,"",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000713,"",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000714,"",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000715,"suspicious boxes",0,"suspicious boxes",0,0,1,0,0,3,65896,7,2223,True,False
+2000716,"",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000717,"Twin Adder standard",0,"Twin Adder standards",0,0,1,0,0,3,65897,7,2031,True,False
+2000718,"Twin Adder standard",0,"Twin Adder standards",0,0,1,0,0,3,65897,7,2031,True,False
+2000719,"Twin Adder standard",0,"Twin Adder standards",0,0,1,0,0,3,65897,7,2031,True,False
+2000720,"destination",0,"destinations",0,0,1,0,0,3,65898,7,2123,True,False
+2000721,"destination",0,"destinations",0,0,1,0,0,3,65898,7,2123,True,False
+2000722,"destination",0,"destinations",0,0,1,0,0,3,65898,7,2123,True,False
+2000723,"silk strand",0,"silk strands",0,0,1,0,0,3,65901,7,2016,False,False
+2000724,"Claxio's leafprint",0,"Claxio's leafprints",0,0,1,0,1,3,65901,7,1625,True,False
+2000725,"withered treant",0,"withered treant",0,0,1,0,0,3,65904,7,2075,True,False
+2000726,"",0,"",0,0,1,0,0,3,65904,7,2027,False,False
+2000727,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2028,True,False
+2000728,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2029,True,False
+2000729,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2028,True,False
+2000730,"destination",0,"destinations",0,0,1,0,0,3,0,7,1625,True,False
+2000731,"destination",0,"destinations",0,0,1,0,0,3,65909,7,1626,True,False
+2000732,"",0,"",0,0,1,0,0,4,0,0,1832,False,False
+2000733,"",0,"",0,0,1,0,0,4,0,0,1833,False,False
+2000734,"",0,"",0,0,1,0,0,4,0,0,1834,False,False
+2000735,"",0,"",0,0,1,0,0,4,0,0,1835,False,False
+2000736,"",0,"",0,0,1,0,0,4,0,0,1836,False,False
+2000737,"",0,"",0,0,1,0,0,4,0,0,1837,False,False
+2000738,"EATC cargo crate",0,"EATC cargo crates",0,1,1,0,0,3,65758,7,3199,True,False
+2000739,"EATC cargo crate",0,"EATC cargo crates",0,1,1,0,0,3,65758,7,3199,True,False
+2000740,"EATC cargo crate",0,"EATC cargo crates",0,1,1,0,0,3,65758,7,3199,True,False
+2000741,"barrel trap",0,"barrel traps",0,0,1,0,0,3,65840,7,3385,True,False
+2000742,"barrel trap",0,"barrel traps",0,0,1,0,0,3,65840,7,3385,True,False
+2000743,"barrel trap",0,"barrel traps",0,0,1,0,0,3,0,7,2032,True,False
+2000744,"barrel trap",0,"barrel traps",0,0,1,0,0,3,0,7,2032,True,False
+2000745,"barrel trap",0,"barrel traps",0,0,1,0,0,3,0,7,2032,True,False
+2000746,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000747,"",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000748,"blue trumpet",0,"blue trumpets",0,0,1,0,0,3,65913,7,1978,True,False
+2000749,"blue trumpet",0,"blue trumpets",0,0,1,0,0,3,65913,7,1978,True,False
+2000750,"blue trumpet",0,"blue trumpets",0,0,1,0,0,3,65913,7,1978,True,False
+2000751,"blue trumpet",0,"blue trumpets",0,0,1,0,0,3,65913,7,1978,True,False
+2000752,"Amajina & Sons coffer",0,"Amajina & Sons coffer",0,1,1,0,0,3,0,7,2034,True,False
+2000753,"Amajina & Sons coffer",0,"Amajina & Sons coffer",0,1,1,0,0,3,65844,7,2034,True,False
+2000754,"Amajina & Sons coffer",0,"Amajina & Sons coffer",0,1,1,0,0,3,65844,7,2034,True,False
+2000755,"検索ポイント7",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2000756,"SubSea110：荷車1",0,"",0,0,1,0,0,3,65943,7,2039,False,False
+2000757,"SubSea110：荷車2",0,"",0,0,1,0,0,3,0,7,2039,False,False
+2000758,"SubSea110：荷車3",0,"",0,0,1,0,0,3,0,7,2039,False,False
+2000759,"SubSea110：荷車4",0,"",0,0,1,0,0,3,65943,7,2039,False,False
+2000760,"forecastle planks",0,"bundles of forecastle planks",0,0,1,0,0,3,65944,7,2075,True,False
+2000761,"quarterdeck logs",0,"stack of quarterdeck logs",0,0,1,0,0,3,65944,7,2075,True,False
+2000762,"packed lunch",0,"packed lunches",0,0,1,0,0,3,65945,7,2042,True,False
+2000763,"packed lunch",0,"packed lunches",0,0,1,0,0,3,65945,7,2042,True,False
+2000764,"forecastle planks",0,"bundles of forecastle planks",0,0,1,0,0,3,65944,7,2075,True,False
+2000765,"forecastle planks",0,"bundles of forecastle planks",0,0,1,0,0,3,65944,7,2075,True,False
+2000766,"SubSea116：焚火1",0,"",0,0,1,0,0,3,65949,7,2047,False,False
+2000767,"SubSea116：焚火2",0,"",0,0,1,0,0,3,65949,7,2056,True,False
+2000768,"SubSea116：焚火3",0,"",0,0,1,0,0,4,0,0,2056,True,False
+2000769,"brass helm wheel",0,"brass helm wheels",0,0,1,0,0,3,65951,7,3225,True,False
+2000770,"tangled rigging",0,"tangled rigging",0,0,1,0,0,3,65951,7,2050,True,False
+2000771,"folded sailcloth",0,"folded sailcloths",0,0,1,0,0,3,65951,7,1851,True,False
+2000772,"suspicious hole",0,"suspicious holes",0,0,1,0,0,3,65952,7,2049,True,False
+2000773,"suspicious hole",0,"suspicious holes",0,0,1,0,0,3,65952,7,2049,True,False
+2000774,"suspicious hole",0,"suspicious holes",0,0,1,0,0,3,65952,7,2049,True,False
+2000775,"La Noscean lilybell",0,"La Noscean lilybells",0,0,1,0,0,3,65953,7,2052,True,False
+2000776,"La Noscean lilybell",0,"La Noscean lilybells",0,0,1,0,0,3,65953,7,2052,True,False
+2000777,"La Noscean lilybell",0,"La Noscean lilybells",0,0,1,0,0,3,65953,7,2052,True,False
+2000778,"怪樹の実",0,"",0,0,1,0,0,1,0,7,1697,True,False
+2000779,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000780,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000781,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000782,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000783,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000784,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2000785,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000786,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000787,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000788,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000789,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000790,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000791,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000792,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000793,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000794,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000795,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000796,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000797,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000798,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000799,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000800,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000801,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000802,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000803,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000804,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000805,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000806,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000807,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000808,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000809,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000810,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000811,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000812,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000813,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000814,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000815,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000816,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000817,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000818,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000819,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000820,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000821,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000822,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000823,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000824,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000825,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000826,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000827,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000828,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000829,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000830,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000831,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000832,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000833,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000834,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000835,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000836,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000837,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000838,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000839,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000840,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000841,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000842,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000843,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000844,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000845,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000846,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000847,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000848,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000849,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000850,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000851,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000852,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000853,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000854,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000855,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000856,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000857,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000858,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000859,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000860,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000861,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000862,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000863,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000864,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000865,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000866,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000867,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000868,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000869,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000870,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000871,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000872,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000873,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000874,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000875,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000876,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000877,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000878,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000879,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000880,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000881,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000882,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000883,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,65584,7,2081,True,False
+2000884,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,0,7,1625,True,False
+2000885,"destination",0,"destinations",0,0,1,0,0,3,65627,7,1625,True,False
+2000886,"専用よどみ（仮）",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2000887,"corrupted air",0,"patches of corrupted air",0,0,1,0,0,3,65627,7,2080,True,False
+2000888,"corrupted air",0,"patches of corrupted air",0,0,1,0,0,3,0,7,1625,True,False
+2000889,"corrupted water",0,"patches of corrupted water",0,0,1,0,0,3,65628,7,2082,True,False
+2000890,"corrupted water",0,"patches of corrupted water",0,0,1,0,0,3,0,7,1625,True,False
+2000891,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,65629,7,2081,True,False
+2000892,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,0,7,1625,True,False
+2000893,"corrupted air",0,"patches of corrupted air",0,0,1,0,0,3,65629,7,2080,True,False
+2000894,"corrupted air",0,"patches of corrupted air",0,0,1,0,0,3,0,7,1625,True,False
+2000895,"corrupted water",0,"patches of corrupted water",0,0,1,0,0,3,65629,7,2082,True,False
+2000896,"corrupted water",0,"patches of corrupted water",0,0,1,0,0,3,0,7,1625,True,False
+2000897,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,65976,7,2081,True,False
+2000898,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,0,7,1625,True,False
+2000899,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,65977,7,2081,True,False
+2000900,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,0,7,1625,True,False
+2000901,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,65977,7,2081,True,False
+2000902,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000903,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000904,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000905,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,0,7,1625,True,False
+2000906,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,65977,7,2081,True,False
+2000907,"corrupted soil",0,"patches of corrupted soil",0,0,1,0,0,3,0,7,1625,True,False
+2000908,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,65583,7,1625,True,False
+2000909,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,65583,7,1625,True,False
+2000910,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,65583,7,1625,True,False
+2000911,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,65583,7,1625,True,False
+2000912,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,0,7,1625,True,False
+2000913,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,0,7,1625,True,False
+2000914,"collapsed tower",0,"collapsed towers",0,0,1,0,0,3,65583,7,1625,True,False
+2000915,"collapsed tower",0,"collapsed towers",0,0,1,0,0,3,65583,7,1625,True,False
+2000916,"collapsed tower",0,"collapsed towers",0,0,1,0,0,3,65583,7,1625,True,False
+2000917,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,3,65571,7,1853,True,False
+2000918,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,3,65679,7,1853,True,False
+2000919,"exposed roots",0,"patches of exposed roots",0,0,1,0,0,3,65591,7,1625,True,False
+2000920,"destination",0,"destinations",0,0,1,0,0,3,65591,7,1626,True,False
+2000921,"Mistalle's Lance",0,"Mistalle's Lance",0,0,1,0,1,3,65974,7,2075,True,False
+2000922,"gutted campfire",0,"gutted campfire",0,0,1,0,0,3,65974,7,3308,True,False
+2000923,"gutted campfire",0,"gutted campfire",0,0,1,0,0,3,65974,7,3308,True,False
+2000924,"scarred lance",0,"scarred lances",0,0,1,0,0,3,65975,7,1969,True,False
+2000925,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1970,True,False
+2000926,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1970,True,False
+2000927,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1970,True,False
+2000928,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1970,True,False
+2000929,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1971,True,False
+2000930,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1971,True,False
+2000931,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1971,True,False
+2000932,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1971,True,False
+2000933,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1970,True,False
+2000934,"archery butt",0,"archery butts",0,1,1,0,0,3,65582,7,1971,True,False
+2000935,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1970,True,False
+2000936,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1971,True,False
+2000937,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1970,True,False
+2000938,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1970,True,False
+2000939,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1971,True,False
+2000940,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1970,True,False
+2000941,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1971,True,False
+2000942,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1971,True,False
+2000943,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1970,True,False
+2000944,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1971,True,False
+2000945,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1971,True,False
+2000946,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1970,True,False
+2000947,"iron leg trap",0,"iron leg traps",0,0,1,0,0,3,65606,7,2012,True,False
+2000948,"poacher's arrow",0,"poacher's arrows",0,0,1,0,0,3,65606,7,1973,True,False
+2000949,"empty mead bottles",0,"piles of empty mead bottles",0,1,1,0,0,3,65606,7,1974,True,False
+2000950,"faint footprints",0,"faint footprints",0,0,1,0,0,3,0,7,1625,True,False
+2000951,"destination",0,"destinations",0,0,1,0,0,3,65607,7,2075,True,False
+2000952,"destination",0,"destinations",0,0,1,0,0,3,0,7,1625,True,False
+2000953,"magicked blade",0,"magicked blades",0,0,1,0,0,3,65981,7,2216,True,False
+2000954,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1970,True,False
+2000955,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1971,True,False
+2000956,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1970,True,False
+2000957,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1970,True,False
+2000958,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1971,True,False
+2000959,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1970,True,False
+2000960,"",0,"",0,0,1,0,0,3,0,7,1626,True,False
+2000961,"clay krater",0,"clay kraters",0,0,1,0,0,3,65903,7,2024,True,False
+2000962,"destination",0,"destinations",0,0,1,0,0,3,65604,7,1626,True,False
+2000963,"destination",0,"destinations",0,0,1,0,0,3,65974,7,1625,True,False
+2000964,"イベントオブジェクト君１",0,"",0,0,1,0,0,3,65978,7,1856,True,False
+2000965,"イベントオブジェクト君２",0,"",0,0,1,0,0,2,0,7,1856,True,False
+2000966,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,3,65571,7,2036,True,False
+2000967,"Stone of Courage",0,"Stones of Courage",0,0,1,0,0,3,65679,7,2036,True,False
+2000968,"shrewhill",0,"shrewhills",0,0,1,0,0,3,0,7,2033,True,False
+2000969,"shrewhill",0,"shrewhills",0,0,1,0,0,3,0,7,2033,True,False
+2000970,"shrewhill",0,"shrewhills",0,0,1,0,0,3,0,7,2033,True,False
+2000971,"shrewhill",0,"shrewhills",0,0,1,0,0,3,0,7,2033,True,False
+2000972,"guild-issue echo drops",0,"bottles of guild-issue echo drops",0,0,1,0,0,1,983159,0,1922,True,False
+2000973,"guild-issue antidote",0,"bottles of guild-issue antidote",0,0,1,0,0,1,983160,0,1922,True,False
+2000974,"guild-issue smelling salts",0,"bottles of guild-issue smelling salts",0,0,1,0,0,1,983161,0,1922,True,False
+2000975,"guild-issue eye drops",0,"bottles of guild-issue eye drops",0,0,1,0,0,1,983162,0,1922,True,False
+2000976,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2000977,"destination",0,"destinations",0,0,1,0,0,3,65592,7,1626,True,False
+2000978,"bloody boar tusks",0,"piles of bloody boar tusks",0,0,1,0,0,3,65592,7,1953,True,False
+2000979,"box of Mun-Tuy beans",0,"boxes of Mun-Tuy beans",0,0,1,0,0,3,0,7,1996,True,False
+2000980,"destination",0,"destinations",0,0,1,0,0,3,0,7,2075,True,False
+2000981,"destination",0,"destinations",0,0,1,0,0,3,0,7,2075,True,False
+2000982,"destination",0,"destinations",0,0,1,0,0,3,0,7,2075,True,False
+2000983,"silk strand",0,"silk strands",0,0,1,0,0,3,65901,7,2017,False,False
+2000984,"silk strand",0,"silk strands",0,0,1,0,0,3,65901,7,2018,False,False
+2000985,"silk strand",0,"silk strands",0,0,1,0,0,3,65901,7,2019,False,False
+2000986,"embroidered cloth",0,"embroidered cloths",0,0,1,0,0,3,65901,7,2020,False,False
+2000987,"embroidered cloth",0,"embroidered cloths",0,0,1,0,0,3,65901,7,2021,False,False
+2000988,"",0,"",0,0,1,0,0,4,0,0,1938,False,False
+2000989,"",0,"",0,0,1,0,0,1,0,0,1797,False,False
+2000990,"Leia's egg",0,"Leia's eggs",0,0,1,0,1,3,0,0,1842,False,False
+2000991,"",0,"",0,0,1,0,0,4,0,0,1861,False,False
+2000992,"",0,"",0,0,1,0,0,4,0,0,1862,False,False
+2000993,"",0,"",0,0,1,0,0,4,0,0,1863,False,False
+2000994,"",0,"",0,0,1,0,0,4,0,0,1864,False,False
+2000995,"",0,"",0,0,1,0,0,4,0,0,1950,False,False
+2000996,"",0,"",0,0,1,0,0,4,0,0,1951,False,False
+2000997,"",0,"",0,0,1,0,0,3,0,7,2035,True,False
+2000998,"",0,"",0,0,1,0,0,3,0,7,1953,True,False
+2000999,"gysahl greens",0,"bunches of gysahl greens",0,0,1,0,0,3,65910,7,2013,True,False
+2001000,"feeding trough",0,"feeding troughs",0,0,1,0,0,3,65910,7,2014,True,False
+2001001,"feeding trough",0,"feeding troughs",0,0,1,0,0,3,65910,7,2014,True,False
+2001002,"feeding trough",0,"feeding troughs",0,0,1,0,0,3,65910,7,2014,True,False
+2001003,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001004,"",0,"",0,0,1,0,0,1,1114235,7,0,False,False
+2001005,"",0,"",0,0,1,0,0,1,1114236,7,0,False,False
+2001006,"vulture egg",0,"vulture eggs",0,0,1,0,0,3,65917,7,3312,True,False
+2001007,"barrow",0,"barrows",0,0,1,0,0,3,65919,7,2118,True,False
+2001008,"barrow",0,"barrows",0,0,1,0,0,3,65919,7,2118,True,False
+2001009,"barrow",0,"barrows",0,0,1,0,0,3,65919,7,2118,True,False
+2001010,"客室の扉",0,"",0,0,1,0,0,3,131082,0,0,True,False
+2001011,"客室の扉",0,"",0,0,1,0,0,3,131084,0,0,True,False
+2001012,"整えられた寝台",0,"",0,0,1,0,0,3,720916,0,0,True,False
+2001013,"crayfish ball",0,"crayfish balls",0,0,1,0,0,3,65922,7,1996,True,False
+2001014,"Mun-Tuy beans",0,"boxes of Mun-Tuy beans",0,0,1,0,0,3,65922,7,1851,True,False
+2001015,"plate mail",0,"suits of plate mail",0,0,1,0,0,3,65922,7,2001,True,False
+2001016,"fallen cargo",0,"pieces of fallen cargo",0,0,1,0,0,3,65923,7,1996,True,False
+2001017,"chocobo carriage",0,"chocobo carriages",0,0,1,0,0,3,65923,7,2085,True,False
+2001018,"fallen cargo",0,"pieces of fallen cargo",0,0,1,0,0,3,65923,7,1996,True,False
+2001019,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001020,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001021,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001022,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001023,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001024,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001025,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001026,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001027,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001028,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001029,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001030,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001031,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001032,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001033,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001034,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001035,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001036,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001037,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001038,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001039,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001040,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001041,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001042,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001043,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001044,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001045,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001046,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001047,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001048,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001049,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001050,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001051,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001052,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001053,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001054,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001055,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001056,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001057,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001058,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001059,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001060,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001061,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001062,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001063,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001064,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001065,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001066,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001067,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001068,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001069,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001070,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001071,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001072,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001073,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001074,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001075,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001076,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001077,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001078,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001079,"",0,"",0,0,1,0,0,4,0,0,2038,False,False
+2001080,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001081,"",0,"",0,0,1,0,0,3,65974,7,2044,False,False
+2001082,"",0,"",0,0,1,0,0,1,0,0,1624,False,False
+2001083,"diremite eggs",0,"diremite egg clusters",0,0,1,0,0,3,65914,7,3324,True,False
+2001084,"diremite eggs",0,"diremite egg clusters",0,0,1,0,0,3,65914,7,3324,True,False
+2001085,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001086,"broken crate",0,"broken crates",0,0,1,0,0,3,65923,7,2086,True,False
+2001087,"broken crate",0,"broken crates",0,0,1,0,0,3,65923,7,2087,True,False
+2001088,"broken crate",0,"broken crates",0,0,1,0,0,3,65923,7,2088,True,False
+2001089,"dropped gil",0,"piles of dropped gil",0,0,1,0,0,3,65932,7,2777,True,False
+2001090,"dropped gil",0,"piles of dropped gil",0,0,1,0,0,3,65932,7,2777,True,False
+2001091,"イベントオブジェクト君３",0,"",0,0,1,0,0,3,65978,7,1856,True,False
+2001092,"practice spear",0,"practice spears",0,0,1,0,0,2,0,0,1969,True,False
+2001093,"compost",0,"bags of compost",0,0,1,0,0,2,0,0,1851,True,False
+2001094,"suspicious hole",0,"suspicious holes",0,0,1,0,0,2,0,0,2089,True,False
+2001095,"mushroom log",0,"mushroom logs",0,0,1,0,0,2,0,0,2041,True,False
+2001096,"whitecap",0,"whitecaps",0,0,1,0,0,2,0,0,1852,True,False
+2001097,"iron leg trap",0,"iron leg traps",0,1,1,0,0,2,0,0,2012,True,False
+2001098,"parchment",0,"loose pieces of parchment",0,0,1,0,0,2,0,0,1678,True,False
+2001099,"homebrew",0,"bottles of homebrew",0,0,1,0,0,2,0,0,2090,True,False
+2001100,"parchment",0,"loose pieces of parchment",0,0,1,0,0,2,0,0,1678,True,False
+2001101,"parchment",0,"loose pieces of parchment",0,0,1,0,0,2,0,0,1678,True,False
+2001102,"adamantoise egg",0,"adamantoise eggs",0,1,1,0,0,2,0,0,1843,True,False
+2001103,"poached hide",0,"poached hides",0,0,1,0,0,2,0,0,2095,True,False
+2001104,"destination",0,"destinations",0,0,1,0,0,2,0,0,2288,True,False
+2001105,"destination",0,"destinations",0,0,1,0,0,3,65606,7,2075,True,False
+2001106,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001107,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001108,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001109,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001110,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001111,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001112,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001113,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001114,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001115,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001116,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001117,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001118,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001119,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001120,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001121,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001122,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001123,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001124,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001125,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001126,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001127,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001128,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001129,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001130,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001131,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001132,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001133,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001134,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001135,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001136,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001137,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001138,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001139,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001140,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001141,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001142,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001143,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001144,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001145,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001146,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001147,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001148,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001149,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001150,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001151,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001152,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001153,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001154,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001155,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001156,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001157,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001158,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001159,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001160,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001161,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001162,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001163,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001164,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001165,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001166,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001167,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001168,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001169,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001170,"",0,"",0,0,1,0,0,3,0,7,1982,True,False
+2001171,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1970,True,False
+2001172,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1970,True,False
+2001173,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1971,True,False
+2001174,"archery butt",0,"archery butts",0,1,1,0,0,3,65603,7,1970,True,False
+2001175,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1970,True,False
+2001176,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1970,True,False
+2001177,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1971,True,False
+2001178,"archery butt",0,"archery butts",0,1,1,0,0,3,65670,7,1970,True,False
+2001179,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1971,True,False
+2001180,"archery butt",0,"archery butts",0,1,1,0,0,3,65604,7,1970,True,False
+2001181,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1970,True,False
+2001182,"archery butt",0,"archery butts",0,1,1,0,0,3,0,7,1971,True,False
+2001183,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001184,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2029,True,False
+2001185,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2028,True,False
+2001186,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2029,True,False
+2001187,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2028,True,False
+2001188,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2029,True,False
+2001189,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2028,True,False
+2001190,"muddy potsherd",0,"muddy potsherds",0,0,1,0,0,3,65907,7,2029,True,False
+2001191,"",0,"",0,0,1,0,0,3,0,7,2019,True,False
+2001192,"",0,"",0,0,1,0,0,3,0,7,2020,True,False
+2001193,"",0,"",0,0,1,0,0,3,0,7,2021,True,False
+2001194,"magicked blade",0,"magicked blades",0,0,1,0,0,3,65981,7,1968,True,False
+2001195,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001196,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001197,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001198,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001199,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001200,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001201,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001202,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001203,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001204,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001205,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001206,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001207,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001208,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001209,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001210,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001211,"stolen crate",0,"stolen crates",0,0,1,0,0,2,0,0,2161,True,False
+2001212,"golem fragment",0,"golem fragments",0,0,1,0,0,2,0,0,2163,True,False
+2001213,"poached hide",0,"poached hides",0,0,1,0,0,2,0,0,2166,True,False
+2001214,"dirty diary",0,"dirty diaries",0,0,1,0,0,3,65976,7,2155,True,False
+2001215,"exit to the Archers' Guild",0,"exits to the Archers' Guild",0,1,1,0,0,3,131075,0,2632,True,False
+2001216,"exit to Nophica's Altar",0,"exits to Nophica's Altar",0,1,1,0,0,3,131076,0,2632,True,False
+2001217,"",0,"",0,0,1,0,0,1,0,0,2171,False,False
+2001218,"",0,"",0,0,1,0,0,3,0,0,2068,False,False
+2001219,"cactuar leaf",0,"cactuar leaves",0,0,1,0,0,2,0,0,2804,True,False
+2001220,"golem soulstone",0,"golem soulstones",0,0,1,0,0,2,0,0,2807,True,False
+2001221,"earth sprite core",0,"earth sprite cores",0,1,1,0,0,2,0,0,2808,True,False
+2001222,"stolen shipping crate",0,"stolen shipping crates",0,0,1,0,0,2,0,0,2161,True,False
+2001223,"crate of contraband",0,"crates of contraband",0,0,1,0,0,2,0,0,2166,True,False
+2001224,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001225,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001226,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001227,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001228,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001229,"destination",0,"destinations",0,0,1,0,0,3,65683,7,1625,True,False
+2001230,"corrupted air",0,"patches of corrupted air",0,0,1,0,0,3,65683,7,2080,True,False
+2001231,"",0,"",0,0,1,0,0,3,0,0,2187,False,False
+2001232,"",0,"",0,0,1,0,0,3,65665,7,1626,False,False
+2001233,"sealed barrier",0,"sealed barriers",0,0,1,0,0,1,983105,0,0,True,False
+2001234,"",0,"",0,0,1,0,0,1,1114151,7,0,False,False
+2001235,"bloody parchment",0,"slips of bloody parchment",0,0,1,0,0,2,983106,0,2221,True,False
+2001236,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001237,"blackloam",0,"patches of blackloam",0,0,1,0,0,3,66003,7,3256,True,False
+2001238,"blackloam",0,"patches of blackloam",0,0,1,0,0,3,66003,7,3256,True,False
+2001239,"blackloam",0,"patches of blackloam",0,0,1,0,0,3,66003,7,3256,True,False
+2001240,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,66006,7,1625,True,False
+2001241,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,66006,7,1625,True,False
+2001242,"yarzon nest",0,"yarzon nests",0,0,1,0,0,3,66006,7,1625,True,False
+2001243,"cumbersome rock",0,"cumbersome rocks",0,0,1,0,0,3,66007,7,2775,True,False
+2001244,"cumbersome rock",0,"cumbersome rocks",0,0,1,0,0,3,66007,7,2775,True,False
+2001245,"cumbersome rock",0,"cumbersome rocks",0,0,1,0,0,3,66007,7,2775,True,False
+2001246,"strewn debris",0,"patches of strewn debris",0,0,1,0,0,3,66007,7,1974,True,False
+2001247,"strewn debris",0,"patches of strewn debris",0,0,1,0,0,3,66007,7,2028,True,False
+2001248,"strewn debris",0,"patches of strewn debris",0,0,1,0,0,3,66007,7,1849,True,False
+2001249,"ripe orange",0,"ripe oranges",0,0,1,0,0,3,66008,7,3339,True,False
+2001250,"ripe orange",0,"ripe oranges",0,0,1,0,0,3,66008,7,3339,True,False
+2001251,"ripe orange",0,"ripe oranges",0,0,1,0,0,3,66008,7,3339,True,False
+2001252,"ripe orange",0,"ripe oranges",0,0,1,0,0,3,66008,7,3339,True,False
+2001253,"ripe orange",0,"ripe oranges",0,0,1,0,0,3,66008,7,3339,True,False
+2001254,"vulture territory",0,"vulture territory",0,0,1,0,0,3,65937,7,3198,True,False
+2001255,"millioncorn seedling",0,"millioncorn seedlings",0,0,1,0,0,3,65938,7,3460,True,False
+2001256,"",0,"",0,0,1,0,0,3,65938,7,3406,True,False
+2001257,"",0,"",0,0,1,0,0,3,65938,7,2086,True,False
+2001258,"",0,"",0,0,1,0,0,3,65938,7,2087,True,False
+2001259,"",0,"",0,0,1,0,0,3,65938,7,2088,True,False
+2001260,"destination",0,"destinations",0,0,1,0,0,3,65939,7,2075,True,False
+2001261,"iron brazier",0,"iron braziers",0,1,1,0,0,3,65939,7,3164,True,False
+2001262,"hiding spot",0,"hiding spots",0,0,1,0,0,3,65940,7,2076,True,False
+2001263,"hiding spot",0,"hiding spots",0,0,1,0,0,3,65940,7,2076,True,False
+2001264,"hiding spot",0,"hiding spots",0,0,1,0,0,3,0,7,2076,True,False
+2001265,"dodo egg",0,"dodo eggs",0,0,1,0,0,3,65941,7,1843,True,False
+2001266,"dodo egg",0,"dodo eggs",0,0,1,0,0,3,65941,7,1843,True,False
+2001267,"dodo egg",0,"dodo eggs",0,0,1,0,0,3,65941,7,1843,True,False
+2001268,"dodo egg",0,"dodo eggs",0,0,1,0,0,3,65941,7,1843,True,False
+2001269,"ドードーの巣（仮）",0,"",0,0,1,0,0,3,0,7,0,False,False
+2001270,"comfy feather bed",0,"comfy feather beds",0,0,1,0,0,3,720916,0,0,True,False
+2001271,"summoning bell",0,"summoning bells",0,0,1,0,0,3,720906,0,0,True,False
+2001272,"tiller's shovel",0,"tiller's shovels",0,0,1,0,0,3,66007,7,3352,True,False
+2001273,"Fafafono's baggage",0,"pieces of Fafafono's baggage",0,0,1,0,0,3,65761,7,2768,True,False
+2001274,"Fafafono's baggage",0,"pieces of Fafafono's baggage",0,0,1,0,0,3,65761,7,2768,True,False
+2001275,"Fafafono's baggage",0,"pieces of Fafafono's baggage",0,0,1,0,0,3,65761,7,2768,True,False
+2001276,"magnetite",0,"chunks of magnetite",0,0,1,0,0,3,65764,7,2780,True,False
+2001277,"destination",0,"destinations",0,0,1,0,0,3,0,7,1625,True,False
+2001278,"entry point",0,"entry points",0,1,1,0,0,2,0,0,1626,True,False
+2001279,"sack of oranges",0,"sacks of oranges",0,0,1,0,0,3,66002,7,3402,True,False
+2001280,"faded gil coin",0,"faded gil coins",0,0,1,0,0,3,66090,7,2777,True,False
+2001281,"faded gil coin",0,"faded gil coins",0,0,1,0,0,3,66090,7,2777,True,False
+2001282,"faded gil coin",0,"faded gil coins",0,0,1,0,0,3,66090,7,2777,True,False
+2001283,"faded gil coin",0,"faded gil coins",0,0,1,0,0,3,66090,7,2777,True,False
+2001284,"faded gil coin",0,"faded gil coins",0,0,1,0,0,3,0,7,2777,True,False
+2001285,"faded gil coin",0,"faded gil coins",0,0,1,0,0,3,66090,7,2777,True,False
+2001286,"AttackME！（仮）",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2001287,"AttackME！（仮）",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2001288,"AttackME！（仮）",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2001289,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001290,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001291,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001292,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001293,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001294,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001295,"",0,"",0,0,1,0,0,4,0,0,2232,False,False
+2001296,"",0,"",0,0,1,0,0,4,0,0,2233,False,False
+2001297,"",0,"",0,0,1,0,0,4,0,0,2234,False,False
+2001298,"",0,"",0,0,1,0,0,4,0,0,2235,False,False
+2001299,"",0,"",0,0,1,0,0,4,0,0,2236,False,False
+2001300,"",0,"",0,0,1,0,0,4,0,0,2237,False,False
+2001301,"",0,"",0,0,1,0,0,4,0,0,2238,False,False
+2001302,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001303,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001304,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001305,"",0,"",0,0,1,0,0,4,0,0,2239,False,False
+2001306,"",0,"",0,0,1,0,0,4,0,0,2240,False,False
+2001307,"",0,"",0,0,1,0,0,4,0,0,2241,False,False
+2001308,"",0,"",0,0,1,0,0,4,0,0,2242,False,False
+2001309,"",0,"",0,0,1,0,0,4,0,0,2243,False,False
+2001310,"",0,"",0,0,1,0,0,4,0,0,2244,False,False
+2001311,"",0,"",0,0,1,0,0,4,0,0,2245,False,False
+2001312,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001313,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001314,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001315,"",0,"",0,0,1,0,0,4,0,0,2246,False,False
+2001316,"",0,"",0,0,1,0,0,4,0,0,2248,False,False
+2001317,"",0,"",0,0,1,0,0,4,0,0,2251,False,False
+2001318,"",0,"",0,0,1,0,0,4,0,0,2253,False,False
+2001319,"",0,"",0,0,1,0,0,4,0,0,2255,False,False
+2001320,"",0,"",0,0,1,0,0,4,0,0,2258,False,False
+2001321,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001322,"",0,"",0,0,1,0,0,4,0,0,2260,False,False
+2001323,"",0,"",0,0,1,0,0,4,0,0,2261,False,False
+2001324,"",0,"",0,0,1,0,0,4,0,0,2262,False,False
+2001325,"",0,"",0,0,1,0,0,4,0,0,2263,False,False
+2001326,"",0,"",0,0,1,0,0,4,0,0,2264,False,False
+2001327,"",0,"",0,0,1,0,0,4,0,0,2265,False,False
+2001328,"",0,"",0,0,1,0,0,4,0,0,2266,False,False
+2001329,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001330,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001331,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001332,"",0,"",0,0,1,0,0,4,0,0,2267,False,False
+2001333,"",0,"",0,0,1,0,0,4,0,0,2268,False,False
+2001334,"",0,"",0,0,1,0,0,4,0,0,2269,False,False
+2001335,"",0,"",0,0,1,0,0,4,0,0,2270,False,False
+2001336,"",0,"",0,0,1,0,0,4,0,0,2271,False,False
+2001337,"",0,"",0,0,1,0,0,4,0,0,2272,False,False
+2001338,"",0,"",0,0,1,0,0,4,0,0,2273,False,False
+2001339,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001340,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001341,"",0,"",0,0,1,0,0,4,0,0,0,False,False
+2001342,"",0,"",0,0,1,0,0,4,0,0,2274,False,False
+2001343,"",0,"",0,0,1,0,0,4,0,0,2276,False,False
+2001344,"",0,"",0,0,1,0,0,4,0,0,2279,False,False
+2001345,"",0,"",0,0,1,0,0,4,0,0,2281,False,False
+2001346,"",0,"",0,0,1,0,0,4,0,0,2283,False,False
+2001347,"",0,"",0,0,1,0,0,4,0,0,2284,False,False
+2001348,"",0,"",0,0,1,0,0,4,0,0,2286,False,False
+2001349,"destination",0,"destinations",0,0,1,0,0,3,66094,7,1626,True,False
+2001350,"",0,"",0,0,1,0,0,4,0,0,2247,False,False
+2001351,"",0,"",0,0,1,0,0,4,0,0,2249,False,False
+2001352,"",0,"",0,0,1,0,0,4,0,0,2250,False,False
+2001353,"",0,"",0,0,1,0,0,4,0,0,2252,False,False
+2001354,"",0,"",0,0,1,0,0,4,0,0,2256,False,False
+2001355,"",0,"",0,0,1,0,0,4,0,0,2257,False,False
+2001356,"magnetite",0,"chunks of magnetite",0,0,1,0,0,3,65764,7,2780,True,False
+2001357,"magnetite",0,"chunks of magnetite",0,0,1,0,0,3,65764,7,2780,True,False
+2001358,"summoning bell",0,"summoning bells",0,0,1,0,0,3,720906,0,0,True,False
+2001359,"destination",0,"destinations",0,0,1,0,0,3,66092,7,2076,True,False
+2001360,"destination",0,"destinations",0,0,1,0,0,3,66093,7,2076,True,False
+2001361,"destination",0,"destinations",0,0,1,0,0,3,66093,7,2076,True,False
+2001362,"destination",0,"destinations",0,0,1,0,0,3,66093,7,2076,True,False
+2001363,"destination",0,"destinations",0,0,1,0,0,3,66093,7,2076,True,False
+2001364,"destination",0,"destinations",0,0,1,0,0,3,66093,7,2076,True,False
+2001365,"destination",0,"destinations",0,0,1,0,0,3,0,7,2076,True,False
+2001366,"destination",0,"destinations",0,0,1,0,0,3,66100,7,2075,True,False
+2001367,"destination",0,"destinations",0,0,1,0,0,3,66101,7,1625,True,False
+2001368,"ore mound",0,"ore mounds",0,1,1,0,0,3,66039,7,1625,True,False
+2001369,"ore mound",0,"ore mounds",0,1,1,0,0,3,66039,7,1625,True,False
+2001370,"ショベル",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2001371,"sharpened pickaxe",0,"sharpened pickaxes",0,0,1,0,0,3,66040,7,2765,True,False
+2001372,"old hammer",0,"old hammers",0,1,1,0,0,3,66040,7,2766,True,False
+2001373,"heavy sledgehammer",0,"heavy sledgehammers",0,0,1,0,0,3,66040,7,2767,True,False
+2001374,"trap point",0,"trap points",0,0,1,0,0,3,65873,7,3184,True,False
+2001375,"trap point",0,"trap points",0,0,1,0,0,3,65873,7,3184,True,False
+2001376,"trap point",0,"trap points",0,0,1,0,0,3,65873,7,3184,True,False
+2001377,"trap point",0,"trap points",0,0,1,0,0,3,65873,7,3184,True,False
+2001378,"raw Nashachite",0,"raw Nashachites",0,0,1,0,0,3,66109,7,1853,True,False
+2001379,"raw Nashachite",0,"raw Nashachites",0,0,1,0,0,3,66109,7,1853,True,False
+2001380,"raw Nashachite",0,"raw Nashachites",0,0,1,0,0,3,66109,7,1853,True,False
+2001381,"raw Nashachite",0,"raw Nashachites",0,0,1,0,0,3,0,7,1853,True,False
+2001382,"splintered crate",0,"splintered crates",0,0,1,0,0,3,65878,7,1850,True,False
+2001383,"molding fruit",0,"molding fruits",0,0,1,0,0,3,65878,7,1856,True,False
+2001384,"bottomless toolbox",0,"bottomless toolboxes",0,0,1,0,0,3,65878,7,2050,True,False
+2001385,"flotsam",0,"pieces of flotsam",0,0,1,0,0,3,66042,7,2780,True,False
+2001386,"flotsam",0,"pieces of flotsam",0,0,1,0,0,3,66042,7,3319,True,False
+2001387,"flotsam",0,"pieces of flotsam",0,0,1,0,0,3,66042,7,3323,True,False
+2001388,"destination",0,"destinations",0,0,1,0,0,3,0,7,1626,True,False
+2001389,"indentation",0,"indentations",0,1,1,0,0,3,66098,7,1625,True,False
+2001390,"indentation",0,"indentations",0,1,1,0,0,3,66098,7,1625,True,False
+2001391,"indentation",0,"indentations",0,1,1,0,0,3,66098,7,1625,True,False
+2001392,"indentation",0,"indentations",0,1,1,0,0,3,0,7,1625,True,False
+2001393,"indentation",0,"indentations",0,1,1,0,0,3,0,7,1625,True,False
+2001394,"滋養強壮卵",0,"",0,0,1,0,0,3,0,7,1843,True,False
+2001395,"滋養強壮卵",0,"",0,0,1,0,0,3,0,7,1843,True,False
+2001396,"滋養強壮卵",0,"",0,0,1,0,0,3,0,7,1843,True,False
+2001397,"滋養強壮卵",0,"",0,0,1,0,0,3,0,7,1843,True,False
+2001398,"滋養強壮卵",0,"",0,0,1,0,0,3,0,7,1843,True,False
+2001399,"小さなナナシャマラカイト",0,"",0,0,1,0,0,3,65876,7,2769,True,False
+2001400,"小さなナナシャマラカイト",0,"",0,0,1,0,0,3,65876,7,2769,True,False
+2001401,"小さなナナシャマラカイト",0,"",0,0,1,0,0,3,65876,7,2769,True,False
+2001402,"小さなナナシャマラカイト",0,"",0,0,1,0,0,3,65876,7,2769,True,False
+2001403,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001404,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001405,"armoire",0,"armoires",0,1,1,0,0,3,720978,0,0,True,False
+2001406,"armoire",0,"armoires",0,1,1,0,0,3,720978,0,0,True,False
+2001407,"armoire",0,"armoires",0,1,1,0,0,3,720978,0,0,True,False
+2001408,"caravan crate",0,"caravan crates",0,0,1,0,0,3,65792,7,3289,True,False
+2001409,"caravan crate",0,"caravan crates",0,0,1,0,0,3,65792,7,3289,True,False
+2001410,"queer leaflet",0,"queer leaflets",0,0,1,0,0,3,66158,7,1848,True,False
+2001411,"destination",0,"destinations",0,0,1,0,0,3,0,7,1624,True,False
+2001412,"destination",0,"destinations",0,0,1,0,0,3,0,7,1624,True,False
+2001413,"simple grave",0,"simple graves",0,0,1,0,0,3,66163,7,2118,True,False
+2001414,"simple grave",0,"simple graves",0,0,1,0,0,3,66163,7,2118,True,False
+2001415,"simple grave",0,"simple graves",0,0,1,0,0,3,66163,7,2118,True,False
+2001416,"simple grave",0,"simple graves",0,0,1,0,0,3,66163,7,2118,True,False
+2001417,"simple grave",0,"simple graves",0,0,1,0,0,3,66163,7,2118,True,False
+2001418,"cloud marble",0,"slabs of cloud marble",0,0,1,0,0,3,66165,7,2775,True,False
+2001419,"Althyk lavender",0,"sprigs of Althyk lavender",0,0,1,0,0,3,66166,7,3190,True,False
+2001420,"cloud marble",0,"slabs of cloud marble",0,0,1,0,0,3,66170,7,2775,True,False
+2001421,"destination",0,"destinations",0,0,1,0,0,3,66172,7,2027,True,False
+2001422,"muddy pool",0,"muddy pools",0,0,1,0,0,3,66173,7,2075,True,False
+2001423,"prime location",0,"prime locations",0,0,1,0,0,3,66168,7,2107,True,False
+2001424,"prime location",0,"prime locations",0,0,1,0,0,3,66168,7,2107,True,False
+2001425,"prime location",0,"prime locations",0,0,1,0,0,3,66168,7,2107,True,False
+2001426,"prime location",0,"prime locations",0,0,1,0,0,3,65797,7,1626,True,False
+2001427,"prime location",0,"prime locations",0,0,1,0,0,3,66087,7,1626,True,False
+2001428,"Althyk lavender",0,"sprigs of Althyk lavender",0,0,1,0,0,3,66166,7,3190,True,False
+2001429,"Althyk lavender",0,"sprigs of Althyk lavender",0,0,1,0,0,3,66166,7,3190,True,False
+2001430,"",0,"",0,0,1,0,0,3,65798,7,2047,False,False
+2001431,"",0,"",0,0,1,0,0,3,65798,7,2085,False,False
+2001432,"",0,"",0,0,1,0,0,3,65798,7,2047,False,False
+2001433,"",0,"",0,0,1,0,0,3,65798,7,2047,False,False
+2001434,"point of ambush",0,"points of ambush",0,0,1,0,0,3,65799,7,2075,True,False
+2001435,"毒薬の取引明細",0,"",0,0,1,0,0,3,65801,7,1848,True,False
+2001436,"",0,"",0,0,1,0,0,4,0,0,2254,False,False
+2001437,"",0,"",0,0,1,0,0,3,0,7,1626,True,False
+2001438,"old offering",0,"old offerings",0,1,1,0,0,3,66178,7,1974,True,False
+2001439,"old offering",0,"old offerings",0,1,1,0,0,3,66178,7,1974,True,False
+2001440,"old offering",0,"old offerings",0,1,1,0,0,3,66178,7,1974,True,False
+2001441,"old offering",0,"old offerings",0,1,1,0,0,3,66178,7,1974,True,False
+2001442,"ゴミ(仮)",0,"",0,0,1,0,0,3,0,7,1974,True,False
+2001443,"ゴミ(仮)",0,"",0,0,1,0,0,3,0,7,1974,True,False
+2001444,"old offering",0,"old offerings",0,1,1,0,0,3,66178,7,1974,True,False
+2001445,"old offering",0,"old offerings",0,1,1,0,0,3,66178,7,1974,True,False
+2001446,"vilekin eggs",0,"vilekin egg clusters",0,0,1,0,0,3,66173,7,1979,True,False
+2001447,"vilekin eggs",0,"vilekin egg clusters",0,0,1,0,0,3,66173,7,1979,True,False
+2001448,"vilekin eggs",0,"vilekin egg clusters",0,0,1,0,0,3,66173,7,1979,True,False
+2001449,"vilekin eggs",0,"vilekin egg clusters",0,0,1,0,0,3,66173,7,1979,True,False
+2001450,"thick bramble",0,"thick bramble patches",0,0,1,0,0,3,66173,7,1625,True,False
+2001451,"thick bramble",0,"thick bramble patches",0,0,1,0,0,3,66173,7,1625,True,False
+2001452,"thick bramble",0,"thick bramble patches",0,0,1,0,0,3,66173,7,1625,True,False
+2001453,"destination",0,"destinations",0,0,1,0,0,3,66168,7,2107,True,False
+2001454,"destination",0,"destinations",0,0,1,0,0,3,66168,7,2107,True,False
+2001455,"Rhalgr's bile",0,"Rhalgr's bile phials",0,0,1,0,0,3,65801,7,2772,True,False
+2001456,"writ of seizure",0,"writs of seizure",0,0,1,0,0,3,65766,7,2774,True,False
+2001457,"writ of seizure",0,"writs of seizure",0,0,1,0,0,3,65766,7,2774,True,False
+2001458,"writ of seizure",0,"writs of seizure",0,0,1,0,0,3,65766,7,2774,True,False
+2001459,"writ of seizure",0,"writs of seizure",0,0,1,0,0,3,65766,7,2774,True,False
+2001460,"writ of seizure",0,"writs of seizure",0,0,1,0,0,3,0,7,1624,True,False
+2001461,"",0,"",0,0,1,0,0,3,1114238,7,0,True,False
+2001462,"Runstop Headgate",0,"Runstop Headgates",0,0,1,0,0,1,983202,7,0,True,False
+2001463,"Runstop Gutgate",0,"Runstop Gutgates",0,0,1,0,0,1,983203,7,0,False,False
+2001464,"Runstop Backgate",0,"Runstop Backgates",0,0,1,0,0,1,983204,7,0,False,False
+2001465,"Longstop Headgate",0,"Longstop Headgates",0,0,1,0,0,1,983205,7,0,False,False
+2001466,"Longstop Gutgate",0,"Longstop Gutgates",0,0,1,0,0,1,983206,7,0,True,False
+2001467,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001468,"destination",0,"destinations",0,0,1,0,0,3,65883,7,3187,True,False
+2001469,"destination",0,"destinations",0,0,1,0,0,3,65883,7,1625,True,False
+2001470,"destination",0,"destinations",0,0,1,0,0,3,65886,7,1626,True,False
+2001471,"Mormo's urn",0,"Mormo's urns",0,0,1,0,1,3,0,7,2773,True,False
+2001472,"destination",0,"destinations",0,0,1,0,0,3,65887,7,1626,True,False
+2001473,"",0,"",0,0,1,0,0,3,66195,7,1624,True,False
+2001474,"shaded outcropping",0,"shaded outcroppings",0,0,1,0,0,3,65887,7,1624,True,False
+2001475,"unsold pot",0,"unsold pots",0,1,1,0,0,3,65878,7,2770,True,False
+2001476,"molding fruit",0,"molding fuits",0,0,1,0,0,3,65878,7,1858,True,False
+2001477,"empty decanter",0,"empty decanters",0,1,1,0,0,3,65878,7,1974,True,False
+2001478,"holey cup",0,"holey cups",0,0,1,0,0,3,65878,7,2028,True,False
+2001479,"moth-eaten sack",0,"moth-eaten sacks",0,0,1,0,0,3,65878,7,1851,True,False
+2001480,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3178,True,False
+2001481,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3178,True,False
+2001482,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3178,True,False
+2001483,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3178,True,False
+2001484,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3178,True,False
+2001485,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3178,True,False
+2001486,"unmovable boulder",0,"unmovable boulders",0,1,1,0,0,3,65852,7,3179,True,False
+2001487,"sack of fleece",0,"sacks of fleece",0,0,1,0,0,3,66012,7,1851,True,False
+2001488,"Althyk lavender",0,"sprigs of Althyk lavender",0,0,1,0,0,3,66019,7,1625,True,False
+2001489,"damaged wain",0,"damaged wains",0,0,1,0,0,3,66014,7,2710,True,False
+2001490,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3404,True,False
+2001491,"destination",0,"destinations",0,0,1,0,0,3,66015,7,3188,True,False
+2001492,"destination",0,"destinations",0,0,1,0,0,3,66015,7,1626,True,False
+2001493,"solid rock",0,"solid rocks",0,0,1,0,0,3,65849,7,3404,True,False
+2001494,"unmovable boulder",0,"unmovable boulders",0,1,1,0,0,3,65852,7,3405,True,False
+2001495,"pumpkin vine",0,"pumpkin vines",0,0,1,0,0,3,66018,7,1625,True,False
+2001496,"pumpkin vine",0,"pumpkin vines",0,0,1,0,0,3,66018,7,1625,True,False
+2001497,"pumpkin vine",0,"pumpkin vines",0,0,1,0,0,3,66018,7,1625,True,False
+2001498,"armored war transport",0,"armored war transports",0,1,1,0,0,3,65884,7,2075,True,False
+2001499,"armored war transport",0,"armored war transports",0,1,1,0,0,3,65885,7,2075,True,False
+2001500,"gas plume",0,"gas plumes",0,0,1,0,0,3,66021,7,3272,True,False
+2001501,"gas plume",0,"gas plumes",0,0,1,0,0,3,66021,7,3272,True,False
+2001502,"gas plume",0,"gas plumes",0,0,1,0,0,3,66021,7,3272,True,False
+2001503,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001504,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001505,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001506,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001507,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001508,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001509,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001510,"",0,"",0,0,1,0,0,3,0,0,2776,False,False
+2001511,"armored war transport",0,"armored war transports",0,1,1,0,0,3,65884,7,1625,True,False
+2001512,"armored war transport",0,"armored war transports",0,1,1,0,0,3,65885,7,1625,True,False
+2001513,"偽造品（仮）",0,"",0,0,1,0,0,2,0,0,2161,True,False
+2001514,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,3169,False,False
+2001515,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,3169,False,False
+2001516,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,3169,False,False
+2001517,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,3169,False,False
+2001518,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,3169,False,False
+2001519,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,3169,False,False
+2001520,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,3169,False,False
+2001521,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,3169,False,False
+2001522,"destination",0,"destinations",0,0,1,0,0,3,66102,7,3168,True,False
+2001523,"destination",0,"destinations",0,0,1,0,0,3,66102,7,3168,True,False
+2001524,"destination",0,"destinations",0,0,1,0,0,3,66102,7,3168,True,False
+2001525,"destination",0,"destinations",0,0,1,0,0,3,66102,7,3168,True,False
+2001526,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001527,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001528,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001529,"",0,"",0,0,1,0,0,1,0,0,0,False,True
+2001530,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001531,"firesand",0,"6-onze pinches of firesand",0,0,1,0,0,2,983055,0,2791,True,False
+2001532,"firesand",0,"6-onze pinches of firesand",0,0,1,0,0,1,983056,0,2791,True,False
+2001533,"firesand",0,"6-onze pinches of firesand",0,0,1,0,0,1,983057,0,2791,True,False
+2001534,"blasting device",0,"blasting devices",0,0,1,0,0,1,983113,0,0,True,False
+2001535,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001536,"powder chamber",0,"powder chambers",0,0,1,0,0,1,983058,0,1624,True,False
+2001537,"powder chamber",0,"powder chambers",0,0,1,0,0,1,983059,0,1624,True,False
+2001538,"powder chamber",0,"powder chambers",0,0,1,0,0,1,983060,0,1624,True,False
+2001539,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001540,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001541,"trial stone",0,"trial stones",0,0,1,0,0,3,66090,7,1625,True,False
+2001542,"trial stone",0,"trial stones",0,0,1,0,0,3,66090,7,1625,True,False
+2001543,"trial stone",0,"trial stones",0,0,1,0,0,3,66090,7,1625,True,False
+2001544,"trial stone",0,"trial stones",0,0,1,0,0,3,66090,7,1625,True,False
+2001545,"",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2001546,"",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2001547,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001548,"bloody memo",0,"bloody memos",0,0,1,0,0,1,1048586,0,2221,True,False
+2001549,"bloody memo",0,"bloody memos",0,0,1,0,0,1,1048587,0,2221,True,False
+2001550,"",0,"",0,0,1,0,0,3,66206,7,2583,True,False
+2001551,"",0,"",0,0,1,0,0,3,66206,7,2585,True,False
+2001552,"",0,"",0,0,1,0,0,3,0,7,2586,True,False
+2001553,"",0,"",0,0,1,0,0,3,66206,7,2587,True,False
+2001554,"",0,"",0,0,1,0,0,1,66215,7,0,False,False
+2001555,"",0,"",0,0,1,0,0,1,66215,7,0,False,False
+2001556,"",0,"",0,0,1,0,0,3,66206,7,2590,True,False
+2001557,"",0,"",0,0,1,0,0,3,66206,7,2591,True,False
+2001558,"",0,"",0,0,1,0,0,3,66215,7,2612,True,False
+2001559,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001560,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001561,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001562,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001563,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,65647,7,3217,True,False
+2001564,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,65647,7,3217,True,False
+2001565,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,65647,7,3217,True,False
+2001566,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,65647,7,3217,True,False
+2001567,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,65647,7,3217,True,False
+2001568,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,65647,7,3217,True,False
+2001569,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,0,7,3217,True,False
+2001570,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,0,7,3217,True,False
+2001571,"peculiar herb",0,"peculiar herbs",0,0,1,0,0,3,0,7,3217,True,False
+2001572,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,65656,7,2618,True,False
+2001573,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,65656,7,2618,True,False
+2001574,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,65656,7,2618,True,False
+2001575,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,65656,7,2619,True,False
+2001576,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,65656,7,2619,True,False
+2001577,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,65656,7,2619,True,False
+2001578,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,65656,7,2618,True,False
+2001579,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,0,7,2076,True,False
+2001580,"guttering streetlamp",0,"guttering streetlamps",0,0,1,0,0,3,0,7,2076,True,False
+2001581,"",0,"",0,0,1,0,0,3,0,7,1624,True,False
+2001582,"stone monument",0,"stone monuments",0,0,1,0,0,3,66079,7,1626,True,False
+2001583,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001584,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001585,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001586,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001587,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001588,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001589,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001590,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001591,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001592,"destination",0,"destinations",0,0,1,0,0,3,65879,7,1626,True,False
+2001593,"",0,"",0,0,1,0,0,3,0,0,2086,False,False
+2001594,"",0,"",0,0,1,0,0,3,0,0,2087,False,False
+2001595,"",0,"",0,0,1,0,0,3,0,0,2088,False,False
+2001596,"",0,"",0,0,1,0,0,3,0,0,2086,False,False
+2001597,"",0,"",0,0,1,0,0,3,66215,7,2636,True,False
+2001598,"",0,"",0,0,1,0,0,3,66215,7,2637,True,False
+2001599,"cloud marble",0,"slabs of cloud marble",0,0,1,0,0,3,66170,7,2775,True,False
+2001600,"cloud marble",0,"slabs of cloud marble",0,0,1,0,0,3,66170,7,2775,True,False
+2001601,"cloud marble",0,"slabs of cloud marble",0,0,1,0,0,3,66170,7,2775,True,False
+2001602,"cloud marble",0,"slabs of cloud marble",0,0,1,0,0,3,66170,7,2775,True,False
+2001603,"mark of the Warden",0,"mark of the Warden",0,0,1,0,0,3,66172,7,2075,True,False
+2001604,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001605,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001606,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001607,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001608,"",0,"",0,0,1,0,0,1,1114247,0,0,False,False
+2001609,"",0,"",0,0,1,0,0,3,1114243,7,0,False,False
+2001610,"exit",0,"exits",0,1,1,0,0,1,983045,7,0,True,False
+2001611,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001612,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001613,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001614,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001615,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001616,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001617,"途中ワープポータル用",0,"",0,0,1,0,0,1,0,7,0,True,False
+2001618,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001619,"aetherial flow",0,"aetherial flows",0,1,1,0,0,1,983219,7,2798,True,False
+2001620,"",0,"",0,0,1,0,0,1,983216,0,0,False,False
+2001621,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001622,"",0,"",0,0,1,0,0,1,983217,0,0,False,False
+2001623,"ludis door",0,"ludis doors",0,0,1,0,0,1,983218,0,0,True,False
+2001624,"chain winch",0,"chain winches",0,0,1,0,0,1,983208,0,0,True,False
+2001625,"chain winch",0,"chain winches",0,0,1,0,0,1,983209,0,0,True,False
+2001626,"chain winch",0,"chain winches",0,0,1,0,0,1,983210,0,0,True,False
+2001627,"chain winch",0,"chain winches",0,0,1,0,0,1,983211,0,0,True,False
+2001628,"chain winch",0,"chain winches",0,0,1,0,0,1,983212,0,0,True,False
+2001629,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001630,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001631,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001632,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001633,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001634,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001635,"",0,"",0,0,1,0,0,1,983213,0,0,False,False
+2001636,"",0,"",0,0,1,0,0,1,983214,0,0,False,False
+2001637,"",0,"",0,0,1,0,0,1,983215,0,0,False,False
+2001638,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001639,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001640,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001641,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001642,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001643,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001644,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001645,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001646,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001647,"aetherial flow",0,"aetherial flows",0,1,1,0,0,1,983220,7,0,True,False
+2001648,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001649,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001650,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001651,"",0,"",0,0,1,0,0,3,65909,7,3192,False,False
+2001652,"",0,"",0,0,1,0,0,3,65909,7,3192,False,False
+2001653,"",0,"",0,0,1,0,0,3,65909,7,3192,False,False
+2001654,"",0,"",0,0,1,0,0,3,65909,7,3192,False,False
+2001655,"",0,"",0,0,1,0,0,3,65834,7,2695,False,False
+2001656,"",0,"",0,0,1,0,0,3,66217,7,2698,False,False
+2001657,"gravesite",0,"gravesites",0,0,1,0,0,3,66156,7,2075,True,False
+2001658,"embalmed corpse",0,"embalmed corpses",0,1,1,0,0,3,66156,7,3200,True,False
+2001659,"",0,"",0,0,1,0,0,3,65575,7,0,False,False
+2001660,"",0,"",0,0,1,0,0,3,65575,7,0,False,False
+2001661,"",0,"",0,0,1,0,0,3,65855,7,1626,True,False
+2001662,"blue flame",0,"blue flames",0,0,1,0,0,2,983122,0,2752,True,False
+2001663,"",0,"",0,0,1,0,0,3,66154,7,2086,True,False
+2001664,"",0,"",0,0,1,0,0,3,66154,7,2087,True,False
+2001665,"",0,"",0,0,1,0,0,3,66154,7,2085,True,False
+2001666,"gangplank",0,"gangplanks",0,0,1,0,0,3,66043,7,1624,True,False
+2001667,"gangplank",0,"gangplanks",0,0,1,0,0,3,66064,7,1624,True,False
+2001668,"gangplank",0,"gangplanks",0,0,1,0,0,3,66082,7,1624,True,False
+2001669,"gangplank",0,"gangplanks",0,0,1,0,0,3,66043,7,1624,True,False
+2001670,"gangplank",0,"gangplanks",0,0,1,0,0,3,66064,7,1624,True,False
+2001671,"gangplank",0,"gangplanks",0,0,1,0,0,3,66082,7,1624,True,False
+2001672,"",0,"",0,0,1,0,0,3,0,0,2698,False,False
+2001673,"",0,"",0,0,1,0,0,3,66064,7,2742,False,False
+2001674,"",0,"",0,0,1,0,0,3,66043,7,2742,False,False
+2001675,"",0,"",0,0,1,0,0,3,66082,7,2742,False,False
+2001676,"",0,"",0,0,1,0,0,3,66064,7,2742,False,False
+2001677,"",0,"",0,0,1,0,0,3,66043,7,2742,False,False
+2001678,"",0,"",0,0,1,0,0,3,66082,7,2742,False,False
+2001679,"",0,"",0,0,1,0,0,3,65643,7,0,False,False
+2001680,"",0,"",0,0,1,0,0,3,65643,7,0,False,False
+2001681,"",0,"",0,0,1,0,0,3,66130,7,0,False,False
+2001682,"",0,"",0,0,1,0,0,3,66130,7,0,False,False
+2001683,"",0,"",0,0,1,0,0,3,66130,7,0,False,False
+2001684,"",0,"",0,0,1,0,0,3,0,0,2698,False,False
+2001685,"",0,"",0,0,1,0,0,3,0,0,2698,False,False
+2001686,"",0,"",0,0,1,0,0,3,66064,7,2742,False,False
+2001687,"",0,"",0,0,1,0,0,3,66043,7,2742,False,False
+2001688,"",0,"",0,0,1,0,0,3,66082,7,2742,False,False
+2001689,"destination",0,"destinations",0,0,1,0,0,3,0,7,1624,True,False
+2001690,"destination",0,"destinations",0,0,1,0,0,3,66047,7,2075,True,False
+2001691,"destination",0,"destinations",0,0,1,0,0,3,66047,7,2075,True,False
+2001692,"destination",0,"destinations",0,0,1,0,0,3,0,7,1624,True,False
+2001693,"destination",0,"destinations",0,0,1,0,0,3,0,7,1624,True,False
+2001694,"",0,"",0,0,1,0,0,2,0,0,3133,True,False
+2001695,"exit",0,"exits",0,1,1,0,0,3,131085,0,2632,True,False
+2001696,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001697,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001698,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001699,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001700,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001701,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001702,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001703,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001704,"",0,"",0,0,1,0,0,1,0,0,1767,False,False
+2001705,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001706,"",0,"",0,0,1,0,0,3,66130,7,0,False,False
+2001707,"",0,"",0,0,1,0,0,1,0,0,2715,False,False
+2001708,"",0,"",0,0,1,0,0,3,0,7,2710,False,False
+2001709,"blue flame",0,"blue flames",0,0,1,0,0,1,983115,0,2752,True,False
+2001710,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001711,"Waking Sands entrance",0,"Waking Sands entrances",0,0,1,0,0,3,131088,0,2632,True,False
+2001712,"",0,"",0,0,1,0,0,1,1114245,0,0,True,False
+2001713,"",0,"",0,0,1,0,0,3,66216,7,2698,False,False
+2001714,"",0,"",0,0,1,0,0,3,66218,7,2698,False,False
+2001715,"entrance to the solar",0,"entrances to the solar",0,1,1,0,0,3,131090,0,2632,True,False
+2001716,"exit to Vesper Bay",0,"exits to Vesper Bay",0,1,1,0,0,3,131089,0,2632,True,False
+2001717,"exit to the Waking Sands",0,"exits to the Waking Sands",0,1,1,0,0,3,131091,0,2632,True,False
+2001718,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,2075,True,False
+2001719,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,2075,True,False
+2001720,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,2075,True,False
+2001721,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,2075,True,False
+2001722,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66091,7,2075,True,False
+2001723,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,2075,True,False
+2001724,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,2075,True,False
+2001725,"",0,"",0,0,1,0,0,3,65792,7,3186,False,False
+2001726,"",0,"",0,0,1,0,0,3,65799,7,1626,False,False
+2001727,"",0,"",0,0,1,0,0,3,65798,7,1626,False,False
+2001728,"",0,"",0,0,1,0,0,3,0,0,3161,False,False
+2001729,"",0,"",0,0,1,0,0,3,0,0,3159,False,False
+2001730,"",0,"",0,0,1,0,0,3,65950,7,1626,True,False
+2001731,"",0,"",0,0,1,0,0,3,65849,7,1626,True,False
+2001732,"",0,"",0,0,1,0,0,3,65853,7,1626,True,False
+2001733,"",0,"",0,0,1,0,0,3,65854,7,1626,True,False
+2001734,"",0,"",0,0,1,0,0,3,66005,7,1626,True,False
+2001735,"ore mound",0,"ore mounds",0,1,1,0,0,3,66039,7,1625,True,False
+2001736,"blue flame",0,"blue flames",0,0,1,0,0,1,983116,0,2752,True,False
+2001737,"blue flame",0,"blue flames",0,0,1,0,0,1,983117,0,2752,True,False
+2001738,"",0,"",0,0,1,0,0,3,0,7,1626,True,False
+2001739,"",0,"",0,0,1,0,0,3,66080,7,1626,True,False
+2001740,"",0,"",0,0,1,0,0,3,65867,7,2702,False,False
+2001741,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001742,"",0,"",0,0,1,0,0,3,65800,7,1626,False,False
+2001743,"",0,"",0,0,1,0,0,3,65801,7,1626,False,False
+2001744,"fallen cargo",0,"peices of fallen cargo",0,0,1,0,0,2,0,0,3140,True,False
+2001745,"stolen effects",0,"bundles of stolen effects",0,0,1,0,0,2,0,0,3147,True,False
+2001746,"rotten dodo meat",0,"sacks of rotten dodo meat",0,0,1,0,0,2,0,0,3149,True,False
+2001747,"unearthed bowl",0,"unearthed bowls",0,1,1,0,0,2,0,0,3148,True,False
+2001748,"corrupted crystal",0,"corrupted crystals",0,0,1,0,0,2,0,0,3153,True,False
+2001749,"shaded outcropping",0,"shaded outcroppings",0,0,1,0,0,2,0,0,3154,True,False
+2001750,"ripe grapes",0,"bunches of ripe grapes",0,0,1,0,0,2,0,0,1624,True,False
+2001751,"landtrap seed",0,"landtrap seeds",0,0,1,0,0,2,0,0,1844,True,False
+2001752,"dodo egg",0,"dodo eggs",0,0,1,0,0,2,0,0,1843,True,False
+2001753,"ale cask",0,"ale casks",0,1,1,0,0,2,0,0,2090,True,False
+2001754,"destination",0,"destinations",0,0,1,0,0,2,0,0,1624,True,False
+2001755,"wine bottle",0,"wine bottles",0,0,1,0,0,2,0,0,3152,True,False
+2001756,"destination",0,"destinations",0,0,1,0,0,3,65824,7,1626,True,False
+2001757,"",0,"",0,0,1,0,0,3,65888,7,1626,False,False
+2001758,"",0,"",0,0,1,0,0,3,65889,7,1626,False,False
+2001759,"",0,"",0,0,1,0,0,3,65884,7,3189,False,False
+2001760,"",0,"",0,0,1,0,0,3,65885,7,3189,False,False
+2001761,"rainbowlip oyster",0,"rainbowlip oysters",0,0,1,0,0,2,0,0,3252,True,False
+2001762,"",0,"",0,0,1,0,0,3,0,7,2773,False,False
+2001763,"",0,"",0,0,1,0,0,3,0,7,2773,True,False
+2001764,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001765,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001766,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001767,"blue flame",0,"blue flames",0,0,1,0,0,2,983123,0,2752,True,False
+2001768,"blue flame",0,"blue flames",0,0,1,0,0,2,983124,0,2752,True,False
+2001769,"blue flame",0,"blue flames",0,0,1,0,0,2,983125,0,2752,True,False
+2001770,"blue flame",0,"blue flames",0,0,1,0,0,2,983126,0,2752,True,False
+2001771,"blue flame",0,"blue flames",0,0,1,0,0,2,983127,0,2752,True,False
+2001772,"blue flame",0,"blue flames",0,0,1,0,0,2,983128,0,2752,True,False
+2001773,"blue flame",0,"blue flames",0,0,1,0,0,2,983129,0,2752,True,False
+2001774,"blue flame",0,"blue flames",0,0,1,0,0,2,983130,0,2752,True,False
+2001775,"blue flame",0,"blue flames",0,0,1,0,0,2,983131,0,2752,True,False
+2001776,"blue flame",0,"blue flames",0,0,1,0,0,2,983132,0,2752,True,False
+2001777,"blue flame",0,"blue flames",0,0,1,0,0,2,983133,0,2752,True,False
+2001778,"blue flame",0,"blue flames",0,0,1,0,0,2,983134,0,2752,True,False
+2001779,"blue flame",0,"blue flames",0,0,1,0,0,2,983135,0,2752,True,False
+2001780,"blue flame",0,"blue flames",0,0,1,0,0,2,983136,0,2752,True,False
+2001781,"blue flame",0,"blue flames",0,0,1,0,0,2,983137,0,2752,True,False
+2001782,"blue flame",0,"blue flames",0,0,1,0,0,2,983138,0,2752,True,False
+2001783,"blue flame",0,"blue flames",0,0,1,0,0,2,983139,0,2752,True,False
+2001784,"blue flame",0,"blue flames",0,0,1,0,0,2,983140,0,2752,True,False
+2001785,"blue flame",0,"blue flames",0,0,1,0,0,2,983141,0,2752,True,False
+2001786,"blue flame",0,"blue flames",0,0,1,0,0,2,983142,0,2752,True,False
+2001787,"blue flame",0,"blue flames",0,0,1,0,0,2,983143,0,2752,True,False
+2001788,"blue flame",0,"blue flames",0,0,1,0,0,2,983144,0,2752,True,False
+2001789,"blue flame",0,"blue flames",0,0,1,0,0,2,983145,0,2752,True,False
+2001790,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,3169,False,False
+2001791,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,3169,False,False
+2001792,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,3169,False,False
+2001793,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,3169,False,False
+2001794,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,3169,False,False
+2001795,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,3169,False,False
+2001796,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,3169,False,False
+2001797,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,3169,False,False
+2001798,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,1624,True,False
+2001799,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,1624,True,False
+2001800,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,1624,True,False
+2001801,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,1624,True,False
+2001802,"striking dummy",0,"striking dummies",0,0,1,0,0,3,66234,7,1624,True,False
+2001803,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,1624,True,False
+2001804,"striking dummy",0,"striking dummies",0,0,1,0,0,3,0,7,1624,True,False
+2001805,"iron lever",0,"iron levers",0,1,1,0,0,1,983062,0,2537,True,False
+2001806,"",0,"",0,0,1,0,0,3,66216,7,1626,False,False
+2001807,"",0,"",0,0,1,0,0,3,66217,7,1626,False,False
+2001808,"",0,"",0,0,1,0,0,3,66218,7,1626,False,False
+2001809,"",0,"",0,0,1,0,0,3,0,7,0,False,False
+2001810,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001811,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001812,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001813,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001814,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001815,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001816,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001817,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001818,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001819,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001820,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001821,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001822,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001823,"起動スイッチ",0,"",0,0,1,0,0,1,983222,0,0,True,False
+2001824,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001825,"起動スイッチ",0,"",0,0,1,0,0,1,983223,0,0,True,False
+2001826,"起動スイッチ",0,"",0,0,1,0,0,1,983224,0,0,True,False
+2001827,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001828,"起動スイッチ",0,"",0,0,1,0,0,1,983225,0,0,True,False
+2001829,"起動スイッチ",0,"",0,0,1,0,0,1,983226,0,0,True,False
+2001830,"起動スイッチ",0,"",0,0,1,0,0,1,983227,0,0,True,False
+2001831,"起動スイッチ",0,"",0,0,1,0,0,1,983228,0,0,True,False
+2001832,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001833,"起動スイッチ",0,"",0,0,1,0,0,1,983229,0,0,True,False
+2001834,"起動スイッチ",0,"",0,0,1,0,0,1,983230,0,0,True,False
+2001835,"exit",0,"exits",0,1,1,0,0,3,131123,0,2632,True,False
+2001836,"",0,"",0,0,1,0,0,3,65983,7,1626,False,False
+2001837,"",0,"",0,0,1,0,0,3,65697,7,1626,False,False
+2001838,"",0,"",0,0,1,0,0,3,65628,7,1626,False,False
+2001839,"",0,"",0,0,1,0,0,3,65977,7,1626,False,False
+2001840,"",0,"",0,0,1,0,0,3,65607,7,1626,False,False
+2001841,"",0,"",0,0,1,0,0,3,65612,7,1626,False,False
+2001842,"",0,"",0,0,1,0,0,3,65975,7,1626,False,False
+2001843,"",0,"",0,0,1,0,0,3,65975,7,1626,False,False
+2001844,"",0,"",0,0,1,0,0,3,65919,7,2702,False,False
+2001845,"",0,"",0,0,1,0,0,3,65923,7,2702,False,False
+2001846,"アルジクラベンダー",0,"",0,0,1,0,0,3,0,7,1625,True,False
+2001847,"",0,"",0,0,1,0,0,3,65571,7,2702,False,False
+2001848,"",0,"",0,0,1,0,0,3,65571,7,2701,False,False
+2001849,"",0,"",0,0,1,0,0,3,65679,7,2702,False,False
+2001850,"",0,"",0,0,1,0,0,3,65679,7,2701,False,False
+2001851,"",0,"",0,0,1,0,0,3,65856,7,1626,True,False
+2001852,"",0,"",0,0,1,0,0,3,65872,7,1626,False,False
+2001853,"",0,"",0,0,1,0,0,3,66086,7,1626,False,False
+2001854,"",0,"",0,0,1,0,0,3,66196,7,1626,False,False
+2001855,"",0,"",0,0,1,0,0,3,66098,7,1626,False,False
+2001856,"",0,"",0,0,1,0,0,3,66102,7,1626,False,False
+2001857,"",0,"",0,0,1,0,0,3,66103,7,1626,False,False
+2001858,"",0,"",0,0,1,0,0,3,66103,7,1626,False,False
+2001859,"",0,"",0,0,1,0,0,3,65764,7,2700,False,False
+2001860,"",0,"",0,0,1,0,0,3,65764,7,2700,False,False
+2001861,"",0,"",0,0,1,0,0,3,65764,7,2700,False,False
+2001862,"",0,"",0,0,1,0,0,3,65766,7,2700,False,False
+2001863,"",0,"",0,0,1,0,0,3,65766,7,2700,False,False
+2001864,"",0,"",0,0,1,0,0,3,65766,7,2700,False,False
+2001865,"",0,"",0,0,1,0,0,3,65766,7,2700,False,False
+2001866,"",0,"",0,0,1,0,0,3,66154,7,2702,False,False
+2001867,"",0,"",0,0,1,0,0,3,66165,7,2702,False,False
+2001868,"",0,"",0,0,1,0,0,3,66157,7,2702,False,False
+2001869,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001870,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001871,"脱出地点",0,"",0,0,1,0,0,1,0,0,0,True,False
+2001872,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001873,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001874,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001875,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001876,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001877,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001878,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001879,"",0,"",0,0,1,0,0,1,0,0,0,False,False
+2001880,"ドラゴン砦の扉（仮）",0,"",0,0,1,0,0,1,0,0,0,True,False
+2001881,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001882,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001883,"",0,"",0,0,1,0,0,1,0,7,0,False,False
+2001884,"大砲（仮）",0,"",0,0,1,0,0,1,0,0,2798,True,False
+2001885,"大砲（仮）",0,"",0,0,1,0,0,1,0,0,2798,True,False
+2001886,"大砲（仮）",0,"",0,0,1,0,0,1,0,0,2798,True,False
+2001887,"",0,"",0,0,1,0,0,3,0,7,2698,False,False
+2001888,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001889,"",0,"",0,0,1,0,0,3,0,7,0,True,False
+2001890,"",0,"",0,0,1,0,0,3,0,7,0,True,False

@@ -1,0 +1,354 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+#,,,,,,,,,,,,,,,
+int32,str,str,uint16,byte,byte,byte,byte,byte,bool,bool,bool,bool,byte,bool,uint16
+0,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+1,"Petrification","Stone-like rigidity is preventing the execution of actions.",10001,0,100,0,2,47,True,True,False,False,255,False,0
+2,"Stun","Unable to execute actions.",10004,0,10,0,2,43,True,True,False,False,255,False,0
+3,"Sleep","Overwhelming drowsiness is preventing the execution of actions.",10025,1,99,0,2,42,True,True,False,False,255,False,0
+4,"Daze","Scattered senses are preventing the execution of actions.",10003,1,100,0,2,50,True,True,False,False,255,False,0
+5,"Amnesia","Unable to use abilities.",10051,0,100,0,2,59,False,False,False,False,255,False,0
+6,"Pacification","Unable to use weaponskills.",10024,0,100,0,2,58,False,False,False,False,255,False,0
+7,"Silence","A stifling magic is preventing casts.",10005,2,100,0,2,48,False,False,False,False,255,False,0
+8,"Haste","Weaponskill recast time and auto-attack delay are reduced.",10008,5,0,0,1,60,False,False,False,False,1,False,0
+9,"Slow","Weaponskill recast time and auto-attack delay are increased.",10009,5,50,0,2,56,False,False,False,False,2,False,0
+10,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+11,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+12,"Fixation","Unable to change directions.",10003,3,100,0,2,55,False,False,False,False,255,False,0
+13,"Bind","Unable to move.",10003,3,50,0,2,54,True,False,False,False,255,False,0
+14,"Heavy","Movement speed is reduced.",10002,3,10,0,2,44,False,False,False,False,255,False,0
+15,"Blind","Encroaching darkness is lowering accuracy.",10021,4,50,0,2,52,False,False,False,False,2,False,0
+16,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+17,"Paralysis","Deadened nerves are sometimes preventing the execution of actions.",10006,0,50,0,2,46,False,False,False,False,2,False,0
+18,"Poison","Toxins are causing damage over time.",10007,0,10,0,2,41,False,False,False,False,2,False,0
+19,"Pollen","Deadly pollen has filled your lungs, causing damage over time.",10117,0,1,0,2,41,False,False,True,True,2,False,0
+20,"TP Bleed","Bleeding TP over time.",10027,0,10,0,2,61,False,False,False,False,2,False,0
+21,"HP Boost","Maximum HP is increased.",10028,6,0,0,1,60,False,False,False,False,1,False,0
+22,"HP Penalty","Maximum HP is reduced.",10018,6,1,0,2,61,False,False,False,False,2,False,0
+23,"MP Boost","Maximum MP is increased.",10029,7,0,0,1,60,False,False,False,False,1,False,0
+24,"MP Penalty","Maximum MP is reduced.",10030,7,1,0,2,61,False,False,False,False,2,False,0
+25,"Attack Up","Attack power is enhanced.",10010,8,0,0,1,60,False,False,False,False,1,False,0
+26,"Attack Down","Attack power is reduced.",10023,8,1,0,2,61,False,False,False,False,2,False,0
+27,"Accuracy Up","Accuracy is enhanced.",10031,9,0,0,1,60,False,False,False,False,1,False,0
+28,"Accuracy Down","Accuracy is reduced.",10032,9,1,0,2,61,False,False,False,False,2,False,0
+29,"Defense Up","Defense is enhanced.",10011,10,0,0,1,60,False,False,False,False,1,False,0
+30,"Defense Down","Defense is reduced.",10016,10,1,0,2,61,False,False,False,False,2,False,0
+31,"Evasion Up","Evasion is enhanced.",10033,11,0,0,1,60,False,False,False,False,1,False,0
+32,"Evasion Down","Evasion is reduced.",10034,11,1,0,2,61,False,False,False,False,2,False,0
+33,"Magic Potency Up","Spell potency is enhanced.",10035,12,0,0,1,60,False,False,False,False,1,False,0
+34,"Magic Potency Down","Spell potency is reduced.",10036,12,1,0,2,61,False,False,False,False,2,False,0
+35,"Healing Potency Up","Healing magic potency is enhanced.",10038,13,0,0,1,60,False,False,False,False,1,False,0
+36,"Healing Potency Down","Healing magic potency is reduced.",10039,13,1,0,2,61,False,False,False,False,2,False,0
+37,"Magic Defense Up","Magic defense is enhanced.",10013,14,0,0,1,60,False,False,False,False,1,False,0
+38,"Magic Defense Down","Magic defense is reduced.",10037,14,1,0,2,61,False,False,False,False,2,False,0
+39,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+40,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+41,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+42,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+43,"Weakness","Maximum HP and MP are reduced 15%.",10019,16,1,0,2,0,False,False,False,False,255,False,0
+44,"Brink of Death","Maximum HP, maximum MP, and all battle-related stats are reduced by 30%.",10020,16,1,0,2,0,False,False,False,False,255,False,0
+45,"Crafter's Grace","Chance of increased experience point gains as a Disciple of the Hand.",10206,15,0,0,1,60,False,False,False,False,0,False,0
+46,"Gatherer's Grace","Chance of increased experience point gains as a Disciple of the Land.",10306,15,0,0,1,60,False,False,False,False,0,False,0
+47,"Stealth","Cannot be detected by enemies. Movement speed is reduced.",10301,0,0,0,1,60,False,False,True,True,2,False,0
+48,"Well Fed","Enjoying the benefits of a full belly.",10402,0,0,0,1,60,False,False,False,False,0,False,0
+49,"Medicated","Performance is being enhanced by a medicinal item.",10403,0,0,0,1,60,False,False,False,False,0,False,0
+50,"Sprint","Movement speed is increased.",11001,41,1,0,1,0,False,False,False,False,0,False,0
+51,"Strength Down","Strength is reduced.",10042,0,1,0,2,61,False,False,False,False,0,False,0
+52,"Vitality Down","Vitality is reduced.",10043,0,1,0,2,61,False,False,False,False,0,False,0
+53,"Physical Damage Up","The amount of damage dealt by physical attacks is increased.",10010,35,0,0,1,60,False,False,False,False,1,False,0
+54,"Physical Damage Down","The amount of damage dealt by physical attacks is reduced.",10023,35,1,0,2,61,False,False,False,False,2,False,0
+55,"Physical Vulnerability Down","The amount of damage suffered from physical attacks is reduced.",10011,36,0,0,1,60,False,False,False,False,1,False,0
+56,"Physical Vulnerability Up","The amount of damage suffered from physical attacks is increased.",10016,36,1,0,2,61,False,False,False,False,2,False,0
+57,"Magic Damage Up","The amount of damage dealt by magic attacks is increased.",10035,37,0,0,1,60,False,False,False,False,1,False,0
+58,"Magic Damage Down","The amount of damage dealt by magic attacks is reduced.",10036,37,1,0,2,61,False,False,False,False,2,False,0
+59,"Magic Vulnerability Down","The amount of damage suffered from magic attacks is reduced.",10013,38,0,0,1,60,False,False,False,False,1,False,0
+60,"Magic Vulnerability Up","The amount of damage suffered from magic attacks is increased.",10037,38,1,0,2,61,False,False,False,False,2,False,0
+61,"Determination Up","The amount of damage dealt by both physical and magic attacks is increased.",10119,39,0,0,1,60,False,False,False,False,1,False,0
+62,"Determination Down","The amount of damage dealt by both physical and magic attacks is reduced.",10120,39,1,0,2,61,False,False,False,False,2,False,0
+63,"Vulnerability Down","The amount of damage suffered from both physical and magic attacks is reduced.",10047,40,0,0,1,60,False,False,False,False,1,False,0
+64,"Vulnerability Up","The amount of damage suffered from both physical and magic attacks is increased.",10046,40,1,0,2,61,False,False,False,False,2,False,0
+65,"Critical Skill","Your next weaponskill will result in a critical hit.",10048,0,0,0,1,60,False,False,False,False,1,False,0
+66,"Terror","You are frozen with fear.",10116,0,100,0,2,61,True,True,False,False,255,False,0
+67,"Leaden","Movement speed is reduced, and cannot be restored by normal means.",10118,0,99,0,2,44,False,False,True,True,2,False,0
+68,"Drainstrikes","Auto-attacks are generating an Absorb HP effect.",10104,0,1,0,1,60,False,False,False,False,1,False,0
+69,"Aspirstrikes","Auto-attacks are generating an Absorb MP effect.",10105,0,1,0,1,60,False,False,False,False,1,False,0
+70,"Stunstrikes","Auto-attacks may stun target.",10106,0,1,0,1,60,False,False,False,False,1,False,0
+71,"Rampart","Reducing the amount of damage taken.",11102,0,0,0,1,60,False,False,False,False,0,False,0
+72,"Convalescence","Increasing HP restored by spells or actions.",11107,0,0,0,1,60,False,False,False,False,1,False,0
+73,"Awareness","Your chance of suffering critical damage is reduced.",11104,0,0,0,1,60,False,False,False,False,0,False,0
+74,"Sentinel","Reducing the amount of damage taken.",11101,0,0,0,1,60,False,False,False,False,0,False,0
+75,"Tempered Will","Immune to knockback and draw-in effects.",11103,0,0,0,1,60,False,False,False,False,0,False,0
+76,"Fight or Flight","Physical damage dealt is increased.",11105,0,0,0,1,60,False,False,False,False,0,False,0
+77,"Bulwark","Block rate is increased.",11106,0,0,0,1,60,False,False,False,False,0,False,0
+78,"Sword Oath","Auto-attacks are enhanced.",12905,34,0,0,1,60,False,False,True,True,0,True,0
+79,"Shield Oath","Damage taken and dealt is reduced, while enmity is increased.",12906,34,0,0,1,60,False,False,True,True,0,True,0
+80,"Cover","Protecting a party member.",12901,0,0,0,1,60,False,False,False,False,255,True,0
+81,"Covered","Under the protection of a party member.",12902,0,0,0,1,60,False,False,False,False,255,True,0
+82,"Hallowed Ground","Impervious to most attacks.",12904,0,0,0,1,60,False,False,False,False,0,False,0
+83,"Foresight","Defense is increased.",11302,0,0,0,1,60,False,False,False,False,0,False,0
+84,"Bloodbath","Next attack generates HP equal to a portion of damage dealt.",11301,0,0,0,1,60,False,False,False,False,0,False,0
+85,"Maim","Damage dealt is increased.",11312,0,1,0,1,60,False,False,False,False,0,False,0
+86,"Berserk","Attack power is enhanced. Will be unable to use weaponskills for several seconds after effect fades.",11303,0,0,0,1,60,False,False,False,False,0,False,0
+87,"Thrill of Battle","Maximum HP is increased.",11304,0,0,0,1,60,False,False,False,False,0,False,0
+88,"Holmgang","Unable to move until effect fades.",11305,0,1,0,2,61,True,False,False,False,0,False,0
+89,"Vengeance","Inflicting a portion of sustained damage back to its source.",11306,0,0,0,1,60,False,False,False,False,1,False,0
+90,"Rampage","Slashing resistance and HP recovery via curing magic are reduced.",11313,0,1,0,2,61,False,False,False,False,0,False,0
+91,"Defiance","Maximum HP and enmity are increased, while damage dealt is reduced. Using certain actions will incur <Color(-34022)>Wrath</Color>.",13101,0,0,0,1,60,False,False,True,True,0,True,0
+92,"Unchained","Damage penalty inflicted by Defiance is nullified.",13102,0,0,0,1,60,False,False,False,False,0,False,0
+93,"Wrath","Critical hit rate is increased.",11307,33,0,0,1,60,False,False,False,False,0,False,0
+94,"Wrath II","Critical hit rate is increased.",11308,33,1,0,1,60,False,False,False,False,0,False,0
+95,"Wrath III","Critical hit rate is increased.",11309,33,2,0,1,60,False,False,False,False,0,False,0
+96,"Wrath IV","Critical hit rate is increased.",11310,33,3,0,1,60,False,False,False,False,0,False,0
+97,"Infuriated","Critical hit rate is increased.",11311,33,4,0,1,60,False,False,False,False,0,False,0
+98,"Dragon Kick","Blunt resistance is reduced.",11215,0,1,0,2,61,False,False,False,False,0,False,0
+99,"Featherfoot","Evasion is enhanced.",11201,0,0,0,1,60,False,False,False,False,0,False,0
+100,"Internal Release","Critical hit rate is increased.",11204,0,0,0,1,60,False,False,False,False,0,False,0
+101,"Twin Snakes","Damage dealt is increased.",11216,0,0,0,1,60,False,False,False,False,0,False,0
+102,"Mantra","Increasing HP restored by spells or actions.",11206,0,0,0,1,60,False,False,False,False,1,False,0
+103,"Fists of Fire","MP is being consumed to convert attacks to fire attacks and grant a bonus to attack power.",11202,29,0,0,1,60,False,False,True,True,0,True,528
+104,"Fists of Earth","MP is being consumed to convert attacks to earth attacks and grant a bonus to physical defense.",11203,29,0,0,1,60,False,False,True,True,0,True,528
+105,"Fists of Wind","MP is being consumed to convert attacks to wind attacks and grant a bonus to movement speed and weaponskill recast times. ",13001,29,0,0,1,60,False,False,True,True,0,True,528
+106,"Touch of Death","Organs are failing, causing damage over time.",11211,0,1,0,2,61,False,False,False,False,0,False,0
+107,"Opo-opo Form","Employing the opo-opo fighting stance.",11212,31,0,0,1,60,False,False,False,False,0,True,528
+108,"Raptor Form","Employing the raptor fighting stance.",11213,31,0,0,1,60,False,False,False,False,0,True,528
+109,"Coeurl Form","Employing the coeurl fighting stance.",11214,31,0,0,1,60,False,False,False,False,0,True,528
+110,"Perfect Balance","Employing all three pugilistic fighting stances─opo-opo, raptor, and coeurl.",11217,31,1,0,1,60,False,False,False,False,0,True,528
+111,"Greased Lightning","Damage dealt and attack speed are increased.",11207,32,0,0,1,60,False,False,False,False,0,True,0
+112,"Greased Lightning","Damage dealt and attack speed are increased.",11208,32,1,0,1,60,False,False,False,False,0,True,0
+113,"Greased Lightning","Damage dealt and attack speed are increased.",11209,32,2,0,1,60,False,False,False,False,0,True,0
+114,"Keen Flurry","Chance to parry is increased.",11401,0,0,0,1,60,False,False,False,False,0,False,0
+115,"Heavy Thrust","Damage dealt is increased.",11406,0,0,0,1,60,False,False,False,False,0,False,0
+116,"Life Surge","Next weaponskill is a critical hit with resulting damage being absorbed as HP.",11402,0,0,0,1,60,False,False,False,False,0,False,0
+117,"Blood for Blood","Increasing damage dealt while increasing damage taken.",11404,0,0,0,1,60,False,False,False,False,0,False,0
+118,"Chaos Thrust","Wounds are bleeding, causing damage over time.",11407,0,1,0,2,61,False,False,False,False,0,False,0
+119,"Phlebotomize","Wounds are bleeding, causing damage over time.",11405,0,1,0,2,61,False,False,False,False,0,False,0
+120,"Power Surge","Damage is increased for next Jump or Spineshatter Dive.",11403,0,0,0,1,60,False,False,False,False,0,False,0
+121,"Disembowel","Piercing resistance is reduced.",13201,0,1,0,2,61,False,False,False,False,0,False,0
+122,"Straighter Shot","Your next Straight Shot will result in a critical hit.",11511,0,0,0,1,60,False,False,False,False,0,False,0
+123,"Hawk's Eye","Physical accuracy is increased.",11501,0,0,0,1,60,False,False,False,False,0,False,0
+124,"Venomous Bite","Toxins are causing damage over time.",11502,0,1,0,2,41,False,False,False,False,2,False,0
+125,"Raging Strike","Attack power is increased.",11504,0,0,0,1,60,False,False,False,False,0,False,0
+126,"Freeshot","Your next Farshot will not require any TP to execute.",11514,0,0,0,1,60,False,False,False,False,0,False,0
+127,"Quelling Strike","Attacks are generating reduced enmity.",11505,0,0,0,1,60,False,False,False,False,0,False,0
+128,"Barrage","Striking multiple times per auto-attack.",11506,0,0,0,1,60,False,False,False,False,0,False,0
+129,"Windbite","Your wounds are exposed to the elements, causing wind damage over time.",11510,0,1,0,2,61,False,False,False,False,0,False,0
+130,"Straight Shot","Critical hit rate is increased.",11511,0,0,0,1,60,False,False,False,False,0,False,0
+131,"Downpour of Death","Your next Rain of Death will not require any TP.",13307,0,0,0,1,60,False,False,False,False,0,False,0
+132,"Quicker Nock","Your next Quick Knock will not require any TP.",11512,0,0,0,1,60,False,False,False,False,0,False,0
+133,"Swiftsong","Nearby party member movement speed is increased.",11508,26,0,0,1,60,False,False,True,True,1,True,0
+134,"Swiftsong","Movement speed is increased.",11507,41,0,0,1,60,False,False,False,True,0,True,0
+135,"Mage's Ballad","Using MP to gradually restore the MP of nearby party members. Damage dealt is reduced.",13303,26,0,0,1,60,False,False,True,True,1,True,0
+136,"Mage's Ballad","Restoring MP over time.",13302,0,0,0,1,60,False,False,False,True,0,True,0
+137,"Army's Paeon","Using MP to gradually generate the TP of nearby party members. Damage dealt is reduced.",13305,26,0,0,1,60,False,False,True,True,1,True,0
+138,"Army's Paeon","Generating TP over time.",13304,0,0,0,1,60,False,False,False,True,0,True,0
+139,"Foe Requiem","Using MP to lower the elemental resistances of nearby enemies.",13306,26,0,0,1,60,False,False,True,True,0,True,0
+140,"Foe Requiem","All elemental resistances are reduced.",13308,0,1,0,2,61,False,False,False,True,0,True,0
+141,"Battle Voice","The effectiveness of songs is increased.",13301,0,0,0,1,60,False,False,False,False,0,False,0
+142,"Chameleon","All elemental resistances are increased.",11509,0,0,0,1,60,False,False,False,False,0,False,0
+143,"Aero","Taking wind damage over time.",11603,0,1,0,2,61,False,False,False,False,2,False,0
+144,"Aero II","Taking wind damage over time.",11609,0,1,0,2,61,False,False,False,False,0,False,0
+145,"Cleric Stance","INT and MND ratings are swapped, while attack magic potency is increased and healing magic potency is reduced.",11602,0,0,0,1,60,False,False,True,True,0,True,0
+146,"Protect","Defense is enhanced.",11604,27,0,0,1,60,False,False,False,False,1,False,0
+147,"Protect","Both physical and magic defense are enhanced.",11605,27,1,0,1,60,False,False,False,False,1,False,0
+148,"Raise","Teetering on the brink of consciousness.",11606,0,0,0,1,60,False,False,False,False,255,False,0
+149,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+150,"Medica II","Regenerating HP over time.",11613,0,0,0,1,60,False,False,False,False,1,False,0
+151,"Stoneskin","Lithified flesh is absorbing damage.",11601,0,0,0,1,60,False,False,False,False,1,False,0
+152,"ストンスキン（物理攻撃）","一定量の物理ダメージを無効化する状態。",11601,0,0,0,1,60,False,False,False,False,1,False,0
+153,"ストンスキン（魔法攻撃）","一定量の魔法ダメージを無効化する状態。",11601,0,0,0,1,60,False,False,False,False,1,False,0
+154,"Shroud of Saints","Enmity is temporarily halved and MP is gradually being restored.",11608,0,0,0,1,60,False,False,False,False,0,False,0
+155,"Freecure","Your next Cure II will not require any MP to cast.",11610,0,0,0,1,60,False,False,False,False,0,False,0
+156,"Overcure","Your next Cure III will restore critical HP.",11611,0,0,0,1,60,False,False,False,False,0,False,0
+157,"Presence of Mind","Spell speed is increased.",13402,0,0,0,1,60,False,False,False,False,0,False,0
+158,"Regen","Regenerating HP over time.",13401,0,0,0,1,60,False,False,False,False,1,False,0
+159,"Divine Seal","Your cure magic potency is increased.",11607,0,0,0,1,60,False,False,False,False,0,False,0
+160,"Surecast","Your next spell cannot be interrupted by taking damage.",11702,0,0,0,1,60,False,False,False,False,0,False,0
+161,"Thunder","Taking lightning damage over time.",11707,0,1,0,2,61,False,False,False,False,0,False,0
+162,"Thunder II","Taking lightning damage over time.",11708,0,1,0,2,61,False,False,False,False,0,False,0
+163,"Thunder III","Taking lightning damage over time.",11709,0,1,0,2,61,False,False,False,False,0,False,0
+164,"Thundercloud","Your next Thunder, Thunder II, or Thunder III will add its full DoT damage to its base damage, require no time to cast, and cost no MP",11711,0,0,0,1,60,False,False,False,False,0,False,0
+165,"Firestarter","Your next Fire III will require no time to cast and cost no MP.",11710,0,0,0,1,60,False,False,False,False,0,False,0
+166,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+167,"Swiftcast","Your next spell will require no time to cast.",11704,0,0,0,1,60,False,False,False,False,0,False,0
+168,"Manaward","An aetherial barrier is preventing all magic damage.",11706,0,0,0,1,60,False,False,False,False,0,False,0
+169,"Manawall","An aetherial barrier is preventing all physical damage.",13501,0,0,0,1,60,False,False,False,False,0,False,0
+170,"Apocatastasis","Fire, ice, and lightning resistances are increased by 30%.",11701,43,0,0,1,60,False,False,False,False,0,False,0
+171,"Ekpyrosis","Unable to receive Apocatastasis.",13502,43,1,0,2,61,False,False,False,False,0,False,0
+172,"Infirmity","Recovering HP at a slower rate.",10131,0,1,0,2,61,False,False,False,False,0,False,0
+173,"Astral Fire","The aetherial balance of your mind and spirit is leaning astrally. Fire-aspected spells require more MP, but do more damage. Ice-aspected spells require less MP, but do less damage. MP regeneration has stopped.",11724,42,1,0,1,60,False,False,False,False,0,True,0
+174,"Astral Fire II","The aetherial balance of your mind and spirit is leaning astrally. Fire-aspected spells require more MP, but do more damage. Ice-aspected spells require less MP, but do less damage. MP regeneration has stopped.",11725,42,1,0,1,60,False,False,False,False,0,True,0
+175,"Astral Fire III","The aetherial balance of your mind and spirit is leaning astrally. Fire-aspected spells require more MP, but do more damage. Ice-aspected spells require less MP, but do less damage. MP regeneration has stopped. Casting time is halved.",11726,42,1,0,1,60,False,False,False,False,0,True,0
+176,"Umbral Ice","The aetherial balance of your mind and spirit is leaning umbrally. Fire-aspected spells require less MP, but do less damage. MP regeneration has stopped.",11727,42,1,0,1,60,False,False,False,False,0,True,0
+177,"Umbral Ice II","The aetherial balance of your mind and spirit is leaning umbrally. Fire-aspected spells require less MP, but do less damage. MP regeneration has stopped.",11728,42,1,0,1,60,False,False,False,False,0,True,0
+178,"Umbral Ice III","The aetherial balance of your mind and spirit is leaning umbrally. Fire-aspected spells require less MP, but do less damage. MP regeneration has stopped. Casting time is halved.",11729,42,1,0,1,60,False,False,False,False,0,True,0
+179,"バイオ","ＨＰが徐々に失われる状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+180,"ミアズマ","ＨＰが徐々に失われる状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+181,"病気","移動速度が低下し、かつ自身に対するＨＰ回復効果が低下した状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+182,"（仮称）ステータスDebuff：STR＆DEX","ＳＴＲとＤＥＸが低下した状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+183,"（仮称）ステータスDebuff特性：INT＆MND","ＩＮＴとＭＮＤが低下した状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+184,"サステイン","連続してＨＰが回復している状態。",10029,0,0,0,1,60,False,False,False,False,0,False,0
+185,"（仮称）リアクションProc：与ダメージDebuff","物理攻撃を受けた場合に、一定確率で与ダメージ減少効果による反撃効果を与える状態。",10029,0,0,0,1,60,False,False,False,False,1,False,0
+186,"（仮称）リアクションProc：与ダメDebuff効果","与ダメージが低下した状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+187,"ラウズ","与ダメージと回復魔法の威力が向上した状態。",10029,0,0,0,1,60,False,False,False,False,0,False,0
+188,"ミアズラ","ＨＰが徐々に失われる状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+189,"バイオガ","ＨＰが徐々に失われ、かつクリティカルヒット攻撃を食らう確率が増加した状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+190,"（仮称）GTAE DoT","ＨＰが徐々に失われる状態。",10029,0,0,0,1,60,False,False,False,False,0,True,0
+191,"（仮称）AEDD&Debuff：全魔法属性Debuff","全属性が低下した状態。",10030,0,0,0,2,61,False,False,False,False,0,False,0
+192,"（仮称）ペット攻撃速度アップ","攻撃速度が向上した状態。",10029,0,0,0,1,60,False,False,False,False,0,False,0
+193,"リザレクション","他者からリザレクションを受けた状態。",10029,0,0,0,1,60,False,False,False,False,255,False,0
+194,"Shield Wall","Damage taken is reduced.",11102,0,0,0,1,60,False,False,False,False,0,False,0
+195,"Mighty Guard","Damage taken is reduced.",11102,0,0,0,1,60,False,False,False,False,0,False,0
+196,"Last Bastion","Damage taken is reduced.",11102,0,0,0,1,60,False,False,False,False,0,False,0
+197,"Blaze Spikes","Fire spikes are damaging attackers.",10108,19,0,0,1,60,False,False,False,False,1,False,0
+198,"Ice Spikes","Ice spikes are damaging and sometimes slowing down attackers.",10101,19,0,0,1,60,False,False,False,False,1,False,0
+199,"Shock Spikes","Lightning spikes are damaging and sometimes stunning attackers.",10102,19,0,0,1,60,False,False,False,False,1,False,0
+200,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+201,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+202,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+203,"Boost","Attack power on next special technique is increased.",10107,0,0,0,1,60,False,False,False,False,0,False,0
+204,"Enfire","Fire damage added to auto-attacks.",10109,20,0,0,1,60,False,False,False,False,0,False,0
+205,"Enblizzard","Ice damage added to auto-attacks.",10110,20,0,0,1,60,False,False,False,False,0,False,0
+206,"Enaero","Wind damage added to auto-attacks.",10111,20,0,0,1,60,False,False,False,False,0,False,0
+207,"Enstone","Earth damage added to auto-attacks.",10112,20,0,0,1,60,False,False,False,False,0,False,0
+208,"Enthunder","Lightning damage added to auto-attacks.",10113,20,0,0,1,60,False,False,False,False,0,False,0
+209,"Enwater","Water damage added to auto-attacks.",10114,20,0,0,1,60,False,False,False,False,0,False,0
+210,"Doom","Certain death when counter reaches zero.",10103,0,1,0,2,51,False,False,False,False,0,False,0
+211,"Sharpened Knife","Damage dealt by next Lateral Slash is increased.",10115,20,0,0,1,60,False,False,False,False,255,False,0
+212,"True Sight","You are able to see through the levequest target's glamour.",10018,0,0,0,2,61,False,False,True,True,0,False,0
+213,"Pacification","The target is pacified and will no longer attack.",10501,0,0,0,2,61,True,True,False,False,0,False,0
+214,"Agitation","Your attempt at pacification failed, further exciting the target.",10502,0,0,0,1,60,False,False,False,False,0,False,0
+215,"Invulnerable","Taking no damage.",10055,0,0,0,1,60,False,False,False,False,0,False,0
+216,"Venom","Powerful toxins are causing damage over time.",10117,0,1,0,2,41,False,False,False,False,2,False,0
+217,"Triangulate","Able to locate mature trees and lush vegetation.",12701,0,0,0,1,60,False,False,True,True,0,False,0
+218,"Gathering Rate Up","Chance of obtaining an item while gathering is increased.",10302,0,0,0,1,60,False,False,True,True,0,True,0
+219,"Gathering Yield Up","Number of items obtained while gathering is increased.",10303,0,0,0,1,60,False,False,True,True,0,True,0
+220,"Gathering Fortune Up","Chance of obtaining an HQ item while gathering is increased.",10304,0,0,0,1,60,False,False,True,True,0,True,0
+221,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+222,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+223,"Byregot's Ward","Your affinity to the element lightning is increased while gathering.",12705,0,0,0,1,60,False,False,True,True,0,True,0
+224,"Nophica's Ward","Your affinity to the element earth is increased while gathering.",12706,0,0,0,1,60,False,False,True,True,0,True,0
+225,"Prospect","Able to locate mineral deposits and rocky outcrops.",12601,0,0,0,1,60,False,False,True,True,0,False,0
+226,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+227,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+228,"Menphina's Ward","Your affinity to the element ice is increased while gathering.",12605,0,0,0,1,60,False,False,True,True,0,True,0
+229,"Nald'thal's Ward","Your affinity to the element fire is increased while gathering.",12606,0,0,0,1,60,False,False,True,True,0,True,0
+230,"Llymlaen's Ward","Your affinity to the element wind is increased while gathering.",12708,0,0,0,1,60,False,False,True,True,0,True,0
+231,"Thaliak's Ward","Your affinity to the element water is increased while gathering.",12608,0,0,0,1,60,False,False,True,True,0,True,0
+232,"Preparation","Able to recognize the conditions for obtaining HQ items while gathering.",10305,0,0,0,1,60,False,False,True,True,0,False,0
+233,"Arbor Call","Surveying the land for the nearest mature tree or lush vegetation.",12702,17,0,0,1,60,False,False,False,False,0,False,0
+234,"Lay of the Land","Surveying the land for the nearest mineral deposit or rocky outcrop.",12602,18,0,0,1,60,False,False,False,False,0,False,0
+235,"Inner Quiet","Granting a bonus to control with every increase in quality.",10201,22,0,0,1,60,False,False,True,True,0,True,0
+236,"Choco Beak","Bleeding HP over time.",10122,0,1,0,2,61,False,False,False,False,0,False,0
+237,"Choco Regen","Regenerating HP over time.",10028,0,0,0,1,60,False,False,False,False,1,False,0
+238,"Choco Surge","Healing magic potency is enhanced.",10038,0,0,0,1,60,False,False,False,False,0,False,0
+239,"Waste Not","Durability loss is reduced by half.",12201,25,0,0,1,60,False,False,True,False,0,True,0
+240,"Ingenuity","Success rate for all synthesis and touch actions is increased by 10%.",10204,23,0,0,1,60,False,False,True,False,0,True,0
+241,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+242,"Arbor Call II","Surveying the land for the highest-level mature tree or lush vegetation.",12707,17,0,0,1,60,False,False,False,False,0,False,0
+243,"Lay of the Land II","Surveying the land for the highest-level mineral deposit or rocky outcrop.",12607,18,0,0,1,60,False,False,False,False,0,False,0
+244,"Fracture","Wounds are bleeding, causing damage over time.",11314,0,1,0,2,61,False,False,False,False,0,False,0
+245,"Sanction","Receiving the gear-enhancing benefits of your Grand Company's sanction.",10406,0,0,0,1,60,False,False,False,False,0,True,0
+246,"Demolish","Internal bleeding is causing damage over time.",11218,0,1,0,2,61,False,False,False,False,0,False,0
+247,"Rain of Death","Damage dealt is reduced while damage taken is increased.",13309,0,1,0,2,61,False,False,False,False,2,False,0
+248,"Circle of Scorn","Wounds are bleeding, causing damage over time.",11108,0,1,0,2,61,False,False,False,False,0,False,0
+249,"Flaming Arrow","Treading on coals, causing fire damage over time.",11513,0,1,0,1,60,False,False,False,False,0,True,0
+250,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+251,"Inner Quiet","Receiving a bonus to control with every increase in quality.",10201,44,0,0,1,60,False,False,True,True,0,True,0
+252,"Waste Not","Durability loss is reduced by half.",12201,45,0,0,1,60,False,False,True,False,0,True,0
+253,"Steady Hand","Action success rate is increased by 10%.",11901,46,0,0,1,60,False,False,True,False,0,True,0
+254,"Great Strides","Efficiency of your next Touch action is doubled.",10205,47,0,0,1,60,False,False,True,False,0,True,0
+255,"Ingenuity","Recipe level is equal to your own.",11902,48,0,0,1,60,False,False,True,False,0,True,0
+256,"Ingenuity II","Recipe level is three lower than your own.",11903,48,0,0,1,60,False,False,True,False,0,True,0
+257,"Waste Not II","Durability loss is reduced by half.",12202,45,0,0,1,60,False,False,True,False,0,True,0
+258,"Manipulation","Receiving 5 points of durability after each step.",12101,49,0,0,1,60,False,False,True,False,0,True,0
+259,"Innovation","Control is increased by 30%.",12102,50,0,0,1,60,False,False,True,False,0,True,0
+260,"Reclaim","90% chance that materials will not be lost in the event of botched synthesis.",12501,51,0,0,1,60,False,False,True,False,0,True,0
+261,"Comfort Zone","Regaining 10 CP after each step.",12401,52,0,0,1,60,False,False,True,False,0,True,0
+262,"Steady Hand II","Action success rate is increased by 20%.",12502,46,0,0,1,60,False,False,True,False,0,True,0
+263,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+264,"Flesh Wound","Wounds dealt by a slashing weapon are bleeding, causing damage over time.",10121,0,0,0,2,61,False,False,False,False,2,False,0
+265,"Stab Wound","Wounds dealt by a piercing weapon are bleeding, causing damage over time.",10122,0,0,0,2,61,False,False,False,False,2,False,0
+266,"Concussion","Wounds dealt by a blunt weapon are causing damage over time.",10123,0,0,0,2,61,False,False,False,False,2,False,0
+267,"Burns","Sustaining fire damage over time.",10124,0,0,0,2,61,False,False,False,False,2,False,0
+268,"Frostbite","Sustaining ice damage over time.",10125,0,0,0,2,61,False,False,False,False,2,False,0
+269,"Windburn","Sustaining wind damage over time.",10126,0,0,0,2,61,False,False,False,False,2,False,0
+270,"Sludge","Sustaining earth damage over time.",10127,0,0,0,2,61,False,False,False,False,2,False,0
+271,"Electrocution","Sustaining lightning damage over time.",10128,0,0,0,2,61,False,False,False,False,2,False,0
+272,"Dropsy","Sustaining water damage over time.",10129,0,0,0,2,61,False,False,False,False,2,False,0
+273,"Bleeding","Sustaining damage over time.",10130,0,0,0,2,61,False,False,False,False,2,False,0
+274,"Recuperation","Regenerating HP over time.",13401,0,1,0,1,60,False,False,False,False,1,False,0
+275,"Poison +1","Toxins are causing damage over time.",10132,54,10,4,2,41,False,False,False,False,2,False,0
+276,"Poison +2","Toxins are causing damage over time.",10133,54,10,4,2,41,False,False,False,False,2,False,0
+277,"Poison +3","Toxins are causing damage over time.",10134,54,10,4,2,41,False,False,False,False,2,False,0
+278,"Poison +4","Toxins are causing damage over time.",10135,54,10,4,2,41,False,False,False,False,2,False,0
+279,"Rehabilitation","Regenerating HP over time.",13401,0,1,0,1,60,False,False,True,True,1,False,0
+280,"Bind","Unable to move.",10003,0,1,0,2,54,True,False,True,True,2,False,0
+281,"Physical Damage Down","The amount of damage dealt by physical attacks is reduced.",10023,0,1,0,2,61,False,False,True,True,2,False,0
+282,"Magic Damage Down","The amount of damage dealt by magic attacks is reduced.",10036,0,1,0,2,61,False,False,True,True,2,False,0
+283,"Dropsy","Sustaining water damage over time.",10129,0,1,0,2,61,False,False,True,True,2,False,0
+284,"Burns","Sustaining fire damage over time.",10124,0,1,0,2,61,False,False,True,True,2,False,0
+285,"Frostbite","Sustaining ice damage over time.",10125,0,1,0,2,61,False,False,True,True,2,False,0
+286,"Windburn","Sustaining wind damage over time.",10126,0,1,0,2,61,False,False,True,True,2,False,0
+287,"Sludge","Sustaining earth damage over time.",10127,0,1,0,2,61,False,False,True,True,2,False,0
+288,"Electrocution","Sustaining lightning damage over time.",10128,0,1,0,2,61,False,False,True,True,2,False,0
+289,"Dropsy","Sustaining water damage over time.",10129,0,1,0,2,61,False,False,True,True,2,False,0
+290,"Determination Up","The amount of damage dealt by both physical and magic attacks is increased.",10119,39,0,0,1,60,False,False,True,True,1,False,0
+291,"Hundred Fists","Auto attack, skill, and spell speed are all improved.",10008,5,75,0,1,60,False,False,False,False,1,False,0
+292,"タイタン：岩の牢獄","行動できなくなり、ＨＰが徐々に失われる状態。",10004,0,10,0,2,43,True,True,True,True,255,False,0
+293,"スキルスピード（仮）","ウェポンスキルのキャストタイムとリキャストタイムが短縮された状態。",10008,0,0,0,1,60,False,False,False,False,1,False,0
+294,"スペルスピード（仮）","魔法のキャストタイムとリキャストタイムが短縮された状態。",10008,0,0,0,1,60,False,False,False,False,1,False,0
+295,"オーラム/黄毒沼","黄毒沼の影響を受けている状態。ＨＰが徐々に失われる。",10007,0,10,0,2,41,False,False,False,False,2,False,0
+296,"フィアー（仮）","恐怖で行動ができなくなり、身体が勝手に動いてしまう状態。（仮）",10103,0,0,0,2,61,True,True,False,False,255,False,0
+297,"鼓舞激励の策","一定量のダメージを軽減する状態。",10029,0,0,0,1,60,False,False,False,False,1,False,0
+298,"士気高揚の策","一定量のダメージを軽減する状態。",10029,0,0,0,1,60,False,False,False,False,1,False,0
+299,"野戦治療の陣","受けるダメージの一部が軽減される状態。",10029,0,0,0,1,60,False,False,False,False,0,False,0
+300,"士気高揚の策効果アップ","次に詠唱する士気高揚の策の消費ＭＰが0になる状態。",10029,0,0,0,1,60,False,False,False,False,0,False,0
+301,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+302,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+303,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+304,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+305,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+306,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+307,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+308,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+309,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+310,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+311,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+312,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+313,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+314,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+315,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+316,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+317,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+318,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+319,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+320,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+321,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+322,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+323,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+324,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+325,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+326,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+327,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+328,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+329,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+330,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+331,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+332,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+333,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+334,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+335,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+336,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+337,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+338,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+339,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+340,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+341,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+342,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+343,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+344,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+345,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+346,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+347,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+348,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+349,"","",0,0,0,0,0,0,False,False,False,False,0,False,0
+350,"","",0,0,0,0,0,0,False,False,False,False,0,False,0

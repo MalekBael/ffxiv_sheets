@@ -1,0 +1,85 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+#,,,,,,,,,,,,,,,,,,,
+int32,int32,int32,int32,int32,int32,int32,bool,bool,bool,bool,bool,bool,byte,int32,str,uint16,uint16,uint16,uint16
+0,0,0,0,0,0,0,False,False,False,False,True,True,0,0,"",0,0,0,0
+1,689,0,0,0,0,0,False,False,True,False,True,True,38,402,"Surprised",64001,100,200,0
+2,690,0,0,0,0,0,False,False,True,False,True,True,33,403,"Angry",64002,101,201,0
+3,691,0,0,0,0,0,False,False,True,False,True,True,27,404,"Furious",64003,102,202,0
+4,693,0,0,0,0,0,False,False,True,False,True,True,13,405,"Blush",64004,103,203,0
+5,694,0,0,0,0,0,False,False,True,False,True,True,1,406,"Bow",64005,104,204,0
+6,695,0,0,0,0,0,False,False,True,False,True,True,23,407,"Cheer",64006,105,205,0
+7,696,0,0,656,645,0,False,False,True,False,True,True,21,408,"Clap",64007,106,206,0
+8,697,0,0,0,0,0,False,False,True,False,True,True,42,409,"Beckon",64008,107,207,0
+9,698,0,0,0,0,0,False,False,True,False,True,True,14,410,"Comfort",64009,108,208,0
+10,699,0,0,0,0,0,False,False,True,False,True,True,26,411,"Cry",64010,109,209,0
+11,700,0,0,0,0,0,False,False,True,False,True,True,18,412,"Dance",64011,110,210,0
+12,702,0,0,0,0,0,False,False,True,False,True,True,39,413,"Doubt",64012,111,211,0
+13,703,0,0,657,646,0,False,False,True,False,True,True,46,414,"Doze",64013,112,212,0
+14,704,0,0,0,0,0,False,False,True,False,True,True,28,415,"Fume",64014,113,213,0
+15,705,0,0,0,0,0,False,False,True,False,True,True,3,416,"Goodbye",64015,114,214,0
+16,706,0,0,663,652,0,False,False,True,False,True,True,4,417,"Wave",64016,115,215,0
+17,707,0,0,660,649,0,False,False,True,False,True,True,34,418,"Huh",64017,116,216,0
+18,708,0,0,0,0,0,False,False,True,False,True,True,9,419,"Joy",64018,117,217,0
+19,710,0,0,0,0,0,False,False,True,False,True,True,5,420,"Kneel",64019,118,218,0
+20,711,0,0,662,651,0,False,False,True,False,True,True,7,421,"Chuckle",64020,119,219,0
+21,712,0,0,0,0,0,False,False,True,False,True,True,8,422,"Laugh",64021,120,220,0
+22,713,0,0,0,0,0,False,False,True,False,True,True,50,423,"Lookout",64022,121,221,0
+23,715,0,0,0,0,0,False,False,True,False,True,True,52,424,"Me",64023,122,222,0
+24,716,0,0,0,0,0,False,False,True,False,True,True,24,425,"No",64024,123,223,0
+25,717,0,0,0,0,0,False,False,True,False,True,True,25,426,"Deny",64025,124,224,0
+26,719,0,0,0,0,0,False,False,True,False,True,True,29,427,"Panic",64026,125,225,0
+27,720,0,0,0,0,0,False,False,True,False,True,True,47,428,"Point",64027,126,226,0
+28,721,0,0,0,0,0,False,False,True,False,True,True,48,429,"Poke",64028,127,227,0
+29,723,0,0,0,0,0,False,False,True,False,True,True,22,430,"Congratulate",64029,128,228,0
+30,724,0,0,0,0,0,False,False,True,False,True,True,15,431,"Psych",64030,129,229,0
+31,725,0,0,0,0,0,False,False,True,False,True,True,6,432,"Salute",64031,130,230,0
+32,729,0,0,0,0,0,False,False,True,False,True,True,35,433,"Shocked",64032,131,231,0
+33,730,0,0,0,0,0,False,False,True,False,True,True,36,434,"Shrug",64033,132,232,0
+34,731,0,0,0,0,0,False,False,True,False,True,True,11,435,"Rally",64034,133,233,0
+35,732,0,0,0,0,0,False,False,True,False,True,True,12,436,"Soothe",64035,134,234,0
+36,733,0,0,0,0,0,False,False,True,False,True,True,37,437,"Stagger",64036,135,235,0
+37,734,0,0,0,0,0,False,False,True,False,True,True,49,438,"Stretch",64037,136,236,0
+38,735,0,0,0,0,0,False,False,True,False,True,True,32,439,"Sulk",64038,137,237,0
+39,736,0,0,669,589,589,False,False,True,False,True,True,43,440,"Think",64039,138,238,0
+40,737,0,0,0,0,0,False,False,True,False,True,True,30,441,"Upset",64040,139,239,0
+41,738,0,0,0,0,0,False,False,True,False,True,True,2,442,"Welcome",64041,140,240,0
+42,739,0,0,0,0,0,False,False,True,False,True,True,19,443,"Yes",64042,141,241,0
+43,740,0,0,0,0,0,False,False,True,False,True,True,20,444,"Thumbs Up",64043,142,242,0
+44,714,0,0,0,0,0,False,False,True,False,True,True,44,445,"Examine Self",64044,143,243,0
+45,722,0,0,0,0,0,False,False,True,False,True,True,41,446,"Pose",64045,144,244,0
+46,692,0,0,0,0,0,False,False,True,False,True,True,17,447,"Blow Kiss",64049,148,248,0
+47,701,0,0,0,0,0,False,False,True,False,True,True,40,448,"Grovel",64051,150,250,0
+48,709,0,0,0,0,0,False,False,True,False,True,True,10,449,"Happy",64052,151,251,0
+49,718,0,0,0,0,0,False,False,True,False,True,True,31,450,"Disappointed",64053,152,252,0
+50,654,653,0,0,0,0,True,False,False,False,True,True,45,451,"Sit",64054,0,0,0
+51,655,0,0,655,0,0,True,True,False,False,True,True,0,0,"Stand Up",64054,0,0,0
+52,643,642,0,0,0,0,True,False,False,False,True,True,0,0,"Sit",64054,0,0,0
+53,644,0,0,0,644,0,True,True,False,False,True,True,0,0,"Stand Up",64054,0,0,0
+54,688,0,0,0,0,0,False,False,True,False,True,True,51,455,"Air Quotes",64063,0,0,0
+55,726,0,0,0,0,0,False,False,True,False,True,True,66,456,"Storm Salute",64046,145,245,0
+56,727,0,0,0,0,0,False,False,True,False,True,True,66,457,"Serpent Salute",64047,146,246,0
+57,728,0,0,0,0,0,False,False,True,False,True,True,66,458,"Flame Salute",64048,147,247,0
+58,742,0,0,0,0,0,False,False,True,False,True,True,16,459,"Pray",64064,178,278,0
+59,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+60,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+61,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+62,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+63,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+64,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+65,604,0,0,0,0,0,False,False,False,True,True,True,53,466,"Straight Face",60802,161,261,0
+66,605,0,0,0,0,0,False,False,False,True,True,True,54,467,"Smile",60801,162,262,0
+67,606,0,0,0,0,0,False,False,False,True,True,True,55,468,"Grin",60801,163,263,0
+68,607,0,0,0,0,0,False,False,False,True,True,True,56,469,"Smirk",60804,164,264,0
+69,608,0,0,0,0,0,False,False,False,True,True,True,57,470,"Taunt",60804,165,265,0
+70,611,0,0,0,0,0,False,False,False,True,True,True,58,471,"Shut Eyes",60803,166,266,0
+71,612,0,0,0,0,0,False,False,False,True,True,True,59,472,"Sad",60803,167,267,0
+72,614,0,0,0,0,0,False,False,False,True,True,True,60,473,"Scared",60803,168,268,0
+73,615,0,0,0,0,0,False,False,False,True,True,True,61,474,"Amazed",60803,169,269,0
+74,616,0,0,0,0,0,False,False,False,True,True,True,62,475,"Ouch",60803,170,270,0
+75,617,0,0,0,0,0,False,False,False,True,True,True,63,476,"Annoyed",60804,171,271,0
+76,619,0,0,0,0,0,False,False,False,True,True,True,64,477,"Alert",60802,172,272,0
+77,620,0,0,0,0,0,False,False,False,True,True,True,65,478,"Worried",60802,173,273,0
+78,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+79,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+80,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0
+81,0,0,0,0,0,0,False,False,False,False,False,False,0,0,"",0,0,0,0

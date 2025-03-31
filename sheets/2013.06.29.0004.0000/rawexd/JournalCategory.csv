@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+int32,str,byte
+0,"Sephiroth Missions",0
+1,"Main Scenario Quests",1
+2,"Sidequests",3
+3,"Class Quests",2
+4,"Job Quests",2
+5,"Grand Company Quests",2
+6,"Battlecraft Leves",3
+7,"Fieldcraft Leves",3
+8,"Tradecraft Leves",3
+9,"Faction Leves",2
+10,"Company Leves",2

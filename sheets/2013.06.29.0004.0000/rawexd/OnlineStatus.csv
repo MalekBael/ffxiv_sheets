@@ -1,0 +1,39 @@
+﻿key,0,1
+#,,
+int32,str,uint32
+0,"",0
+1,"Game Master",61524
+2,"Disconnected",61503
+3,"Waiting for Friend List Approval",61501
+4,"Waiting for Linkshell Approval",61501
+5,"Waiting for Free Company Approval",61501
+6,"Not Found",61502
+7,"Offline",61504
+8,"Another World",61535
+9,"Busy",61509
+10,"PvP",61510
+11,"Sharing Duty",61506
+12,"Similar Duty",61507
+13,"Viewing Cutscene",61508
+14,"In Battle",61510
+15,"Away from Keyboard",61511
+16,"Looking for Repairs",61512
+17,"Looking to Repair",61513
+18,"Looking for Materia Crafter",61514
+19,"Looking for Party",61515
+20,"",61516
+21,"Waiting for Duty Finder",61517
+22,"Alliance Leader",61518
+23,"Alliance Party Leader",61519
+24,"Alliance Party Member",61520
+25,"Party Leader",61521
+26,"Party Member",61522
+27,"New Adventurer",61523
+28,"Trial Adventurer",61525
+29,"Free Company",0
+30,"Grand Company",0
+31,"Online",61505
+32,"Producer",61531
+33,"Game Master",61532
+34,"Game Master",61533
+35,"Using a Chocobo Porter",61534

@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+int32,str,int32
+0,"Mining",60438
+1,"Quarrying",60437
+2,"Logging",60433
+3,"Harvesting",60432

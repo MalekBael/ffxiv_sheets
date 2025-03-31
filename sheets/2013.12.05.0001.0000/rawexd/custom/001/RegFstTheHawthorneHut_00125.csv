@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_000","Well met and welcome, friend. What brings you to my humble abode?"
+1,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_010","I used to be an adventurer like you, but I gave up that life some years ago in favor of the homesteader's."
+2,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_011","This here's my place, but what comforts I have are at your disposal. Just don't get too cozy with Ysabel, my little girl."
+3,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_012","I'm more generous with my hospitality than most, but them as abuse it will get put out on their arses quick as spit. Don't say you haven't been warned."
+4,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_020","This here's Hawthorne Hut, my family's hearth and home. It gets dull by ourselves, so I've given the local sentries and travelers free use of the place."
+5,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_021","There's no better way to break the routine than to hear an adventurer recount <If(PlayerParameter(4))>her<Else/>his</If> latest journey. Takes me back to my younger days, it does."
+6,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_022","If you have tales of your own to tell, I'd be happy to trade you some of Rosa's mead for them."
+7,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_Q1_000_000","What will you ask?"
+8,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_A1_000_001","What do you do here?"
+9,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_A1_000_002","What kind of place is this?"
+10,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_A1_000_003","Nothing."

@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_1","This here's the Miners' Guild. Is there something you'd like to know?"
+1,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_2","I'm Adalberta, the master of this guild. It's my job to look after those miners who've put their names down on our roll. This includes instructing them in the finer points of our trade."
+2,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_3","We get commissions from mining concerns and various other places, and I send the best-suited among us to go and fulfill them. If needs be, I provide such advice and support as I'm able."
+3,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_4","It's not easy, managing a boisterous bunch of lads and lasses who'd sooner drain a tankard than swing a pickaxe, but I give it my best. At the end of the day, that's all anyone can do."
+4,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_5","Plainly put, we miners locate and dig up the mineral wealth that sleeps beneath the ground."
+5,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_6","Without us toiling out in the wilds, folk wouldn't have metal for arms and armor, nor gemstones for trinkets and baubles."
+6,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_7","Make no mistake, mining is grueling work, and we're dog-tired most of our waking hours. But nothing compares to the thrill of triumph we experience when the earth yields up our prize."
+7,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_8","Aye, I'd say that we dig for that feeling as much as we dig to earn our coin. But no matter your goals, our doors are open to all who aren't afraid to work hard and get dirty."
+8,"TEXT_REGWILMINGUILD_00065_Q1_000_1","What will you ask?"
+9,"TEXT_REGWILMINGUILD_00065_A1_000_1","Tell me about yourself."
+10,"TEXT_REGWILMINGUILD_00065_A1_000_2","What do miners do?"
+11,"TEXT_REGWILMINGUILD_00065_A1_000_3","Nothing."

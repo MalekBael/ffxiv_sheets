@@ -1,0 +1,20 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFBEAUTYSALON_00148_JANDELAINE_000_000","As once did this very realm we call home, from the darkest depths of unseemly ugliness shall you rise anew. Prepare yourself!"
+1,"TEXT_CMNDEFBEAUTYSALON_00148_CUSTOMIZE_WARNING","While customizing your hairstyle, you will be unable to communicate with players and engage in other activities."
+2,"TEXT_CMNDEFBEAUTYSALON_00148_DUTY_FINDER_WARNING","Commencing the customization process will automatically cancel your Duty Finder registration."
+3,"TEXT_CMNDEFBEAUTYSALON_00148_DUTY_FINDER_CONFIRM","Proceed?"
+4,"TEXT_CMNDEFBEAUTYSALON_00148_DUTY_FINDER_CONFIRM_YES","Yes"
+5,"TEXT_CMNDEFBEAUTYSALON_00148_DUTY_FINDER_CONFIRM_NO","No"
+6,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_A_Q","Pay <Value>IntegerParameter(1)</Value> gil?"
+7,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_A_YES","Yes"
+8,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_A_NO","No"
+9,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_B_Q","How will you pay?"
+10,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_B_A_GIL","Pay with gil."
+11,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_B_A_TICKET","Pay with token."
+12,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_C_Q","<Sheet(Item,7005,0)/>を使いますか？"
+13,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_C_YES","はい"
+14,"TEXT_CMNDEFBEAUTYSALON_00148_MENU_PAYMENT_C_NO","いいえ"
+15,"TEXT_CMNDEFBEAUTYSALON_00148_JANDELAINE_000_010","Where once stood a disheveled shell of a <If(PlayerParameter(4))>woman<Else/>man</If>, there now shines...a beauty reborn."
+16,"TEXT_CMNDEFBEAUTYSALON_00148_JANDELAINE_000_015","When your star begins to dim, you need only send for Jandelaine. Till we meet again!"

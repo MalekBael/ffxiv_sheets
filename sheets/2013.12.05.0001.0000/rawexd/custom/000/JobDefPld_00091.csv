@@ -1,0 +1,18 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBDEFPLD_00091_TALK_ACTOR","dummy"
+1,"TEXT_JOBDEFPLD_00091_JENLYNS_000_1","It is a pleasure to see you, paladin. I trust you have been honing your skills."
+2,"TEXT_JOBDEFPLD_00091_JENLYNS_000_2","Of all those sworn to protect the sultanate─the soldiers, the mounted guards, and the knights─the Sultansworn are the elite of the elite. Our conviction unwavering, our hearts true, our sword skills without peer."
+3,"TEXT_JOBDEFPLD_00091_JENLYNS_000_3","We are bound to defend Sultana Nanamo Ul Namo, even to the death. Such is the solemn oath that we have taken."
+4,"TEXT_JOBDEFPLD_00091_JENLYNS_000_5","A true paladin is one who bends his knee to a higher cause, and offers his sword and shield without promise of reward."
+5,"TEXT_JOBDEFPLD_00091_JENLYNS_000_6","The battle arts that the paladin learns have been held secret, nurtured, and perfected within the ranks of the Sultansworn elite for nigh on these six hundred years."
+6,"TEXT_JOBDEFPLD_00091_JENLYNS_000_7","But remember that fancy swordplay and well-polished armor do not make you a paladin. You must be just in your heart and strive always to be an exemplar of true virtue."
+7,"TEXT_JOBDEFPLD_00091_JENLYNS_000_10","Everyone knows that Ul'dah is ruled by the sultana─but everyone also knows that true power lies with the Syndicate. And at the core of the group is a faction that calls itself the Monetarists."
+8,"TEXT_JOBDEFPLD_00091_JENLYNS_000_11","Of the six who hold seats on the Syndicate, only General Raubahn is faithful to the sultana. Most of the others refuse to accord her due rights, and work to establish “self-governance” for themselves and their wealthy cohorts. It is they who are the Monetarists. It is they who run the Ul'dahn economy."
+9,"TEXT_JOBDEFPLD_00091_JENLYNS_000_12","“Self-governance” may sound a noble endeavor, but on their lips the words ring hollow. The faction seeks power, and that is why they plot against the Sultansworn, the sultana's last line of protection. They sowed the seeds of our ruin, and nurture them still. The disgrace of our former captain was their doing, of that I have little doubt."
+10,"TEXT_JOBDEFPLD_00091_Q1_000_1","What will you ask?"
+11,"TEXT_JOBDEFPLD_00091_A1_000_1","Who are the Sultansworn?"
+12,"TEXT_JOBDEFPLD_00091_A1_000_2","What is a paladin?"
+13,"TEXT_JOBDEFPLD_00091_A1_000_3","Who are the Monetarists?"
+14,"TEXT_JOBDEFPLD_00091_A1_000_4","Nothing."

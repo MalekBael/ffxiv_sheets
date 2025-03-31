@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBDEFBLM_00096_LALAI_000_000","What business brings you to Milvaneth Sacrarium, friend?"
+1,"TEXT_JOBDEFBLM_00096_LALAI_000_010","I am Lalai, a thaumaturge of the Order. It is my charge to give guidance to those who visit our Milvaneth Sacrarium in search of it."
+2,"TEXT_JOBDEFBLM_00096_LALAI_000_011","Sadly, as you can very well see, we have had to close our doors while repairs are underway. As such, we have had no visitors of late, and I find myself with a wealth of spare time."
+3,"TEXT_JOBDEFBLM_00096_LALAI_000_013","As a servant of Nald'thal, it saddens me that I have had to put aside my sacred duties for the nonce. I am, however, glad to be afforded the freedom to pursue my interests in the arcane."
+4,"TEXT_JOBDEFBLM_00096_LALAI_000_020","The origins of black magic can be traced back many, many years─to the beginning of the Fifth Astral Era, to be precise. There lived at that time in Eorzea a powerful sorceress named Shatotto, who strived to push the destructive power of magic to its very limits."
+5,"TEXT_JOBDEFBLM_00096_LALAI_000_021","The typical practice of magi is to weave magic using their own aether. The ability to do so is the greatest magical gift, yet at the same time that gift's greatest limit."
+6,"TEXT_JOBDEFBLM_00096_LALAI_000_022","Shatotto was able to overcome such inherent limitations by developing a new technique which allowed her to draw upon the aether all around her as the fount of her magic. It was this technique that came to be known as black magic."
+7,"TEXT_JOBDEFBLM_00096_LALAI_000_023","To take up the mantle of black mage is to revive this ancient art and command the aether everywhere to one's will."
+8,"TEXT_JOBDEFBLM_00096_LALAI_000_024","Following the War of the Magi and the Sixth Umbral Calamity, however, black magic was branded far too great a danger to life, and so its use and even its mere mention were made forbidden. Over time, it came to be forgotten entirely. Or so was thought..."
+9,"TEXT_JOBDEFBLM_00096_LALAI_000_025","This changed one hundred years ago, when a prophet among mages stepped forth to revive this ancient and unrivaled art. That man was none other than my master and mentor, Ququruka Tataruka."
+10,"TEXT_JOBDEFBLM_00096_Q1_000_001","What would you like to ask?"
+11,"TEXT_JOBDEFBLM_00096_A1_000_001","Tell me about yourself."
+12,"TEXT_JOBDEFBLM_00096_A1_000_002","What is a black mage?"
+13,"TEXT_JOBDEFBLM_00096_A1_000_003","Nothing."

@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_TSTPRGTEST_00001_SCENE00000","シナリオテキストテスト１<Highlight>ObjectParameter(1)</Highlight>"
+1,"TEXT_TSTPRGTEST_00001_SCENE00001","シナリオテキストテスト2sdfsd<Highlight>ObjectParameter(1)</Highlight>"
+2,"TEXT_TSTPRGTEST_00001_NPC_TRADE_OK","交換"
+3,"TEXT_TSTPRGTEST_00001_NPC_TRADE_CANCEL","だめ"

@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBDEFDRG_00092_TALK_ACTOR","dummy"
+1,"TEXT_JOBDEFDRG_00092_ALBERIC_000_1","I am Ser Alberic Bale, knight of Ishgard in service to the Holy See."
+2,"TEXT_JOBDEFDRG_00092_ALBERIC_000_2","I am a knight of the Holy See, sworn for life─as we all are. In addition to my duties in service to the See, my fellow knights and I are tasked with protecting Ishgard from the dragons─the wyrms who have beset our nation throughout its history."
+3,"TEXT_JOBDEFDRG_00092_ALBERIC_000_3","In the past this duty fell not to the knights of the See, but to a specialized brigade known as the dragoons. In my younger days, I was one of them─verily, their leader, bearing the title of Azure Dragoon."
+4,"TEXT_JOBDEFDRG_00092_ALBERIC_000_4","Many years ago, I retired from active duty to serve the See. My former post is now held by my erstwhile student, an accomplished young dragoon by the name of Estinien."
+5,"TEXT_JOBDEFDRG_00092_ALBERIC_000_5","The dragoons are an elite contingent of Ishgardian knights who serve to protect our nation from the wrath of the fearsome wyrms that would raze us to the ground."
+6,"TEXT_JOBDEFDRG_00092_ALBERIC_000_6","The first─and greatest─of the dragoons was none other than Haldrath the Dragonseye, hero of the Founding Wars and slayer of the great wyrm Nidhogg."
+7,"TEXT_JOBDEFDRG_00092_ALBERIC_000_7","Dragoons must display complete mastery of their chosen weapon, the lance, that they might stand against their immense foe. The leader of the dragoons is known as the Azure Dragoon, and is chosen by the Eye, a relic guarded within the Holy See which bestows upon the chosen one the power of the dragon."
+8,"TEXT_JOBDEFDRG_00092_ALBERIC_000_8","And yet this power is as a double-edged sword, for if the dragoon does not maintain absolute control over his emotions, he shall fall under the thrall of the very wyrms that he would slay. But so it always has been─no great power comes without a cost."
+9,"TEXT_JOBDEFDRG_00092_Q1_000_1","What will you ask?"
+10,"TEXT_JOBDEFDRG_00092_A1_000_1","What do you do here?"
+11,"TEXT_JOBDEFDRG_00092_A1_000_2","What is a dragoon?"
+12,"TEXT_JOBDEFDRG_00092_A1_000_3","Nothing."

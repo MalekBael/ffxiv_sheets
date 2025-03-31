@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_1","Welcome, welcome! What brings ye to the Blacksmiths' Guild?"
+1,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_2","Oh, not much. I'm jus' forgemaster o' this here guild. I ain't one to stand on ceremony, though, so ye can jus' call me Brithael."
+2,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_3","As fer what ol' Brithael does... Well, what I <Emphasis>enjoy</Emphasis> doin' is lookin' after the new recruits, trainin' 'em an' whatnot."
+3,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_4","'Course, as an employee o' Naldiq & Vymelli's, I've got a whole mess of other duties besides. Fer instance, makin' sure contracts get fulfilled an' securin' new ones."
+4,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_5","Fortunately, Forgemaster H'naanza o' the Armorers' Guild usually handles that shite. Else I wouldn't have time to keep me thirst at bay."
+5,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_6","Well, uh...in essence, ye take some raw ore, smelt it into a hunk o' metal, heat it till it's bleedin' hot, then pound the hells out of it till it looks the way ye want."
+6,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_7","Or if yer askin' about the difference between blacksmithin' and armorin', well... Whereas armorers make armor, we smitties make weapons an' tools. We're talkin' swords an' lances, axes an' pickaxes, needles an' knives, sharp sticks..."
+7,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_8","Well, maybe not sharp sticks. Anyway, to craft all that, ye need to know how to work all manner o' metals. Some folk think a strong arm's all it takes, but that ain't the half of it."
+8,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_9","Ye won't go far without the knowledge an' technique essential to the craft. That, plus hard work an' dedication─aye, all that's key to blacksmithin'."
+9,"TEXT_REGSEABSNGUILD_00055_Q1_000_1","What will you ask?"
+10,"TEXT_REGSEABSNGUILD_00055_A1_000_1","What do you do here?"
+11,"TEXT_REGSEABSNGUILD_00055_A1_000_2","What is blacksmithing?"
+12,"TEXT_REGSEABSNGUILD_00055_A1_000_3","Nothing."

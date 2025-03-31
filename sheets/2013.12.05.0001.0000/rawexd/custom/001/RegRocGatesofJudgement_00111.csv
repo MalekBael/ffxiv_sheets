@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGROCGATESOFJUDGEMENT_00111_MARCELAIN_000_000","What business have you here? Speak quickly."
+1,"TEXT_REGROCGATESOFJUDGEMENT_00111_MARCELAIN_000_010","I am Ser Marcelain, knight of Ishgard and keeper of the Gates of Judgement. With my life, I am sworn to defend this great ingress from our enemies."
+2,"TEXT_REGROCGATESOFJUDGEMENT_00111_MARCELAIN_000_011","It matters not who you are or claim to be. If you do aught to rouse my suspicions, I shan't hesitate to shorten you a head. Watch your step, adventurer."
+3,"TEXT_REGROCGATESOFJUDGEMENT_00111_MARCELAIN_000_020","You stand within the Gates of Judgement, the sole means of entering the Holy See of Ishgard. Only those deemed worthy in the eyes of the Fury may pass."
+4,"TEXT_REGROCGATESOFJUDGEMENT_00111_MARCELAIN_000_021","However, by order of His Holiness, no outsiders are to be admitted for the foreseeable future. Begone before I have you forcibly removed, or worse."
+5,"TEXT_REGROCGATESOFJUDGEMENT_00111_Q1_000_000","What will you ask?"
+6,"TEXT_REGROCGATESOFJUDGEMENT_00111_A1_000_001","What do you do here?"
+7,"TEXT_REGROCGATESOFJUDGEMENT_00111_A1_000_002","What kind of place is this?"
+8,"TEXT_REGROCGATESOFJUDGEMENT_00111_A1_000_003","Nothing."

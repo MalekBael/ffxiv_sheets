@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_000","You've sunk to Fisherman's Bottom, a place for fishermen─you can't go lower than here."
+1,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_010","I'm Sisipu, the guildmaster. Well, technically, acting guildmaster."
+2,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_011","The actual guildmaster, Wawalago, apparently has better things to do than administer a guild, and so it falls to me."
+3,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_012","In hindsight, the thought of a fisherman neglecting his duties shouldn't have come as such a surprise to me."
+4,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_020","Our guild members live by a simple code: we catch fish."
+5,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_021","From serene seas to roaring rivers, from large lagoons to puny ponds, where there are fish to be fished, the Fishermen's Guild will fish them."
+6,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_022","Fishing with nets can yield a fair haul, but requires a ship and trustworthy shiphands. Since you haven't access to a vessel nor any apparent friends, we will not concern ourselves with nets."
+7,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_023","“Spare the rod and spoil the adventurer,” as they say. You'll not need an army aboard a dreadnought to catch a fish─you will need only a rod and your wits."
+8,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_024","Quite fitting for a self-sufficient adventurer like yourself, do you not agree? After all, what sort of adventurer wants to browse the nets for hours upon hours when you could be enjoying the great outdoors with a rod and reel?"
+9,"TEXT_REGSEAFSHGUILD_00088_Q1_000_001","What will you ask?"
+10,"TEXT_REGSEAFSHGUILD_00088_A1_000_001","Who are you?"
+11,"TEXT_REGSEAFSHGUILD_00088_A1_000_002","What do you do?"
+12,"TEXT_REGSEAFSHGUILD_00088_A1_000_003","Nothing."

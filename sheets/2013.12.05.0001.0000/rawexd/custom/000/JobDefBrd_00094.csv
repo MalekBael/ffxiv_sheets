@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_1","Greetings. Have you an interest in the poetry and song of the bard?"
+1,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_2","I am but a simple minstrel. Though once I served with the Gods' Quiver, my days are now measured by stanza and verse."
+2,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_3","It has been long years since I last set foot within the Twelveswood...yet I could no longer ignore fate's insistent pull. And so, I shall abide here for a time until certain matters are laid to rest."
+3,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_5","When folks think of a bard, they conjure images of a minstrel wandering the realm, performing at banquets and in alehouses for the pleasure of king and commoner alike."
+4,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_6","But the bard I would speak of is one born from a battle-hardened archer─one who sings <If(PlayerParameter(4))>her<Else/>his</If> songs in the heat of combat to inspire <If(PlayerParameter(4))>her<Else/>his</If> comrades to ever greater feats of martial prowess."
+5,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_7","As battles unfold, the distinction between the lines of friend and foe grows hazy. Yet the archer must stay ever alert, with arrow nocked and eyes trained upon the struggle. One need not have a vivid imagination to appreciate the torrent of emotions that rages within <If(PlayerParameter(4))>her<Else/>him</If> in that moment."
+6,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_8","Nerves near to fraying, <If(PlayerParameter(4))>her<Else/>his</If> breast fit to burst, the archer does the only thing <If(PlayerParameter(4))>she<Else/>he</If> can: <If(PlayerParameter(4))>she<Else/>he</If> sings. And in that raw melody resides the power to stir the souls of men. That, my friend, is the true definition of a bard, and one that few now remember."
+7,"TEXT_JOBDEFBRD_00094_Q1_000_1","What will you ask?"
+8,"TEXT_JOBDEFBRD_00094_A1_000_1","Who are you?"
+9,"TEXT_JOBDEFBRD_00094_A1_000_2","What does a bard do?"
+10,"TEXT_JOBDEFBRD_00094_A1_000_3","Nothing."

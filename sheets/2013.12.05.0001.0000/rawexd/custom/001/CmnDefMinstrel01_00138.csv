@@ -1,0 +1,45 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_000","<Emphasis>Dawn may banish even the darkest night,
+Yet ever shall primal desires burn.</Emphasis>"
+1,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_001","<Emphasis>Two swords shall vie to lay them low─
+A blade born of light and a blade forged of might.
+Alas, man may entrust his fate unto but one.</Emphasis>"
+2,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_002","Truly, Archon Louisoix had a gift with words. Had circumstances been different, he would have made a magnificent minstrel..."
+3,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_010","You desire an encore? Very well, it would be my pleasure."
+4,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_011","<Highlight>ObjectParameter(1)</Highlight>, I give you Ultima's Bane!"
+5,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_012","From an era long forgotten,♪
+A blade of midnight drawn,♪
+From a battlefield awakened,♪
+A warrior who bears the dawn...♪
+"
+6,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_013","From an era long forgotten,♪
+A blade of midnight drawn,♪
+From a distant land uncharted,♪
+A warrior who bears the dawn...♪
+"
+7,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_010","Ever since I first set foot in these lands, I have been haunted by a song."
+8,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_011","It foretold the coming of the Seventh Umbral Era, and of those who would deliver us from doom..."
+9,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_020","Of course, I need not speak to you and your brethren of the prophetess Mezaya Thousand Eyes's words."
+10,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_021","For in the fires of Carteneau, you witnessed the truth of the <Emphasis>Divine Chronicles</Emphasis>..."
+11,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_022","And when you emerged from the Praetorium triumphant, you proved yourself a Warrior of Light to the world once more."
+12,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_030","<Emphasis>Ne'er till land consumes sun can sea bear moons,
+Heavens spew crimson flame, hells seep black dooms.</Emphasis>"
+13,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_031","<Emphasis>Stray seeds quicken in ash's grey embrace,
+Valiant blades forged under the Twelve's good grace.</Emphasis>"
+14,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_032","The words of the prophetess Mezaya Thousand Eyes─her <Emphasis>Divine Chronicles</Emphasis>, to be precise."
+15,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_033","The “crimson flames” of Dalamud heralded the end of an era..."
+16,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_034","And the “valiant blades” of the Warriors of Light brought us hope in our darkest hour."
+17,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_035","<Emphasis>Seven waning moons see seven suns rise,
+Divine order roils, fallen corpses writhe.</Emphasis>"
+18,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_036","<Emphasis>Souls from aether far, strangers from strange lands,
+Yester with thine eyes, morrow by thine hands.</Emphasis>"
+19,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_037","We knew not whom the verses spoke of─not I, nor the Archons, nor any other soul in the realm."
+20,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_038","The Warriors of Light were lost to us. If not them, who could it be?"
+21,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_039","And then came the rumors of one not unlike them─a <If(PlayerParameter(4))>woman<Else/>man</If> who walked in the light of the Crystal."
+22,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_040","From the moment I saw you, I felt it must be true. Having learned of your deeds in their entirety, I now <Emphasis>know</Emphasis> it to be true."
+23,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_041","You are as they were, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>─a Warrior of Light, and an inspiration to us all."
+24,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_050","dummy"
+25,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_051","dummy"
+26,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_052","dummy"

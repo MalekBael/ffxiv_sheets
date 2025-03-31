@@ -1,0 +1,23 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_000","You wear an inquisitive expression, friend. Surely, this is not your first time seeing a Padjal?"
+1,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_010","I am Raya–O–Senna. A Padjal of Gridania, as you might discern from the horns on my head."
+2,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_011","My name may be unfamiliar to you, but doubtless you know of my sister. That would be Kan–E–Senna, Elder Seedseer of Gridania and supreme commander of the Order of the Twin Adder."
+3,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_012","Together, we are known as the Three Seedseers─my sister, myself, and our younger brother, A–Ruhn–Senna."
+4,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_013","Among my myriad titles, I am proud to call myself a practitioner of white magic, which is the art of healing."
+5,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_014","This is an art for which we have no small need. The Twelveswood has been made to suffer unspeakable pains, from the Calamity, to unending conflicts with the beast tribes, to being exploited at the hands of our own people... It is my duty─my calling─to provide succor, and I do it gladly."
+6,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_020","What is white magic, indeed? I often ask myself the selfsame question. I will tell you what I know, that you might come to an answer of your own."
+7,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_021","The art now known as white magic dates back to the Fifth Astral Era. It was then that a brilliant young sorceress─for the first time in history─succeeded in channeling not merely her own life energy, but the aether that inhabits the very land itself."
+8,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_022","Her magic was that of destruction: black magic. The people of Amdapor felt this power was too great to be allowed to go unchecked, and so it was that white magic─the magic of healing and solace─was born."
+9,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_023","So the forces of magic were brought into equilibrium, and civilization flourished. But this era of peace and prosperity would prove short-lived. War broke out, and the realm was thrown into chaos."
+10,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_024","The War of the Magi. To rain death and destruction on their foes, mages summoned forth greater and greater powers. The war raged on, until the aether dried, and the land itself could bear the burden no longer."
+11,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_025","So did the hubris of magi bring forth the Sixth Umbral Era...and with it a mighty flood that swept away entire civilizations, leaving naught but ruin and suffering in its wake."
+12,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_026","The survivors─what few there were─banded together. Vowing never again to repeat their mistake, white and black magic were declared forbidden arts, never to be practiced again."
+13,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_027","The elementals of the forest, knowing that men could not be trusted to keep such vows, took action as well. The Twelveswood grew, swallowing the ruins of Amdapor, and the power of white magic was sealed away deep in the forest, far from the reach of mortals."
+14,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_028","Ages passed, until five centuries ago, the elementals at long last welcomed people back into the forest. So the nation of Gridania was founded, and my people─the Padjal─came into being, to serve as mediators between elementals and those who would reside in their forest home.
+It is from the elementals themselves that we inherited white magic."
+15,"TEXT_JOBDEFWHM_00095_Q1_000_001","What will you ask?"
+16,"TEXT_JOBDEFWHM_00095_A1_000_001","Tell me about yourself."
+17,"TEXT_JOBDEFWHM_00095_A1_000_002","What is white magic?"
+18,"TEXT_JOBDEFWHM_00095_A1_000_003","Nothing."

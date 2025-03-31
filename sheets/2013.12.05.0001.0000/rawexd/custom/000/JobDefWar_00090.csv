@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBDEFWAR_00090_TALK_ACTOR","dummy"
+1,"TEXT_JOBDEFWAR_00090_CURIOUSGORGE_000_1","What is it? I've got no words to mince with whelps...unless, that is, you're here to become a wolf."
+2,"TEXT_JOBDEFWAR_00090_CURIOUSGORGE_000_2","You can call me Curious Gorge─well, you can call me whatever you damn please if you don't value your neck. I hail from the far north, beyond the highlands of Coerthas, where the mountains stand tall and the flames burn hotter than the pits of hell."
+3,"TEXT_JOBDEFWAR_00090_CURIOUSGORGE_000_3","My reasons for coming to this land are twofold. One, to pay a debt to an old comrade from the days before the Calamity by protecting the villages here. Two, to spread the battle techniques perfected by my ancestors, that our proud line of warriors does not end with me."
+4,"TEXT_JOBDEFWAR_00090_CURIOUSGORGE_000_5","The warrior summons forth the dormant power of the beast within, channeling this untamed strength to perform martial techniques beyond the grasp of your run-of-the-mill Disciple of War."
+5,"TEXT_JOBDEFWAR_00090_CURIOUSGORGE_000_6","Where I hail from, up in the mountains of flame to the north, there's barely enough food to go around. Smoldering rock doesn't make for good farmland, you see. In the old days, the warriors of our clan traveled far and wide, earning good coin for their esteemed services."
+6,"TEXT_JOBDEFWAR_00090_CURIOUSGORGE_000_7","In recent years, however, we find ourselves shunned by those selfsame peoples we once protected. This, in turn, has led to more and more of our young ones choosing to forsake the warrior's path. A sad fate for our once-proud tribe, it is."
+7,"TEXT_JOBDEFWAR_00090_CURIOUSGORGE_000_8","And so I have traveled here, with no possessions save the armor on my back and the ancient text passed down from my ancestors. A text that tells of the history and techniques of my people─and, sadly, a text I can scarcely read."
+8,"TEXT_JOBDEFWAR_00090_Q1_000_1","What will you ask?"
+9,"TEXT_JOBDEFWAR_00090_A1_000_1","Tell me about yourself."
+10,"TEXT_JOBDEFWAR_00090_A1_000_2","What is a warrior?"
+11,"TEXT_JOBDEFWAR_00090_A1_000_3","Nothing."

@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_TSTPLNMOTION_00223_001","モーション検証カスタムトーク"
+1,"TEXT_TSTPLNMOTION_00223_002","座り・地面すわりのENPCが、Lcut中に立ち上がり
+そのままカットが終了したときの検証"
+2,"TEXT_TSTPLNMOTION_00223_003","せーりーふー"
+3,"TEXT_TSTPLNMOTION_00223_004","せーりーふー"
+4,"TEXT_TSTPLNMOTION_00223_005","せーりーふー"
+5,"TEXT_TSTPLNMOTION_00223_006","せーりーふー"

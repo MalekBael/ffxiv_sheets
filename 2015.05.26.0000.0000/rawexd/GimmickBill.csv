@@ -1,0 +1,58 @@
+﻿key,0
+#,
+int32,str
+0,"テストデータ"
+1,"シュポシェのヒント（仮）"
+2,"First Spear Rydel
+Toto–Rak Expedition Notes  (Day 1)
+Strange lights sighted from just inside dungeon entrance. Creatures of the forest? Closer inspection reveals them to be man-made machines. Ashcrown Consortium technologist accompanying party believes them to be of Garlean design. Labels them “magitek photocells.” Collect for further study."
+3,"First Spear Rydel
+Toto–Rak Expedition Notes  (Day 2)
+Dramatic increase in light emitted by photocells observed upon collecting fourth. Dispatched two lancers to Gridania with orders to deliver the photocells to Stillglade Fane. Soon after their departure, received linkpearl transmission from pair reporting marked reduction in photocell glow as distance from Maws increased. Recalled lancers."
+4,"First Spear Rydel
+Toto–Rak Expedition Notes  (Day 3)
+Lancer downed attempting to breach what Ashcrown technologist calls a “magitek field.” Technologist advises that there should be a device in the vicinity powering the barrier. No choice but to look for it. Divided party into four teams to expedite search. Whisperings of discontent? No. Just my imagination."
+5,"First Spear Rydel
+Toto–Rak Expedition Notes  (Day 4)
+Device located, but one team yet to return. Barrier terminal unresponsive until technologist suggests applying set of four photocells. How does he know these things? Watch him. Lancer suggests locating missing team. Decide to press on."
+6,"First Spear Rydel
+Toto–Rak Expedition Notes  (Day 5)
+Encountered sheer drop several yalms down passage. Rock face looks treacherous but descent should be possible with ropes. Return climb may be troublesome─especially with the technologist slowing us down. Lancers seem uncertain. After consulting with second officer, have decided to proceed. Will send scouts to find alternate route back to entrance."
+7,"First Spear Rydel
+Toto–Rak Expedition Notes  (Day 6)
+Discovered mangled bodies of the missing team beyond the drop. Have lost linkpearl contact with the two scouts sent to find alternate route out. Presumed lost or deserted. Will continue expedition for now, but must consider retreat if situation worsens."
+8,"First Spear Rydel
+Toto–Rak Expedition Notes  (Day 7)
+Three lancers report difficulty breathing, as if something dank and heavy is clogging their lungs. Another two disappeared into the darkness, screaming. Technologist believes cause to be extreme levels of aetheric energy detected ahead. Lies. He has done something to us! The elementals warned me about him. Should have listened. Technologist suggests turning back. I see him for what he is now. Garlean worm is dead. Feel better. Pressing on."
+9,"You find a bloodstained scrap of parchment with a message scrawled upon it in faded ink.
+
+<Emphasis>“The Capten lykes his sees Bloo.”</Emphasis>"
+10,"You find a bloodstained scrap of parchment with a message scrawled upon it in faded ink.
+
+<Emphasis>“The Capten lykes his wyne Redd.”</Emphasis>"
+11,"You find a bloodstained scrap of parchment with a message scrawled upon it in faded ink.
+
+<Emphasis>“The Capten lykes his cabege Green.”</Emphasis>"
+12,"I finally mustered the courage to speak with your hero, my love. <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> is as kind and wise as <If(PlayerParameter(4))>she<Else/>he</If> is brave and strong. <If(PlayerParameter(4))>She<Else/>He</If> listened attentively as I told <If(PlayerParameter(4))>her<Else/>him</If> all about you─about us.
+
+Though <If(PlayerParameter(4))>she<Else/>he</If> is a <If(PlayerParameter(4))>woman<Else/>man</If> of few words, or perhaps because <If(PlayerParameter(4))>she<Else/>he</If> is, everything <If(PlayerParameter(4))>she<Else/>he</If> said seemed to inspire me. Why, <If(PlayerParameter(4))>her<Else/>his</If> gaze alone instilled me with a confidence I never knew I had. Truly, I feel better prepared to face the future for having met <If(PlayerParameter(4))>her<Else/>him</If>. How right you were, my love."
+13,"Scarcely a week has passed since we returned to the village, and already I cannot help thinking it was a mistake. There was a time when this place seemed just large enough. But having seen the wider world, it all feels so insufferably confined that I often find myself struggling for breath. I know that it is the same for you, my love.
+
+
+
+The only time I feel truly alive is when I am adventuring with you. We are as caged birds in this backwater. So long as we remain here, we will never spread our wings and soar. So let us take to the road, and create a lifetime of wonderful memories together."
+14,"I could not have hoped for a more romantic first visit to Mor Dhona. The crystals that pierce the landscape glowed in all their majesty, as if to celebrate our future together. And as we lazed by Silvertear Lake, watching the waves lapping at the shore, the sun took its leave behind the horizon, that we might enjoy a moment of intimacy.
+
+
+
+“I want us to be together forever.” You first said these words to me years ago, and you said them to me again tonight. I am so happy to be with you."
+15,"You have been looking deathly pale of late. The scorching heat of Thanalan does not agree with you. You were never fond of hot climes, and it was a mistake to come here. Let us make for Coerthas, where the bracing air will put roses on your cheeks."
+16,"I know, I know─it is not easy being without a body. I promise to find one for you, but you must have patience. You are my husband–to–be, and there is nothing I would not do for you, so please, have faith in me. Give me time, my love, and I shall make you whole again, as you make me."
+17,"I am sorry to keep you waiting, my love, but we cannot afford to compromise─not where your new body is concerned. Ordinary adventurers die often enough, leaving their ordinary corpses, but if you are to be like <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>, we cannot settle for anything less than extraordinary.
+But a strong body requires an equally strong soul─as I recently discovered. Now, you are probably worried that strong souls are rare, and so they are─but never fear, for we can create one ourselves! All we need is a plentiful supply of the weaker kind, and they are common indeed. Be patient just a little longer, my love, and all will be as you desire."
+18,"With the nigh endless supply of bodies here, I will make you well again, my love. Then we shall be wed as man and wife, and forever be joined as the gods intended. Of course, it is only fitting that a proper ceremony be held, with guests in attendance. I will send out invitations to all our friends. They will be so happy for us, I have no doubt they will jump at the chance to part with their souls."
+19,""
+20,""
+21,""
+22,""
+23,""

@@ -1,0 +1,13 @@
+﻿key,0,1,2,3,4,5,6,7
+#,,,,,,,,
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
+0,"",0,"",0,0,1,0,0
+1,"Mineral Deposit",0,"Mineral Deposits",0,0,0,0,0
+2,"Rocky Outcrop",0,"Rocky Outcrops",0,0,0,0,0
+3,"Mature Tree",0,"Mature Trees",0,0,0,0,0
+4,"Lush Vegetation Patch",0,"Lush Vegetation Patch",0,0,0,0,0
+5,"Unspoiled Mineral Deposit",0,"Unspoiled Mineral Deposits",0,0,0,0,0
+6,"Unspoiled Rocky Outcrop",0,"Unspoiled Rocky Outcrops",0,0,0,0,0
+7,"Unspoiled Mature Tree",0,"Unspoiled Mature Trees",0,0,0,0,0
+8,"Unspoiled Lush Vegetation Patch",0,"Unspoiled Lush Vegetation Patches",0,0,0,0,0
+9,"",0,"",0,0,1,0,0

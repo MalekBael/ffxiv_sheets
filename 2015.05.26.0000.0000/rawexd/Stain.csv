@@ -1,0 +1,124 @@
+﻿key,0,1,2,3,4,5
+#,,,,,,
+int32,uint32,byte,uint32,str,bit&01,bit&02
+0,0,2,5728,"",False,True
+1,14999504,2,5729,"Snow White",False,True
+2,11315362,2,5730,"Ash Grey",False,True
+3,9013124,2,5731,"Goobbue Grey",False,True
+4,6645093,2,5732,"Slate Grey",False,True
+5,4736834,2,5733,"Charcoal Grey",False,True
+6,2828579,2,5734,"Soot Black",False,True
+7,15114134,4,5735,"Rose Pink",False,True
+8,8612201,4,5736,"Lilac Purple",False,True
+9,5969705,4,5737,"Rolanberry Red",False,True
+10,7871002,4,5738,"Dalamud Red",False,True
+11,6431239,4,5739,"Rust Red",False,True
+12,4527377,4,5740,"Wine Red",False,True
+13,13397086,4,5741,"Coral Pink",False,True
+14,9517863,4,5742,"Blood Red",False,True
+15,14985866,4,5743,"Salmon Pink",False,True
+16,12016685,5,5744,"Sunset Orange",False,True
+17,8206598,5,5745,"Mesa Red",False,True
+18,6966071,5,5746,"Bark Brown",False,True
+19,7224612,5,5747,"Chocolate Brown",False,True
+20,5188895,5,5748,"Russet Brown",False,True
+21,3154203,5,5749,"Kobold Brown",False,True
+22,13209942,5,5750,"Cork Brown",False,True
+23,10055231,5,5751,"Qiqirn Brown",False,True
+24,8084525,5,5752,"Opo-opo Brown",False,True
+25,10651484,5,5753,"Aldgoat Brown",False,True
+26,12940324,5,5754,"Pumpkin Orange",False,True
+27,9328667,5,5755,"Acorn Brown",False,True
+28,6570518,5,5756,"Orchard Brown",False,True
+29,4008205,5,5757,"Chestnut Brown",False,True
+30,12166281,5,5758,"Gobbiebag Brown",False,True
+31,9601388,5,5759,"Shale Brown",False,True
+32,6378053,5,5760,"Mole Brown",False,True
+33,4141865,5,5761,"Loam Brown",False,True
+34,15455136,6,5762,"Bone White",False,True
+35,12034928,6,5763,"Ul Brown",False,True
+36,14398551,6,5764,"Desert Yellow",False,True
+37,16434731,6,5765,"Honey Yellow",False,True
+38,14982708,6,5766,"Millioncorn Yellow",False,True
+39,12355588,6,5767,"Coeurl Yellow",False,True
+40,15914864,6,5768,"Cream Yellow",False,True
+41,10847280,6,5769,"Halatali Yellow",False,True
+42,4207377,6,5770,"Raisin Brown",False,True
+43,5788208,7,5771,"Mud Green",False,True
+44,12303242,7,5772,"Sylph Green",False,True
+45,11251796,7,5773,"Lime Green",False,True
+46,7369510,7,5774,"Moss Green",False,True
+47,9149539,7,5775,"Meadow Green",False,True
+48,4936242,7,5776,"Olive Green",False,True
+49,3290657,7,5777,"Marsh Green",False,True
+50,10204003,7,5778,"Apple Green",False,True
+51,6652481,7,5779,"Cactuar Green",False,True
+52,2640684,7,5780,"Hunter Green",False,True
+53,4219705,7,5781,"Ochu Green",False,True
+54,6255960,7,5782,"Adamantoise Green",False,True
+55,3886396,7,5783,"Nophica Green",False,True
+56,1976865,7,5784,"Deepwood Green",False,True
+57,9878969,7,5785,"Celeste Green",False,True
+58,4420210,7,5786,"Turquoise Green",False,True
+59,2049606,7,5787,"Morbol Green",False,True
+60,11715790,8,5788,"Ice Blue",False,True
+61,8630482,8,5789,"Sky Blue",False,True
+62,6586784,8,5790,"Seafog Blue",False,True
+63,3893382,8,5791,"Peacock Blue",False,True
+64,1850708,8,5792,"Rhotano Blue",False,True
+65,9345964,8,5793,"Corpse Blue",False,True
+66,5199718,8,5794,"Ceruleum Blue",False,True
+67,3094609,8,5795,"Woad Blue",False,True
+68,1711911,8,5796,"Ink Blue",False,True
+69,5996480,8,5797,"Raptor Blue",False,True
+70,3102857,8,5798,"Othard Blue",False,True
+71,2310514,8,5799,"Storm Blue",False,True
+72,1124676,8,5800,"Void Blue",False,True
+73,2568295,8,5801,"Royal Blue",False,True
+74,1579319,8,5802,"Midnight Blue",False,True
+75,3618631,8,5803,"Shadow Blue",False,True
+76,3222871,8,5804,"Abyssal Blue",False,True
+77,8880046,9,5805,"Lavender Purple",False,True
+78,5326176,9,5806,"Gloom Purple",False,True
+79,3288123,9,5807,"Currant Purple",False,True
+80,12033724,9,5808,"Iris Purple",False,True
+81,3877437,9,5809,"Grape Purple",False,True
+82,16699125,9,5810,"Lotus Pink",False,True
+83,14457802,9,5811,"Colibri Pink",False,True
+84,7950956,9,5812,"Plum Purple",False,True
+85,6697038,9,5813,"Regal Purple",False,True
+86,0,0,0,"",False,True
+87,0,0,0,"",False,True
+88,0,0,0,"",False,True
+89,0,0,0,"",False,True
+90,0,0,0,"",False,True
+91,0,0,0,"",False,True
+92,0,0,0,"",False,True
+93,0,0,0,"",False,True
+94,0,0,0,"",False,True
+95,0,0,0,"",False,True
+96,0,0,0,"",False,True
+97,0,0,0,"",False,True
+98,0,0,0,"",False,True
+99,0,0,0,"",False,True
+100,0,0,0,"",False,True
+101,16382196,10,8732,"Pure White",False,True
+102,1973790,10,8733,"Jet Black",False,True
+103,16632006,10,8734,"Pastel Pink",False,True
+104,3283225,0,8735,"Dark Red",False,True
+105,2629916,0,8736,"Dark Brown",False,True
+106,12242858,10,8737,"Pastel Green",False,True
+107,1387564,0,8738,"Dark Green",False,True
+108,9872601,10,8739,"Pastel Blue",False,True
+109,1187629,0,8740,"Dark Blue",False,True
+110,12301786,10,8741,"Pastel Purple",False,True
+111,2301990,0,8742,"Dark Purple",False,True
+112,10987431,10,8743,"Metallic Silver",True,False
+113,15590973,10,8744,"Metallic Gold",True,False
+114,11935051,10,8745,"Metallic Red",True,False
+115,14978095,0,8746,"Metallic Orange",True,False
+116,16046662,0,8747,"Metallic Yellow",True,False
+117,2271063,10,8748,"Metallic Green",True,False
+118,6214886,0,8749,"Metallic Sky Blue",True,False
+119,5264089,10,8750,"Metallic Blue",True,False
+120,10708674,0,8751,"Metallic Purple",True,False

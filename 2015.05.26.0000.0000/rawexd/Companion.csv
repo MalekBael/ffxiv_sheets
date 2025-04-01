@@ -1,0 +1,629 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,str,uint16,byte,byte,byte,byte,byte,byte,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,uint16,bit&10,bit&20,uint16,byte,byte,byte,uint16
+0,"",0,"",0,0,1,0,0,"","","",0,100,0,0,0,0,0,0,8,0,False,False,False,False,0,False,True,0,10,100,100,0
+1,"cherry bomb",0,"cherry bombs",0,0,0,0,0,"Summon your cherry bomb minion─a miniature recreation of a voidsent bomb, created via the thaumaturgical rendering of umbrally charged aetherial energy. Guaranteed never to self-destruct, or your gil back.","To maintain the white-hot temperatures within their cores, bombs will feed upon almost any combustible material, including wood, charcoal, ceruleum, fire crystals, even dragon peppers.","Brilliant bombs─
+breathtaking,
+beautiful, brilliant!
+  - Ba Go",427,100,30,0,0,0,2,0,8,1,True,True,False,False,0,False,True,3,10,100,100,4503
+2,"mammet #001",0,"mammets #001",0,0,0,0,1,"Summon your mammet #001 minion─a fully operational clockwork puppet built in a joint effort by the Alchemists' and Goldsmiths' Guilds.","The standard frill-free #001 model is not only the best-selling mammet on the market, but is the blueprint on which all other clockwork servitors are based.","Mammets can't
+even taste food!
+  - Serendipity",419,100,30,0,0,0,1,0,8,2,False,False,False,False,0,False,True,200,10,100,100,4501
+3,"wayward hatchling",0,"wayward hatchlings",0,0,0,0,0,"Summon your wayward hatchling minion. Until he finds his real mother, you'll have to suffice.","Even if this orphaned avian were to stumble across his birth parent, chances are he would not even blink an eye, for it is well documented that immediately after hatching, chocobos recognize the first thing they see as their mother─that being
+you.","Whoa, whoa, whoa!
+Hooold your chocobos.
+  - Buscarron",423,100,30,0,30,0,2,0,8,3,True,True,False,True,0,False,True,1,10,100,100,4502
+4,"Cait Sith doll",0,"Cait Sith dolls",0,0,0,1,0,"Summon your Cait Sith doll. The ever-extended tail helps the kitten keep her balance.","The clockwork rendition of an enigmatic cat spirit from the pages of Midlander mythology, Goldsmiths' Guild guildmaster Serendipity crafted this lifelike figurine to bring joy to those children who were orphaned in the Calamity.","What may be a few to
+you was everything to
+those who died...
+  - Cait Sith",430,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,201,20,100,100,4504
+5,"baby behemoth",0,"baby behemoths",0,0,0,0,0,"Summon your baby behemoth. We can only hope his mother doesn't come looking for him.","Obtainable in Ul'dah's Sapphire Avenue Exchange for a fistful of coin and a smile, the pedigree of this baby beast is questionable at best. While displaying many behemoth-like features─a sleek violet hide, hungry eyes, and two polished
+horns─its squealing is not
+unlike a boar at slaughter.","Disaster follows the man
+like a behemoth chasing
+a butterfly.
+  - Chechezan",428,100,30,0,0,0,2,0,8,5,True,True,False,True,0,False,True,5,10,100,100,4505
+6,"mammet #003L",0,"mammets #003L",0,0,1,0,1,"Summon your mammet #003L minion─a fully operational clockwork puppet built for the Maelstrom.","Designed to be a standard-bearer in Maelstrom company parades, these hand-crafted automatons were soon decommissioned due to the fact that their small stature ensured that no one could see the flags they carried.","Feelings! Maybe she just
+doesn't feel like part of
+the team!?
+  - Wedge",420,100,30,0,0,0,1,0,8,2,False,False,False,False,0,False,True,200,10,100,100,4506
+7,"mammet #003G",0,"mammets #003G",0,0,1,0,1,"Summon your mammet #003G minion─a fully operational clockwork puppet built for the Order of the Twin Adder.","Designed to be a standard-bearer in Order of the Twin Adder company parades, these hand-crafted automatons were soon decommissioned due to the fact that their small stature ensured that no one could see the flags they carried.","Feelings! Maybe she just
+doesn't feel like part of
+the team!?
+  - Wedge",421,100,30,0,0,0,1,0,8,2,False,False,False,False,0,False,True,200,10,100,100,4507
+8,"mammet #003U",0,"mammets #003U",0,0,1,0,1,"Summon your mammet #003U minion─a fully operational clockwork puppet built for the Immortal Flames.","Designed to be a standard-bearer in Immortal Flames company parades, these hand-crafted automatons were soon decommissioned due to the fact that their small stature ensured that no one could see the flags they carried.","Feelings! Maybe she just
+doesn't feel like part of
+the team!?
+  - Wedge",422,100,30,0,0,0,1,0,8,2,False,False,False,False,0,False,True,200,10,100,100,4508
+9,"storm hatchling",0,"storm hatchlings",0,0,1,0,0,"Summon your storm hatchling minion. Not more than a fortnight out of the shell, but his blood already runs Maelstrom red. Till sea swallows all!","Raised by a storm private from an egg found abandoned in the company stables he was charged with cleaning, this adorable fledgling is a symbol of new beginnings for the mighty Maelstrom.","Chocobo dander can
+be a mite ripe.
+  - Chocobokeep",424,100,30,0,30,0,2,0,8,3,True,True,False,True,0,False,True,1,10,100,100,4509
+10,"serpent hatchling",0,"serpent hatchlings",0,0,1,0,0,"Summon your serpent hatchling minion. Not more than a fortnight out of the shell, but his blood already runs Twin Adder yellow.","Raised by a serpent private from an egg found abandoned in the company stables he was charged with cleaning, this adorable fledgling is a symbol of new beginnings for the Order of the Twin Adder.","Chocobo dander can
+be a mite ripe.
+  - Chocobokeep",425,100,30,0,30,0,2,0,8,3,True,True,False,True,0,False,True,1,10,100,100,4510
+11,"flame hatchling",0,"flame hatchlings",0,0,1,0,0,"Summon your flame hatchling minion. Not more than a fortnight out of the shell, but his blood already runs Immortal Flames black.","Raised by a flame private from an egg found abandoned in the company stables he was charged with cleaning, this adorable fledgling is a symbol of new beginnings for the Immortal Flames.","Chocobo dander can
+be a mite ripe.
+  - Chocobokeep",426,100,30,0,30,0,2,0,8,3,True,True,False,True,0,False,True,1,10,100,100,4511
+12,"morbol seedling",0,"morbol seedlings",0,0,1,0,0,"Summon your morbol seedling minion...if you think you can stand his breath.","It is in fashion amongst wealthy Ul'dahn merchants and nobles to bring morbol seedlings to banquets, so that the upper crust might inhale the seedkin's “boot-like” bad breath to induce vomiting, allowing them to engorge themselves for the
+duration of the gatherings.","Did a morbol just empty
+its innards? I feel ill...
+  - Imperial Soldier",429,100,30,0,0,0,2,0,8,6,True,True,False,False,0,False,True,6,10,100,100,4512
+13,"tiny rat",0,"tiny rats",0,0,1,0,0,"Summon your tiny rat minion. He may infest your granaries, and he may carry the plague, but he's <Emphasis>simply too adorable</Emphasis> to condemn to the life-ending jaws of a metal trap.","It was only recently that an enterprising merchant from the Emerald Exchange in Ul'dah was tossed into the sultanate's oubliettes for fluffing the tails of rats caught on Pearl Avenue and selling prettied pests to tourists as “tiny squirrels.”","Pray waste no time
+chasing rats.
+  - Nanamo Ul Namo",431,100,30,0,0,0,2,0,8,7,True,False,False,True,0,False,True,7,10,100,100,4513
+14,"baby bun",0,"baby buns",0,0,1,0,0,"Summon your baby bun minion. Tastes great on salads and in stews.","For those wondering on the ill effects of inhaling spores released by common funguars, according to the <Emphasis>Encyclopedia Eorzea</Emphasis> (third edition), funguar spores “befoul the body's humours and claim control of an individual's very soul,
+rendering them a mindless
+thrall.”","You mushroom-headed,
+spindly-legged, spore-
+spewing abominations!
+  - Gabineaux",432,100,30,0,0,0,2,0,8,8,True,False,True,False,0,False,True,8,10,100,100,4514
+15,"chigoe larva",0,"chigoe larvae",0,0,1,0,0,"Summon your chigoe larva minion. This tiny vilekin takes the blood pact with his master <Emphasis>very</Emphasis> seriously.","Chirurgeons of the fallen city of Gelmorra once used chigoes to leech the dark humours of the infirm until it was realized the patients were contracting additional maladies as a result of the treatment.","What am I going to do
+with a pile of dead vilekin?
+  - Waltheof",433,100,30,0,0,0,2,0,8,9,True,True,True,False,0,False,True,9,10,100,100,4515
+16,"bluebird",0,"bluebirds",0,0,1,0,0,"Summon your bluebird minion. Known to retroactively bring good fortune to those who have already experienced good fortune.","Fortunate to hatch before being eaten by lizards. Unfortunate to fall from its nest before learning to fly. Fortunate to land in an empty treasure coffer. Unfortunate to still be in said coffer as it is filled with booty and locked up again.
+Fortunate to be
+plundered...by you.","The disbelieving cries
+of our foe will be as
+the sweetest birdsong.
+  - Yadovv Gah",434,80,30,0,0,0,2,2,8,10,True,True,False,True,0,False,True,10,30,100,100,4516
+17,"wide-eyed fawn",0,"wide-eyed fawns",0,0,1,0,0,"Summon your wide-eyed fawn minion. His mother was either lost in a terrible hunting accident...or perhaps is just lost.","An easy target for Eorzea's carnivorous fauna, antelopes must use every advantage they have to remain free from death's dripping jaws. One of those is the remarkable ability to run mere minutes from birth. Unfortunately, that
+trait did not save this
+specimen from capture.","When making an offering
+of antelope innards, it is
+proper they are still warm.
+  - Common Knowledge",435,100,30,0,0,30,2,0,8,11,True,False,False,True,0,False,True,11,10,100,100,4517
+18,"infant imp",0,"infant imps",0,1,1,0,0,"Summon your infant imp minion. Hopes that one day, he will rule the seven hells. But for now, your backside will do.","Scholars believe there are three ways in which voidsent can make the journey from their realm to ours─tearing a hole in the aether on their side, having a hole torn for them on our side, or stumbling into a randomly occurring
+hole, the latter being the
+most common for imps.","This bastard's got
+some nasty spells!
+  - Stalwart Swordsman",436,100,30,0,0,0,2,0,8,12,True,False,False,True,0,False,True,29,10,100,100,4518
+19,"coeurl kitten",0,"coeurl kittens",0,0,1,0,0,"Summon your coeurl kitten minion. It will still be several summers before his trademark whiskers grow out.","Coeurls are extremely proud and defiant creatures, even when young. Faced with insurmountable odds, a coeurl will rarely shy away from a fight, choosing rather to perish in combat than run. This characteristic keeps coeurl numbers low,
+but ensures the strength
+of those who survive.","Coeurl got your tongue?
+  - Wilred",437,85,10,10,0,0,2,0,8,13,True,True,False,True,35,True,True,13,10,100,150,4552
+20,"black coeurl",0,"black coeurls",0,0,1,0,0,"Summon your black coeurl minion. Beware, for if one should cross your path, you will experience seven years of...AWWWWWW.","To the untrained eye, this coeurl appears to be of an entirely new species, when in fact the only thing separating him from his mottled brethren is that his spots are so large, they overlap with one another, rendering him completely
+black.","Look what the
+coeurl dragged in.
+  - Momodi",438,75,10,10,0,0,2,0,8,13,True,True,False,True,35,True,True,13,10,100,100,4614
+21,"wind-up gentleman",0,"wind-up gentlemen",0,0,1,0,0,"Summon your wind-up gentleman minion. If “clockwork Hildibrand” doesn't quite roll off the tongue, both “minion of enquiry” and “mammet extraordinaire” are acceptable alternatives.","Though he has once more taken to the heavens in a selfless act of sacrifice, Inspector Hildibrand lives on in the hearts of all whose lives he touched with his inimitable brand of gallantry, perception, and panache. Wind him up and
+let him follow you as
+only a Manderville can.","I have peeled away the
+foul scab of uncertainty
+to reveal the truth within!
+  - Hildibrand",882,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,268,20,100,100,4615
+22,"gravel golem",0,"gravel golems",0,0,1,0,0,"Summon your gravel golem minion. Only you stand between it and a hard place.","Mage-controlled golems were in such wide use by the end of the Fifth Astral Era that entire battles were waged by armies comprised of nothing but the lifeless soulkin. This recreation, however, is nothing but a standard model #001
+mammet outfitted with
+simple gravel plating.","Gummice pollums? I fear
+I'm not familiar with them.
+  - Yhom Epocan",440,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,202,10,100,100,4519
+23,"wind-up tonberry",0,"wind-up tonberries",0,0,1,0,0,"Summon your wind-up tonberry minion. Now with 100% less rancor.","While merely a clockwork toy crafted to resemble the twisted survivors of Nym, owners of similar creations claim waking to find their wind-up tonberries propped upon their chests, wooden knives pressed firmly against their throats.","I came expectin' to fight
+one tonberry, not a whole
+bloody mess of 'em.
+  - Soft Marauder",441,100,30,0,0,0,1,0,8,0,False,False,False,False,0,True,True,203,30,100,100,4553
+24,"tiny tortoise",0,"tiny tortoises",0,0,1,0,0,"Summon your tiny tortoise minion. Will not carry you to an underwater kingdom if you ride on its back.","Hatched from an egg laid in the ivory sands of La Noscea's Salt Strand, if lucky, this baby adamantoise may live to see as many as ten score summers...that is, if it does not accidentally launch itself off a cliff with its constant spinning.","What is that foul stench!?
+It's like the inside of an
+adamantoise's arse!
+  -  Wood Wailer Sentry",442,100,30,0,0,0,2,0,8,18,True,False,False,True,0,False,True,18,10,100,100,4520
+25,"baby raptor",0,"baby raptors",0,0,1,0,0,"Summon your baby raptor minion. Luckily for you, his teeth haven't all grown in...yet.","Taking a hint from goblin merchants who raise raptors to serve as beasts of burden, a shopkeep from the village of Boughbury has begun hatching raptor eggs of his own (stolen from nearby nests). One can only hope the mother raptors
+are not as clever as the
+shopkeep thinks <Emphasis>he</Emphasis> is.","By the gods...
+This raptor is sublime!
+  - Nonopesa",443,100,30,0,0,0,2,0,8,19,True,False,False,True,0,False,True,11,10,100,100,4521
+26,"baby bat",0,"baby bats",0,0,1,0,0,"Summon your baby bat minion. Has yet to acquire a taste for blood.","Nonoroon, resident junkmonger at Memeroon's Trading Post, came up with the idea for capturing and selling baby bats one day while raiding caves for bat eggs...of which he could not find any.","Even ate a wing off one
+afore I made up my mind
+to climb down the wall.
+  - Ahldfoet",444,100,30,0,0,0,2,0,8,20,True,False,False,False,0,False,True,20,10,100,100,4522
+27,"tiny bulb",0,"tiny bulbs",0,0,1,0,0,"Summon your tiny bulb minion. Some questions, such as why this bulb can walk, are best left unanswered.","To answer the question, “why can this bulb walk,” one must trace the seedkin's evolution back thousands of generations. Since this guide lacks the space to do so, let us simply say it has something to do with seeking sunlight under the eternal
+darkness of the Black
+Shroud's thick canopy.","Each sapling is another
+glimpse into the wonder
+of the world around us.
+  - Fufucha",445,100,30,0,0,0,2,0,8,21,True,False,False,False,0,False,True,21,10,100,100,4523
+28,"dust bunny",0,"dust bunnies",0,0,1,0,0,"Summon your dust bunny minion. Despite the striking similarities, spriggans are not related to rabbits. But they have been known to eat them.","It is not fully known why spriggans hoard precious rocks and minerals, though scholars would have us believe that it is the rocks and minerals which are hoarding the spriggans, hence the creatures' scientific classification as
+soulkin.","Between the four of us,
+surely we can outsmart
+a few rogue spriggans.
+  - Augustiniel",446,100,10,0,0,30,2,0,8,22,True,False,True,False,0,False,True,22,10,100,100,4524
+29,"wind-up dullahan",0,"wind-up dullahans",0,0,1,0,0,"Summon your wind-up dullahan minion. Warning: may contain sharp parts.","Voidsent dullahan are, in fact, shapeless entities who must first inhabit an inanimate host (such as a suit of armor) before gaining the ability to exert force upon the physical plane in which we reside. Luckily, the only things inhabiting this
+wind-up contraption are
+manifold gears and rods. ","Pray retrieve the gift ere
+it is crushed beneath the
+iron feet of the dullahans!
+  - G'raha Tia",447,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,204,10,100,100,4525
+30,"gigantpole",0,"gigantpoles",0,0,1,0,0,"Summon your gigantpole minion. Yes, it can survive for hours on end without any water, and yes, it can fly. Your argument is invalid.","Over countless generations, the gigantoads of Thanalan have adapted to the arid climes by taking on traits not seen in their cousins to the north, such as thick membranes to keep their skin hydrated out of water, and a set of extra fins
+which act as wings to
+propel them over land.","These toads are huge,
+which means they have
+huge guts.
+  - Hamon",448,100,30,0,0,0,2,0,8,24,True,False,False,False,0,False,True,24,10,100,100,4526
+31,"pudgy puk",0,"pudgy puks",0,0,1,0,0,"Summon your pudgy puk minion. Don't ask what it has eaten to grow so plump.","Fattened from birth to be a succulent snack for the sadistic Steropes, this fledgling puk's excess baggage ensures that even if he attempts to flee, he will not be getting that far.","Ul'dah ain't more'n a
+sand-crusted pile o' puk
+dung bakin' in th' desert.
+  - Baderon Tenfingers",449,100,30,0,0,0,2,0,8,25,True,False,False,True,0,False,True,25,10,100,100,4527
+32,"buffalo calf",0,"buffalo calves",0,0,1,0,0,"Summon your buffalo calf minion. Milk-fed until tender and juicy. Not that anyone would <Emphasis>ever</Emphasis> think of eating him.","When the Scions of the Seventh Dawn began clearing out the Waking Sands in preparation for the move to Revenant's Toll, this wide-eyed calf was discovered hiding in a disused linen closet. Though an inquiry was made by the Antecedent
+herself, it is still not known
+who was keeping the beast.","I made the grievous error
+of visiting a great buffalo
+with a handsaw.
+  - Godbert",450,100,30,0,0,0,2,0,8,26,True,True,False,True,0,False,True,26,10,100,100,4528
+33,"cactuar cutting",0,"cactuar cuttings",0,0,1,0,0,"Summon your cactuar cutting minion. Take care not to suffer 1,000 points of damage...to your heart.","Hab, loneliest zombie in the realm, is certain that this cactuar cutting was taken from his trusty companion Sabotendrick. Or if not, then most positively Sabotendred. What he does not know, is that it is, in fact, from the oft forgotten
+Sabotendale.","The interior of its arm
+holds a surprising amount
+of fresh, drinkable water.
+  - Common Knowledge",451,100,20,0,0,20,2,0,3,27,True,True,False,False,0,False,True,27,10,100,100,4529
+34,"smallshell",0,"smallshells",0,0,1,0,0,"Summon your smallshell minion. The mere sight of this wee wavekin may cause severe psychological trauma to those who spent years of their lives on faraway shores culling his relatives.","As is implied by its name, the smallshell's shell is small. What is not widely known is that unlike normal crabs whose shells grow thicker and, hence, larger as the crabs age, smallshell carapaces actually reduce in size due to erosion over the
+wavekin's lifespan, until
+nothing is left but legs.","Got naught but a sea
+lion's share of crab offal
+'twixt them ears, I reckon.
+  - Ighii Moui",452,100,30,0,0,0,2,0,8,28,True,True,False,False,0,False,True,28,10,100,100,4530
+35,"wolf pup",0,"wolf pups",0,0,1,0,0,"Summon your wolf pup minion. Idolizes one Gaius van Baelsar for obvious reasons.","Bred to serve as a war wolf in the Imperial Garlean Army, this pup was rescued before any permanent damage could be done to its playful spirit. He will follow you to the end of the world and back...as
+long as you toss him an
+occasional biscuit. ","I've got no words to mince
+with whelps...unless you're
+here to become a wolf.
+  - Curious Gorge",453,100,10,10,0,0,2,0,8,29,True,True,True,True,19,True,True,12,10,100,100,4550
+36,"beady eye",0,"beady eyes",0,0,1,0,0,"Summon your beady eye minion. That feeling you get sometimes that you are being watched? More often than not it is him.","One of the most outlandish theories recently posed by scholars of the void is that ahrimans do not reproduce by typical sexual means, but rather by shedding tears which eventually grow into new creatures.","Black scorpion to sharpen
+one's wit; ahriman
+membrane for the mind.
+  - Severian",454,100,30,0,0,0,2,0,8,30,True,False,True,True,0,False,True,30,10,100,100,4531
+37,"fledgling dodo",0,"fledgling dodos",0,0,1,0,0,"Summon your fledgling dodo minion. Properly trained not to eructate, regurgitate, expectorate, or flatulate.","Dodos mature extremely fast, going from fledgling to full-grown fryer in but a few short moons. This, coupled with the fact an adult female can lay up to seven eggs a sennight, makes this particular cloudkin the perfect option for
+feeding the hungry masses.
+","Lightning Drools over the
+Bismarck's Delightful
+Grilled Dodo!
+  - The Harbor Herald",455,100,30,0,0,30,2,0,8,31,True,False,False,True,0,False,True,31,10,100,100,4532
+38,"coblyn larva",0,"coblyn larvae",0,0,1,0,0,"Summon your coblyn larva minion. Too dangerous to allow to grow any larger...too adorable to condemn to the furnace.","Coblyns will lay their eggs near ore deposits so that when the larvae emerge, they will have a ready supply of nourishment to form their protective outer carapaces. This is a slow process which involves dousing the ore in digestive
+fluid, waiting for it to clarify,
+then ingesting the ooze.","The lads go through gear
+faster'n a coblyn chewin'
+on a chunk of mythril.
+  - Wawarukka",456,100,30,0,0,0,2,0,8,32,True,False,False,False,0,False,True,32,10,100,100,4533
+39,"wind-up aldgoat",0,"wind-up aldgoats",0,0,1,0,0,"Summon your wind-up aldgoat. No aldgoats were harmed in the making of this automaton.","While in Ishgardian folklore the aldgoat is used to represent greed and gluttony, the Dunesfolk believe the insatiable creatures are a symbol of wealth and prosperity, and will present aldgoat fetishes to families with newborn
+children.","A nice big aldgoat steak
+should put some color
+back in 'er cheeks.
+  - Lyngsath",457,85,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,205,10,100,100,4534
+40,"fledgling apkallu",0,"fledgling apkallus",0,0,1,0,0,"Summon your fledgling apkallu minion. Will follow you until you give him a fish. Will continue to follow you after being given a fish.","While the hatchlings of other flightless cloudkin have been observed covered in a dull brown coat of down when they emerge from their eggs, apkallus enter the world covered in the same vivid green plumage they will bear for their entire
+lives.","Nesting hens do not spear
+a failed egg thief a score
+and a half times.
+  - Frandelont Raimdelle",458,100,30,0,0,0,2,0,8,34,True,True,False,True,0,False,True,34,10,100,100,4535
+41,"goobbue sproutling",0,"goobbue sproutlings",0,0,1,0,0,"Summon your goobbue sproutling minion. Has been known to attack kittens for no apparent reason.","To achieve their cyclopean size, goobbues must maintain a daily diet of several times their own weight. Luckily, the seedkin are not finicky eaters, and will consume almost anything that cannot outrun them. If rumors are to be
+believed, this includes
+Lalafells.","These goobbues are wont
+to devour anything and
+everything.
+  - Aileen",459,100,10,0,0,0,2,0,8,35,True,False,False,False,0,False,True,35,10,100,100,4536
+42,"bite-sized pudding",0,"bite-sized puddings",0,0,1,0,0,"Summon your bite-sized pudding minion. Not intended for consumption.","Unable to reproduce, puddings increase their number solely via mitosis. Because of this, it is widely believed that all Eorzea's puddings descended from a single entity─a proto-pudding, if you will. This, however, leaves us with the question:
+whence did the first
+pudding come?","A talking...pudding?
+  - You",460,100,30,0,0,0,2,0,8,36,True,False,True,False,0,False,True,36,10,100,100,4537
+43,"model vanguard",0,"model vanguards",0,0,1,0,0,"Summon your model vanguard minion. An exact 1:9 scale replica of a ceruleum-powered magitek vanguard (imperial pilot action figure not included).","Part of the Guildmaster Series, this high-quality replica is so exact in its rendition of the vanguard's build that Garlemald has banned the item's import into the empire's outlying provinces, for fear the data gleaned from it will be used by rebel
+forces still active in these
+lands.","I'd sooner face a vanguard
+while naked as my
+nameday!
+  - Flame Private",461,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,221,10,100,50,4538
+44,"demon brick",0,"demon bricks",0,0,1,0,0,"Summon your demon brick minion. We are all better off not knowing what arcane magicks animate this ordinary stone block.","For many years, modern archaeologists did not understand how a seemingly primitive civilization without clockwork or steam technology could build the massive stone structures of Amdapor. Animated bricks, such as the one that
+has chosen to follow you,
+may be the missing link.","Underneath this gear, I'm
+built like a brick privy!
+  - Chachai",462,100,10,0,0,30,2,0,8,38,True,False,True,False,0,False,True,38,10,100,100,4539
+45,"mini mole",0,"mini moles",0,0,1,0,0,"Summon your mini mole minion. When not dining on a protein-rich diet of earthworms and grubs, he dreams of making mountains.","Snatched from its hill while still young by infamous naturalist Marcette Manne, this poor creature has suffered countless experiments filled with endless pokings, proddings, potations, and panaceas. Compared to that, following
+an adventurer around all
+day is a veritable vacation.","Hear me, you mole
+bastards? I am steel!
+  - Eager Red Swallow",463,100,30,0,0,0,2,0,8,39,True,False,False,True,0,False,True,39,10,100,100,4540
+46,"tender lamb",0,"tender lambs",0,0,1,0,0,"Summon your tender lamb minion. Mint jelly optional.","As if predestined, your path crossed with that of the tender lamb's after she was brought to Eorzea from the dark reaches of the Far East by a hitsuji bugyo. Since then, you have been inseparable, the fluffy ball
+of fleece following your
+every footstep. ","But everywhere the little
+lambs went, lice were sure
+to go.
+  - Chartain",464,100,30,0,0,0,2,0,10,40,True,True,False,True,0,False,True,70,10,100,100,4541
+47,"slime puddle",0,"slime puddles",0,0,1,0,0,"Summon your slime puddle minion. Fun for the whole family.","Once stepped upon, slime can be nigh on impossible to remove from the soles of boots, making the shapeless creatures a nuisance to those who mine the mountains in which slimes reside. The <Emphasis>Encyclopedia Eorzea</Emphasis> recommends a
+squeeze of sun lemon to
+loosen their stony grip.","Silence the slimes, lest
+you succumb to the
+flames.
+  - Ancient Proverb",465,100,30,0,0,0,2,0,8,41,True,False,True,False,0,False,True,41,10,100,100,4551
+48,"kidragora",0,"kidragoras",0,0,1,0,0,"Summon your kidragora minion. Even in space, everyone can hear this seedkin scream.","One must take care when harvesting mandragoras, for if the roots are disturbed they will emit a high-pitched scream powerful enough to shatter glass over a malm away.","While little is known about
+them, what is known
+tends to be disturbing.
+  - Eorzean Naturalist",466,90,20,0,30,0,2,0,8,42,True,True,False,True,0,False,True,42,10,100,100,4542
+49,"wind-up goblin",0,"wind-up goblins",0,0,1,0,0,"Summon your wind-up goblin minion. Even this automaton's gobbiebag is bigger than yours.","Designed to resemble goblin hero Brayflox Alltalks, you cannot help but wonder at the symbol carved into the sole of its left foot─the mark of the dreaded <Emphasis>Illuminati</Emphasis>.","<Emphasis>Illuminati</Emphasis> brainfruit
+is frontmost!
+  - <Emphasis>Illuminati</Emphasis> Member",467,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,207,10,100,100,4543
+50,"wind-up sylph",0,"wind-up sylphs",0,0,1,0,0,"Summon your wind-up sylph minion. If it could speak, it would be in the third person.","Unlike most species in which the female bears the offspring, only sylph males are capable of reproduction, and they do so via the single flower found upon their heads. After the flower is fertilized, it will eventually fall off,
+giving rise to a child
+known as a podling.","Helping sylphs with their
+problems is a jolly fine
+way to make friends.
+  - Path Companion",468,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,208,10,100,100,4549
+51,"wind-up cursor",0,"wind-up cursors",0,0,1,0,0,"Summon your wind-up cursor minion. Modeled after the ivory glove of Oschon, the Wanderer, does this clockwork hand follow you...or guide you?","If we are to believe the slurred ravings of a self-proclaimed goblin theologian deep in his cups, this seemingly inconspicuous white glove is actually the “Hand of Fate” by which all of us are controlled from a dimension beyond the
+aether.","I trust ye had enough
+fingers to help ye through
+the tallyin'.
+  - Yulgi Honalgi",469,100,20,0,0,0,1,0,8,0,False,False,False,False,0,False,True,220,10,100,100,4544
+52,"wind-up airship",0,"wind-up airships",0,0,1,0,0,"Summon your wind-up airship minion. A fully operational model of the legendary vessel, the <Emphasis>Invincible</Emphasis>.","Despite it being the first, and most ambitious undertaking by Highwind Skyways founder Tatanora, the <Emphasis>Invincible</Emphasis> actually never took flight─its ten-year construction period plagued by accidents, material shortages, sabotage, and
+outright incompetence.","Up in the sky, look! It's a
+bird─ No, it's an airship─
+No! It's the inspector!
+  - Nashu Mhakaracca",470,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,222,10,100,100,4545
+53,"wind-up Qiqirn",0,"wind-up Qiqirns",0,0,1,0,0,"Summon your wind-up Qiqirn minion. As adorable as the real thing, without the ratty odor.","Once upon a time, there was not a man, woman, or child in all of Limsa Lominsa who did not know the name Zazaroon, mummer extraordinaire. However, a taste for spiced rum, a failed marriage, and several run-ins with the Barracudas
+saw the Qiqirn fall from
+the limelight into oblivion.","The Qiqirn are a nuisance
+at the best of times.
+  - Roseline",471,90,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,205,10,100,100,4546
+54,"black chocobo chick",0,"black chocobo chicks",0,0,1,1,0,"Summon your black chocobo chick minion. Rumors about her being able to fly are completely unfounded...or <Emphasis>are</Emphasis> they?","This poor chocobo chick was as yellow as an ear of millioncorn before one day being doused in black ink by a random passerby bedecked in silver accessories. Try as the chokobokeeps might, none were able to remove the taint, and thus
+the realm's first black
+chocobo was born.","There is no finer feel
+than that of a chocobo
+between your legs.
+  - L'dhakya",505,100,30,0,30,0,2,0,8,3,True,True,False,True,0,False,True,1,10,100,100,4548
+55,"wind-up Dalamud",0,"wind-up Dalamuds",0,0,1,0,0,"Summon your wind-up Dalamud minion. Do not attempt to pry open under any circumstances.","After Dalamud's fall, a wealthy Ul'dahn noble commissioned a famous troupe of musicians to write a dirge for the heroes of Carteneau and play it across Eorzea so that the deeds of the fallen would not be forgotten. This wind-up
+model of the red moon has
+naught to do with the dirge.","The lifeblood spilled in
+Dalamud's name shall be
+blessed upon His return.
+  - Foxe",472,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,250,20,100,100,4547
+56,"minute mindflayer",0,"minute mindflayers",0,0,1,0,0,"Summon your minute mindflayer minion. Delights folk with its cuteness even as it fills them with an inexplicable sense of dread.","Similar to voidsent dullahan, mindflayers also lack a corporeal form and must possess a host to be able to exert force on our realm. Whereas the dullahan, however, are limited to the possession of inorganic objects such as steel,
+mindflayers tend to prefer
+the dead as their vessels. ","It has a grisly penchant
+for sucking out the brains
+of men.
+  - Frandelont Raimdelle",578,100,30,0,0,0,2,0,8,49,True,False,False,True,0,False,True,49,10,100,100,4561
+57,"tight-beaked parrot",0,"tight-beaked parrots",0,0,1,0,0,"Summon your tight-beaked parrot minion. For best results, summon while wearing an eyepatch.","After witnessing the horrors experienced by his former master, Captain Madison, this once-outspoken oppo has gone silent, opening its beak only when offered a handful of sardines.","Parley! Parley!
+Parley! Squaaawk!
+  - Loose-beaked Parrot",579,55,30,0,0,0,2,2,8,50,True,True,False,True,0,False,True,50,10,100,100,4562
+58,"wind-up Amalj'aa",0,"wind-up Amalj'aa",0,0,1,0,0,"Summon your wind-up Amalj'aa minion. What is burnt may never burn, but rises again, harder and stronger.","Amalj'aa blacksmith Narujj Boh of the Brotherhood of Ash began dabbling in clockwork after rescuing the mammet minion of an adventurer slain near his forges. This particular sample is the product of moons of meticulous calculations
+made to reproduce the
+telltale Amalj'aa tail sway.","My people are the
+Amalj'aa, proud and
+strong.
+  - Loonh Gah",580,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,213,10,100,100,4554
+59,"wind-up Ixal",0,"wind-up Ixal",0,0,1,0,0,"Summon your wind-up Ixal minion. He believes he can fly. He believes he can touch the sky. Unfortunately he cannot.","Using a mammet obtained from the Goldsmiths' Guild by the ever-resourceful Tataramu, members of the Ehcatl Nine have succeeded in creating an automaton of their own...who also happens to be as grounded as their brethren.","I heard a Wood Wailer
+telling Mummy that an
+Ixal teared his face off.
+  - Gridanian Child",581,100,30,0,30,0,1,0,8,0,False,False,False,False,0,False,True,214,10,100,100,4574
+60,"wind-up kobold",0,"wind-up kobolds",0,0,1,0,0,"Summon your wind-up kobold minion. With you, she will koboldly go where no kobold has gone before.","Another of 789th Order Acolyte Ba Go's masterpieces, this cuddly kobold miniature in fact houses several onzes of highly flammable firesand, designed to ignite when outward pressure is applied...such as with a tender hug.","Honestly, I will never
+understand the kobolds'
+sense of aesthetics.
+  - Rashaht",699,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,215,10,100,100,4563
+61,"wind-up Sahagin",0,"wind-up Sahagin",0,0,1,0,0,"Summon your wind-up Sahagin minion. He's got a trident and he's not afraid to use it.","Ever the loving clutchfather, Novv had this toy crafted, complete with sharpened trident, for his infant spawnlings. When wound up, it displays various thrusts and parries to prepare the spawn for battle with their enemies.","A Sssahagin does not flail
+and sssplash about so─
+he rolls with the waves.
+  - Clutchfather Novv",700,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,216,10,100,100,4564
+62,"wind-up brickman",0,"wind-up brickmen",0,0,1,0,0,"Summon your wind-up brickman minion. The brickman gets up and looks over as if it wants to join the party!","One unexpected side effect of the Calamity has been the significant increase in aetherial rifts appearing throughout the realm. As a result, strange creatures not of this world have been popping in and out of existence without warning─
+one of those being the
+bizarre brickman.","Can ye smell it?
+'Tis the scent o' profit,
+my friend!
+  - Beefy Businessman",577,100,30,0,0,0,2,0,8,51,True,False,False,True,0,False,True,51,10,100,100,4555
+63,"wind-up Shantotto",0,"wind-up Shantottos",0,0,1,1,0,"Summon your wind-up Shantotto minion. But remember:
+If you fail to treat her right,
+she will set your pants alight.","If it looks like a Lalafell, rhymes like a Lalafell, and alliterates like a Lalafell, then it is probably a Lalafell...except when it is a wind-up Shantotto. Then it is not a Lalafell.","Your judgment is quite
+wise─you may yet stave
+off an untimely demise.
+  - Shantotto",527,100,20,0,0,0,1,0,8,0,False,False,False,False,0,False,True,218,10,100,100,4556
+64,"wind-up Edvya",0,"wind-up Edvyas",0,0,1,1,0,"Summon your wind-up Edvya minion. Sometimes moonlights as a miller girl, much to her father the sultan's chagrin.","Forty years after the founding of the Thorne Dynasty, sultan Baldric Thorne was blessed by the gods with a single daughter, Edvya, whom he loved fiercely. The history surrounding the two, now known as the “Legend of the Lost Lady”
+gave rise to the festival
+of Little Ladies' Day.","Did Princess Edvya
+concern herself with glory
+and riches? I think not!
+  - Gossiping Girl",584,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,219,10,100,100,4557
+65,"wind-up sun",0,"wind-up suns",0,0,1,0,0,"Summon your wind-up sun minion. May the sun never go down on you.  /poke to adjust elevation.","Designed to provide light for road repairmen toiling during the small hours of the night, wind-up suns have become all the talk amongst Ul'dahn mesdames ever since it was discovered the extra light worked wonders at hiding unsightly
+blemishes and wrinkles.","We find the pages of our
+memories are blank, as if
+bleached by the sun.
+  - Kan-E-Senna",585,100,0,0,0,0,3,0,8,0,False,False,False,False,0,False,False,500,10,100,100,4565
+66,"plush cushion",0,"plush cushions",0,0,1,0,0,"Summon your plush cushion minion. Ever ready to shield your buttocks from the hardest of places.","Preferring to take a more hands-on approach with his latest project, Redolent Rose of the Weavers' Guild personally researched the resilience and contour of over four score buttocks in order to create a cushion so light and fluffy, even
+the clouds would darken
+with envy.","Bumbling one spends all
+day sleeping on
+paperstack pillow, yes?
+  - Olmxio",586,100,30,0,0,0,3,0,8,0,False,False,False,False,0,False,False,501,10,100,100,4566
+67,"Minion of Light",0,"Minions of Light",0,0,1,0,0,"Summon your Minion of Light and make true the prophecy: “When Darkness veils the world, three Minions of Light shall come.”","Ancient records show that almost every Astral Era has had its own Warriors of Light─brave souls who appeared before forthcoming disasters to unite the people of that time...only to disappear once again as catastrophe rained down
+from the heavens.","Next you'll be telling me
+you're one of the Warriors
+of Light.
+  - Mother Miounne",0,100,0,0,0,0,1,0,8,0,False,False,False,False,0,False,True,223,10,100,100,4558
+68,"Minion of Light",0,"Minions of Light",0,0,1,0,0,"","Ancient records show that almost every Astral Era has had its own Warriors of Light─brave souls who appeared before forthcoming disasters to unite the people of that time...only to disappear once again as catastrophe rained down
+from the heavens.","Next you'll be telling me
+you're one of the Warriors
+of Light.
+  - Mother Miounne",587,100,10,0,70,0,1,0,8,0,False,False,False,False,0,False,True,223,10,100,100,0
+69,"Minion of Light",0,"Minions of Light",0,0,1,0,0,"","Ancient records show that almost every Astral Era has had its own Warriors of Light─brave souls who appeared before forthcoming disasters to unite the people of that time...only to disappear once again as catastrophe rained down
+from the heavens.","Next you'll be telling me
+you're one of the Warriors
+of Light.
+  - Mother Miounne",623,100,10,0,70,0,1,0,8,0,False,False,False,False,0,False,True,223,10,100,100,0
+70,"Minion of Light",0,"Minions of Light",0,0,1,0,0,"","Ancient records show that almost every Astral Era has had its own Warriors of Light─brave souls who appeared before forthcoming disasters to unite the people of that time...only to disappear once again as catastrophe rained down
+from the heavens.","Next you'll be telling me
+you're one of the Warriors
+of Light.
+  - Mother Miounne",624,100,10,0,70,0,1,0,8,0,False,False,False,False,0,False,True,223,10,100,100,0
+71,"wind-up leader",0,"wind-up leaders",0,0,1,0,0,"Summon your wind-up leader minion, who will follow you unquestioningly─for coin and country; for serenity, purity, sanctity─till sea swallows all.","Originally crafted to promote the Grand Companies of Eorzea, these clockwork dolls are often rewarded to company members for exceptional service. There are three models of wind-up leaders, one to represent
+each of the three heads of
+Limsa Lominsa, Gridania,
+and Ul'dah.","The leaders of Eorzea had
+lost their way─I merely
+helped them find it again.
+  - Minfilia",0,100,0,0,0,0,1,0,8,0,False,False,False,False,0,False,True,224,10,100,100,4559
+72,"wind-up Merlwyb",0,"wind-up Merlwybs",0,0,1,1,0,"","Originally crafted to promote the Grand Companies of Eorzea, these clockwork dolls are often rewarded to company members for exceptional service. There are three models of wind-up leaders, one to represent
+each of the three heads of
+Limsa Lominsa, Gridania,
+and Ul'dah.","The leaders of Eorzea had
+lost their way─I merely
+helped them find it again.
+  - Minfilia",626,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,224,10,100,100,0
+73,"wind-up Kan-E",0,"wind-up Kan-Es",0,0,1,1,0,"","Originally crafted to promote the Grand Companies of Eorzea, these clockwork dolls are often rewarded to company members for exceptional service. There are three models of wind-up leaders, one to represent
+each of the three heads of
+Limsa Lominsa, Gridania,
+and Ul'dah.","The leaders of Eorzea had
+lost their way─I merely
+helped them find it again.
+  - Minfilia",627,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,224,10,100,100,0
+74,"wind-up Raubahn",0,"wind-up Raubahns",0,0,1,0,0,"","Originally crafted to promote the Grand Companies of Eorzea, these clockwork dolls are often rewarded to company members for exceptional service. There are three models of wind-up leaders, one to represent
+each of the three heads of
+Limsa Lominsa, Gridania,
+and Ul'dah.","The leaders of Eorzea had
+lost their way─I merely
+helped them find it again.
+  - Minfilia",625,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,224,10,100,100,0
+75,"princely hatchling",0,"princely hatchlings",0,0,1,0,0,"Summon the princely hatchling minion, the chocobo who would be king.","A thoroughbred descended from the legendary Veillantif, this noble bird of Ishgard seeks a rider who will not sully his family's name.","I had a feeling you'd be
+riding up on your golden
+chocobo.
+  - Path Companion",634,100,30,0,30,0,2,0,8,3,True,True,False,True,0,False,True,1,10,100,100,4560
+76,"wind-up Odin",0,"wind-up Odins",0,0,1,0,0,"Summon your wind-up Odin minion. Guaranteed not to wipe out your entire party in one fell stroke.","Many have pondered why a dark divinity with roots in northern mythology would wield a blade with a decidedly Far Eastern name. A popular theory is that Odin acquired the blade upon slaying an Auri warrior who was the first ever
+to notch his thereto-
+fore unsullied plate.","If Odin is truly come to
+the Shroud, time is not on
+our side.
+  - Lewin",683,90,10,0,0,0,2,0,8,0,False,False,False,False,0,False,True,230,10,100,100,4568
+77,"wind-up Warrior of Light",0,"wind-up Warriors of Light",0,0,1,0,0,"Summon your wind-up Warrior of Light minion.
+“Wheresoever thou goest, so too shall Light follow.”
+─Ancient benediction","The brilliant blue suit of armor worn by the wind-up Warrior of Light is based upon ancient Allagan designs rediscovered in recent years by adventurers returned from the Crystal Tower.","There will be no Warriors
+of Light to save you this
+time.
+  - Gaius van Baelsar",684,80,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,240,10,100,100,4567
+78,"wind-up Bahamut",0,"wind-up Bahamuts",0,0,1,0,0,"Summon your wind-up Bahamut minion. This mysterious being emerged from within a broken wind-up Dalamud, and is nigh inseparable from its former prison.","Despite strict orders from the Goldsmiths' Guild to <Emphasis>never</Emphasis> open up the Dalamud minion under any circumstances, someone decided to unleash their inner Pandora and release the terrors hidden within─a wind-up Bahamut...which
+no one from the guild
+recalls creating!","Bahamut can't live on 
+good wishes and a smile,
+so why should I?
+  - Flame Private",685,100,10,0,0,0,2,0,8,0,True,False,False,False,118,False,True,250,10,100,100,4569
+79,"wind-up moogle",0,"wind-up moogles",0,0,1,0,0,"Summon your wind-up moogle minion. With its button nose and fluffy pom, this clockwork moogle will make you the envy of all your friends.","A creation born of 90% love and 10% jealousy (or was that 90% jealousy and 10% love?), this clockwork masterpiece was conceived after the moogles of the Black Shroud began noticing all the adventurers with their new shiny minions,
+and decided they were
+not about to be left out.","What the moogles lack in
+grace, they amply make
+up for in wit.
+  - Jehantel",688,100,10,0,0,0,1,4,8,0,False,False,False,False,0,False,True,233,10,100,100,4572
+80,"baby opo-opo",0,"baby opo-opos",0,0,1,0,0,"Summon your baby opo-opo minion. The only thing it loves more than you is a juicy sprite apple.","A daring rescue from the clutches of the goblin hero Brayflox's minions is the only thing separating this opo-opo from a life of swinging free from tree to tree through the lush jungles of the Longstop...and forever trudging in the wake of the
+brave adventurer who
+“saved” him.","These beans are covered
+in opo-opo droppings!
+  - Mun–Tuy Cellarkeep",686,60,30,0,0,0,2,1,8,52,True,True,False,False,0,False,True,52,30,100,100,4570
+81,"magic broom",0,"magic brooms",0,0,1,0,0,"Summon your magic broom minion. For safety reasons, do not fall asleep while it is at work.","While you may not hear many of the realm's mages admit it, magicking a household broom to become a self-propelled sweeping servitor (albeit one which does very little actual cleaning) is far more complicated than it sounds,
+requiring no fewer than
+seven cants of binding.","A lancer who fears to
+attack is naught but a
+man holding a pole.
+  - Ywain",687,100,10,0,0,80,2,0,5,0,False,False,False,False,0,False,True,234,10,100,100,4571
+82,"wind-up succubus",0,"wind-up succubi",0,0,1,1,0,"Summon your wind-up succubus minion. 100% anatomically correct. Handle with tender loving care.","One of countless clockwork servitors discovered in the home of a Gridanian goldsmith recently hanged for the crime of ritual summoning. It is believed while crafting the automatons, he became increasingly obsessed with the void,
+until the darkness bid
+him do the unthinkable.","That succubus will drain
+you to a lifeless husk!
+  - Cocobygo",748,80,10,0,0,0,1,3,8,0,False,False,False,False,0,False,True,230,20,100,100,4575
+83,"zu hatchling",0,"zu hatchlings",0,0,1,0,0,"Summon your zu hatchling. This newborn zu has yet to exhibit aggressive or territorial behavior, but when it gets bigger...","While native to the scorching deserts of the Near East, the zu will migrate to a cooler Eorzea after hatching its fledglings in the spring. Since the Calamity, however, there have been an increasing number of
+cases where the giant
+cloudkin remain in
+Eorzea year-round.","These birds move slow,
+but they've a nasty peck!
+  - Jacke",682,100,30,0,0,0,2,0,8,54,True,False,False,True,0,False,True,54,10,100,100,4573
+84,"wind-up Nanamo",0,"wind-up Nanamos",0,0,1,1,0,"Summon your wind-up Nanamo minion. She vehemently refuses to sit upon any shoulder but Raubahn's...and yours.","This clockwork doll is a reproduction of a model first crafted in the year of the Calamity to celebrate the tenth anniversary of Nanamo Ul Namo's ascendance to the Ul'dahn throne. Seventeenth in her line, the sultana was crowned when she had seen but five summers. ","Take me, Raubahn... I am
+your sultana... <snore>
+   - Slumbering Lalafell",751,80,10,0,0,0,1,1,8,0,False,False,False,False,0,False,True,266,30,100,100,4599
+85,"wind-up Gilgamesh",0,"wind-up Gilgameshes",0,0,1,0,0,"Summon your Gilgamesh minion. Several arms appear to be missing, but that does not seem to otherwise hinder basic functionality.","The masterwork of one of Eorzea's finest goldsmiths, this wind-up automaton, designed to resemble a close acquaintance of the smith's son, was pieced together using parts left over from other projects─his only regret being that he was
+unable to incorporate
+hip-gyrating functionality.","For Gilgamesh... It is
+embiggening time!
+  - Gilgamesh",756,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,236,10,100,100,4576
+86,"Onion Prince",0,"Onion Princes",0,1,1,0,0,"Summon your Onion Prince minion. He would die 4 U. Or possibly cry 4 U. Or most likely make U cry. 4 U.","After learning his parents married not for love, but for duty, the Onion Prince vowed he would never walk in the footsteps of his parents, and to this day promises his baseborn sweetheart, the Leek Maid, that they will run away and be wed.","Aw, bloody hells! Who's
+cutting onions back
+there!?
+  - Buscarron",742,100,30,0,0,0,2,0,8,42,True,True,False,True,0,False,True,42,10,100,100,4577
+87,"Eggplant Knight",0,"Eggplant Knights",0,1,1,0,0,"Summon your Eggplant Knight minion. His childhood dream to become a wizard was frowned upon by his overbearing father.","House Eggplant has faithfully served the royal line of Tomato kings for eighteen generations, never once betraying the throne...until, that is, the knight of the nineteenth generation laid eyes on the fair Mandragora Queen.","If you eat too many of
+this vegetable, you will
+turn into one.
+  - Common Wives' Tale",743,100,30,0,0,0,2,0,8,42,True,True,False,True,0,False,True,42,10,100,100,4578
+88,"Garlic Jester",0,"Garlic Jesters",0,0,1,0,0,"Summon your Garlic Jester minion. Every breath you take will act as a reminder that your pungent pal is right behind you.","The son of a traveling mummer who performed under the name Garlic Star, the jester swore he would never follow in the footsteps of his father. However, after being deemed too malodorous to serve in the royal guard, he swallowed
+his pride and fell back on
+the only trade he knew.","And this irresistible
+aroma... Mmmmmmmmm...
+  - Ingham",744,100,30,0,0,0,2,0,8,42,True,True,False,True,0,False,True,42,10,100,100,4579
+89,"King Tomato",0,"King Tomatoes",0,0,1,0,1,"Summon your King Tomato minion. Has issued a royal decree for the public defenestration of any and all who mistakenly claim the king is a vegetable.","After the flames of the Calamity rendered Lord Tomato a king without a kingdom, the ruby red regent packed up his seeds and set out on a journey to find a new land to rule. He currently roams the realm recruiting any taproot,
+tuber, or corm who
+will follow his standard. ","It is apparently a rogue,
+outcast from its kin, a
+stranger in a strange land.
+  - Tomaj",745,100,30,0,0,0,2,0,8,42,True,True,False,True,0,False,True,42,10,100,100,4580
+90,"Mandragora Queen",0,"Mandragora Queens",0,0,1,1,0,"Though wed to the Tomato King in a move to strengthen the bond of Houses Tomato and Mandragora, the queen longs to steal away with her one true love─the Eggplant Knight. What will become of this forbidden romance!? Summon the Mandragora Queen minion today and find out!","Destined to a life with a man she did not love, nary a night passed when the Mandragora Queen did not dream of throwing herself into the sea's eternal embrace...until, that is, she laid eyes on the noble Eggplant Knight.","I want to be waist-deep
+in little white mandragora
+limbs!
+  - Yellowjacket",746,100,30,0,0,0,2,0,8,42,True,True,False,True,0,False,True,42,10,100,100,4581
+91,"wind-up Y'shtola",0,"wind-up Y'shtolas",0,0,1,1,0,"Summon your wind-up Y'shtola. If we are to take her word for it, the Circle of Knowing Archon has seen but twenty-three summers.","Nearly half of the coin provided to the Goldsmiths' Guild for the crafting of this wind-up doll bearing the likeness of Scion of the Seventh Dawn Y'shtola was paid to Atelier Fen-Yll for hand-sewn leather boots matching those worn by
+the enigmatic Archon.","Gods forfend...
+   - Y'shtola",750,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,262,10,100,100,4600
+92,"wind-up onion knight",0,"wind-up onion knights",0,0,1,0,0,"Summon your magic wind-up onion knight minion. An accurate representation of the soldiers who once made up the greater portion of the Allagan Imperial Army.","If Sons of Saint Coinach anthropogeographer Rammbroes is to be believed, towards the end of their civilization, the Allagans began using automatons such as this to fight their wars (which had been deemed inhumane, yet
+ultimately necessary to
+spread imperial peace).","By the Onion!
+  - Bloezoeng",749,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,240,10,100,100,4582
+93,"treasure box",0,"treasure boxes",0,0,1,0,0,"Summon your treasure box minion. It is unknown what manner of spirit possesses this tiny treasure chest, but the fact that it will not hesitate to nip at the fingers of any who try and pry it open is painfully evident.","Originally used by an Eorzean Alliance paymaster to store Allied Seals...until the box began eating them. She sold the box in hopes of recouping some of her losses (skimming off adventurer rewards to cover the rest...until she was
+caught and sentenced
+to a public flogging).","A pirate don't abandon
+'is treasures!
+  - Ahtzapfyn",747,50,5,10,0,0,2,0,8,56,True,True,False,False,0,False,True,56,20,100,100,4583
+94,"tiny tapir",0,"tiny tapirs",0,0,1,0,0,"Summon your tiny tapir minion. Natives of the New World claim that tapirs grow by devouring the dreams of their unsuspecting owners. And now you know what to expect.","Before it was realized that the tapirs were, in fact, consuming the dreams of their owners, several hundred were sold to Ul'dahn nobles seeking a better night's sleep. Surprisingly, there were few complaints
+from buyers, even after
+learning the truth.","Our dreams are
+what sustain us.
+  - Gundobald",754,80,30,0,0,0,2,0,8,57,True,True,False,True,0,False,True,57,10,100,100,4584
+95,"Nana bear",0,"Nana bears",0,0,1,0,0,"Summon your bear cub minion. Pundits claim bears to be the deadliest beasts in the realm─obviously having never stared into <Emphasis>this</Emphasis> cute cub's nebulous eyes.","The Nana bear's origins can be traced back to Ul'dahn princess Nanakko who, on her eighth nameday, asked her father for a bear. Despite a realm-wide search, no bears were found, and so the Goldsmiths' Guild was commissioned to craft
+one from a drawing found
+in an ancient bestiary.","There isn't enough honey
+in all the Yard to satisfy
+that sweet-toothed sellary.
+  - Honey Yard Hivekeep",752,100,20,0,0,0,1,0,8,0,False,False,False,False,0,False,True,239,20,100,100,4585
+96,"miniature minecart",0,"miniature minecarts",0,0,1,0,0,"Summon your miniature minecart minion. Best when ridden in abandoned mines and temples of doom.","Despite adamant claims by Amajina & Sons Mineral Concern that their donation of over five score carts to the orphans of Stonesthrow was a simple act of charity, opponents of the guild insist it was a scheme to recruit inexpensive
+child labor for Thanalan's
+myriad mines.","Mines mine!
+Mines all miiiiiiiiine!
+  - Biggy the Spriggan",753,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,240,10,100,100,4586
+97,"nutkin",0,"nutkins",0,0,1,0,0,"Summon your nutkin minion. That nutkins are infamous for being shy and timid creatures shows that this brave beastkin comes complete with a pair of iron acorns on him.","Inspired by the words of Millith Ironheart, this daring squirrel longs to travel the realm in search of the legendary golden acorn, and hopes that trailing in your shadow will ensure that he isn't eaten before he discovers the mother lode.","I had no idea squirrels
+could bite so hard!
+  - Arold",755,100,10,0,0,30,2,1,8,59,True,True,False,True,0,False,True,59,30,100,100,4587
+98,"wind-up Minfilia",0,"wind-up Minfiliae",0,0,1,1,0,"Summon your wind-up Minfilia minion. Unlike the real Minfilia, this one actually accompanies you on your adventures.","This clockwork automaton has been crafted at the behest of the Adventurers' Guild in celebration of the Rising, Eorzea's annual celebration of rebirth. All linkshell privileges have been revoked so one not need dread incessant
+calls throughout the
+small hours of night.","...Hello? Hello? Can you
+hear me? It is I, Minfilia.
+  - Minfilia",797,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,260,10,100,100,4588
+99,"wind-up Thancred",0,"wind-up Thancreds",0,0,1,0,0,"Summon your wind-up Thancred minion. 200% more dreamy than previous models.","This clockwork automaton has been crafted at the behest of the Adventurers' Guild in celebration of the Rising, Eorzea's annual celebration of rebirth. Reports of crazed Thancred fans stalking the summoned servitors are more
+common than one
+might believe.","I suppose any name is as
+good as another, though
+most call me Thancred.
+  - Thancred",796,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,262,10,100,100,4589
+100,"model magitek bit",0,"model magitek bits",0,0,1,0,0,"Summon your model magitek bit minion. An exact 1:9 scale replica of a ceruleum-powered magitek bit (Ultima Weapon action figure not included).","This miracle of modern mechanics is actually a miracle of ancient Allagan mechanics reverse engineered and then modified with advanced Garlean magitek technology.","The Empire owes
+its might to magitek.  - Yda",1016,27,10,0,0,0,2,0,8,0,False,False,False,False,0,True,True,221,10,100,50,4616
+101,"puff of darkness",0,"puffs of darkness",0,0,1,0,0,"Summon your puff of darkness minion. When standing nearby, prithee refrain from coughing, sneezing, waving, flailing, or performing any other means of wild gesticulation, lest the puff be lost for eternity.","When this automaton resembling one crafted by a goldsmith hanged for dabbling in the dark arts was discovered, it prompted authorities to exhume the recently buried body. This, however, only confirmed
+their worst fears─
+that the coffin was
+empty.","What I do not smother,
+I devour. What I cannot
+devour, I destroy.
+  - The Cloud of Darkness",1017,80,10,0,0,0,1,3,8,0,False,False,False,False,0,False,True,230,10,100,100,4617
+102,"naughty nanka",0,"naughty nankas",0,0,1,0,0,"Summon your naughty nanka minion. Like its parent, the ninki nanka, this slippery wavekin will breed like a rabbit if left unsupervised.","Instead of laying her eggs in a pond or river where they might be devoured by predators, the ninki nanka female deposits her offspring upon the back of the father, who then carries and protects the brood until it is ready to face the world
+on its own. Unless,
+however, one falls off.","Shiiiiiiny! Preeeeeetty!
+Need more eeeeeeggs!
+Eeeeeeggs!
+  - Giggity the Spriggan",808,100,30,0,0,0,2,0,8,60,True,True,False,False,0,False,True,60,10,100,100,4590
+103,"",0,"",0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,0,False,False,False,False,0,False,False,0,0,0,0,0
+104,"wind-up Ultros",0,"wind-up Ultroses",0,0,1,0,0,"Summon your wind-up Ultros minion.","One can only imagine the time and effort master goldsmith Godbert put into the creation of this lifelike recreation of a lecherous purple octopus.","Muscle heads? Hate 'em!
+  - Ultros",799,100,30,0,0,0,1,0,8,0,False,True,True,False,0,False,True,237,10,100,100,4604
+105,"Hoary the Snowman",0,"Hoary the Snowmen",0,0,1,0,1,"Summon your Hoary the Snowman minion. Hoary the Snowman was a jolly happy soul, without a pipe, and without a nose, and two eyes made out of something other than coal. Probably slag.","While no one knows the exact origins of Hoary the Snowman and the legends surrounding this animated mass of ice and snow, the gifting of dolls created in his likeness to good girls and boys is not uncommon during the Starlight
+Celebration.","On your feet, Hoary!
+  - Coultenet",803,100,20,0,0,0,1,0,8,0,False,False,False,False,0,False,True,219,10,100,100,4605
+106,"heavy hatchling",0,"heavy hatchlings",0,0,1,0,0,"Summon your heavy hatchling minion. Currently, “baby fat” is the prevailing excuse for this cherubic chick's gigant-like girth.","It would be foolish to believe that a chocobo could achieve this size dining on greens alone, regardless of how many hundreds of bushels were devoured...in a single sitting. Chicken bones found beneath the chick's bedding suggest
+he may have a taste
+for his succulent cousins.","I cannot deny what you say is
+true any more than I can deny
+a chocobo's arse is yellow.
+  - Path Companion",800,100,1,0,0,0,1,0,8,0,False,False,False,True,0,False,True,1,20,100,100,4606
+107,"wind-up Yda",0,"wind-up Ydas",0,0,1,1,0,"Summon your wind-up Yda minion. Comes complete with irremovable mask.","Due to her apparent lack of wit and tendency to be in the wrong place at the wrong time, people are quick to forget that Yda is not only a Scion of the Seventh Dawn, but also an Archon of the Circle of Knowing, hand-picked by the
+legendary Louisoix
+to serve Eorzea.","The great beyond!
+I do believe we're
+dead, Papalymo.
+   - Yda",878,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,262,20,100,100,4601
+108,"wind-up Papalymo",0,"wind-up Papalymos",0,0,1,0,0,"Summon your wind-up Papalymo minion. Comes complete with irremovable smirk.","After a clerical error resulted in a sizable windfall for the organization, Scions of the Seventh Dawn coinkeeper Tataru took it upon herself to use the funds to commission wind-up automatons crafted in the likeness of her
+own favorite members─
+Papalymo being the first.","He'd sooner swallow
+his staff than admit
+that he's wrong.
+   - Yda",879,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,262,20,100,100,4602
+109,"wind-up Urianger",0,"wind-up Uriangers",0,0,1,0,0,"Summon your wind-up Urianger minion. When the septenary moon did wane, there sounded a garrulous and convoluted monologue. A new minion had roused, one whose identity lieth within our ken.","After commissioning six other wind-up Archons, the Scions of the Seventh Dawn coinkeeper realized that she had almost enough gil to order a seventh...almost. And so the robed and hooded Urianger was crafted without hair or other
+anatomical features to
+keep the cost down.","Frustratingly, Urianger's
+words leave rather a lot
+to interpretation.
+   - Papalymo",880,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,262,10,100,100,4603
+110,"fat cat",0,"fat catz",0,0,1,0,0,"Summon your fat cat minion. Despite convincing research by top academics from around the realm and beyond, most Miqo'te scholars refuse to believe that there may be some ancestral connection between their race and cats (fat or not).","Born in an unmarked alley in an unnamed town, this poor creature had to hunt the mean streets just to stay alive...until learning that following retainers and feeding off the slaughter left in their wakes was a safer, easier way to
+a full belly.","When the master's away,
+the cat will play.
+  - Miqo'te Retainer",802,100,10,0,0,0,1,0,8,61,True,False,False,True,0,False,True,63,30,100,100,4607
+111,"Littlefoot",0,"Littlefeet",0,0,1,0,1,"Summon your Littlefoot minion. This particular Yeti is content in knowing that bigger is not always necessarily better.","When discovered by your retainer on a foray deep into the highlands of Coerthas, this miniature monstrosity was both cold and hungry (though the former condition most likely did not affect him much), and a bowl of hot broth was
+all it took to lure him
+from the forest back home.","It is good to see you
+on your feet again.
+  - Merlwyb Bloefhyswyn",801,100,10,0,0,0,2,0,8,62,True,True,False,True,0,False,True,64,30,100,100,4608
+112,"mummy's little mummy",0,"mummy's little mummies",0,0,1,0,1,"Summon your mummy's little mummy minion. While as cute as a button, remember, mummies are ultimately embalmed corpses damned to eternal thralldom in the land of the living. Have fun.","It is believed that the ancient technique of mummification─which involved embalming, organ removal, wrapping, and the burial in a multi-layered sarcophagus─was an expensive undertaking. That it was performed on a
+child can attest to
+his parents' devotion.","I told you, I'm
+<Emphasis>not</Emphasis> your mummy!
+  - Ul'dahn Citizen",798,100,10,0,0,0,2,0,8,63,True,False,True,False,0,False,True,65,10,100,100,4609
+113,"model Enterprise",0,"model Enterprises",0,0,1,1,0,"Summon your model <Emphasis>Enterprise</Emphasis> minion. Designed to boldly go where you have gone before.","The original <Emphasis>Enterprise</Emphasis> was designed and built while Garlond family prodigy Cid was still working as a military engineer for the Garlean Empire. The aft crane─intended for the loading of imperial
+weaponry─was added to
+the airship in the days
+before Cid's defection.","<Emphasis>Enterprise</Emphasis>, engage!
+   - Alphinaud",887,100,10,0,0,0,1,0,8,0,False,False,False,False,0,False,True,222,20,100,100,4597
+114,"wind-up delivery moogle",0,"wind-up delivery moogles",0,0,1,0,0,"Summon your wind-up delivery moogle minion. For when you absolutely, positively require moogle accompaniment.","The never-ending flow of adventurers into Eorzea has placed quite a burden on the realm's little letter-carriers. To help lighten their load, several acolytes at the Goldsmiths' Guild volunteered their time to create a veritable army of
+miniature mail moogles.","Behold, for I shall now
+perform for you the moogle
+dance of inimitable integrity!
+   - Delivery Moogle",809,100,5,10,0,0,1,4,8,0,False,False,False,False,0,False,True,233,10,100,100,4598
+115,"assassin fry",0,"assassin fries",0,1,1,0,0,"Summon your assassin fry minion. There was an old betta who swallowed a fry. No one knows why it swallowed the fry, but for some reason, the fry can now fly.","After several turns of the sun sloshing about in the depths of a ninja betta's belly, this freshly hatched fry has given up swimming altogether and taken to the skies. How spending time in a belly can inspire a fish to flight is something only
+one who has spent time
+in a belly can know.","They say never to look
+a gift fish in the mouth.
+  - Sisipu",807,100,10,0,0,0,2,5,8,64,True,False,True,True,0,False,True,66,30,100,100,4610
+116,"demon box",0,"demon boxes",0,0,1,0,0,"Summon your demon box minion. There is no better way to tell a special someone “thank you for attending my Ceremony of Eternal Bonding” than by giving them a sentient box that may or may not devour their pets.","Lacking the spells required to animate a gift in the same manner in which the ancients animated bricks, the crafter of this quaint creation simply cut a pair of holes into a wooden box and slipped it on a spriggan.
+Problem solved.","That Miqo'te lass said
+someone'd be bringin' me a
+gift what I couldn't refuse.
+  - Drogo",805,100,10,0,0,0,2,0,8,65,True,False,True,False,0,False,True,67,20,100,100,4613
+117,"water imp",0,"water imps",0,0,1,0,0,"Summon your water imp minion. Legend states these strange creatures can only survive on land as long as the plate atop their heads remains wet.","Even a child knows that there are no such things as water imps...but if that is true, then what in the world could this undeniably imp-like creature be? An undocumented species of gigantoad/salamander hybrid? Or perhaps simply
+the hapless victim of a
+misdirected Imp spell?","Not <Emphasis>more</Emphasis> imps!
+They'll have all our honey!
+  - Befuddled Beekeeper",886,60,10,0,0,0,2,0,8,66,True,False,False,True,0,False,True,69,20,100,100,4611
+118,"wind-up Louisoix",0,"wind-up Louisoixs",0,0,1,0,0,"Summon your wind-up Louisoix minion. The Seventh Astral Era is secure as long as the Archon is ever at our sides.","When asked why the Goldsmiths' Guild began manufacture of the wind-up delivery moogles before even drawing up designs for their wind-up Louisoix─the single greatest hero in the history of history─Guildmaster Serendipity
+replied, “Moogles are
+cuter.”","I swear by Louisoix's beard,
+I'll tear the skin from his─
+  - Geva",881,100,10,0,0,0,1,0,8,0,False,False,False,False,78,False,True,267,30,100,100,4612
+119,"Midgardsormr",0,"Midgardsormrs",0,0,1,0,1,"Summon Midgardsormr. Not the big one. The little one.","Father of Dragons, Keeper of the Lake, Bane of the XIVth Legion─while it is difficult to believe the yalm-long pup could be any of these things, he assures you his current form is only temporary while he awaits the reconstruction of a new
+corporeal vessel.","Midgardsormr was a king
+amongst kings who reigned
+for centuries on end...
+  - Minfilia",883,100,10,0,0,0,2,3,8,0,False,False,False,True,0,False,True,2,30,100,100,4618
+120,"",0,"",0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,0,False,False,False,False,0,False,False,0,0,0,0,0
+121,"",0,"",0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,0,False,False,False,False,0,False,False,0,0,0,0,0
+122,"Enkidu",0,"Enkidu",0,0,1,0,1,"Summon your Enkidu minion. That green is not coming out, even with multiple washings.","Legend has that Gilgamesh first found Enkidu while searching for a meal. Without the means to make a fire, he attempted to eat the fowl raw, only to find himself the victim of a furious counterattack. Impressed by the bird's
+tenacity, he promptly
+made her his pet.","Enkidu, do you hear me!?
+ENKIIIDUUUUUUUUUUUU!
+  - Gilgamesh",888,100,10,0,0,0,2,0,8,0,True,False,False,False,0,False,True,68,20,100,100,4621
+123,"wind-up Violet",0,"wind-up Violets",0,0,1,1,0,"Summon your wind-up Violet minion. Touched by a primal and corrupted to the core...yet adorable nonetheless.","After being harried by their hostile sylvan cousins one time too many, the sylphs of Little Solace turned to a traveling goldsmith from faraway Ul'dah to help them create an automated decoy that might keep the touched ones away.","This one is in the mood for
+dancing! And prancing!
+  - Hostile Sylph",901,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,208,10,100,100,4593
+124,"wind-up founder",0,"wind-up founders",0,0,1,1,0,"Summon your wind-up founder minion. Four score and many more years ago, the Amalj'aa founding fathers dreamed of a day when in their footsteps would walk adorable minions. That day has finally come.","Amalj'aa legend tells of Whiteknuckle Kerigg Roh─undefeated on the battlefield, he is a hero to many, including Warleader Hamujj Gah. The champion is also father of the brawling style of martial arts utilized by the beast tribe to
+this day. ","Do you know, honored ally,
+what is most distasteful to
+the Amalj'aa?
+  - Narujj Boh",902,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,213,10,100,100,4592
+125,"wind-up Dezul Qualan",0,"wind-up Dezul Qualan",0,0,1,1,0,"Summon your wind-up Dezul Qualan minion. It is said Ixali engineer Dezul Qualan began crafting war dirigibles after having a vision of ninety-nine red balloons floating over the Black Shroud.","The last time Ixali engineer Dezul Qualan was seen was the day he boarded his greatest creation─a war balloon thrice the size of any ever built, and equipped with enough provisions to last a man a full moon in the clouds. His destination:
+the floating continent
+of Ayatlan.","Soar once again, we shall.
+Within <Emphasis>Dezul Qualan</Emphasis>,
+our salvation lies!
+  - Sezul Totoloc",903,100,30,0,30,0,1,0,8,0,False,False,False,False,0,False,True,214,10,100,100,4594
+126,"wind-up kobolder",0,"wind-up kobolders",0,0,1,1,0,"Summon your wind-up kobolder minion. Bolder than a wind-up kobold, yet not any older.","Unsatisfied with the explosive power of his first creation, 789th Order Acolyte Ba Go returned to his laboratories deep within the faction dig to create the “kobolder” (a name he was quite pleased with), only to see it sold for scrap
+by his dim-witted brethren.","Doings of small minds
+and grubby hands are
+of no interest to Ba Go.
+  - Ba Go",582,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,215,10,100,100,4595
+127,"wind-up Sea Devil",0,"wind-up Sea Devils",0,0,1,1,0,"Summon your wind-up Sea Devil minion. A clockwork automaton expertly crafted to resemble the infamous Scarlet Sea Devil, leader of the Coral Tridents.","Ever the loving clutchfather, Novv had this toy crafted, complete with blood-red accents, for his infant spawnlings. When wound up, it displays the ferocity and cunning that was the clutch's first patriarch─the
+Scarlet Sea Devil.","The white coral necklace
+he wore was stained
+perpetually red with blood.
+  - Ururu Kogururu",583,100,30,0,0,0,1,0,8,0,False,False,False,False,0,False,True,216,10,100,100,4596
+128,"",0,"",0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,0,False,False,False,False,0,False,False,0,0,0,0,0
+129,"",0,"",0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,0,False,False,False,False,0,False,False,0,0,0,0,0
+130,"",0,"",0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,0,False,False,False,False,0,False,False,0,0,0,0,0
+131,"",0,"",0,0,1,0,0,"","","",0,100,0,0,0,0,0,0,8,0,False,False,False,False,0,False,True,0,10,100,100,0
+132,"",0,"",0,0,1,0,0,"","","",0,100,0,0,0,0,0,0,8,0,False,False,False,False,0,False,True,0,10,100,100,0
+133,"",0,"",0,0,1,0,0,"","","",0,100,0,0,0,0,0,0,8,0,False,False,False,False,0,False,True,0,10,100,100,0
+134,"",0,"",0,0,1,0,0,"","","",0,100,0,0,0,0,0,0,8,0,False,False,False,False,0,False,True,0,10,100,100,0
+135,"",0,"",0,0,1,0,0,"","","",0,100,0,0,0,0,0,0,8,0,False,False,False,False,0,False,True,0,10,100,100,0

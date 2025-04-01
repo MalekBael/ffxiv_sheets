@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP","Tomestones of mythology? We've stopped dealing in those, I'm afraid. Rowena says that they're not worth the hassle anymore."
+1,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE","But it might be as I still have use for them. If you have any you don't need, bring them here and I'll give you some tomestones of soldiery in exchange."
+2,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q","But it might be as I still have use for them. If you have any you don't need, I'll give you some tomestones of soldiery in exchange."
+3,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q","Exchange <Format(IntegerParameter(2),FF022C)/> Allagan tomestone<If(Equal(IntegerParameter(2),1))><Else/>s</If> of mythology for <Format(IntegerParameter(4),FF022C)/> Allagan tomestone<If(Equal(IntegerParameter(4),1))><Else/>s</If> of soldiery?"
+4,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES","Yes"
+5,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO","No"

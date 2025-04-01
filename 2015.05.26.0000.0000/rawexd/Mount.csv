@@ -1,0 +1,204 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66
+#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,str,int32,uint16,bit&01,byte,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,uint16,str,str,str,byte,byte,bit&02,int32,int32,int32,int32,sbyte,uint16,byte,byte,byte,byte,byte,uint16,uint16,bit&04,bit&08
+0,"",0,"",0,0,1,0,0,"","","",0,0,False,90,-1,30,12,6,2.4,6,2.4,2.4,12.56,1.57,3,12.56,60,30,60,6,6,2.4,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+1,"company chocobo",0,"company chocobos",0,0,1,0,0,"Summon your Grand Company-issued battle chocobo.","Born and bred in the city-state of Ishgard, the majority of company chocobos are geldings of the rouncey variety; however, massive destriers and miniature Belah'dian jennets are also raised to accommodate the builds of Roegadyn and
+Lalafell riders respectively.","Chocobos are stout-
+hearted creatures, but
+they have their limits.
+  - Mimigun",1,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,62,"SE_Bt_Etc_ChocoboWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_ChocoboBye",20,20,True,65536,65536,65537,0,0,4401,1,100,0,0,0,0,0,False,False
+2,"",0,"",0,0,1,0,0,"","","",1,3,False,90,-1,24,9.6,9,3.2,8,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,61,"","","SE_Bt_Etc_ChocoboBye",20,20,True,65537,65537,65537,65537,-1,0,0,100,0,0,0,0,0,False,False
+3,"",0,"",0,0,1,0,0,"","","",1,3,False,90,-1,24,9.6,9,3.2,8,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,61,"","","SE_Bt_Etc_ChocoboBye",2,9,True,65552,65552,65537,0,-1,0,0,100,0,0,0,0,0,False,False
+4,"goobbue",0,"goobbues",0,0,1,0,0,"Use the odd-shaped horn gifted to you by the wandering minstrel to call a massive goobbue to your side.","Traded for a song by the High Satrap of a distant land, the secret to taming these creatures once thought to be unbreakable was introduced to Eorzea by a mysterious wandering minstrel who journeyed through the realm in the final
+days before the Calamity.","Would that I had the
+girth of a goobbue!
+  - Nanamo Ul Namo",200,4,False,90,-1,30,12,9,2,9,1.6,2,12.56,1.57,3,12.56,60,30,60,3,2.4,1.2,1,1,1,1,1,1,1,1,1,1,1,1,121,"SE_Bt_Etc_GuuBooWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_GuuBooBye",15,9,True,0,1,0,0,1,4403,4,100,0,0,0,2437,0,False,True
+5,"legacy chocobo",0,"legacy chocobos",0,0,1,0,0,"Five years and a realm-shaking Calamity were not enough to break the bonds between you and your loyal steed. A single whistle and he will be at your side once again.","In the five years following your sudden disappearance from the Carteneau Flats, your ever-faithful chocobo spent each waking moment galloping across the realm in search of his lost master. His myriad adventures are nothing less than fantastical
+and heartbreaking...but that is
+a story for another day.","Go find the chocobo you
+rode in on, and ride on out.
+  - Sevrin",1,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,62,"SE_Bt_Etc_ChocoboWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_ChocoboBye",20,20,True,65545,65545,65545,65545,2,4402,1,100,0,0,0,0,0,False,False
+6,"magitek armor",0,"suits of magitek armor",0,0,1,0,0,"Call into battle your suit of Garlond Ironworks-modified magitek armor.","This suit of Garlean-developed reaper-class magitek battle armor has had its original control systems purged and replaced with a new, modified core built by Cid of the Garlond Ironworks.","At last, our very own
+suit of magitek armor!
+  - Cid Garlond",2,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,262,"SE_Bt_Etc_MadoWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_MadoBye",0,10,True,0,131073,0,0,3,4406,3,77,0,0,0,2434,2435,False,True
+7,"",0,"",0,0,1,0,0,"","","",311,5,False,90,-1,24,9.6,9,1,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"","","",0,0,True,0,1,0,0,-1,0,0,100,0,0,0,0,0,False,False
+8,"coeurl",0,"coeurls",0,0,1,0,0,"Summon your fleet-footed battle coeurl, trained from a pup to recognize you as a friend...not food.","Native to the jungles of the Near East, coeurls were only recently introduced to Eorzea, brought over from faraway lands such as Thavnair by Ul'dahn nobles who thought to breed them as pets. Now, but a handful of skilled tamers living in recluse on the Pearl are
+said to be able to train them.","Hey, good lookin'!
+Catch my coeurl yet?
+  - Swygrael",70,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_CuahrWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_CuahrBye",20,10,True,0,1,0,0,4,4405,5,60,0,0,0,0,0,False,False
+9,"ahriman",0,"ahrimans",0,1,1,0,0,"Summon forth a riding ahriman, bound to this realm with powerful magicks guaranteed to never fade.","Though little is known of the void and the creatures which call the extra-dimensional realm home, scholars have discovered that there is a strict hierarchy amongst voidsent consisting of twelve distinct tiers. Ahrimans are believed to fall into the fifth, making them formidable foes...
+when not enthralled by curses.","Ye'd 'ave t' be blinder'n an
+ahriman wi' an eyepatch t'
+miss the camp.
+  - Baderon Tenfingers",167,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,121,"SE_Bt_Etc_AhrimanWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_AhrimanBye",20,10,True,0,1,0,0,5,4404,6,100,0,0,0,0,0,True,False
+10,"",0,"",0,0,1,0,0,"","","",1,3,False,90,-1,24,9.6,9,3.2,8,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"","","SE_Bt_Etc_ChocoboBye",20,20,True,65536,65536,65537,0,-1,0,0,100,0,0,0,0,0,False,False
+11,"",0,"",0,0,1,0,0,"","","",1,3,False,90,-1,24,9.6,9,3.2,8,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"","","SE_Bt_Etc_ChocoboBye",20,20,True,65538,65541,65537,65538,-1,0,0,100,0,0,0,0,0,False,False
+12,"",0,"",0,0,1,0,0,"","","",1,3,False,90,-1,24,9.6,9,3.2,8,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"","","SE_Bt_Etc_ChocoboBye",20,20,True,65538,131077,65537,65538,-1,0,0,100,0,0,0,0,0,False,False
+13,"",0,"",0,0,1,0,0,"","","",1,3,False,90,-1,24,9.6,9,3.2,8,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"","","SE_Bt_Etc_ChocoboBye",20,20,True,65538,196613,65537,65538,-1,0,0,100,0,0,0,0,0,False,False
+14,"",0,"",0,0,1,0,0,"","","",2,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,121,"SE_Bt_Etc_MadoWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_MadoBye",0,10,True,0,65537,0,0,-1,0,0,77,0,0,0,0,0,False,False
+15,"unicorn",0,"unicorns",0,0,1,0,0,"Summon forth the single-horned steed you befriended in the Black Shroud.","Not long ago, Eorzean unicorns numbered in the thousands, and could oft be seen roaming the Coerthas highlands in great majestic herds that would render the mountains white as snow. Poaching has caused the population to decline, and if it were not for your act of kindness,
+there would be one fewer.","Your precious horses,
+they're just unicorns with
+a big empty forehead.
+  - Chief Chocowacker",534,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,6,4407,200,65,0,0,0,0,0,False,False
+16,"",0,"",0,0,1,0,0,"","","",2,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,121,"SE_Bt_Etc_MadoWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_MadoBye",0,10,True,0,196609,0,0,-1,0,0,77,0,0,0,0,0,False,False
+17,"",0,"",0,0,1,0,0,"","","",2,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,121,"SE_Bt_Etc_MadoWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_MadoBye",0,10,True,0,131073,0,0,-1,0,0,77,0,0,0,1128,1129,False,False
+18,"behemoth",0,"behemoths",0,0,1,0,0,"Summon your mighty behemoth, trained from birth to carry you...not trample you underfoot like an ant.","Immediately following the Calamity, an adventurer returning to Gridania from the Falcon's Nest in Coerthas happened upon a den of baby behemoths who had lost their mother to Bahamut's flames. Despite objections from friends and family alike,
+she kept the beasts, eventually
+training them to serve as mounts.","Do not presume to
+provoke the behemoth to
+battle. You will die.
+  - Meurise",588,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,121,"SE_Bt_Etc_BehemothWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_BehemothBye",20,10,True,0,1,0,0,7,4408,7,55,0,0,0,0,0,False,False
+19,"cavalry drake",0,"cavalry drakes",0,0,1,0,0,"Summon your cavalry drake, trained by the drake whisperer of the Brotherhood of Ash.","Training a cavalry drake is a long and arduous process that begins the moment the scalekin hatches. Never allowed to see its mother, the creature is raised solely in the presence of a drake whisperer while being weaned on the incendiary glands of aged battle
+drakes to ensure it is both
+submissive and deadly.","You are as a lost kitten
+that has wandered into
+the drake's lair.
+  - Zagozz Teh",592,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_TokageWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_TokageBye",20,10,True,0,1,0,0,8,4409,8,100,0,0,0,2436,0,False,True
+20,"laurel goobbue",0,"laurel goobbues",0,0,1,0,0,"Summon your laurel goobbue, towering friend to the sylphs.","After having the moss and flowers growing upon his head pulled up and tossed aside like common weeds by a band of sylvan ne'er-do-wells, this quiet-mannered goobbue was taken in and cared for by the sylphs of Little Solace whose elders crafted for him
+a magnificent laurel with
+which to hide his scars.","Naught is as exhilirating
+as a romp through the
+forest on goobbueback.
+  - Unknown",593,4,False,90,-1,30,12,9,2,9,1.6,2,12.56,1.57,3,12.56,60,30,60,3,2.4,1.2,1,1,1,1,1,1,1,1,1,1,1,1,121,"SE_Bt_Etc_GuuBooWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_GuuBooBye",15,9,True,0,1,0,0,9,4410,4,100,0,0,0,2437,0,False,True
+21,"gilded magitek armor",0,"suits of gilded magitek armor",0,0,1,0,0,"Call into battle your gilded suit of magitek armor. Its golden coating serves to resist magicks while impressing members of the opposite sex.","It only took a few heated skirmishes with the allied city-states for Garlemald to realize that the magicks wielded by the realm's mages were too much for even the thickest of magitek armor plating. Alloyed gilding has since been discovered to dampen the
+effects of elemental charges
+and is now standard issue.","You ditched your magitek
+armor!? Fool of a Lalafell!
+  - Biggs",2,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,262,"SE_Bt_Etc_MadoWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_MadoBye",0,10,True,0,262145,0,0,10,4411,3,77,0,0,0,0,0,False,False
+22,"nightmare",0,"nightmares",0,0,1,1,0,"Summon forth the single-horned steed with a temperament as black as his coat.","While it is no secret that it was the enigmatic Ascians who provided the beast tribes with nightmares, their reasons for doing so remain shrouded in mystery. Otherwise untamable, the single piercing tone of a magicked whistle is the only method known to soothe
+the savage beasts.","See the nightmare for
+reality, and ready thyself
+for the coming chaos!
+  - Urianger",594,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,11,4412,200,65,0,0,0,0,0,False,False
+23,"",0,"",0,0,1,0,0,"","","",592,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_TokageWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_TokageBye",20,10,True,0,1,0,0,-1,0,0,100,0,0,0,1764,0,False,False
+24,"",0,"",0,0,1,0,0,"","","",593,4,False,90,-1,30,12,9,2,9,1.6,2,12.56,1.57,3,12.56,60,30,60,3,2.4,1.2,1,1,1,1,1,1,1,1,1,1,1,1,121,"SE_Bt_Etc_GuuBooWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_GuuBooBye",15,9,True,0,1,0,0,-1,0,0,100,0,0,0,1765,0,False,False
+25,"fat chocobo",0,"fat chocobos",0,0,1,0,0,"Summon forth your fat chocobo mount. Take care that there is sufficient room for his ample girth.","Playfully described by some as “large and in charge,” in truth, when summoned, this gluttonous gourmand will flap nary a feather unless a garland of gysahl greens is dangled before him─in which case not even the laws of nature can slow
+the fat chocobo down.","Huff...huff...heave...heave...
+  - Fat Chocobo",643,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,193,"SE_Bt_Etc_DebuCyokoboWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_DebuCyokoboBye",20,10,False,0,1,0,0,12,4413,2,100,0,0,0,0,0,False,False
+26,"cavalry elbst",0,"cavalry elbst",0,0,1,0,0,"Summon your cavalry elbst, raised from an egg by Pahh of Novv's Clutch.","To ensure his elbst do not find themselves at a disadvantage to swift-running chocobos, Pahh of Novv's Clutch clips the webbing on their feet at a young age, rendering them more capable of achieving high speeds on land. This procedure, however, robs them of their natural-
+born ability to swim.","My elbst is your elbst.
+  - Seabeast Tamer",689,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_WaterRizardWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_WaterRizardBye",20,10,True,0,1,0,0,13,4414,9,100,0,0,0,0,0,False,False
+27,"bomb palanquin",0,"bomb palanquins",0,0,1,0,0,"Summon forth a bevy of bombs who will bear you in comfort upon a hovering palanquin.","Upon learning that his creations were forever lacking the power to combust, 789th Order Acolyte Ba Go did what any master of explosives would─attach the bombs to the corners of an iron bench and create a floating coach.","Hack and slash and
+tossy-boom. Bang and
+boom and slashy-doom.♪
+  - Goblin Diddy",644,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,121,"SE_Bt_Etc_BomKikyuuWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_BomKikyuuBye",20,10,True,0,1,0,0,14,4415,10,100,0,0,0,0,0,True,False
+28,"Aithon",0,"Aithon",0,1,1,0,1,"Summon forth Aithon, the legendary steed favored of the primal Ifrit. Its breath is said to be as hot as the seventh hell.","Legend states that the Lord of the Inferno, Ifrit, forged this magicked steed from a nightmare offered by the Amalj'aa in sacrifice.","Nay is but a hoofbeat
+away from neigh!
+  - Uma Bugyo",713,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,298,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,15,4416,200,65,0,0,0,0,0,False,False
+29,"Xanthos",0,"Xanthos",0,0,1,0,1,"Summon forth Xanthos, the legendary steed favored of the primal Garuda. At full gallop, it is said to be the very wind itself.","Legend states that the Lady of the Vortex, Garuda, created this magicked steed from a nightmare offered by the Ixal in sacrifice.","Nay is but a hoofbeat
+away from neigh!
+  - Uma Bugyo",714,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,297,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,16,4417,200,65,0,0,0,0,0,False,False
+30,"Gullfaxi",0,"Gullfaxi",0,0,1,0,1,"Summon forth Gullfaxi, the legendary steed favored of the primal Titan. Its powerful legs set off tremors that can be felt from malms away.","Legend states that the Lord of Crags, Titan, wrought this magicked steed from a nightmare offered by the kobolds in sacrifice.","Nay is but a hoofbeat
+away from neigh!
+  - Uma Bugyo",715,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,296,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,17,4418,200,65,0,0,0,0,0,False,False
+31,"Enbarr",0,"Enbarr",0,1,1,0,1,"Summon forth Enbarr, the legendary steed favored of the primal Leviathan. It is said to have been born of the surging waves.","Legend states that the Lord of the Whorl, Leviathan, birthed this magicked steed from a nightmare offered by the Sahagin in sacrifice.","Nay is but a hoofbeat
+away from neigh!
+  - Uma Bugyo",716,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,295,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,18,4419,200,65,0,0,0,0,0,False,False
+32,"warlion",0,"warlions",0,0,1,0,0,"Summon forth your fearless warlion to rule over the battlefield, such is his station as king of the beasts.","Early in the Sixth Astral Era, lions were brought over from the Near East and trained to serve as battle mounts for the Sultansworn of Ul'dah. Deemed unbreakable, those not sold to the Coliseum for venationes were released into the deserts of Thanalan where they eventually
+reverted back to a feral state.","I, too, see the friends
+I lost in the lions and
+spinners...
+  - Gregory",721,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,0.6,0.5,0.63,0.56,0.25,0.25,0.54,0.47,0.66,0.62,0.72,0.46,121,"SE_Bt_Etc_LionWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_LionBye",20,10,True,0,1,0,0,19,4420,11,45,13,4,0,0,0,False,False
+33,"warbear",0,"warbears",0,0,1,0,0,"Summon forth your fearless warbear, veteran of a thousand battles, to fill your enemies with dread.","In generations past, warriors seeking fame and glory would journey out into the untamed wilds of Abalathia's Spine in search of the giant grizzled bears that roamed the mountains, and would wrestle the beasts into submission, riding their prizes back to civilization. That is, or die trying.","How do you like my
+pets? Not too playful
+for you, I hope?
+  - Beast Trainer",719,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,0.8,0.72,0.84,0.8,0.5,0.5,0.72,0.68,0.88,0.88,0.96,0.66,121,"SE_Bt_Etc_KumaWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_KumaBye",20,10,True,0,1,0,0,20,4421,12,65,12,3,0,0,0,False,False
+34,"draught chocobo",0,"draught chocobos",0,0,1,0,0,"Summon forth your draught chocobo, a massive bird large and strong enough to bear two riders.","This heretofore unseen breed of chocobo was said to have been discovered by chocobo hunters searching for the legendary Chocobo Forest. Its enormous size would make it a fine pack chocobo, but its foul temper prevents it from completing even the simplest of tasks without the injury
+of some poor rider.","The thing was thrice my
+size and had already
+maimed several keeps.
+  - Battlewarden Ribald",1,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,62,"SE_Bt_Etc_ChocoboWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_ChocoboBye",20,20,True,65563,65563,65563,65563,21,4422,1,100,0,0,1,0,0,False,False
+35,"direwolf",0,"direwolves",0,0,1,0,0,"Summon forth your deadly direwolf, one of five pups found huddling together in the snow near the corpse of their slain mother.","Mass cullings of the beasts during the Sixth Astral Era prompted naturalists to deem the species extinct. However, this claim was proved false when Ixali scouts discovered a lone pack roaming the sparsely inhabited mountains of Xelphatol.","I lost two good men
+to these wolves.
+  - Corentiaux the Colder",675,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1.45,1.3,1.5,1.45,0.87,0.87,1.3,1.23,1.6,1.6,1.74,1.19,121,"SE_Bt_Etc_WolfWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_WolfBye",20,10,True,0,1,0,0,22,4423,13,100,0,0,0,0,0,False,False
+36,"storm warsteed",0,"storm warsteeds",0,0,1,0,0,"Summon forth your Maelstrom-issued warhorse and try to push from your mind the fact that your chocobo is sitting somewhere hungry and alone.","After witnessing dazzling demonstrations of how a warsteed might turn the tide of battle, the Grand Companies of Eorzea emptied their coffers at the feet of the Far Eastern uma bugyo, each seeking to put themselves at an advantage
+during Frontline campaigns.","Hoof to neigh, Eorzea
+knows not the horse for
+one reason: the horsebird.
+  - Uma Bugyo",811,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,65537,65537,65537,0,23,4424,201,100,0,0,0,0,0,False,False
+37,"serpent warsteed",0,"serpent warsteeds",0,0,1,0,0,"Summon forth your Order of the Twin Adder-issued warhorse and try to push from your mind the fact that your chocobo is sitting somewhere hungry and alone.","After witnessing dazzling demonstrations of how a warsteed might turn the tide of battle, the Grand Companies of Eorzea emptied their coffers at the feet of the Far Eastern uma bugyo, each seeking to put themselves at an advantage
+during Frontline campaigns.","Hoof to neigh, Eorzea
+knows not the horse for
+one reason: the horsebird.
+  - Uma Bugyo",811,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,131073,131073,131073,0,24,4425,201,100,0,0,0,0,0,False,False
+38,"flame warsteed",0,"flame warsteeds",0,0,1,0,0,"Summon forth your Immortal Flames-issued warhorse and try to push from your mind the fact that your chocobo is sitting somewhere hungry and alone.","After witnessing dazzling demonstrations of how a warsteed might turn the tide of battle, the Grand Companies of Eorzea emptied their coffers at the feet of the Far Eastern uma bugyo, each seeking to put themselves at an advantage
+during Frontline campaigns.","Hoof to neigh, Eorzea
+knows not the horse for
+one reason: the horsebird.
+  - Uma Bugyo",811,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,196609,196609,196609,0,25,4426,201,100,0,0,0,0,0,False,False
+39,"",0,"",0,0,1,0,0,"","","",820,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_WaterRizardWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_WaterRizardBye",20,10,True,0,1,0,0,-1,4414,0,100,0,0,0,2620,0,False,False
+40,"Markab",0,"Markab",0,0,1,0,1,"Summon forth Markab─the legendary steed favored of the primal Ramuh. It is said to have been born of a single thunderbolt.","Legend states that the Lord of Levin, Ramuh, drew forth this magicked steed from a nightmare offered by the sylphs in sacrifice.","Nay is but a hoofbeat
+away from neigh!
+  - Uma Bugyo",817,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,294,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,26,4427,200,65,0,0,0,0,0,False,False
+41,"ceremony chocobo",0,"ceremony chocobos",0,0,1,0,0,"Summon forth your ceremony chocobo, large enough to bear both you and your special someone.","Raised by Ishgard's master breeders for beauty and purity of stock, its snow white feathers are natural and, though fully developed, as soft as down. Temperament-wise, the bird is remarkably docile and one of few breeds
+who will allow dual
+riders upon its back.","Don't stand on ceremony,
+tick-tock, tick-tock!
+  - Helmhart",571,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,62,"SE_Bt_Etc_ChocoboWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_ChocoboBye",20,20,True,65537,65537,65537,65537,27,4431,1,100,0,0,1,0,0,False,False
+42,"Sleipnir",0,"Sleipnir",0,0,1,0,1,"Summon forth Sleipnir─undying steed of the elder primal Odin. His coat is as dark as void, while his eyes glow a sanguine red.","Blessed by the elder primal himself, Sleipnir will forever remain loyal to those who have proven themselves worthy. In addition to being fearless in battle, the dark steed is also able to manipulate his corporeal form to
+accommodate any
+rider, large or small.","If it hadn't been
+for that horse...
+   - Erik",866,5,False,90,-1,24,9.6,9,1,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,292,"SE_Bt_Etc_SleipnilWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_SleipnilBye",20,10,True,0,1,0,0,28,4428,202,100,0,0,0,0,0,False,False
+43,"Boreas",0,"Boreas",0,0,1,0,1,"Summon forth Boreas─the legendary steed favored of the primal Shiva. His breath is said to beget the winter's storms.","Legend states that the Lady of Frost, Shiva, birthed this magicked steed from a unicorn offered by her followers in sacrifice.","Nay is but a hoofbeat
+away from neigh!
+  - Uma Bugyo",818,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,293,"SE_Bt_Etc_UnicornWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_UnicornBye",20,10,True,0,1,0,0,29,4429,200,65,0,0,0,0,0,False,False
+44,"parade chocobo",0,"parade chocobos",0,0,1,0,0,"Summon forth your parade chocobo who, by the looks of him, has not marched in many parades.","Originally purchased by the Adventurers' Guild for use in festival parades, this portly steed quickly wore out his welcome by devouring a moon's worth of fodder in a single turn of the sun. Unable to pay the price of upkeep, the guild
+passed the reigns to some-
+one more “commendable.”"," I'll be at the parade with
+whoever else I can drag along.
+  - Botulf",965,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,1,1,1,1,1,1,1,1,1,1,1,193,"SE_Bt_Etc_DebuCyokoboWhistle","SE_Bt_Etc_ChocoboWhistle_only","SE_Bt_Etc_DebuCyokoboBye",20,10,False,0,1,0,0,30,4430,2,100,0,0,0,0,0,False,False
+45,"",0,"",0,0,0,0,0,"","","",0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False
+46,"adamantoise",0,"adamantoises",0,1,1,0,0,"Summon forth your adamantoise mount. He (?) is actually quite faster than he appears.","Native to the Near Eastern island of Thavnair, adamantoises were long thought to be impossible to domesticate. However, through the efforts of Ul'dahn zoologists, a handful of the colossal scalekin have been successfully
+trained to accept
+riders.","M-Me? Perfectly fine!
+S-Solid as an adamantoise!
+  - Cocobezi",987,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,0.5,0.45,0.52,0.5,0.3,0.3,0.45,0.42,0.55,0.55,0.6,0.41,121,"SE_Bt_Etc_AdamanWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_AdamanBye",5,3,True,0,1,0,0,31,4434,14,65,0,0,0,0,0,False,False
+47,"Kirin",0,"Kirin",0,0,1,0,1,"Summon forth Kirin, Far Eastern king of the beasts.","Ask any man in Othard who rules the realm of beasts, and you will receive the same answer─Kirin. It is believed that the lion-like creature has walked the eastern lands for over a thousand years and
+will only answer the
+call of a hero it has
+deemed worthy.","Even folk in the Far East
+'eard that tale, I reckon.
+  - Trachraet",958,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,1.05,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"SE_Bt_Etc_KirinWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_KirinBye",20,10,True,0,1,0,0,32,4432,200,100,0,0,0,0,0,False,False
+48,"logistics system",0,"logistics systems",0,0,1,0,0,"Call into battle your Allagan logistics system. For your safety and the safety of those around you, all weaponry has been disabled.","One of the automated system drones deployed by the Allagans to maintain and protect their strongholds. After being unearthed by the Sons of Saint Coinach, the mechanical sphere was modified by Nero tol Scavea
+into a personal
+transportation device.","Her report also mentions a
+violent encounter with a
+sentry heavily augmented
+by Allagan technology...
+  - Rammbroes",1029,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,121,"SE_Bt_Etc_DaragabWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_DaragabBye",0,10,True,0,1,0,0,33,4433,3,100,12,4,0,3506,0,True,True
+49,"Fenrir",0,"Fenrir",0,0,1,0,1,"Summon forth a purebred Abalathian hoarhound named after its pack's legendary leader.","Following the rise of Ishgard, hoarhounds all but disappeared from the Coerthas highlands. However, the shift in climate caused by the Calamity has seen the legendary beasts descend from their mountain dens once more.","A good hound keeps
+his maw shut.
+   - Latata",1026,2,False,90,-1,24,9.6,9,3.2,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,0.5,0.45,0.52,0.5,0.3,0.3,0.45,0.42,0.55,0.55,0.6,0.41,121,"SE_Bt_Etc_FenrirWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_FenrirBye",20,10,True,0,1,0,0,34,4435,14,65,0,6,0,0,0,False,False
+50,"",0,"",0,0,0,0,0,"","","",0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False
+51,"",0,"",0,0,1,0,0,"","","",311,5,False,90,-1,24,9.6,9,1,9,3.2,3.2,12.56,1.57,3,12.56,30,15,30,8,8,3.2,1,0.9,2.1,1,0.6,0.6,0.9,0.85,1.1,1.1,1.2,0.82,121,"","","",0,0,True,0,1,0,0,-1,0,0,100,0,0,0,0,0,False,False
+52,"",0,"",0,0,0,0,0,"","","",0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False
+53,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+54,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+55,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+56,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+57,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+58,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+59,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+60,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+61,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+62,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+63,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+64,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+65,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+66,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+67,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+68,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+69,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+70,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+71,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+72,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+73,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+74,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+75,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+76,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+77,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+78,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+79,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False
+80,"",0,"",0,0,1,0,0,"","","",0,0,False,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,"","","",10,10,True,0,0,0,0,-1,0,0,100,0,0,0,0,0,False,False

@@ -1,0 +1,13 @@
+﻿key,0,1,2,3,4,5,6
+#,,,,,,,
+int32,uint32,uint32,bit&01,bit&02,bit&04,bit&08,byte
+0,0,0,False,True,False,False,0
+1,50,51,False,True,True,False,11
+2,52,53,False,True,True,True,11
+3,88,89,False,True,True,True,11
+4,101,0,True,False,False,False,3
+5,102,0,True,False,False,False,3
+6,103,0,True,False,False,False,3
+7,104,0,True,False,False,False,3
+8,109,0,True,True,False,False,3
+9,114,0,True,False,False,False,3

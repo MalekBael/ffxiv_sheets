@@ -1,0 +1,38 @@
+﻿key,0,1,2
+#,,,
+int32,str,byte,byte
+0,"Sephiroth Missions",0,0
+1,"Main Scenario Quests",2,1
+2,"Chronicles of a New Era",2,1
+3,"Amalj'aa Quests",2,1
+4,"Sylph Quests",2,1
+5,"Kobold Quests",2,1
+6,"Sahagin Quests",2,1
+7,"Ixal Quests",2,1
+8,"Side Story Quests",2,1
+9,"Lominsan Sidequests",3,1
+10,"Gridanian Sidequests",3,1
+11,"Ul'dahn Sidequests",3,1
+12,"Ishgardian Sidequests",3,1
+13,"Mor Dhonan Sidequests",3,1
+14,"Class Quests",2,1
+15,"Job Quests",2,1
+16,"Grand Company Quests",2,1
+17,"Seasonal Events",1,1
+18,"Special Quests",2,1
+19,"Battlecraft Leves",3,2
+20,"Mining Leves",3,2
+21,"Botany Leves",3,2
+22,"Fishing Leves",3,2
+23,"Carpentry Leves",3,2
+24,"Blacksmithing Leves",3,2
+25,"Armoring Leves",3,2
+26,"Goldsmithing Leves",3,2
+27,"Leathercrafting Leves",3,2
+28,"Clothcrafting Leves",3,2
+29,"Alchemy Leves",3,2
+30,"Cooking Leves",3,2
+31,"Faction Leves",2,2
+32,"Company Leves",2,2
+33,"Duties",2,3
+34,"Legacy Quests",2,4

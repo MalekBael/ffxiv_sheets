@@ -1,0 +1,407 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"Need some face time with your alter ego?
+Hit the Pause key to have your PC face the camera."
+2,"Craving some face time?
+Use the Face Camera feature and your PC will only have eyes for you."
+3,"Memories fade, but pictures last a lifetime.
+Use the Print Screen key to save a screenshot to your hard drive."
+4,"Too much clutter on your screen?
+Remove it all by pressing the Scroll Lock key."
+5,"Give one of your hands a break by using the mouse for movement. Simply hold down the right and left buttons simultaneously to enter “steer mode.”"
+6,"Do you always feel like somebody's watching you? A quick press of the V key is almost as good as having eyes in the back of your head."
+7,"Enable Direct Chat mode and all keyboard
+functionality will default to chat log text input."
+8,"When is down up, and up down? When you reverse the X and Y axes of your camera in Character Configuration."
+9,"Is the NPC you are looking for buried in a sea of PCs?
+Filter out player display names by pressing the X key."
+10,"Customizing target cycling settings in Character Configuration can save you time in battle by making sure you skip over unnecessary targets."
+11,"Player order in your party list can be customized to sort by roles."
+12,"Have you opened Character Configuration lately?
+There may be a whole world of helpful features you are missing out on."
+13,"Tired of assigning the same general actions to your hotbars for each class? Try hotbar sharing in Character Configuration."
+14,"Mouse over the image in your Minion and Mount Guides and you'll be rewarded with a memorable quote from one of Eorzea's fine citizens."
+15,"Be kind to your eyes. If you are having trouble reading messages in your chat log, change the font size in Character Configuration."
+16,"Are you missing important messages from your friends?
+Assign them a notification sound in Character Configuration."
+17,"Enable time stamps on the messages in your log
+to keep track of when all the action took place."
+18,"Is the button layout all wrong on your <If(GreaterThan(PlayerParameter(75),0))>controller<Else/>gamepad</If>? Try calibrating in game with the calibration feature located in System Configuration."
+19,"In addition to moving, you can also press the <CommandIcon(11)/> button to interrupt a spell."
+20,"You haven't forgotten about the <CommandIcon(16)/> and <CommandIcon(17)/> buttons, have you? Customize your controller by using the Button Configuration feature."
+21,"The location of almost every UI element is customizable via the HUD Layout feature. Use the on-screen grid to ensure each is placed perfectly."
+22,"Individual crafting recipes can be set to your hotbars.
+Click the icons to instantly bring up the synthesis interface."
+23,"Memories fade, but pictures last a lifetime.
+Press <CommandIcon(12)/>+<CommandIcon(18)/> to save a screenshot to your hard drive."
+24,"Too much clutter on your screen?
+Remove it all by pressing <CommandIcon(12)/>+<CommandIcon(19)/>."
+25,"Cross hotbars. Cross hotbars. One a penny, ten a penny, cross hotbars. Enable up to ten horizontal and vertical hotbars in Character Configuration."
+26,"Did you know that even the category icons in
+Character and System Configuration can be set to your hotbars?"
+27,"Not happy with all those changes you made to your UI? Type the text command /uireset to restore all default UI element locations."
+28,"Did you know that you can still toggle through targets with the <CommandIcon(12)/> and <CommandIcon(13)/> buttons, even while activating the cross hotbar?"
+29,"Sharing is caring, and the same goes for maps. Use the map link function to share your map with a party member."
+30,"Three chat log tabs not enough? Press the plus icon below the log window to add a new tab, then customize it by pressing the cog icon."
+31,"Orders from your party leader to concentrate all attacks on
+a certain enemy? Press F10 to target a focus target."
+32,"Don't let another adventurer claim your kill!
+Press F11 to target the nearest visible enemy."
+33,"See a townsperson you simply have to speak with? Don't waste time fumbling with your mouse. Press F12 to target the nearest visible NPC."
+34,"The Keybind option located under System is a great place for
+learning commands and features you ever never knew existed."
+35,"Having trouble relaying battle strategy to your party or alliance?
+Use waymarks to provide them with visual guides."
+36,"Consult The Unending Journey in any inn room
+to recall the events of your past adventures."
+37,"Run out of USB ports on your console?
+Click the touch pad to bring up a virtual mouse cursor."
+38,"Does low grass quality have you seeing red...er, green?
+Boost resolution in System Configuration."
+39,"You can register up to three aetherytes as
+favored destinations to reduce teleportation fees by half."
+40,"In gamepad mode but still want to use keyboard commands?
+Uncheck “Enable Direct Chat” in the Keybind menu."
+41,"/cheer! Many emotes can be performed while sitting or on chocoback.
+Open the Emotes menu to peruse your options."
+42,"Feel like the mini map is guiding your every step?
+Try turning it off under UI Settings in Character Configuration."
+43,"Press the <CommandIcon(11)/> button when creating user macros to bring up
+the complete list of in-game text commands and their usage."
+44,"Forget how many potions or elixirs you brought to battle?
+Drag them onto your hotbar to keep track of your reserves."
+45,"Too much on-screen text ruining your immersion?
+Shorten, or even turn off PC display names in Character Configuration."
+46,"Gear sets are a quick and easy way to change what you're wearing.
+Dragging them onto your hotbar makes it even easier."
+47,"Attuning with all the Aethernet crystals in a city-state unlocks
+Aethernet access to locations directly outside city gates."
+48,"Too much time in front of a monitor doing a number on your eyesight?
+Increase log window font size in Character Configuration!"
+49,"When using Duty Roulette, be mindful of the bonus for adventurers
+in need, as it often changes between tanks, healers, and DPS."
+50,"Do you prefer to be seen rather than heard? Add the word “motion”
+after an emote text command to hide the accompanying message."
+51,"Don't underestimate the value of damage over time attacks like
+Aero and Bio. That last tick of damage might just save your life!"
+52,"Once you have successfully crafted an item, you can recraft it
+with a single press of a button by using the Quick Synthesis option."
+53,"Is the Recommendations list in your way every time you log in?
+Uncheck “Show upon login” in Character Configuration to turn it off."
+54,"Throw away a quest or event item by accident? Well, you're in luck!
+Speak with a Calamity salvager NPC to repurchase your lost items."
+55,"Did some ***** tell you to **** off? Do you want to know what they
+truly said? Disable the Profanity Filter in Character Configuration."
+56,"Clicking the gil icon in the lower left of the UI will switch the display
+to the current amount of Grand Company seals in your possession."
+57,"Even if you can't see them, sending friends a tell or inviting them
+to a party is as simple as right-clicking their name in the log window."
+58,"If the arrangement of quests in the duty list is not to your liking,
+check the box next to the quests in your Journal to customize their order."
+59,"Retainers are always ready to help! Have them sell items on your behalf,
+store your gear, and venture across the land to procure resources."
+60,"Did you take part in a holiday event but forget to check out the seasonal shop? Speak to a Calamity salvager! They're festive all year long."
+61,"Could you have traveled here for free? Make use of the Return action,
+available every fifteen minutes, to teleport back to your home point."
+62,"To set your character’s idle stance, use /cpose. To change stances automatically, check Enable idle animation in Character Configuration."
+63,"Make your smartphone even smarter by downloading the free Libra Eorzea app. It's the best way to keep track of your character while on the go."
+64,"Did you know the abbreviation for “cross hotbar” is XHB?
+Did you even care?"
+65,"If a piece from your gear set is missing, fear not! Right-click the gear set and select Display Set, then right-click the missing piece to find it."
+66,"Customize the size of the chat log by dragging the upper-right corner.
+Move it by dragging the General tab."
+67,"Make sure not to leave an instanced area before claiming your loot."
+68,"Being polite in a party or alliance will not only improve your gameplay
+experience, but may even earn you a commendation from your peers."
+69,"Always keep one eye on the ground when battling enemies.
+Glowing areas indicate a forthcoming attack and that it is time to move!"
+70,"Already talked to a townsperson? Try talking to her again.
+Who knows, she might have something new to say."
+71,"Why teleport when a ferry can take you
+directly from Limsa Lominsa to Vesper Bay?"
+72,"Your journal automatically updates as you progress through a quest.
+Consult with the log for a detailed explanation of current objectives."
+73,"Want to strut the streets of the sultanate in fabulous pink?
+Use dyes to change the color of your gear."
+74,"Learn your role. Tanks need to focus on drawing enmity away from
+other party members rather than dealing a lot of damage."
+75,"Linking items to the chat log is a quick and easy way
+to show your hard-earned loot to your friends."
+76,"Chocobos are known for their love of gysahl greens.
+You will need a bunch to summon your personal companion."
+77,"When someone sends you a /tell message,
+press alt+r on your keyboard to send a quick reply."
+78,"Is there a fish that has been eluding you? Have you tried every bait and tackle, but to no avail? Try casting your line in different weather."
+79,"No one is born a guildmaster. Try not to get too upset when someone misses an attack or botches their synthesis. Share your wisdom instead!"
+80,"When seasonal event items start taking up too much space in your inventory, try storing them in your inn room armoire."
+81,"Loading screen tooltips provide insight into the world of Eorzea.
+Could this be the true nature of the Echo?"
+82,"That star marmot too much for you?
+Flee to the nearest guard and they'll give you a helping hand...or blade."
+83,"The actions Return and Teleport are not bound to any key by default.
+Assign them via the System menu to save time!"
+84,"Do not forget to check which actions from other classes can be used with your current ones. No one will expect a Haymaker coming from a gladiator."
+85,"Watch your average item level (IL). Even a level 50 ninja will only be
+a burden to her party wearing linen breeches and elm clogs."
+86,"Your free company having trouble keeping up with gear repair costs?
+Purchase the company action “Proper Care” to reduce wear and tear."
+87,"After having joined a Grand Company, check out its quartermaster's
+item selection. You might find some unique gear."
+88,"Support your fellow adventurers. Buy at the markets, not only from NPCs.
+You might even find a better deal!"
+89,"Having trouble navigating through multiple targets? Try enabling highlights for potential targets via the Character Configuration menu."
+90,"Tired of backpedaling in the face of danger? Switch to Legacy Type movement in the Character Configuration menu and run like the wind!"
+91,"Struggling with a certain duty? Use the Party Finder to set your ideal party composition and summon fellow adventurers to your side."
+92,"Want to save the realm wearing naught but your smallclothes and sandals? Use glamours to dress the part for any occasion...or not."
+93,"Unlocked any nifty achievements lately? Speak with Jonathas in Old Gridania, and see if you've earned any accompanying rewards."
+94,"Keep an eye out for items marked as crafting materials
+when deciding which items to store for later use."
+95,"Is the lighting not quite right for your screenshot?
+Summon your wind-up sun minion to banish the dark!"
+96,"Use the Focus Target function to track the status of enemies
+and NPCs even when they are not your main target."
+97,"Don't fumble with your keyboard when swapping your target from enemy to tank. Just press T to select your target's target."
+98,"Having trouble expressing yourself with the available emotes?
+Create your own by typing /em followed by original text."
+99,"Strengthen your gear by affixing it with materia. If you are having trouble doing it yourself, find a Disciple of the Hand who can help."
+100,"Don't fight on an empty stomach! Eating food before battle will give you temporary enhancements that will last even if you're KO'd."
+101,"Leaving your inventory open to keep track of how many items you've gathered? Close it! The number is there in the top right of the interface."
+102,"Seeking a more immersive Eorzea? Lower the background music, set your listening position to Character, and play in first person mode."
+103,"Forget the last thing you typed? Want to use the same emote command again? Click the entry field in the chat log and press the Up key."
+104,"If your macro icons are looking a little plain, use macro commands to customize their appearance to match character skills and actions."
+105,"Repairing gear one piece at a time can try anyone's patience.
+Use Repair under General in the Actions & Traits menu to mend in bulk."
+106,"Do you feel your new hairstyle is too fabulous to be hidden away under a helmet? Enable the Hide Head Gear option in Character Configuration."
+107,"If constantly opening the main menu is a chore, try placing these commands on your hotbar. They can be found under Actions & Traits."
+108,"Always try and log out in a sanctuary or inn room.
+You will be granted an EXP bonus on your next visit to Eorzea."
+109,"Is your tank getting walloped by hard-hitting attacks? Use the CNJ skill Stoneskin, and the ACN skill Eye for an Eye to mitigate damage."
+110,"Tired of always playing the hero? Take a break from saving the realm and become a fisher. Who knows what you will reel in?"
+111,"Tanking in a party that is using a lot of area of effect attacks?
+Keep enmity focused on you by using your own like Flash or Overpower."
+112,"Ever wonder what those colored dots at the bottom right of
+the screen are for? They represent the type of items in your inventory."
+113,"Remember to set your home point when advancing into unknown territory. This might save you Teleport costs when meeting an unexpected demise."
+114,"Wondering what the weather will bring? Speak with a skywatcher for the latest forecast. There is one stationed at almost every major outpost."
+115,"Unable to collect any more Allagan tomestones?
+Worry not. The fount will flow again at 5:00 p.m. on Tuesday (JST)."
+116,"Where's the gil from that pair of shaded spectacles you sold in the markets? Chances are the retainer who sold it is holding the coin."
+117,"Patience is a virtue even beastmen value.
+Only a certain number of beast tribe quests can be accepted each day."
+118,"A UI window too large or small for your liking?
+Use the Ctrl+Home keys to adjust the zoom ratio from 60% to 140%."
+119,"Remember, Game Masters will never ask for your password!"
+120,"Using a security token will help protect
+your account from being compromised."
+121,"Turning in high-quality items will add bonus experience to levequests. "
+122,"You can check the market history of
+an item from your retainer before selling it."
+123,"Is your personal chocobo looking a bit too ordinary?
+Equip him with barding so you can ride in style!"
+124,"Stop by Buscarron's Druthers for some food and drink.
+No adventurer should go hungry in the wild!"
+125,"Jealous of another adventurer's hairdo?
+Aesthetician Jandelaine can redo your 'do before a single bell is through."
+126,"The Syndicate, Ul'dah's ruling body, has six members─six members who also happen to be the six richest citizens in all the sultanate."
+127,"Inspector extraordinaire Hildebrand's monocle is merely for vanity purposes, and does not actually contain a functional lens."
+128,"Are you /happy? Do you feel like an inn room without a roof?
+Drag emotes to your action bar and you'll be /happy all the time!"
+129,"Determining a goblin's gender is as easy as looking at the last two letters of their name: “～ix” for males and “～ox” for females."
+130,"The Keepers of the Moon have a matriarchal society, with surnames passed down from mother to child—some since the First Astral Era."
+131,"Beastmen refer to the five races with a variety of colorful titles including 'smoothskin,' 'overdweller,' 'uplander,' and 'spoken ones.'"
+132,"Some Eorzeans believe that after death, souls must endure the trials of six hells before passing into the eternal damnation of the seventh."
+133,"Famed eatery “The Bismarck” is a delectable source of all Eorzean delicacies. Begin your culinary journey on the Limsa Lominsa Upper Decks!"
+134,"The Great Goobbue Wall of Ul'dah, referenced in “He Who Waited Behind,” was real! It was created by adventurers on the eve of the Calamity."
+135,"The aitches in certain Miqo'te names represent a slight hissing sound. Since other races cannot make this sound, the aitches become silent."
+136,"In addition to weather such as rain, snow, and sandstorms, certain areas in Eorzea will experience an umbrally charged fog known as “gloom.”"
+137,"Coeurl kittens and wolf pups are like Garleans and Eorzeans─they just don't get along. Keep a watchful eye on them should their paths cross!"
+138,"Peistes, gigantoads, antlings, and vultures are known to lunch on Lalafells,
+but any rumors involving ravenous Roegadyn are dubious at best."
+139,"Throughout history, the Lalafell passed their histories down through song,
+which is why even now many use heavy alliteration in their speech."
+140,"Plainsfolk males─notable Syndicate member Teledji Adeledji included─usually go by their entire full name, rather than first or last name alone."
+141,"Minion behavior is varied. Some will interact with others nearby,
+while some will respond to emotes. Some may even act on their own."
+142,"Eorzea is located on Aldenard, one of the Three Great Continents. The other two─Ilsabard and Othard─lie to the north and northeast, respectively."
+143,"Merlwyb Bloefhiswyn came to power after emerging victorious in the Trident─a multi-pronged race used to determine Limsa Lominsa's Admiral."
+144,"Coerthas, once a verdant highland region, is now pounded by
+relentless snowstorms─an unforeseen side-effect of the Calamity."
+145,"In Eorzea, weight is measured in onzes, ponzes, and tonzes.
+There are 16 onzes in a ponze and 2000 ponzes in a tonze."
+146,"The shortest Lalafells are roughly two feet ten inches (34 ilms) tall. By contrast, Roegadyn can grow to almost three times that height (90 ilms)."
+147,"It is believed the Miqo'te first came to Eorzea during the Fifth Umbral Era, fleeing their ravaged homeland on the southern continent of Meracydia."
+148,"In Eorzea, length and distance are measured in ilms, fulms, yalms, and malms. There are 12 ilms in a fulm, 3 fulms in a yalm, and 1760 yalms in a malm."
+149,"Each previous Astral Era has ended with a Calamity corresponding to
+one of the six elements─fire, ice, earth, lightning, water, and wind."
+150,"There are three residential areas set aside for player housing─the Goblet in Thanalan, Mist in La Noscea, and the Lavender Beds in the Black Shroud."
+151,"Your retainer returns with a glade cottage wall, and then a roof.
+Are exploration ventures simply a license to raid? We may never know..."
+152,"Brave the cold and journey to Camp Dragonhead to join
+the campaign against Svara. Just when you think it’s over..."
+153,"ハイデリンにはエオルゼアが含まれる「三大州」の他に、
+南方大陸「メラシディア」や、西方の「新大陸」といった大陸が存在する。"
+154,"熟練の船乗りたちが伝えるところでは、南方大陸「メラシディア」は、
+エオルゼアに比べて土地に満ちるエーテルが少なく、荒廃しているという。"
+155,"「蛮神」とは、人々の祈りと捧げられたクリスタル（エーテル）によって、
+物質界に権限する超常の存在である。"
+156,"ガレマール帝国の主要民族、ガレアン族は先天的に魔法的素養に恵まれていない。
+そのため、魔法の代わりに「魔導技術」を発展させてきた。"
+157,"森の都「グリダニア」は、エレゼン族とヒューラン族が協力して築いた
+地下都市「ゲルモラ」を母体としている。"
+158,"海の都「リムサ・ロミンサ」は、約700年前に北洋から流れ付いた
+移民船「ガラディオン号」の乗員たちが築き上げた都市である。"
+159,"かつてザナラーン地方に存在した都市国家「ベラフディア」は、
+王権を巡る二人の王子の争いにより、「ウルダハ」と「シラディハ」に分裂した。"
+160,"砂の都「ウルダハ」は、デューンフォーク族が興した都市である。
+商才に優れた彼らにより、豊かな交易都市となった。"
+161,"城塞都市「アラミゴ」は、20年前にガレマール帝国軍に占領された。
+これにより多くの難民が、近隣諸国に流出した。"
+162,"フォレスター族とシェーダー族は、同じ祖先を持つ兄弟だ。
+しかし、グリダニアの建国過程で袂を分かって以来、関係はぎくしゃくしている。"
+163,"山の都「イシュガルド」は、戦神「ハルオーネ」を守護神とする宗教都市国家だ。
+これまで、長きにわたりドラゴン族との戦争を続けてきた。"
+164,"エオルゼアの人々は、「七天」と呼ばれる7つの天国があると考えている。
+そこには十二神が築いた、天上の都があるという。"
+165,"冒険者の必需品とされる地図「エオルゼア全図」は、
+70余年前に冒険家ロダード・アイアンハートによって記された。"
+166,"かつて月の周囲には、衛星「ダラガブ」が巡り「双月」と呼ばれていた。
+しかし、5年前にエオルゼアに落下し、第七霊災を引き起こした。"
+167,"各地に見られるオレンジ色のクリスタルは、偏属性クリスタルと呼ばれている。
+第七霊災の傷跡のひとつだ。"
+168,"砂の都「ウルダハ」では、獣人排斥令が施行されており、獣人たちの出入りが著しく制限されている。これはウルダハ商人の権益を守るための処置だ。"
+169,"リムサ・ロミンサ、ウルダハ、グリダニア、イシュガルド、アラミゴ、シャーレアンは、
+エオルゼア六大都市と呼ばれている。"
+170,"ガレマール帝国は、北東のイルサバード大陸を支配する巨大な帝政国家だ。
+大陸統一の偉業を成すべく、エオルゼアを虎視眈々と狙っている。"
+171,"リムサ・ロミンサの交易商人は、優れた航海術を活かして、
+近東のサベネア島や極東の「ひんがしの国」と交易している。"
+172,"バイルブランド島の北部にある山岳地帯、オ・ゴモロは、コボルド族の領地である。
+彼らは迷路のような地下坑道を掘り、暮らしている。"
+173,"アルデナード小大陸の東西を貫く険しい山々、「アバラシア山脈」は、
+「エオルゼアの背骨」と呼ばれている。"
+174,"モードゥナ地方には、エオルゼア最大の湖「銀泪湖」が存在する。
+しかし、15年前の戦いで、湖水の大部分が流出してしまった。"
+175,"学術都市「シャーレアン」は、ガレマール帝国によるエオルゼア侵攻を切っ掛けに、15年前に全住民が北洋諸島の本国へと避難した。"
+176,"エオルゼアの歴史は、衰亡の時代「霊災」と繁栄の時代「星暦」を繰り返してきた。
+そして5年前に「第七霊災」が訪れた。"
+177,"伝承によれば、「第一霊災」によって神々の時代が終焉し、
+初めての人々の時代である「第一星暦」が始まったのだという。"
+178,"モーグリ族は、黒衣森に棲む不思議な民である。
+姿を隠す魔法を使うため、魔法的素養のない者には、姿すら見ることができない。"
+179,"5000年以上前の第三星暦時代、エオルゼアを含む広大な領地を「アラグ帝国」が支配していた。
+彼らは、現在よりも高度な文明を誇ったという。"
+180,"エオルゼアの諸都市で用いられている統一通貨「ギル」は、約100年前に導入された。
+その名は、古代アラグ帝国の通貨単位に由来する。"
+181,"冒険者ギルドは、約20年前にある傭兵隊長が、同志を募って設立した互助会的な組織だ。
+今では、広く都市民や国家から仕事を請け負っている。"
+182,"ウルダハの治安を守る「銅刃団（どうじんだん）」は、砂蠍衆をはじめとする
+豪商の出資で運営されている傭兵部隊である。"
+183,"リムサ・ロミンサの治安は、「イエロージャケット」によって守られている。
+現在の司令は、レイナー・ハンスレッドだ。"
+184,"グリダニアの治安は、二大レンジャー部隊が担っている。
+すなわち「鬼哭隊（きこくたい）」と「神勇隊（しんゆうたい）」だ。"
+185,"インプやサキュバスといった恐ろしい「妖異」たちは、
+物質界に隣接する異界「ヴォイド」からやってくるという。"
+186,"エオルゼア各地で発見される「アラガントームストーン」は、
+古代アラグ文明が作った記憶媒体であり、一部の好事家の蒐集対象となっている。"
+187,"1500年以上前に、エオルゼアを襲った大洪水「第六霊災」の際には、
+十二賢者と呼ばれる英雄が現れ、人々を救ったと伝えられている。"
+188,"十二神とは、エオルゼアの人々が信奉する十二柱の神々だ。
+ただし、その信仰が何時頃から始まったのかは判然としていない。"
+189,"第五星暦以前の歴史については、神話や伝承にまみれてしまい、
+正確なところは明らかになっていない。各地で博物学者たちが、歴史の謎に挑んでいる。"
+190,"第五星暦時代には、魔法文明が花開いたと伝えられている。
+しかし、古の魔法の多くが忘れ去られてしまった。"
+191,"クリスタルとは、この世界に満ちる生命エネルギー「エーテル」が結晶化した物質である。"
+192,"各都市や集落などに設置されている巨大なクリスタル像「エーテライト」は、
+地脈を用いた一種の転送装置である。"
+193,"ウルダハに本社を置く「ハイウインド飛空社」は、
+飛空艇で各都市を結ぶ「循環飛空便」を運営している。"
+194,"天翔る船「飛空艇」は、15年前に亡命してきた天才機工士、
+シド・ガーロンドによって、エオルゼアにもたらされた。"
+195,"リムサ・ロミンサは海賊業で発展してきた都市であり、
+未だに他の都市民からは、ならず者の街だと思われている。"
+196,"移民国家であるリムサ・ロミンサは、獣人種族に寛容だ。
+そのため、都市内でマムージャ族やゴブリン族、キキルン族の姿を見ることができる。"
+197,"マムージャ族は、西方の新大陸を根拠地とする獣人種族だ。
+彼らは武を売る民であり、傭兵の職を求めて渡来してきた。"
+198,"ゴブリン族は、放浪の民として知られている。
+また、独自の技術を持ち、精巧なからくり仕掛けを作ることでも有名だ。"
+199,"アマルジャ族は、草原地帯パガルザンを根拠地とする遊牧民族だ。
+聖地と考える南ザナラーンを狙い、軍勢を派遣している。"
+200,"サハギン族は、蒼茫洋に海底都市を根拠地とする海洋民族だ。
+長年にわたり、リムサ・ロミンサの船乗りと敵対してきた。"
+201,"キキルン族は、非常に短命な種族で、その平均寿命は20年ほどしかない。
+その分、成長は早く、沢山の子どもを産むことで知られている。"
+202,"すべての生命は、その肉体に生命エネルギーである「エーテル」を宿している。
+「魔法」とは、この力を活用する技術だ。"
+203,"この大地には、地脈と呼ばれるエーテルの奔流が流れている。
+そして、「デジョン」や「テレポ」といった転送魔法は、地脈を利用したものだ。"
+204,"魔法人形（マメット）とは、彫金や錬金術などの技術によって生み出された、
+不可思議で愛らしい自走人形だ。"
+205,"冒険者ギルドでは、登録している冒険者に都市民や国家からの仕事を斡旋するため、
+ギルドリーヴという仕組みを作り上げた。"
+206,"ギルドリーヴのプレートには、エオルゼア十二神に祝福された聖人と、
+その徳行を現した図柄がステンドクリスタルによって描かれている。"
+207,"チョコボは、荷駄や乗用獣として活躍する大型の陸生鳥だ。
+エオルゼアの人々にとっては、頼れる相棒といえる。"
+208,"黒衣森には、漆黒の鎧に身を包んだ亡霊騎士が出没するという。
+不用意に近づくと、剣の一閃により真っ二つにされるだろう。"
+209,"南洋には、ララフェル族の故郷である島々がある。
+巴術の源流とされる算術も、南洋で発展してきたものだ。"
+210,"イクサル族は、北西の渓谷地帯ゼルファトルを根拠地とする。
+気球を操る民として知られ、黒衣森に空から侵入し、グリダニアと鋭く対立している。"
+211,"黒衣森には、「精霊」と呼ばれる超常の存在が棲まうという。
+その声を聞くことができるのは、限られた者のみのようだ。"
+212,"ウルダハの交易商人の商才は、エオルゼアでも随一だ。
+欺し欺されの商売争いが、今日も繰り広げられている。"
+213,"ザナラーンとモードゥナの中間には、カルテノー平原が広がっている。
+5年前の「カルテノーの戦い」の舞台となった場所だ。"
+214,"ガレマール帝国では、厳格な階級制度が敷かれている。
+なお、「ヴァン」や「ゾス」といった帝国人のミドルネームは、この階級を示すものである。"
+215,"ガレマール帝国によって占領されたアラミゴと黒衣森の間には、
+「バエサルの長城」と呼ばれる巨大防壁が築かれている。"
+216,"かつてリムサ・ロミンサには、「霧髭」と呼ばれる海賊王がいた。
+その姿が消えた今でも、霧髭の隠し財宝の噂は絶えることがない。"
+217,"ナルディク＆ヴィメリー社は、エオルゼア最大の造船会社だ。
+また、板金加工技術を活かし、武器や防具の製造も行っている。"
+218,"織物「サンシルク」と宝飾店「エシュテム」は、
+洗練されたウルダハ市民を満足させるブランド店だ。"
+219,"クリスタルタワーを築いた古代アラグ帝国の技術は、第四霊災によって失われてしまった。"
+220,"異界「ヴォイド」から危険な妖異を召喚する術は、
+エオルゼアの人々にとって禁忌と考えられている。"
+221,"北洋にあるシャーレアン本国には、魔法大学が存在する。
+エーテル学や魔法学の知識にかけては、ガレマール帝国を凌ぐほどだ。"
+222,"ガレマール帝国が誇る魔導技術の多くは、
+古代アラグ文明の知識を応用したものだと噂されている。"
+223,"新しい装備が欲しいときには、レヴナンツトールを訪ねてみよう。
+商人ロウェナと、彼女の部下たちは、すばらしい装備品の数々を取り扱っている。"
+224,""
+225,""
+226,""
+227,""
+228,""
+229,""
+230,""
+231,""
+232,""
+233,""
+234,""
+235,""
+236,""
+237,""
+238,""
+239,""
+240,""
+241,""
+242,""
+243,""
+244,""
+245,""
+246,""
+247,""
+248,""
+249,""
+250,""

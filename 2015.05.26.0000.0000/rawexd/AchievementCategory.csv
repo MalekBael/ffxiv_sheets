@@ -1,0 +1,70 @@
+﻿key,0,1,2,3
+#,,,,
+int32,str,byte,bit&01,bit&02
+0,"",0,True,False
+1,"Battle",1,True,False
+2,"Dungeons",1,True,False
+3,"Trials",1,True,False
+4,"Raids",1,True,False
+5,"The Wolves' Den",1,True,False
+6,"Frontline",1,True,False
+7,"The Hunt",1,True,False
+8,"Treasure Hunt",1,True,False
+9,"Class",2,True,False
+10,"Disciples of War",2,True,False
+11,"Disciples of Magic",2,True,False
+12,"Disciples of the Hand",2,True,False
+13,"Disciples of the Land",2,True,False
+14,"PvP",2,True,False
+15,"Commendation",2,True,False
+16,"Gold Saucer",2,True,False
+17,"Items",4,True,False
+18,"Currency",4,True,False
+19,"Desynthesis",4,True,False
+20,"Materia",4,True,False
+21,"Carpenter",5,True,False
+22,"Blacksmith",5,True,False
+23,"Armorer",5,True,False
+24,"Goldsmith",5,True,False
+25,"Leatherworker",5,True,False
+26,"Weaver",5,True,False
+27,"Alchemist",5,True,False
+28,"Culinarian",5,True,False
+29,"Miner",6,True,False
+30,"Botanist",6,True,False
+31,"Fisher",6,True,False
+32,"Quests",8,True,False
+33,"Levequests",8,True,False
+34,"Beast Tribe Quests",8,True,False
+35,"Seasonal Events",8,True,True
+36,"La Noscea",11,True,False
+37,"The Black Shroud",11,True,False
+38,"Thanalan",11,True,False
+39,"Coerthas",11,True,False
+40,"Mor Dhona",11,True,False
+41,"Grand Company",12,True,False
+42,"Maelstrom",12,True,False
+43,"Order of the Twin Adder",12,True,False
+44,"Immortal Flames",12,True,False
+45,"Battle",13,True,False
+46,"Currency",13,True,False
+47,"Gathering",13,True,False
+48,"Quests",13,True,False
+49,"Seasonal Events",13,True,False
+50,"Dungeons",13,True,False
+51,"Exploration",13,True,False
+52,"Grand Company",13,True,False
+53,"",0,True,False
+54,"",0,True,False
+55,"",0,True,False
+56,"",0,True,False
+57,"",0,True,False
+58,"",0,True,False
+59,"",0,True,False
+60,"",0,True,False
+61,"",0,True,False
+62,"",0,True,False
+63,"",0,True,False
+64,"",0,True,False
+65,"",0,True,False
+66,"",0,True,False

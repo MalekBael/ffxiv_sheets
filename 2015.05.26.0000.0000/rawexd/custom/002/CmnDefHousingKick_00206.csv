@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFHOUSINGKICK_00206_TALK_ACTOR_01","Ah, <If(PlayerParameter(4))>Miss<Else/>Mister</If> <Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>. I have your furnishings right here, if you wish to reclaim them."
+1,"TEXT_CMNDEFHOUSINGKICK_00206_TALK_ACTOR_02","In the event you are...divested of your private chambers, we shall collect your furnishings for safekeeping."
+2,"TEXT_CMNDEFHOUSINGKICK_00206_TALK_ACTOR_03","Pray speak with me to reclaim your furnishings should this regrettable circumstance come to pass."

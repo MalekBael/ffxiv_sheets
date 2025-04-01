@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_000","You are come to Camp Dragonhead. Is there something you require?"
+1,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_001","A warm and hearty welcome to you, <If(PlayerParameter(4))>miss<Else/>sir</If>. If there is aught you require─within reason, that is─it would be my honor to assist you."
+2,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_010","I am a knight sworn to the service of House Fortemps, one of Ishgard's foremost families."
+3,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_011","Our nation is locked in an age-old struggle against dragonkind. At any given time, the bulk of our military might is engaged with our ancient enemy."
+4,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_012","For this reason, we must needs turn to outsiders for lesser feats of arms, such as the culling of unruly fauna. We hope we can rely upon you, too, adventurer."
+5,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_020","Camp Dragonhead is an Ishgardian fortress held by House Fortemps, with the blessing of His Holiness, the archbishop."
+6,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_021","Its name is taken from a nearby rock formation, which you may have glimpsed as you approached."
+7,"TEXT_REGROCDRAGONHEAD_00108_CORENTIAUX_000_022","But mark my words: ere long, we shall adorn the fortress with a dragon's head in truth, and it will not be mere stone that greets you."
+8,"TEXT_REGROCDRAGONHEAD_00108_Q1_000_000","What will you ask?"
+9,"TEXT_REGROCDRAGONHEAD_00108_A1_000_001","What do you do here?"
+10,"TEXT_REGROCDRAGONHEAD_00108_A1_000_002","What kind of place is this?"
+11,"TEXT_REGROCDRAGONHEAD_00108_A1_000_003","Nothing."

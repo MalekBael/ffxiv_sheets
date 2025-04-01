@@ -1,0 +1,35 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+#,,,,,,,,,,,,,,,,
+int32,str,str,str,bit&01,bit&02,bit&04,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,byte
+0,"","","",False,False,False,0,1,0,0,0,0,0,0,0,0
+1,"Duty Roulette: Low Level","A low-level dungeon or trial will be selected at random from among those you have unlocked. Successful completion will earn you far greater rewards.
+
+※Bonus EXP and gil will be awarded to compensate for the discrepancy between character and duty levels. A further percentage will then be added based on character level.
+※The amount of bonus company seals awarded is determined by class/job level.
+※Allagan tomestones are only awarded to level 50 characters.
+※The standard reward for this duty roulette category and all related bonuses are available once per day. The ""adventurer in need"" reward is always available.","Duty Type: Light Party Dungeons (Level 15-47), Trials (Level 20-49)",True,False,False,0,1,0,0,0,0,112034,100,5,3
+2,"Duty Roulette: High Level","A high-level dungeon will be selected at random from among those you have unlocked. Successful completion will earn you far greater rewards.
+
+※Bonus gil will be awarded to compensate for the discrepancy between character and duty levels. A further percentage will then be added based on character level.
+※The standard reward for this duty roulette category and all related bonuses are available once per day. The ""adventurer in need"" reward is always available.
+※Joining this duty as a party will nullify any ""adventurer in need"" bonus.","Duty Type: Light Party Dungeons (Level 50)",True,True,False,80,4,1,1,1,1,112035,100,15,2
+3,"Duty Roulette: Main Scenario","A main scenario duty for full parties (8 players) will be selected at random from among those you have unlocked. Successful completion will earn you far greater rewards.
+
+※Bonus gil will be awarded to compensate for the discrepancy between character and duty levels. A further percentage will then be added based on character level.
+※The standard reward for this duty roulette category and all related bonuses are available once per day. The ""adventurer in need"" reward is always available.","Duty Type: Full Party Dungeons (Level 50)",True,False,False,0,1,0,0,0,0,112036,120,0,5
+4,"Duty Roulette: Guildhests","A guildhest will be selected at random from among those you have unlocked. Successful completion will earn you far greater rewards.
+
+※Bonus EXP and gil will be awarded to compensate for the discrepancy between character and duty levels. A further percentage will then be added based on character level.
+※The amount of bonus company seals awarded is determined by class/job level.
+※The standard reward for this duty roulette category and all related bonuses are available once per day. The ""adventurer in need"" reward is always available.","Duty Type: Guildhests (Level 10 and Above)",True,False,False,0,1,0,0,0,0,112037,0,0,6
+5,"Duty Roulette: Expert","An expert dungeon will be selected at random from among those you have unlocked. Successful completion will earn you far greater rewards.
+
+※Bonus gil will be awarded to compensate for the discrepancy between character and duty levels. A further percentage will then be added based on character level.
+※The standard reward for this duty roulette category and all related bonuses are available once per day. The ""adventurer in need"" reward is always available.
+※Joining this duty as a party will nullify any ""adventurer in need"" bonus.","Duty Type: Light Party Expert Dungeons (Level 50)",True,True,False,90,4,1,1,1,1,112057,0,35,1
+6,"Duty Roulette: Trials","A trial will be selected at random from among those you have completed. Successful completion will earn you far greater rewards.
+
+※The standard reward for this duty roulette category and all related bonuses are available once per day. The ""adventurer in need"" reward is always available.","Duty Type: Trials (Level 49-50)",True,True,False,90,1,0,0,0,0,112056,60,10,4
+7,"Duty Roulette: Frontline","A Frontline battle will be selected at random from among those available. Successful completion will earn you far greater rewards.
+
+※The standard reward for this duty roulette category and all related bonuses are available once per day. The ""adventurer in need"" reward is always available.","Duty Type: Frontline (Level 50)",True,False,True,0,1,0,0,0,0,112083,50,20,7
